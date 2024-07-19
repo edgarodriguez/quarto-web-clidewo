@@ -1,7 +1,8 @@
 ---
-title: "babelsite"
+title: "CRVA Brazil"
 ---
 
+Testing multiples pages
 Ceci est un site Quarto fait avec <https://github.com/ropensci-review-tools/babelquarto>.
 test portugueses
 Pour en savoir plus sur les sites Quarto, consultez <https://quarto.org/docs/websites>.

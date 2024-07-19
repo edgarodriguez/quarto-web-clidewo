@@ -3,11 +3,12 @@ project:
   output-dir: docs
 
 website:
+  open-graph: true
   site-url: https://edgarodriguez.github.io/quarto-web-testing/
   repo-url: https://github.com/edgarodriguez/quarto-web-testing
   repo-actions: [edit, issue]
   title: "CRVA Brazil"
-  open-graph: true
+
   navbar:
     title: false
     logo: logo.png
@@ -42,6 +43,7 @@ website:
     background: light
     left: © Copyright 2024, ERH
     right: This website is built with {{< fa heart title="a heart" >}} Multi-lenguage thanks to babelquarto :)
+  google-analytics: "UA-25243745"
 format:
   html:
     theme: sandstone
