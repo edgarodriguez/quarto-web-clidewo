@@ -6,7 +6,7 @@ website:
   site-url: https://maelle.github.io/babelsite/
   repo-url: https://github.com/maelle/babelsite
   repo-actions: [edit, issue]
-  title: "babelsite"
+  title: "babelsite testing"
   navbar:
     left:
       - href: index.qmd
