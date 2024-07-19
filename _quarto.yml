@@ -4,7 +4,7 @@ project:
 
 website:
   site-url: https://edgarodriguez.github.io/quarto-web-testing/
-  repo-url: https://github.com/maelle/babelsite
+  repo-url: https://github.com/edgarodriguez/quarto-web-testing
   repo-actions: [edit, issue]
   title: "babelsite testing"
   navbar:
