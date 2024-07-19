@@ -16,6 +16,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publication.qmd
       - text: get in touch!
         menu:
           - icon: twitter
@@ -48,13 +49,17 @@ website:
 format:
   html:
     theme: lux
-    css: styles.css
-
+    css: rwds.css
+    toc: true
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
 
 babelquarto:
   languagecodes:
   - name: pt
-    text: "Portuiguese"
+    text: "Portuguese"
   - name: en
     text: "English"
   mainlanguage: 'en'
