@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About portuguese",
+    "section": "",
+    "text": "À propos de ce site portiuguese\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "babelsite",
+    "section": "",
+    "text": "Ceci est un site Quarto fait avec https://github.com/ropensci-review-tools/babelquarto. test portugueses Pour en savoir plus sur les sites Quarto, consultez https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
