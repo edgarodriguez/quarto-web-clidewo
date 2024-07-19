@@ -1,5 +1,0 @@
----
-title: "About in pt"
----
-
-About this site in pt
