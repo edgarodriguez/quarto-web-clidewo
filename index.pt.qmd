@@ -1,0 +1,9 @@
+---
+title: "Example blog babel project multilingual"
+---
+
+This is a Quarto website.
+
+this the pt
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

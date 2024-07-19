@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About in pt",
+    "section": "",
+    "text": "About this site in pt"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Example blog babel project multilingual",
+    "section": "",
+    "text": "This is a Quarto website.\nthis the pt\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
