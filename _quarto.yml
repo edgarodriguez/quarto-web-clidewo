@@ -41,16 +41,17 @@ website:
 
   page-footer:
     background: light
-    left: © Copyright 2024, ERH
+    left: © Copyright 2024, Edgar Rodríguez-Huerta
     right: This website is built with {{< fa heart title="a heart" >}} Multi-lenguage thanks to babelquarto :)
   google-analytics: "G-RG1R3XP26Q"
 
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme:
+      light: [lux, new_style.scss]
+      dark: [lux, dark_style.scss]
 
-
+    css: bootstrap.css
 
 
 babelquarto:
