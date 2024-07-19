@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://maelle.github.io/babelsite/
+  site-url: https://edgarodriguez.github.io/quarto-web-testing/
   repo-url: https://github.com/maelle/babelsite
   repo-actions: [edit, issue]
   title: "babelsite testing"
