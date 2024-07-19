@@ -1,16 +1,93 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "posts",
     "section": "",
-    "text": "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture\nThis research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8.\n\n1 + 1\n\n[1] 2"
+    "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "babelsite",
+    "title": "Project ODA",
     "section": "",
-    "text": "This is a Quarto website rendered with https://github.com/ropensci-review-tools/babelquarto.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the home of Real World Data Science, a new project from the Royal Statistical Society, in partnership with the American Statistical Association. This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace."
+  },
+  {
+    "objectID": "index.html#what-are-our-aims",
+    "href": "index.html#what-are-our-aims",
+    "title": "Project ODA",
+    "section": "What are our aims?",
+    "text": "What are our aims?\nReal World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:\n\ndiscover and learn more efficiently;\n\nacquire practical problem-solving skills;\n\nshare their knowledge and accomplishments publicly;\n\nwork smarter, ethically, and more effectively."
+  },
+  {
+    "objectID": "index.html#what-we-provide",
+    "href": "index.html#what-we-provide",
+    "title": "Project ODA",
+    "section": "What we provide",
+    "text": "What we provide\nResources are created to meet the needs of our target audiences. These include:\n\nCase studies – showing how data science is used to solve real-world problems in business, public policy and beyond.\nExplainers – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.\nExercises – to challenge and develop the analytical mindset that all data scientists need to succeed.\n\nAdvice – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.\n\nWe are also curating resources to help data scientists identify trustworthy, high-quality content. These include:\n\nTraining guides – step-by-step approaches and recommended sources for learning new skills and methods.\nDatasets – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.\nFeeds – who and what to follow to keep up with new ideas and developments."
+  },
+  {
+    "objectID": "index.html#how-you-can-get-involved",
+    "href": "index.html#how-you-can-get-involved",
+    "title": "Project ODA",
+    "section": "How you can get involved",
+    "text": "How you can get involved\nSee our open call for contributions."
+  },
+  {
+    "objectID": "about-rwds.html",
+    "href": "about-rwds.html",
+    "title": "Welcome to Real World Data Science",
+    "section": "",
+    "text": "Welcome to the home of Real World Data Science, a new project from the Royal Statistical Society, in partnership with the American Statistical Association. This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace."
+  },
+  {
+    "objectID": "about-rwds.html#what-are-our-aims",
+    "href": "about-rwds.html#what-are-our-aims",
+    "title": "Welcome to Real World Data Science",
+    "section": "What are our aims?",
+    "text": "What are our aims?\nReal World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:\n\ndiscover and learn more efficiently;\n\nacquire practical problem-solving skills;\n\nshare their knowledge and accomplishments publicly;\n\nwork smarter, ethically, and more effectively."
+  },
+  {
+    "objectID": "about-rwds.html#what-we-provide",
+    "href": "about-rwds.html#what-we-provide",
+    "title": "Welcome to Real World Data Science",
+    "section": "What we provide",
+    "text": "What we provide\nResources are created to meet the needs of our target audiences. These include:\n\nCase studies – showing how data science is used to solve real-world problems in business, public policy and beyond.\nExplainers – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.\nExercises – to challenge and develop the analytical mindset that all data scientists need to succeed.\n\nAdvice – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.\n\nWe are also curating resources to help data scientists identify trustworthy, high-quality content. These include:\n\nTraining guides – step-by-step approaches and recommended sources for learning new skills and methods.\nDatasets – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.\nFeeds – who and what to follow to keep up with new ideas and developments."
+  },
+  {
+    "objectID": "about-rwds.html#how-you-can-get-involved",
+    "href": "about-rwds.html#how-you-can-get-involved",
+    "title": "Welcome to Real World Data Science",
+    "section": "How you can get involved",
+    "text": "How you can get involved\nSee our open call for contributions."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Welcome to projec",
+    "section": "",
+    "text": "Welcome to the home of Real World Data Science, a new project from the Royal Statistical Society, in partnership with the American Statistical Association. This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace."
+  },
+  {
+    "objectID": "about.html#what-are-our-aims",
+    "href": "about.html#what-are-our-aims",
+    "title": "Welcome to projec",
+    "section": "What are our aims?",
+    "text": "What are our aims?\nReal World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:\n\ndiscover and learn more efficiently;\n\nacquire practical problem-solving skills;\n\nshare their knowledge and accomplishments publicly;\n\nwork smarter, ethically, and more effectively."
+  },
+  {
+    "objectID": "about.html#what-we-provide",
+    "href": "about.html#what-we-provide",
+    "title": "Welcome to projec",
+    "section": "What we provide",
+    "text": "What we provide\nResources are created to meet the needs of our target audiences. These include:\n\nCase studies – showing how data science is used to solve real-world problems in business, public policy and beyond.\nExplainers – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.\nExercises – to challenge and develop the analytical mindset that all data scientists need to succeed.\n\nAdvice – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.\n\nWe are also curating resources to help data scientists identify trustworthy, high-quality content. These include:\n\nTraining guides – step-by-step approaches and recommended sources for learning new skills and methods.\nDatasets – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.\nFeeds – who and what to follow to keep up with new ideas and developments.\n\nClimate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture\nThis research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8."
+  },
+  {
+    "objectID": "about.html#how-you-can-get-involved",
+    "href": "about.html#how-you-can-get-involved",
+    "title": "Welcome to projec",
+    "section": "How you can get involved",
+    "text": "How you can get involved\nSee our open call for contributions."
   }
 ]

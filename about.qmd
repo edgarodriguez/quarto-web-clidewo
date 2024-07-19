@@ -1,6 +1,6 @@
 ---
 title: "Welcome to projec"
-subtitle: Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture
+subtitle: "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture"
 sidebar: false
 page-layout: article
 toc: false
