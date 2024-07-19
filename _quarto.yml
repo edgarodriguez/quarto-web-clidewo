@@ -47,11 +47,8 @@ website:
 
 format:
   html:
-    theme:
-      light: [lux, new_style.scss]
-      dark: [lux, dark_style.scss]
-
-    css: bootstrap.css
+    theme: lux
+    css: styles.css
 
 
 babelquarto:
