@@ -43,7 +43,8 @@ website:
     background: light
     left: © Copyright 2024, ERH
     right: This website is built with {{< fa heart title="a heart" >}} Multi-lenguage thanks to babelquarto :)
-  google-analytics: "UA-25243745"
+  google-analytics: "G-RG1R3XP26Q"
+
 format:
   html:
     theme: sandstone
