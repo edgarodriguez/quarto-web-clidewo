@@ -31,6 +31,13 @@ website:
       - icon: github
         href: https://github.com/edgarodriguez
         target: _blank
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Announcement** - We are working in the website. Official release will be soon"
+    type: primary
+    position: below-navbar
+
   page-footer:
     background: light
     left: © Copyright 2024, ERH
