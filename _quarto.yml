@@ -16,7 +16,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - publication.qmd
+      - posts.qmd
       - text: get in touch!
         menu:
           - icon: twitter
