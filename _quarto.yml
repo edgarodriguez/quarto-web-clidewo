@@ -29,7 +29,7 @@ website:
             target: _blank
           - icon: envelope
             text: email
-            href: mailto:edgar.rodriguez@nottingham.ac.uk
+            href: mailto:edgar.rodriguezhuerta@nottingham.ac.uk
       - icon: github
         href: https://github.com/edgarodriguez
         target: _blank
@@ -49,12 +49,9 @@ website:
 format:
   html:
     theme: lux
-    css: rwds.css
+    css: styles.css
     toc: true
-    grid:
-      sidebar-width: 0px
-      body-width: 1000px
-      margin-width: 250px
+
 
 babelquarto:
   languagecodes:
