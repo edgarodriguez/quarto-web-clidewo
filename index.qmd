@@ -1,12 +1,12 @@
 ---
 title: "Project ODA"
 subtitle: "A showcase for data science in action"
-sidebar: false
+sidebar: TRUE
 page-layout: article
 toc: false
 title-block-banner: true
 ---
-USING TEMPLATE FOR AMAZING **Real World Data Science** PROJECT
+USING the TEMPLATE FROM AMAZING **Real World Data Science** PROJECT
 Welcome to the home of **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace.
 
 ## What are our aims?
