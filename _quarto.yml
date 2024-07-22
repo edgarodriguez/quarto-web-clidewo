@@ -37,7 +37,7 @@ website:
     icon: info-circle
     dismissable: true
     content: "**Announcement** - We are working in the website. Official release will be soon"
-    type: primary
+    type: success
     position: below-navbar
 
   page-footer:
@@ -50,7 +50,7 @@ format:
   html:
     theme: lux
     css: styles.css
-    toc: true
+    toc: false
 
 
 babelquarto:
