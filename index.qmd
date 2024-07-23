@@ -1,9 +1,9 @@
 ---
 title: "Project ODA"
-subtitle: "A showcase for data science in action"
-sidebar: TRUE
+
+sidebar: false
 page-layout: article
-toc: false
+toc: true
 title-block-banner: true
 ---
 USING the TEMPLATE FROM AMAZING **Real World Data Science** PROJECT
