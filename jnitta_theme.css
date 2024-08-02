@@ -40,3 +40,8 @@ d-article a:hover, a:focus {
     background-color: var(--bs-secondary);
     color: var(--bs-white);
 }
+
+header {
+  font-family: 'Bebas Neue', sans-serif;
+}
+

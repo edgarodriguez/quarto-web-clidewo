@@ -3,14 +3,14 @@ title: Joel Nitta
 lang: en
 about:
   template: trestles
-  image: "content/images/joel.png"
-  image-width: "200px;"
+ # image: "content/images/joel.png"
+ # image-width: "200px;"
   links:
     - icon: mastodon
       href: https://fosstodon.org/@joelnitta
       rel: me
     - icon: github
-      href: https://github.com/joelnitta
+      href: https://github.com/edgarodriguez
     - text: RM
       href: https://researchmap.jp/joelnitta?lang=en
 execute:
@@ -30,9 +30,9 @@ library(fontawesome)
 
 :::{.column-body-outset}
 
-## Bio
+## Climate Vulenrability
 
-I am an Associate Professor in the [Graduate School of Global and Transdisciplinary Studies](https://www.las.chiba-u.jp/transdisciplinary/english/index.html) at [Chiba University](https://www.chiba-u.ac.jp/e/index.html), Japan. I study **ferns**, an ancient and diverse lineage of vascular plants.
+I am an Associate Professor in the [Graduate School of Global and Transdisciplinary Studies](https://www.las.chiba-u.jp/transdisciplinary/english/index.html) at [Chiba University](https://www.chiba-u.ac.jp/e/index.html), Japan. 
 
 Ferns have a unique lifecycle combining two free-living stages (gametophyte and sporophyte) that differ from each other dramatically in appearance and physiology. This sets ferns apart from nearly all other land plants, and has important implications for their ecology and evolution. I am particularly interested in how different stages of the fern lifecycle contribute to community assembly processes, as well as fern ecology, evolution, and systematics.
 

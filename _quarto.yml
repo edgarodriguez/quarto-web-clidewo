@@ -1,8 +1,8 @@
 project:
   type: website
-
+  output-dir: docs
 website:
-  title: "For test from Joel Nitta (example using github repo)"
+  title: "From amazing web Joel Nitta (example using github repo)"
   navbar:
     background: primary
     right:
@@ -12,16 +12,16 @@ website:
       - href: talks.qmd
       - href: teaching.qmd
 
-
 format:
   html:
     theme:
       light: flatly
       dark: darkly
     css: jnitta_theme.css
+    include-in-header:
+      - text: |
+          <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
     toc: true
-
-    include-in-header: header.html
 
 babelquarto:
   languagecodes:

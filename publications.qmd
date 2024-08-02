@@ -20,7 +20,6 @@ library(distilltools)
 #| child: R/pub-prep.Rmd
 ```
 
-`r icon_link("google-scholar", "Google Scholar", "https://scholar.google.com/citations?hl=en&user=FtzrMYwAAAAJ")`
 
 <!-- Manually add forthcoming pubs, e.g. 
 
@@ -35,25 +34,7 @@ library(distilltools)
 
 `r print_ref("Nitta2024")`
 
-## 2023
 
-`r print_ref("Chen2023")`
-
-`r print_ref("Nitta2023")`
-
-`r print_ref("Nitta2023a")`
-
-`r print_ref("Nitta2023b")`
-
-`r print_ref("Song2023")`
-
-## 2022
-
-`r print_ref("Nitta2022b")`
-
-`r print_ref("Nitta2022a")`
-
-`r print_ref("Nitta2022")`
 
 ## 2021
 
