@@ -1,5 +1,5 @@
 ---
-title: "Welcome to projec"
+title: "Welcome to project"
 subtitle: "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture"
 sidebar: false
 page-layout: article

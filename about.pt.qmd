@@ -1,0 +1,39 @@
+---
+title: "Welcome to project"
+subtitle: "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture"
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+PORTUGUESE!!
+Welcome to the home of **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace.
+
+## What are our aims?
+Real World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to: 
+
+* discover and learn more efficiently;  
+* acquire practical problem-solving skills;  
+* share their knowledge and accomplishments publicly;  
+* work smarter, ethically, and more effectively.  
+
+## What we provide
+Resources are *created* to meet the needs of our target audiences. These include: 
+
+* **Case studies** – showing how data science is used to solve real-world problems in business, public policy and beyond. 
+* **Explainers** – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.
+* **Exercises** – to challenge and develop the analytical mindset that all data scientists need to succeed.    
+* **Advice** – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development. 
+
+We are also *curating* resources to help data scientists identify trustworthy, high-quality content. These include: 
+
+* **Training guides** – step-by-step approaches and recommended sources for learning new skills and methods. 
+* **Datasets** – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs. 
+* **Feeds** – who and what to follow to keep up with new ideas and developments.
+
+Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture
+
+This research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8.
+
+## How you can get involved
+See our open [call for contributions](contributor-docs/call-for-contributions.qmd).

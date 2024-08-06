@@ -6,11 +6,39 @@ website:
   navbar:
     background: primary
     right:
+      - href: about.qmd
       - href: publications.qmd
-      - href: software.qmd
       - href: blog.qmd
       - href: talks.qmd
       - href: teaching.qmd
+      - text: get in touch!
+        menu:
+          - icon: twitter
+            text: Twitter
+            href: https://twitter.com/edgarodriguez
+            target: _blank
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/edgarodriguez
+            target: _blank
+          - icon: envelope
+            text: email
+            href: mailto:edgar.rodriguez@nottingham.ac.uk
+      - icon: github
+        href: https://github.com/edgarodriguez
+        target: _blank
+
+  page-footer:
+    background: light
+    left: © Copyright 2024, ERH
+    right: This website is built with {{< fa heart title="a heart" >}} babelquarto and template Joel Nitto
+
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Announcement** - We are working in the website. Official release will be soon"
+    type: primary
+    position: below-navbar
 
 format:
   html:
@@ -26,14 +54,14 @@ format:
 babelquarto:
   languagecodes:
   - name: pt
-    text: "Port"
+    text: "Português"
   - name: en
     text: "English"
   mainlanguage: 'en'
   languages: ['pt']
-title-pt: ニClimate Resilience for Workers
-description-pt: ニCRVAA
-author-pt: ニCRVA
+title-pt: Climate Resilience for Workers
+description-pt: CRVAA
+author-pt: Edgar Rodriguez
 lang: en
 
 # Override language specific fields here

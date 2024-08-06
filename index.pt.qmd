@@ -1,6 +1,6 @@
 ---
-title: ニッタ ジョエル
-lang: ja
+title: "Mudanças climáticas, trabalho decente e saúde dos trabalhadores no Brasil: considerações teóricas"
+lang: pt
 about:
   template: trestles
   image: "content/images/joel.png"
@@ -10,7 +10,7 @@ about:
       href: https://fosstodon.org/@joelnitta
       rel: me
     - icon: github
-      href: https://github.com/joelnitta
+      href: https://github.com/edgarodriguez
     - text: RM
       href: https://researchmap.jp/joelnitta?lang=en
 execute:
