@@ -1,0 +1,590 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Enable giscus in Distill\n\n\n\n\n\n\nblogging\n\n\ndistill\n\n\n\nHow to use the giscus commenting system on a Distill blog\n\n\n\n\n\nNov 24, 2021\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nSelecting color schemes for mapping ancestral states\n\n\n\n\n\n\nr\n\n\nplotting\n\n\n\nHow to change the phytools default color scheme when visualizing the results of ancestral character state estimation\n\n\n\n\n\nJun 2, 2021\n\n\nJoel Nitta\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software or publciartions",
+    "section": "",
+    "text": "R package for categorial analysis of neo-and paleo-endemism.\n Code  Website"
+  },
+  {
+    "objectID": "software.html#canaper",
+    "href": "software.html#canaper",
+    "title": "Software or publciartions",
+    "section": "",
+    "text": "R package for categorial analysis of neo-and paleo-endemism.\n Code  Website"
+  },
+  {
+    "objectID": "software.html#taxastand",
+    "href": "software.html#taxastand",
+    "title": "Software or publciartions",
+    "section": "taxastand ",
+    "text": "taxastand \nR package for taxonomic name resolution.\n Code  Website"
+  },
+  {
+    "objectID": "software.html#dwctaxon",
+    "href": "software.html#dwctaxon",
+    "title": "Software or publciartions",
+    "section": "dwctaxon ",
+    "text": "dwctaxon \nR package for handling taxonomic data in Darwin Core format.\n Code  Website"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Nitta, J. H. and W. Iwasaki (2024). “dwctaxon, an R package for editing and validating taxonomic data in Darwin Core format”. In: Journal of Open Source Software 9.93, p. 6215. DOI: 10.21105/joss.06215  Code  PDF"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Nitta, J. H. and W. Iwasaki (2024). “dwctaxon, an R package for editing and validating taxonomic data in Darwin Core format”. In: Journal of Open Source Software 9.93, p. 6215. DOI: 10.21105/joss.06215  Code  PDF"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\nNitta, J. H., J. E. Watkins Jr., N. M. Holbrook, T. W. Wang, and C. C. Davis (2021). “Ecophysiological differentiation between life stages in filmy ferns (Hymenophyllaceae)”. In: Journal of Plant Research 134.5, pp. 971-988. DOI: 10.1007/s10265-021-01318-z Preprint  Code  Data  PDF"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\nNitta, J. H., A. Ebihara, and A. R. Smith (2020). “A taxonomic and molecular survey of the pteridophytes of the Nectandra Cloud Forest Reserve, Costa Rica”. In: PLoS ONE 15.11, p. e0241231. DOI: 10.1371/journal.pone.0241231  Code  Data  PDF\nNitta, J. H., J. E. Watkins Jr., and C. C. Davis (2020). “Life in the canopy: Community trait assessments reveal substantial functional diversity among fern epiphytes”. In: New Phytologist 227.6, pp. 1885-1899. DOI: 10.1111/nph.16607  Code  Data  PDF"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\nEbihara, A. and J. H. Nitta (2019). “An update and reassessment of fern and lycophyte diversity data in the Japanese Archipelago”. In: Journal of Plant Research 132.6, pp. 723-738. DOI: 10.1007/s10265-019-01137-3  Code  Data  PDF\nEbihara, A., J. H. Nitta, Y. Matsumoto, Y. Fukazawa, M. Kurihara, H. Yokote, K. Sakuma, O. Azakami, Y. Hirayama, and R. Imaichi (2019). “Growth dynamics of independent gametophytes of Pleurosoriopsis makinoi (Polypodiaceae)”. In: Bulletin of the National Museum of Nature and Science, Series B (Botany) 45.2, pp. 77-86.   Code  PDF\nNitta, J. H. and A. Ebihara (2019). “Virtual issue: Ecology and evolution of pteridophytes in the era of molecular genetics”. In: Journal of Plant Research 132.6, pp. 719-721. DOI: 10.1007/s10265-019-01139-1  PDF"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\nGilbert, K. J., J. H. Nitta, G. Talavera, and N. E. Pierce (2018). “Keeping an eye on coloration: Ecological correlates of the evolution of pitcher traits in the genus Nepenthes (Caryophyllales)”. In: Biological Journal of the Linnean Society 123.2, pp. 321-337. DOI: 10.1093/biolinnean/blx142  PDF\nNitta, J. H., S. Amer, and C. C. Davis (2018). “Microsorum × tohieaense (Polypodiaceae), a new hybrid fern from French Polynesia, with implications for the taxonomy of Microsorum”. In: Systematic Botany 43.2, pp. 397-413. DOI: 10.1600/036364418X697166  Data  PDF"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\nNitta, J. H., J. Meyer, R. Taputuarai, and C. C. Davis (2017). “Life cycle matters: DNA barcoding reveals contrasting community structure between fern sporophytes and gametophytes”. In: Ecological Monographs 87.2, pp. 278-296. DOI: 10.1002/ecm.1246  PDF\nPinson, J. B., S. M. Chambers, J. H. Nitta, L. Kuo, and E. B. Sessa (2017). “The separation of generations: Biology and biogeography of long-lived sporophyteless fern gametophytes”. In: International Journal of Plant Sciences 178.1, pp. 1-18. DOI: 10.1086/688773  PDF\nZhou, X., L. Zhang, C. Chen, C. Li, Y. Huang, D. Chen, N. T. Thi, D. Cicuzza, R. Knapp, T. T. Tam, J. H. Nitta, X. Gao, and L. Zhang (2017). “A plastid phylogeny and character evolution of the Old World fern genus Pyrrosia (Polypodiaceae) with the description of a new genus: Hovenkampia (Polypodiaceae)”. In: Molecular Phylogenetics and Evolution 114, pp. 271-294. DOI: 10.1016/j.ympev.2017.06.020  PDF"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\nPouteau, R., J. Meyer, P. Blanchard, J. H. Nitta, M. Terorotua, and R. Taputuarai (2016). “Fern species richness and abundance are indicators of climate change on high-elevation islands: evidence from an elevational gradient on Tahiti (French Polynesia)”. In: Climatic Change 138, pp. 143-156. DOI: 10.1007/s10584-016-1734-x  PDF"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\nChen, C., J. H. Nitta, M. Fanerii, T. Y. A. Yang, F. Pitisopa, C. W. Li, and W. Chiou (2015). “Antrophyum solomonense (Pteridaceae), a new species from the Solomon Islands, and its systematic position based on phylogenetic analysis”. In: Systematic Botany 40.3, pp. 645-651. DOI: 10.1600/036364415X689357  PDF"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\nEbihara, A., A. Yamaoka, N. Mizukami, A. Sakoda, J. H. Nitta, and R. Imaichi (2013). “A survey of the fern gametophyte flora of Japan: Frequent independent occurrences of noncordiform gametophytes”. In: American Journal of Botany 100.4, pp. 735-743. DOI: 10.3732/ajb.1200555  PDF"
+  },
+  {
+    "objectID": "publications.html#section-9",
+    "href": "publications.html#section-9",
+    "title": "Publications",
+    "section": "2011",
+    "text": "2011\nNitta, J. H., A. Ebihara, and M. Ito (2011). “Reticulate evolution in the Crepidomanes minutum species complex (Hymenophyllaceae)”. In: American Journal of Botany 98.11, pp. 1782-1800. DOI: 10.3732/ajb.1000484  PDF\n\n\n\n\n\n\n\n\n\n\n\nNitta, J. H., J. Meyer, and A. R. Smith (2011). “Pteridophytes of Mo’orea, French Polynesia: Additional new records”. In: American Fern Journal 101.1, pp. 36-49. DOI: 10.1640/0002-8444-101.1.36  PDF"
+  },
+  {
+    "objectID": "publications.html#section-10",
+    "href": "publications.html#section-10",
+    "title": "Publications",
+    "section": "2010",
+    "text": "2010\nEbihara, A., J. H. Nitta, and M. Ito (2010). “Molecular species identification with rich floristic sampling: DNA barcoding the pteridophyte flora of Japan”. In: PLoS ONE 5.12, p. e15136. DOI: 10.1371/journal.pone.0015136  PDF\nEbihara, A., J. H. Nitta, and K. Iwatsuki (2010). “The Hymenophyllaceae of the Pacific area. 2. Hymenophyllum (excluding subgen. Hymenophyllum)”. In: Bulletin of the National Museum of Nature and Science, Series B (Botany) 36.2, pp. 43-59.   PDF"
+  },
+  {
+    "objectID": "talks/2020-07-27_botany.ja.html",
+    "href": "talks/2020-07-27_botany.ja.html",
+    "title": "Exploring Dimensions of Biodiversity in Japanese Ferns (Botany 2020 口頭発表)",
+    "section": "",
+    "text": "資料\n\n要旨\nスライド\n論文"
+  },
+  {
+    "objectID": "talks/2022-01-12_biohack.html",
+    "href": "talks/2022-01-12_biohack.html",
+    "title": "データ解析ワークフローを無駄なく、再現可能にするRパッケージ｢targets｣の紹介",
+    "section": "",
+    "text": "Resources\n\nSlides\nExample code"
+  },
+  {
+    "objectID": "talks/2023-01-01_ropensci.html",
+    "href": "talks/2023-01-01_ropensci.html",
+    "title": "Managing bioinformatics pipelines with R (rOpenSci community call)",
+    "section": "",
+    "text": "Resources\n\nrOpenSci community call\nSlides\nExample code\nBlog post"
+  },
+  {
+    "objectID": "talks/2022-07-24_botany_taxastand.html",
+    "href": "talks/2022-07-24_botany_taxastand.html",
+    "title": "Resolving Species Names Rapidly and Accurately with taxastand (Botany 2022 poster)",
+    "section": "",
+    "text": "Resources\n\nSlides\ntaxastand"
+  },
+  {
+    "objectID": "talks/2021-07-19_botany.ja.html",
+    "href": "talks/2021-07-19_botany.ja.html",
+    "title": "canaper: Categorical analysis of neo- and paleo-endemism in R (Botany 2021 ポスター)",
+    "section": "",
+    "text": "資料\n\nGitHub\n要旨\nPDF"
+  },
+  {
+    "objectID": "talks/2022-07-24_botany_ftol.ja.html",
+    "href": "talks/2022-07-24_botany_ftol.ja.html",
+    "title": "An Open and Continuously Updated Fern Tree of Life (Botany 2022 口頭発表)",
+    "section": "",
+    "text": "資料\n\nスライド\n論文"
+  },
+  {
+    "objectID": "talks/2022-07-24_botany_taxastand.ja.html",
+    "href": "talks/2022-07-24_botany_taxastand.ja.html",
+    "title": "Resolving Species Names Rapidly and Accurately with taxastand (Botany 2022 ポスター)",
+    "section": "",
+    "text": "資料\n\nスライド\nRパッケージ"
+  },
+  {
+    "objectID": "talks/2022-09-27_biodigi.ja.html",
+    "href": "talks/2022-09-27_biodigi.ja.html",
+    "title": "taxastand and dwctaxon: A pair of R packages for standardizing species names in Darwin Core format (BioDigiCon 2022 口頭発表)",
+    "section": "",
+    "text": "資料\n\nスライド\ndwctaxon Rパッケージ\ntaxastand Rパッケージ"
+  },
+  {
+    "objectID": "talks/2022-08-10_carptrans.html",
+    "href": "talks/2022-08-10_carptrans.html",
+    "title": "Translation at The Carpentries: Technology Past, Present, and Future (CarpentryCon 2022 talk)",
+    "section": "",
+    "text": "Resources\n\nSlides"
+  },
+  {
+    "objectID": "talks/2022-07-13_ismb.html",
+    "href": "talks/2022-07-13_ismb.html",
+    "title": "An Open and Continuously Updated Fern Tree of Life (ISMB EvolCompGen Poster)",
+    "section": "",
+    "text": "Resources\n\nPaper"
+  },
+  {
+    "objectID": "talks/2022-07-13_ismb.ja.html",
+    "href": "talks/2022-07-13_ismb.ja.html",
+    "title": "An Open and Continuously Updated Fern Tree of Life (ISMB EvolCompGen ポスター)",
+    "section": "",
+    "text": "資料\n\n論文"
+  },
+  {
+    "objectID": "talks/2022-07-24_botany_ftol.html",
+    "href": "talks/2022-07-24_botany_ftol.html",
+    "title": "An Open and Continuously Updated Fern Tree of Life (Botany 2022 talk)",
+    "section": "",
+    "text": "Resources\n\nSlides\nPaper"
+  },
+  {
+    "objectID": "talks/2023-01-01_ropensci.ja.html",
+    "href": "talks/2023-01-01_ropensci.ja.html",
+    "title": "Managing bioinformatics pipelines with R (rOpenSci コミュニティー・コール)",
+    "section": "",
+    "text": "資料\n\nコミュニティー・コール\nスライド\nコード\nブログポスト"
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.pt.html",
+    "href": "posts/2021-11-24_using-giscus/index.pt.html",
+    "title": "Enable giscus in Distill",
+    "section": "",
+    "text": "Since writing this blogpost, a new publishing system called Quarto is now available that supports giscus natively. If you are setting up a new blog or website, you may want to consider using Quarto instead of Distill1. It will save you the trouble of setting up everything like I describe below."
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.pt.html#update-2022-06-06",
+    "href": "posts/2021-11-24_using-giscus/index.pt.html#update-2022-06-06",
+    "title": "Enable giscus in Distill",
+    "section": "",
+    "text": "Since writing this blogpost, a new publishing system called Quarto is now available that supports giscus natively. If you are setting up a new blog or website, you may want to consider using Quarto instead of Distill1. It will save you the trouble of setting up everything like I describe below."
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.pt.html#tldr",
+    "href": "posts/2021-11-24_using-giscus/index.pt.html#tldr",
+    "title": "Enable giscus in Distill",
+    "section": "TL;DR",
+    "text": "TL;DR\n\ngiscus is a free, open-source commenting system for blogs that uses the GitHub API\ngiscus uses GitHub Discussions (not Issues) to store data\nI show how to enable giscus on a Distill blog\n\n\n\n\n\n\n\nFigura 1: Image by Adam Solomon on unsplash"
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.pt.html#why-distill-and-giscus",
+    "href": "posts/2021-11-24_using-giscus/index.pt.html#why-distill-and-giscus",
+    "title": "Enable giscus in Distill",
+    "section": "Why Distill and giscus?",
+    "text": "Why Distill and giscus?\nLike many R-bloggers these days, I have made some changes: I switched from blogdown to Distill 2, and from disqus to utterances 3. Several things about utterances appealed to me: free, open-source, no data tracking. But when I started using it, I immediately was turned off by the dual use of GitHub issues as a way to store comments. It just felt odd to have an issue that wasn’t an issue!\nFortunately, I’m not the only one to feel this way, and @laymonage actually did something about it: there is now a very similar app to utterances, called giscus. It offers almost the same functionality, but it uses GitHub Discussions as the place to store comments instead of Issues. This makes much more sense to me."
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.pt.html#how-to-set-up-giscus-on-distill",
+    "href": "posts/2021-11-24_using-giscus/index.pt.html#how-to-set-up-giscus-on-distill",
+    "title": "Enable giscus in Distill",
+    "section": "How to set up giscus on Distill",
+    "text": "How to set up giscus on Distill\nThere are several blogposts 4 on how to enable utterances on Distill, but none that I’ve found so far on giscus. So, here goes!\n\nEnable Discussions on your blog repo. Optionally, if you want to use a non-default Discussions category for storing giscus content, add a new category. I did this and called it “Comments”. As recommended by giscus, it’s a good idea to set the discussion format to “Announcement” so that non-authorized users can’t add content via the Discussions interface (only the giscus widget on your blog).\nInstall the giscus GitHub app and configure it to have access to your blog’s repo.\nGo to the giscus app interface, scroll down to “configuration” and fill in the details for your blog. Once you’ve done so, further down you should see an HTML code block under “Enable giscus” populated with your information.\n\n\n\n\n\n\n\nFigura 2: giscus configuration menu.\n\n\n\n\n\n\n\n\n\nFigura 3: giscus HTML block. Once you fill in the fields in the configuration menu, the parts starting with [ENTER ...] will get automatically populated.\n\n\n\nAs described in Miles McBain’s blogpost, unfortunately in Distill, you can’t just paste the HTML directly into an Rmd file. It won’t show up. But the same work-around that he describes for utterances also happily works for giscus! Read on…\n\nAdd an .html file (I’ve called mine giscus.html) to the root of your blog repo that looks like this (and is based off of Miles’ HTML):\n\n&lt;script&gt;\n   document.addEventListener(\"DOMContentLoaded\", function () {\n     if (!/posts/.test(location.pathname)) {\n       return;\n     }\n\n     var script = document.createElement(\"script\");\n     script.src = \"https://giscus.app/client.js\";\n     script.setAttribute(\"data-repo\", \"[ENTER REPO HERE]\");\n     script.setAttribute(\"data-repo-id\", \"[ENTER REPO ID HERE]\");\n     script.setAttribute(\"data-category\", \"[ENTER CATEGORY NAME HERE]\");\n     script.setAttribute(\"data-category-id\", \"[ENTER CATEGORY ID HERE]\");\n     script.setAttribute(\"data-mapping\", \"pathname\");\n     script.setAttribute(\"data-reactions-enabled\", \"0\");\n     script.setAttribute(\"data-emit-metadata\", \"0\");\n     script.setAttribute(\"data-theme\", \"light\");\n     script.setAttribute(\"data-lang\", \"en\");\n\n     /* wait for article to load, append script to article element */\n     var observer = new MutationObserver(function (mutations, observer) {\n       var article = document.querySelector(\"d-article\");\n       if (article) {\n         observer.disconnect();\n         /* HACK: article scroll */\n         article.setAttribute(\"style\", \"overflow-y: hidden\");\n         article.appendChild(script);\n       }\n     });\n\n     observer.observe(document.body, { childList: true });\n   });\n &lt;/script&gt;\nIf you compare the above code with the HTML block in the giscus app (Figura 3), you should be able to see how the script.setAttribute lines above map to the key-value pairs in the HTML block in the giscus app. All we have to do is copy the contents of the HTML block over to this giscus.html file. You can see what my giscus.html file looks like here.\n\nModify _site.yml so that the giscus.html file gets loaded on every Distill article page 5:\n\noutput: \n  distill::distill_article:\n    includes:\n      in_header: giscus.html\nThat’s it! Or it should be anyways. I recommend trying a test comment to make sure everything is working (nobody will tell you otherwise…)"
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.pt.html#reproducibility",
+    "href": "posts/2021-11-24_using-giscus/index.pt.html#reproducibility",
+    "title": "Enable giscus in Distill",
+    "section": "Reproducibility",
+    "text": "Reproducibility\n\n\nSource code"
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.pt.html#footnotes",
+    "href": "posts/2021-11-24_using-giscus/index.pt.html#footnotes",
+    "title": "Enable giscus in Distill",
+    "section": "Notas de rodapé",
+    "text": "Notas de rodapé\n\n\nI have converted my website to Quarto.↩︎\nblogdown and Distill are R packages for making websites. In a nutshell, Distill is much simpler to use than blogdown, at the cost of some design flexibility. For more about making the switch, you can get caught up with posts from Thomas Mock, Frie Preu, Lisa Lendway, and Andreas Handel.↩︎\ndisqus and utterances are tools that let users comment on blog posts. Recently many R-bloggers have been moving away from disqus because it has a habit of tracking user’s data and causing page bloat. More recently, when I checked on my disqus account (in the process of migrating away!), it had a option to “opt-out” of data tracking, but that means data-tracking is on by default.↩︎\nFor example, Vebash Naidoo’s tutorial and Michael McCarthy’s post describing how to control the location of the comments section.↩︎\nThe _site.yml file is longer than this, but I’m just showing the relevant code to add. You can see my _site.yml file here.↩︎"
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.pt.html",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.pt.html",
+    "title": "PT test: Selecting color schemes for mapping ancestral states",
+    "section": "",
+    "text": "The phytools package provides (among many other things) the contMap() function for estimating ancestral character states and visualizing their changes along the branches of a phylogenetic tree. It can either produce the plot directly (default), or be saved as an object with the plot = FALSE argument, to be further manipulated and plotted later with plot()."
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#about-contmap",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#about-contmap",
+    "title": "PT test: Selecting color schemes for mapping ancestral states",
+    "section": "",
+    "text": "The phytools package provides (among many other things) the contMap() function for estimating ancestral character states and visualizing their changes along the branches of a phylogenetic tree. It can either produce the plot directly (default), or be saved as an object with the plot = FALSE argument, to be further manipulated and plotted later with plot()."
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#default-colores",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#default-colores",
+    "title": "PT test: Selecting color schemes for mapping ancestral states",
+    "section": "Default coloRES",
+    "text": "Default coloRES\nI have to say I’m not a fan of the default color scheme, which is a rainbow palette going from red through yellow and green to blue.\nPORTUGUESE TEXT HERE…. For example, let’s borrow some example code and look at the default plot:\nAlthough this does provide a wide range of colors, it’s not obvious why one color is greater or less than the others. In particular it’s hard to discern the order of intermediate values (yellow, green, light blue). Indeed, there has been much written on why the rainbow palette is generally not a good way to visualize continuous data."
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#defining-a-new-color-palette",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#defining-a-new-color-palette",
+    "title": "PT test: Selecting color schemes for mapping ancestral states",
+    "section": "Defining a new color palette",
+    "text": "Defining a new color palette\nphytools::setMap() can be used to specify another color palette. setMap() passes its second argument (a vector of color names or hexadecimals) to colorRampPalette(). colorRampPalette() is a bit unusual in that it’s a function that produces a function, in this case, one that generates a vector of colors interpolating between the original input values:\nSo, this works fine for generating custom color gradients. But designing accurate, color-blind friendly color palettes is not a simple task. Fortunately, there are several packages available with such carefully crafted palettes. Two of my favorite are viridis and scico. How can we use these with the plotting function in phytools?"
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#using-viridis-or-scico-palettes",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#using-viridis-or-scico-palettes",
+    "title": "PT test: Selecting color schemes for mapping ancestral states",
+    "section": "Using viridis or scico palettes",
+    "text": "Using viridis or scico palettes\nWell, it turns out that as long as we specify the same number of colors, we can replicate the viridis color palette with colorRampPalette(). The only difference is the alpha, or transparency level, indicated at the end of each hexidecimal with two letters (here “FF”). There is no reason to use transparency here anyways, so that doesn’t matter.\nSo here is the viridis version of the phytools plot:\nAnd here is another one, this time using a palette from scico:\nI personally find this one even easier to interpret than viridis. It’s very clear which values are low and high."
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#ggtree",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#ggtree",
+    "title": "PT test: Selecting color schemes for mapping ancestral states",
+    "section": "ggtree",
+    "text": "ggtree\nJust for completeness, here is code to replicate the plot in ggtree.\nThat’s it!"
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#reproducibility",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.pt.html#reproducibility",
+    "title": "PT test: Selecting color schemes for mapping ancestral states",
+    "section": "Reproducibility",
+    "text": "Reproducibility\n\n\nSource code\nrenv lockfile"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Course website\nSyllabus"
+  },
+  {
+    "objectID": "teaching.html#graduate",
+    "href": "teaching.html#graduate",
+    "title": "Courses",
+    "section": "",
+    "text": "Course website\nSyllabus"
+  },
+  {
+    "objectID": "teaching.html#undergraduate",
+    "href": "teaching.html#undergraduate",
+    "title": "Courses",
+    "section": "Undergraduate",
+    "text": "Undergraduate\n\nBiodiversity and Japan\n\nCourse website\nSyllabus\n\n\n\nReproducible Data Analysis\n\nCourse website\nSyllabus\n\n\n\nSeminar in Infomation Processing*\n\nSyllabus\n\n* Courses taught in Japanese"
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.html",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.html",
+    "title": "Selecting color schemes for mapping ancestral states",
+    "section": "",
+    "text": "The phytools package provides (among many other things) the contMap() function for estimating ancestral character states and visualizing their changes along the branches of a phylogenetic tree. It can either produce the plot directly (default), or be saved as an object with the plot = FALSE argument, to be further manipulated and plotted later with plot()."
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.html#about-contmap",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.html#about-contmap",
+    "title": "Selecting color schemes for mapping ancestral states",
+    "section": "",
+    "text": "The phytools package provides (among many other things) the contMap() function for estimating ancestral character states and visualizing their changes along the branches of a phylogenetic tree. It can either produce the plot directly (default), or be saved as an object with the plot = FALSE argument, to be further manipulated and plotted later with plot()."
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.html#default-colors",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.html#default-colors",
+    "title": "Selecting color schemes for mapping ancestral states",
+    "section": "Default colors",
+    "text": "Default colors\nI have to say I’m not a fan of the default color scheme, which is a rainbow palette going from red through yellow and green to blue.\nFor example, let’s borrow some example code and look at the default plot:\nAlthough this does provide a wide range of colors, it’s not obvious why one color is greater or less than the others. In particular it’s hard to discern the order of intermediate values (yellow, green, light blue). Indeed, there has been much written on why the rainbow palette is generally not a good way to visualize continuous data."
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.html#defining-a-new-color-palette",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.html#defining-a-new-color-palette",
+    "title": "Selecting color schemes for mapping ancestral states",
+    "section": "Defining a new color palette",
+    "text": "Defining a new color palette\nphytools::setMap() can be used to specify another color palette. setMap() passes its second argument (a vector of color names or hexadecimals) to colorRampPalette(). colorRampPalette() is a bit unusual in that it’s a function that produces a function, in this case, one that generates a vector of colors interpolating between the original input values:\nSo, this works fine for generating custom color gradients. But designing accurate, color-blind friendly color palettes is not a simple task. Fortunately, there are several packages available with such carefully crafted palettes. Two of my favorite are viridis and scico. How can we use these with the plotting function in phytools?"
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.html#using-viridis-or-scico-palettes",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.html#using-viridis-or-scico-palettes",
+    "title": "Selecting color schemes for mapping ancestral states",
+    "section": "Using viridis or scico palettes",
+    "text": "Using viridis or scico palettes\nWell, it turns out that as long as we specify the same number of colors, we can replicate the viridis color palette with colorRampPalette(). The only difference is the alpha, or transparency level, indicated at the end of each hexidecimal with two letters (here “FF”). There is no reason to use transparency here anyways, so that doesn’t matter.\nAnd here is another one, this time using a palette from scico:\nI personally find this one even easier to interpret than viridis. It’s very clear which values are low and high."
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.html#ggtree",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.html#ggtree",
+    "title": "Selecting color schemes for mapping ancestral states",
+    "section": "ggtree",
+    "text": "ggtree\nJust for completeness, here is code to replicate the plot in ggtree.\nThat’s it!"
+  },
+  {
+    "objectID": "posts/2021-06-02_color-scheme-anc-states/index.html#reproducibility",
+    "href": "posts/2021-06-02_color-scheme-anc-states/index.html#reproducibility",
+    "title": "Selecting color schemes for mapping ancestral states",
+    "section": "Reproducibility",
+    "text": "Reproducibility\n\n\nSource code\nrenv lockfile"
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.html",
+    "href": "posts/2021-11-24_using-giscus/index.html",
+    "title": "Enable giscus in Distill",
+    "section": "",
+    "text": "Since writing this blogpost, a new publishing system called Quarto is now available that supports giscus natively. If you are setting up a new blog or website, you may want to consider using Quarto instead of Distill1. It will save you the trouble of setting up everything like I describe below."
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.html#update-2022-06-06",
+    "href": "posts/2021-11-24_using-giscus/index.html#update-2022-06-06",
+    "title": "Enable giscus in Distill",
+    "section": "",
+    "text": "Since writing this blogpost, a new publishing system called Quarto is now available that supports giscus natively. If you are setting up a new blog or website, you may want to consider using Quarto instead of Distill1. It will save you the trouble of setting up everything like I describe below."
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.html#tldr",
+    "href": "posts/2021-11-24_using-giscus/index.html#tldr",
+    "title": "Enable giscus in Distill",
+    "section": "TL;DR",
+    "text": "TL;DR\n\ngiscus is a free, open-source commenting system for blogs that uses the GitHub API\ngiscus uses GitHub Discussions (not Issues) to store data\nI show how to enable giscus on a Distill blog\n\n\n\n\n\n\n\nFigure 1: Image by Adam Solomon on unsplash"
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.html#why-distill-and-giscus",
+    "href": "posts/2021-11-24_using-giscus/index.html#why-distill-and-giscus",
+    "title": "Enable giscus in Distill",
+    "section": "Why Distill and giscus?",
+    "text": "Why Distill and giscus?\nLike many R-bloggers these days, I have made some changes: I switched from blogdown to Distill 2, and from disqus to utterances 3. Several things about utterances appealed to me: free, open-source, no data tracking. But when I started using it, I immediately was turned off by the dual use of GitHub issues as a way to store comments. It just felt odd to have an issue that wasn’t an issue!\nFortunately, I’m not the only one to feel this way, and @laymonage actually did something about it: there is now a very similar app to utterances, called giscus. It offers almost the same functionality, but it uses GitHub Discussions as the place to store comments instead of Issues. This makes much more sense to me."
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.html#how-to-set-up-giscus-on-distill",
+    "href": "posts/2021-11-24_using-giscus/index.html#how-to-set-up-giscus-on-distill",
+    "title": "Enable giscus in Distill",
+    "section": "How to set up giscus on Distill",
+    "text": "How to set up giscus on Distill\nThere are several blogposts 4 on how to enable utterances on Distill, but none that I’ve found so far on giscus. So, here goes!\n\nEnable Discussions on your blog repo. Optionally, if you want to use a non-default Discussions category for storing giscus content, add a new category. I did this and called it “Comments”. As recommended by giscus, it’s a good idea to set the discussion format to “Announcement” so that non-authorized users can’t add content via the Discussions interface (only the giscus widget on your blog).\nInstall the giscus GitHub app and configure it to have access to your blog’s repo.\nGo to the giscus app interface, scroll down to “configuration” and fill in the details for your blog. Once you’ve done so, further down you should see an HTML code block under “Enable giscus” populated with your information.\n\n\n\n\n\n\n\nFigure 2: giscus configuration menu.\n\n\n\n\n\n\n\n\n\nFigure 3: giscus HTML block. Once you fill in the fields in the configuration menu, the parts starting with [ENTER ...] will get automatically populated.\n\n\n\nAs described in Miles McBain’s blogpost, unfortunately in Distill, you can’t just paste the HTML directly into an Rmd file. It won’t show up. But the same work-around that he describes for utterances also happily works for giscus! Read on…\n\nAdd an .html file (I’ve called mine giscus.html) to the root of your blog repo that looks like this (and is based off of Miles’ HTML):\n\n&lt;script&gt;\n   document.addEventListener(\"DOMContentLoaded\", function () {\n     if (!/posts/.test(location.pathname)) {\n       return;\n     }\n\n     var script = document.createElement(\"script\");\n     script.src = \"https://giscus.app/client.js\";\n     script.setAttribute(\"data-repo\", \"[ENTER REPO HERE]\");\n     script.setAttribute(\"data-repo-id\", \"[ENTER REPO ID HERE]\");\n     script.setAttribute(\"data-category\", \"[ENTER CATEGORY NAME HERE]\");\n     script.setAttribute(\"data-category-id\", \"[ENTER CATEGORY ID HERE]\");\n     script.setAttribute(\"data-mapping\", \"pathname\");\n     script.setAttribute(\"data-reactions-enabled\", \"0\");\n     script.setAttribute(\"data-emit-metadata\", \"0\");\n     script.setAttribute(\"data-theme\", \"light\");\n     script.setAttribute(\"data-lang\", \"en\");\n\n     /* wait for article to load, append script to article element */\n     var observer = new MutationObserver(function (mutations, observer) {\n       var article = document.querySelector(\"d-article\");\n       if (article) {\n         observer.disconnect();\n         /* HACK: article scroll */\n         article.setAttribute(\"style\", \"overflow-y: hidden\");\n         article.appendChild(script);\n       }\n     });\n\n     observer.observe(document.body, { childList: true });\n   });\n &lt;/script&gt;\nIf you compare the above code with the HTML block in the giscus app (Figure 3), you should be able to see how the script.setAttribute lines above map to the key-value pairs in the HTML block in the giscus app. All we have to do is copy the contents of the HTML block over to this giscus.html file. You can see what my giscus.html file looks like here.\n\nModify _site.yml so that the giscus.html file gets loaded on every Distill article page 5:\n\noutput: \n  distill::distill_article:\n    includes:\n      in_header: giscus.html\nThat’s it! Or it should be anyways. I recommend trying a test comment to make sure everything is working (nobody will tell you otherwise…)"
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.html#reproducibility",
+    "href": "posts/2021-11-24_using-giscus/index.html#reproducibility",
+    "title": "Enable giscus in Distill",
+    "section": "Reproducibility",
+    "text": "Reproducibility\n\n\nSource code"
+  },
+  {
+    "objectID": "posts/2021-11-24_using-giscus/index.html#footnotes",
+    "href": "posts/2021-11-24_using-giscus/index.html#footnotes",
+    "title": "Enable giscus in Distill",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI have converted my website to Quarto.↩︎\nblogdown and Distill are R packages for making websites. In a nutshell, Distill is much simpler to use than blogdown, at the cost of some design flexibility. For more about making the switch, you can get caught up with posts from Thomas Mock, Frie Preu, Lisa Lendway, and Andreas Handel.↩︎\ndisqus and utterances are tools that let users comment on blog posts. Recently many R-bloggers have been moving away from disqus because it has a habit of tracking user’s data and causing page bloat. More recently, when I checked on my disqus account (in the process of migrating away!), it had a option to “opt-out” of data tracking, but that means data-tracking is on by default.↩︎\nFor example, Vebash Naidoo’s tutorial and Michael McCarthy’s post describing how to control the location of the comments section.↩︎\nThe _site.yml file is longer than this, but I’m just showing the relevant code to add. You can see my _site.yml file here.↩︎"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Recorded Talks",
+    "section": "",
+    "text": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ\n\n\n\n\n\n\nferns\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nManaging bioinformatics pipelines with R (rOpenSci community call)\n\n\n\n\n\n\nR\n\n\ntargets\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nJan 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\ntaxastand and dwctaxon: A pair of R packages for standardizing species names in Darwin Core format (BioDigiCon 2022 talk)\n\n\n\n\n\n\nR\n\n\nbiodiversity\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nDNA Barcoding of Fern Gametophytes: Past, Present, and Future (XVI Indian Fern Symposium Talk)\n\n\n\n\n\n\nferns\n\n\nconference presentation\n\n\ninvited\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nTranslation at The Carpentries: Technology Past, Present, and Future (CarpentryCon 2022 talk)\n\n\n\n\n\n\ncarpentries\n\n\ntranslation\n\n\n\n\n\n\n\n\n\nAug 10, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nResolving Species Names Rapidly and Accurately with taxastand (Botany 2022 poster)\n\n\n\n\n\n\nR\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nJul 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nAn Open and Continuously Updated Fern Tree of Life (Botany 2022 talk)\n\n\n\n\n\n\nferns\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nJul 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nAn Open and Continuously Updated Fern Tree of Life (ISMB EvolCompGen Poster)\n\n\n\n\n\n\nferns\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nJul 13, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nModular, reproducible bioinformatics workflows with the targets R package (ISCBacademy Tutorial)\n\n\n\n\n\n\nR\n\n\ntargets\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nJun 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nHow to use {targets} for effective workflows in R (BioC Asia meetup)\n\n\n\n\n\n\nR\n\n\ntargets\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nMay 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nデータ解析ワークフローを無駄なく、再現可能にするRパッケージ｢targets｣の紹介\n\n\n\n\n\n\nR\n\n\ntargets\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nJan 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\ncanaper: Categorical analysis of neo- and paleo-endemism in R (Botany 2021 Poster)\n\n\n\n\n\n\nR\n\n\nbiodiversity\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nJul 19, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Dimensions of Biodiversity in Japanese Ferns (Botany 2020 talk)\n\n\n\n\n\n\nferns\n\n\nbiodiversity\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nJul 27, 2020\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/2020-07-27_botany.html",
+    "href": "talks/2020-07-27_botany.html",
+    "title": "Exploring Dimensions of Biodiversity in Japanese Ferns (Botany 2020 talk)",
+    "section": "",
+    "text": "Resources\n\nAbstract\nSlides\nPaper"
+  },
+  {
+    "objectID": "talks/2023-01-21_yurufuwa.ja.html",
+    "href": "talks/2023-01-21_yurufuwa.ja.html",
+    "title": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ",
+    "section": "",
+    "text": "資料\n\nゆるふわ生物学"
+  },
+  {
+    "objectID": "talks/2022-09-27_biodigi.html",
+    "href": "talks/2022-09-27_biodigi.html",
+    "title": "taxastand and dwctaxon: A pair of R packages for standardizing species names in Darwin Core format (BioDigiCon 2022 talk)",
+    "section": "",
+    "text": "Resources\n\nSlides\ndwctaxon\ntaxastand"
+  },
+  {
+    "objectID": "talks/2022-06-30_iscbacad.html",
+    "href": "talks/2022-06-30_iscbacad.html",
+    "title": "Modular, reproducible bioinformatics workflows with the targets R package (ISCBacademy Tutorial)",
+    "section": "",
+    "text": "Resources\n\nWorkshop repo\nSlides\nExample code"
+  },
+  {
+    "objectID": "talks/2022-03-17_india.ja.html",
+    "href": "talks/2022-03-17_india.ja.html",
+    "title": "DNA Barcoding of Fern Gametophytes: Past, Present, and Future (XVI Indian Fern Symposium 口頭発表)",
+    "section": "",
+    "text": "資料\n\nスライド\n論文"
+  },
+  {
+    "objectID": "talks/2023-01-21_yurufuwa.html",
+    "href": "talks/2023-01-21_yurufuwa.html",
+    "title": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ",
+    "section": "",
+    "text": "Resources\n\nYurufuwa Biology"
+  },
+  {
+    "objectID": "talks/2022-08-10_carptrans.ja.html",
+    "href": "talks/2022-08-10_carptrans.ja.html",
+    "title": "Translation at The Carpentries: Technology Past, Present, and Future (CarpentryCon 2022 口頭発表)",
+    "section": "",
+    "text": "資料\n\nスライド"
+  },
+  {
+    "objectID": "talks/2022-01-12_biohack.ja.html",
+    "href": "talks/2022-01-12_biohack.ja.html",
+    "title": "データ解析ワークフローを無駄なく、再現可能にするRパッケージ｢targets｣の紹介",
+    "section": "",
+    "text": "資料\n\nスライド\nコード"
+  },
+  {
+    "objectID": "talks/2021-07-19_botany.html",
+    "href": "talks/2021-07-19_botany.html",
+    "title": "canaper: Categorical analysis of neo- and paleo-endemism in R (Botany 2021 Poster)",
+    "section": "",
+    "text": "Resources\n\nGitHub\nAbstract\nPDF"
+  },
+  {
+    "objectID": "talks/2022-05-07_biocasia.html",
+    "href": "talks/2022-05-07_biocasia.html",
+    "title": "How to use {targets} for effective workflows in R (BioC Asia meetup)",
+    "section": "",
+    "text": "Resources\n\nWorkshop repo\nSlides\nExample code"
+  },
+  {
+    "objectID": "talks/2022-05-07_biocasia.ja.html",
+    "href": "talks/2022-05-07_biocasia.ja.html",
+    "title": "How to use {targets} for effective workflows in R (BioC Asia ミートアップ)",
+    "section": "",
+    "text": "資料\n\nワークショップ\nスライド\nコード"
+  },
+  {
+    "objectID": "talks/2022-06-30_iscbacad.ja.html",
+    "href": "talks/2022-06-30_iscbacad.ja.html",
+    "title": "Modular, reproducible bioinformatics workflows with the targets R package (ISCBacademy チュートリアル)",
+    "section": "",
+    "text": "資料\n\nワークショップ\nスライド\nコード"
+  },
+  {
+    "objectID": "talks/2022-03-17_india.html",
+    "href": "talks/2022-03-17_india.html",
+    "title": "DNA Barcoding of Fern Gametophytes: Past, Present, and Future (XVI Indian Fern Symposium Talk)",
+    "section": "",
+    "text": "Resources\n\nSlides\nPaper"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joel Nitta",
+    "section": "",
+    "text": "I am an Associate Professor in the Graduate School of Global and Transdisciplinary Studies at Chiba University, Japan.\nFerns have a unique lifecycle combining two free-living stages (gametophyte and sporophyte) that differ from each other dramatically in appearance and physiology. This sets ferns apart from nearly all other land plants, and has important implications for their ecology and evolution. I am particularly interested in how different stages of the fern lifecycle contribute to community assembly processes, as well as fern ecology, evolution, and systematics.\nI am also an enthusiastic adherent of reproducible analysis and coding, especially with ! Please see my blog for more stories about this topic.\n\n\n\n\nHarvard University | PhD in Organismic and Evolutionary Biology | 2016\nThe University of Tokyo | MS in Biological Sciences | 2010\nThe University of California, Berkeley | BA in Integrative Biology and Japanese Language | 2007\n\n\n\n\n\nGraduate School of Global and Transdisciplinary Studies, Chiba University | Associate Professor | April 2023 - Present\nIwasaki Lab, The University of Tokyo | Project Research Associate | April 2020 - March 2023\nNational Museum of Natural History, Smithsonian Institution | Postdoctoral Fellow | January 2019 - March 2020\nNational Museum of Nature and Science, Japan | Postdoctoral Fellow | November 2016 - December 2018"
+  },
+  {
+    "objectID": "index.html#climate-vulenrability",
+    "href": "index.html#climate-vulenrability",
+    "title": "Joel Nitta",
+    "section": "",
+    "text": "I am an Associate Professor in the Graduate School of Global and Transdisciplinary Studies at Chiba University, Japan.\nFerns have a unique lifecycle combining two free-living stages (gametophyte and sporophyte) that differ from each other dramatically in appearance and physiology. This sets ferns apart from nearly all other land plants, and has important implications for their ecology and evolution. I am particularly interested in how different stages of the fern lifecycle contribute to community assembly processes, as well as fern ecology, evolution, and systematics.\nI am also an enthusiastic adherent of reproducible analysis and coding, especially with ! Please see my blog for more stories about this topic."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Joel Nitta",
+    "section": "",
+    "text": "Harvard University | PhD in Organismic and Evolutionary Biology | 2016\nThe University of Tokyo | MS in Biological Sciences | 2010\nThe University of California, Berkeley | BA in Integrative Biology and Japanese Language | 2007"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Joel Nitta",
+    "section": "",
+    "text": "Graduate School of Global and Transdisciplinary Studies, Chiba University | Associate Professor | April 2023 - Present\nIwasaki Lab, The University of Tokyo | Project Research Associate | April 2020 - March 2023\nNational Museum of Natural History, Smithsonian Institution | Postdoctoral Fellow | January 2019 - March 2020\nNational Museum of Nature and Science, Japan | Postdoctoral Fellow | November 2016 - December 2018"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Welcome to projec",
+    "section": "",
+    "text": "Welcome to the home of Real World Data Science, a new project from the Royal Statistical Society, in partnership with the American Statistical Association. This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace."
+  },
+  {
+    "objectID": "about.html#what-are-our-aims",
+    "href": "about.html#what-are-our-aims",
+    "title": "Welcome to projec",
+    "section": "What are our aims?",
+    "text": "What are our aims?\nReal World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:\n\ndiscover and learn more efficiently;\n\nacquire practical problem-solving skills;\n\nshare their knowledge and accomplishments publicly;\n\nwork smarter, ethically, and more effectively."
+  },
+  {
+    "objectID": "about.html#what-we-provide",
+    "href": "about.html#what-we-provide",
+    "title": "Welcome to projec",
+    "section": "What we provide",
+    "text": "What we provide\nResources are created to meet the needs of our target audiences. These include:\n\nCase studies – showing how data science is used to solve real-world problems in business, public policy and beyond.\nExplainers – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.\nExercises – to challenge and develop the analytical mindset that all data scientists need to succeed.\n\nAdvice – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.\n\nWe are also curating resources to help data scientists identify trustworthy, high-quality content. These include:\n\nTraining guides – step-by-step approaches and recommended sources for learning new skills and methods.\nDatasets – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.\nFeeds – who and what to follow to keep up with new ideas and developments.\n\nClimate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture\nThis research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8."
+  },
+  {
+    "objectID": "about.html#how-you-can-get-involved",
+    "href": "about.html#how-you-can-get-involved",
+    "title": "Welcome to projec",
+    "section": "How you can get involved",
+    "text": "How you can get involved\nSee our open call for contributions."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "posts",
+    "section": "",
+    "text": "Enable giscus in Distill\n\n\n\n\n\n\nblogging\n\n\ndistill\n\n\n\nHow to use the giscus commenting system on a Distill blog\n\n\n\n\n\nNov 24, 2021\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nEnable giscus in Distill\n\n\n\n\n\n\nblogging\n\n\ndistill\n\n\n\nHow to use the giscus commenting system on a Distill blog\n\n\n\n\n\nNov 24, 2021\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nSelecting color schemes for mapping ancestral states\n\n\n\n\n\n\nr\n\n\nplotting\n\n\n\nHow to change the phytools default color scheme when visualizing the results of ancestral character state estimation\n\n\n\n\n\nJun 2, 2021\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nPT test: Selecting color schemes for mapping ancestral states\n\n\n\n\n\n\nr\n\n\nplotting\n\n\n\nHow to change the phytools default color scheme when visualizing the results of ancestral character state estimation\n\n\n\n\n\nJun 2, 2021\n\n\nJoel Nitta\n\n\n\n\n\n\nNo matching items"
+  }
+]
