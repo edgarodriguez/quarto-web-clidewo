@@ -2,6 +2,8 @@ project:
   type: website
   output-dir: docs
 website:
+  site-url: https://edgarodriguez.github.io/quarto-web-testing/
+  repo-url: https://github.com/edgarodriguez/quarto-web-testing
   title: "From amazing web Joel Nitta (example using github repo)"
   navbar:
     background: primary
@@ -11,6 +13,7 @@ website:
       - href: blog.qmd
       - href: talks.qmd
       - href: teaching.qmd
+      - href: people.qmd
       - text: get in touch!
         menu:
           - icon: twitter
@@ -37,7 +40,7 @@ website:
     icon: info-circle
     dismissable: true
     content: "**Announcement** - We are working in the website. Official release will be soon"
-    type: primary
+    type: success
     position: below-navbar
 
 format:

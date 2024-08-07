@@ -24,6 +24,10 @@
     ]
   },
   {
+    "listing": "/people.html",
+    "items": []
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/2021-11-24_using-giscus/index.html",
