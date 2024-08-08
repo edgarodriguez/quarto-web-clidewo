@@ -8,13 +8,17 @@ website:
   navbar:
     background: primary
     right:
-      - href: about.qmd
+
+      - href: impact.qmd
+
       - href: publications.qmd
-      - href: blog.qmd
-      - href: talks.qmd
-      - href: teaching.qmd
+      - text: News
+        href: blog.qmd
+
+      - href: resources.qmd
+      - href: partners.qmd
       - href: people.qmd
-      - text: get in touch!
+      - text: Contact
         menu:
           - icon: twitter
             text: Twitter
@@ -34,8 +38,8 @@ website:
   page-footer:
     background: light
     left: © Copyright 2024, ERH
-    right: This website is built with {{< fa heart title="a heart" >}} babelquarto and template Joel Nitto
-
+    right: This website is built with {{< fa heart title="a heart" >}} Multi-lenguage thanks to babelquarto and Joel Nitto :)
+  google-analytics: "G-RG1R3XP26Q"
   announcement:
     icon: info-circle
     dismissable: true

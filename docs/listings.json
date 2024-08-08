@@ -25,7 +25,11 @@
   },
   {
     "listing": "/people.html",
-    "items": []
+    "items": [
+      "/people/staff/Leao.html",
+      "/people/staff/Rodriguez-Huerta.html",
+      "/people/staff/Landman.html"
+    ]
   },
   {
     "listing": "/posts.html",
