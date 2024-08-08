@@ -9,15 +9,18 @@ website:
     background: primary
     right:
 
-      - href: impact.qmd
-
-      - href: publications.qmd
+      - href: about.qmd
+      - href: people.qmd
+      - text: Resources
+        menu:
+          - text: Publications
+            href: publications.qmd
+          - text: Datasets
+            href: resources.qmd
+          - text: Literature review
+            href: publications.qmd
       - text: News
         href: blog.qmd
-
-      - href: resources.qmd
-      - href: partners.qmd
-      - href: people.qmd
       - text: Contact
         menu:
           - icon: twitter
