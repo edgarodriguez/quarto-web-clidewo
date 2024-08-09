@@ -3,7 +3,6 @@ title: Climate Change and Workers Health
 lang: en
 about:
   template: marquee
-  image: "content/images/Ecosystem.jpg"
   #  image-width: "200px;"
 
 execute:
@@ -29,6 +28,6 @@ Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and
 
 
 
-
+![](./content/img/Ecosystem.jpg){.hero}
 
 :::

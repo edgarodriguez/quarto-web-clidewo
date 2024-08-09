@@ -1,0 +1,16 @@
+---
+title: "posts"
+subtitle: "some workshop-related posts and other musings"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

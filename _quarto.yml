@@ -8,7 +8,7 @@ website:
   title: "From amazing web Joel Nitta (example using github repo)"
   navbar:
     pinned: true
-    logo: "content/images/logo_test.png"
+
     background: primary
     right:
       - href: about.qmd

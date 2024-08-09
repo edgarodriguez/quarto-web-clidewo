@@ -44,7 +44,7 @@ library(distilltools)
 ```{r}
 #| label: Nitta2021-cover
 #| echo: false
-knitr::include_graphics("content/images/jpr_cover.jpg")
+knitr::include_graphics("content/img/jpr_cover.jpg")
 ```
 </aside>
 
@@ -96,7 +96,7 @@ knitr::include_graphics("content/images/jpr_cover.jpg")
 ```{r}
 #| label: nitta2011-cover
 #| echo: false
-knitr::include_graphics("content/images/ajb_cover.jpg")
+knitr::include_graphics("content/img/ajb_cover.jpg")
 ```
 </aside>
 
