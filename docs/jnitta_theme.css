@@ -43,6 +43,7 @@ d-article a:hover, a:focus {
 
 header {
   font-family: 'Bebas Neue', sans-serif;
-  font-weight: 800;
+  font-weight: 400;
+  font-size: large;
 }
 

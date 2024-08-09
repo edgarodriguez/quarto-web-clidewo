@@ -1,9 +1,7 @@
 ---
 title: Climate Change and Workers Health
 lang: en
-about:
-  template: marquee
-  #  image-width: "200px;"
+
 
 execute:
   echo: false
@@ -23,6 +21,8 @@ library(fontawesome)
 :::{.column-body-outset}
 
 ## Climate Vulnerability
+
+
 
 Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture
 
