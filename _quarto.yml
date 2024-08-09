@@ -2,24 +2,28 @@ project:
   type: website
   output-dir: docs
 website:
+  favicon: "content/images/logo_test.png"
   site-url: https://edgarodriguez.github.io/quarto-web-testing/
   repo-url: https://github.com/edgarodriguez/quarto-web-testing
   title: "From amazing web Joel Nitta (example using github repo)"
   navbar:
+    pinned: true
+    logo: "content/images/logo_test.png"
     background: primary
     right:
-
       - href: about.qmd
       - href: people.qmd
+      - text: Publications
+        href: publications.qmd
       - text: Resources
         menu:
-          - text: Publications
-            href: publications.qmd
           - text: Datasets
             href: resources.qmd
           - text: Literature review
             href: publications.qmd
       - text: News
+        href: blog.qmd
+      - text: Blog
         href: blog.qmd
       - text: Contact
         menu:
@@ -34,9 +38,7 @@ website:
           - icon: envelope
             text: email
             href: mailto:edgar.rodriguez@nottingham.ac.uk
-      - icon: github
-        href: https://github.com/edgarodriguez
-        target: _blank
+
 
   page-footer:
     background: light

@@ -1,5 +1,5 @@
 ---
-title: "Mudanças climáticas, trabalho decente e saúde dos trabalhadores no Brasil: considerações teóricas"
+title: "Mudanças climáticas, saúde ocupacional e trabalho decente: vulnerabilidades e respostas dos trabalhadores na agricultura brasileira"
 lang: pt
 about:
   template: marquee

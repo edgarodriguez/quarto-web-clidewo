@@ -25,11 +25,9 @@ library(fontawesome)
 
 ## Climate Vulnerability
 
+Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture
 
 
-Ferns have a unique lifecycle combining two free-living stages (gametophyte and sporophyte) that differ from each other dramatically in appearance and physiology. This sets ferns apart from nearly all other land plants, and has important implications for their ecology and evolution. I am particularly interested in how different stages of the fern lifecycle contribute to community assembly processes, as well as fern ecology, evolution, and systematics.
-
-I am also an enthusiastic adherent of reproducible analysis and coding, especially with [`r fa(name = "r-project", fill = "#5F85A7")`](https://www.r-project.org/)! Please see my [blog](blog.html) for more stories about this topic.
 
 
 
