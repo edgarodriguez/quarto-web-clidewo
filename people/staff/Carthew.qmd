@@ -1,7 +1,7 @@
 ---
-title: "Luís Henrique da Costa Leão"
-sortby: "2"
-subtitle: "Professor II at Universidade Federal Fluminense (UFF)"
+title: "Kelsey Carthew"
+sortby: "7"
+subtitle: "Rights Lab Senior Operations Officer (Research Administration)"
 image: girard_jeffrey.jpg
 started: "Fall 2020"
 toc: false
@@ -14,15 +14,12 @@ about:
     - icon: link
       text: website
       href: https://www.jmgirard.com
-    - icon: file-earmark-text
-      text: vitae
-      href: ./people/staff/girard_cv.pdf
     - icon: mortarboard
       text: scholar
       href: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
     - icon: github
       text: github
-      href: https://www.github.com/jmgirard
+      href: https://www.github.com/edgarodriguez
     - icon: twitter
       text: twitter
       href: https://www.twitter.com/edgarodriguez
