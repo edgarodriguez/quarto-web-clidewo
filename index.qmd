@@ -1,5 +1,6 @@
 ---
 title: Climate Change and Workers Health
+subtitle: "Vulnerabilities and Response in Brazilian Agriculture"
 lang: en
 
 
@@ -20,7 +21,7 @@ library(fontawesome)
 
 :::{.column-body-outset}
 
-## Climate Vulnerability
+## The Project
 
 
 
@@ -29,5 +30,7 @@ Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and
 
 
 ![](./content/img/Ecosystem.jpg){.hero}
+
+## Acknowlegde
 
 :::

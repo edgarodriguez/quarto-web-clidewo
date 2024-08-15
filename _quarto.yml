@@ -5,10 +5,10 @@ website:
   favicon: "content/images/logo_test.png"
   site-url: https://edgarodriguez.github.io/quarto-web-testing/
   repo-url: https://github.com/edgarodriguez/quarto-web-testing
-  title: "From amazing web Joel Nitta (example using github repo)"
+ # title: "From amazing web Joel Nitta (example using github repo)"
   navbar:
     pinned: true
-
+    logo: "content/img/logo_blue.png"
     background: primary
     right:
       - href: about.qmd
@@ -60,7 +60,7 @@ format:
     css: jnitta_theme.css
     include-in-header:
       - text: |
-          <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+          <link href="https://fonts.googleapis.com/css2?family=PT+Mono&display=swap" rel="stylesheet">
     toc: true
 
 babelquarto:
