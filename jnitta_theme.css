@@ -50,7 +50,14 @@ header {
 /* nav bar */
 
 .navbar-logo {
-  max-height: 80px;
+  max-height: 100px;
 }
+
+.navbar-brand
+{
+  font-size: 100px;
 }
+
+}
+
 

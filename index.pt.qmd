@@ -1,11 +1,9 @@
 ---
-title: "Mudanças climáticas, saúde ocupacional e trabalho decente: vulnerabilidades e respostas dos trabalhadores na agricultura brasileira"
+title: "Mudanças climáticas, saúde ocupacional e trabalho decente:"
+subtitle: "Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira"
 lang: pt
-about:
-  template: marquee
-#  image: "content/images/joel.png"
-#  image-width: "200px;"
- 
+
+
 execute:
   echo: false
 comments: false
@@ -22,6 +20,21 @@ library(fontawesome)
 ```
 
 :::{.column-body-outset}
+
+## The Project
+
+
+
+Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture
+
+
+
+![](./content/img/Ecosystem.jpg){.hero}
+
+## Partners
+
+
+## Acknowlegde
 
 
 :::
