@@ -1,6 +1,5 @@
 ---
 title: "about"
-
 sidebar: false
 page-layout: article
 toc: false

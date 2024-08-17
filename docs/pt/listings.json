@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": []
+  },
+  {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/staff/Rodriguez-Huerta.html",
+      "/people/staff/Leao.html",
+      "/people/staff/Landman.html",
+      "/people/staff/Reita.html",
+      "/people/staff/Moura.html",
+      "/people/staff/Carthew.html"
+    ]
+  }
+]
