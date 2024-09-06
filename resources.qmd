@@ -1,5 +1,5 @@
 ---
-title: "Recorded Talks"
+title: "Resources"
 comments: false
 lang: en
 date: today
