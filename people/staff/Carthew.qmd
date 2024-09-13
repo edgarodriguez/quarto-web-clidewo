@@ -2,7 +2,7 @@
 title: "Kelsey Carthew"
 sortby: "7"
 subtitle: "Rights Lab Senior Operations Officer (Research Administration)"
-image: girard_jeffrey.jpg
+image: Carthew.jpg
 started: "Fall 2020"
 toc: false
 resources: 

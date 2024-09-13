@@ -1,5 +1,5 @@
 ---
-title: "Mudanças climáticas, saúde ocupacional e trabalho decente:"
+title: Mudanças climáticas, saúde ocupacional e trabalho decente
 subtitle: "Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira"
 lang: pt
 
@@ -21,7 +21,7 @@ library(fontawesome)
 
 :::{.column-body-outset}
 
-## The Project
+## O Project
 
 
 

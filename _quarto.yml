@@ -2,13 +2,13 @@ project:
   type: website
   output-dir: docs
 website:
-  favicon: "content/images/logo_test.png"
+  favicon: "content/images/logo_yellow.png"
   site-url: https://edgarodriguez.github.io/quarto-web-testing/
   repo-url: https://github.com/edgarodriguez/quarto-web-testing
  # title: "From amazing web Joel Nitta (example using github repo)"
   navbar:
     pinned: true
-    logo: "content/img/logo_blue.png"
+    logo: "content/img/logo_yellow3.png"
     background: primary
     right:
       - href: about.qmd
@@ -54,13 +54,17 @@ website:
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: lux
+     # light: flatly
+     # dark: darkly
+    #fontsize: 1.5rem
+    #fontcolor: "#212121"
+    mainfont: inter
+  
     css: jnitta_theme.css
     include-in-header:
       - text: |
-          <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
     toc: true
 
 babelquarto:

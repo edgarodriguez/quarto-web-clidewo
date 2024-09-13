@@ -2,7 +2,7 @@
 title: "Todd Landman"
 sortby: "3"
 subtitle: "Professor"
-image: girard_jeffrey.jpg
+image: Landman.jpg
 started: "Fall 2020"
 toc: false
 resources: 

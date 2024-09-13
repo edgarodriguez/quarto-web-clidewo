@@ -137,7 +137,7 @@
     "href": "about.html#objectives",
     "title": "about",
     "section": "OBJECTIVES",
-    "text": "OBJECTIVES\nThis research project aims to (1) produce a CRVA for agricultural workers in Brazil with respect to climate hazards, (2) assess how forced labour practices exacerbate vulnerability and decrease occupational health, and (3) understand how workers are currently adapting and what their main needs are to increase their resilience to climate change. We will produce actionable inferences for key stakeholders and policymakers aimed at improving climate risk mitigation strategies in agricultural work and developing adaptation strategies for workers affected by climate change. 1) 2) 3)"
+    "text": "OBJECTIVES\nThis research project aims to (1) produce a CRVA for agricultural workers in Brazil with respect to climate hazards, (2) assess how forced labour practices exacerbate vulnerability and decrease occupational health, and (3) understand how workers are currently adapting and what their main needs are to increase their resilience to climate change. We will produce actionable inferences for key stakeholders and policymakers aimed at improving climate risk mitigation strategies in agricultural work and developing adaptation strategies for workers affected by climate change."
   },
   {
     "objectID": "about.html#how-you-can-get-involved",
@@ -151,7 +151,7 @@
     "href": "index.html",
     "title": "Climate Change and Workers Health",
     "section": "",
-    "text": "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture\n\nThis research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8."
+    "text": "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture\n\nThis research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8.\n\n\n\nFederal University of Mato Grosso (UFMT) Federal University of Maranhão (UFMA) Federal University Fluminense (UFF) Rights Lab, University of Nottingham"
   },
   {
     "objectID": "index.html#the-project",
@@ -775,5 +775,208 @@
     "title": "Resources",
     "section": "",
     "text": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ\n\n\n\n\n\n\nferns\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nManaging bioinformatics pipelines with R (rOpenSci community call)\n\n\n\n\n\n\nR\n\n\ntargets\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nJan 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\ntaxastand and dwctaxon: A pair of R packages for standardizing species names in Darwin Core format (BioDigiCon 2022 talk)\n\n\n\n\n\n\nR\n\n\nbiodiversity\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nDNA Barcoding of Fern Gametophytes: Past, Present, and Future (XVI Indian Fern Symposium Talk)\n\n\n\n\n\n\nferns\n\n\nconference presentation\n\n\ninvited\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nTranslation at The Carpentries: Technology Past, Present, and Future (CarpentryCon 2022 talk)\n\n\n\n\n\n\ncarpentries\n\n\ntranslation\n\n\n\n\n\n\n\n\n\nAug 10, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nResolving Species Names Rapidly and Accurately with taxastand (Botany 2022 poster)\n\n\n\n\n\n\nR\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nJul 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nAn Open and Continuously Updated Fern Tree of Life (Botany 2022 talk)\n\n\n\n\n\n\nferns\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nJul 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nAn Open and Continuously Updated Fern Tree of Life (ISMB EvolCompGen Poster)\n\n\n\n\n\n\nferns\n\n\nconference presentation\n\n\n\n\n\n\n\n\n\nJul 13, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nModular, reproducible bioinformatics workflows with the targets R package (ISCBacademy Tutorial)\n\n\n\n\n\n\nR\n\n\ntargets\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nJun 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nHow to use {targets} for effective workflows in R (BioC Asia meetup)\n\n\n\n\n\n\nR\n\n\ntargets\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nMay 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nデータ解析ワークフローを無駄なく、再現可能にするRパッケージ｢targets｣の紹介\n\n\n\n\n\n\nR\n\n\ntargets\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nJan 12, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.pt.html",
+    "href": "index.pt.html",
+    "title": "Mudanças climáticas, saúde ocupacional e trabalho decente",
+    "section": "",
+    "text": "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture"
+  },
+  {
+    "objectID": "index.pt.html#the-project",
+    "href": "index.pt.html#the-project",
+    "title": "Mudanças climáticas, saúde ocupacional e trabalho decente",
+    "section": "",
+    "text": "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture"
+  },
+  {
+    "objectID": "blog.pt.html",
+    "href": "blog.pt.html",
+    "title": "ブログ",
+    "section": "",
+    "text": "一致なし"
+  },
+  {
+    "objectID": "people.pt.html",
+    "href": "people.pt.html",
+    "title": "",
+    "section": "",
+    "text": "Home\n    People"
+  },
+  {
+    "objectID": "people.pt.html#research-staff",
+    "href": "people.pt.html#research-staff",
+    "title": "",
+    "section": "Research Staff",
+    "text": "Research Staff\n\n\n\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nSenior Research Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nLuís Henrique da Costa Leão\n\n\nProfessor II at Universidade Federal Fluminense (UFF)\n\n\n\n\n\n\n\n\n\n\n\n\n\nTodd Landman\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarla Reita Leal\n\n\nProfessor of Law, Faculty of the Federal University of Mato Grosso\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlavia Moura\n\n\nProfessor of Social Communication, Federal University of Maranhão\n\n\n\n\n\n\n\n\n\n\n\n\n\nKelsey Carthew\n\n\nRights Lab Senior Operations Officer (Research Administration)\n\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people.pt.html#research-assistants",
+    "href": "people.pt.html#research-assistants",
+    "title": "",
+    "section": "Research Assistants",
+    "text": "Research Assistants\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "people.pt.html#alumni",
+    "href": "people.pt.html#alumni",
+    "title": "",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "publications.pt.html",
+    "href": "publications.pt.html",
+    "title": "Publications PT",
+    "section": "",
+    "text": "Google Scholar"
+  },
+  {
+    "objectID": "publications.pt.html#section",
+    "href": "publications.pt.html#section",
+    "title": "Publications PT",
+    "section": "2024",
+    "text": "2024\nNitta, J. H. and W. Iwasaki (2024). “dwctaxon, an R package for editing and validating taxonomic data in Darwin Core format”. In: Journal of Open Source Software 9.93, p. 6215. DOI: 10.21105/joss.06215  Code  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-1",
+    "href": "publications.pt.html#section-1",
+    "title": "Publications PT",
+    "section": "2023",
+    "text": "2023\nChen, C., S. Lindsay, J. H. Nitta, G. Rouhan, M. Sundue, L. R. Perrie, Y. Huang, W. Chiou, and K. Chung (2023). “Systematics and biogeography of the Old World fern genus Antrophyum”. In: Cladistics, p. cla.12538. DOI: 10.1111/cla.12538  Code  PDF\nNitta, J. H. (2023). “Machine learning methods reveal processes affecting abundance at multiple scales. A commentary on ‘Global and regional drivers of abundance patterns in the hart’s tongue fern complex (Aspleniaceae)’”. In: Annals of Botany 131.5, pp. i-ii. DOI: 10.1093/aob/mcad024  Code  PDF\nNitta, J. H., S. W. Laffan, B. D. Mishler, and W. Iwasaki (2023). “canaper: Categorical analysis of neo‐ and paleo‐endemism in R”. In: Ecography, p. e06638. DOI: 10.1111/ecog.06638 Preprint  Code  PDF\nNitta, J. H. (2023). “進化生物学のモデルシステムとしてのシダ植物研究”. In: 植物地理・分類研究 71.2, pp. 115-126. DOI: 10.18942/chiribunrui.0712-03  Code  PDF\nSong, M. J., C. J. Rothfels, E. Schuettpelz, J. H. Nitta, L. Huiet, F. Li, and K. M. Wefferling (2023). “Resolving deep relationships and revealing ancient whole-genome duplications in Pteridaceae using transcriptomic data”. In: American Fern Journal 113.3. DOI: 10.1640/0002-8444-113.3.191  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-2",
+    "href": "publications.pt.html#section-2",
+    "title": "Publications PT",
+    "section": "2022",
+    "text": "2022\nNitta, J. H., E. Schuettpelz, S. Ramírez-Barahona, and W. Iwasaki (2022). “An open and continuously updated fern tree of life”. In: Frontiers in Plant Science 13, p. 909768. DOI: 10.3389/fpls.2022.909768 Preprint  Code  Data  PDF\nNitta, J. H., B. D. Mishler, W. Iwasaki, and A. Ebihara (2022). “Spatial phylogenetics of Japanese ferns: Patterns, processes, and implications for conservation”. In: American Journal of Botany 109.5, pp. 727-745. DOI: 10.1002/ajb2.1848 Preprint  Code  Data  PDF\nNitta, J. H. and S. M. Chambers (2022). “Identifying cryptic fern gametophytes using DNA barcoding: A review”. In: Applications in Plant Sciences 10, p. e11465. DOI: 10.1002/aps3.11465 Preprint  Code  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-3",
+    "href": "publications.pt.html#section-3",
+    "title": "Publications PT",
+    "section": "2021",
+    "text": "2021\nNitta, J. H., J. E. Watkins Jr., N. M. Holbrook, T. W. Wang, and C. C. Davis (2021). “Ecophysiological differentiation between life stages in filmy ferns (Hymenophyllaceae)”. In: Journal of Plant Research 134.5, pp. 971-988. DOI: 10.1007/s10265-021-01318-z Preprint  Code  Data  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-4",
+    "href": "publications.pt.html#section-4",
+    "title": "Publications PT",
+    "section": "2020",
+    "text": "2020\nNitta, J. H., A. Ebihara, and A. R. Smith (2020). “A taxonomic and molecular survey of the pteridophytes of the Nectandra Cloud Forest Reserve, Costa Rica”. In: PLoS ONE 15.11, p. e0241231. DOI: 10.1371/journal.pone.0241231  Code  Data  PDF\nNitta, J. H., J. E. Watkins Jr., and C. C. Davis (2020). “Life in the canopy: Community trait assessments reveal substantial functional diversity among fern epiphytes”. In: New Phytologist 227.6, pp. 1885-1899. DOI: 10.1111/nph.16607  Code  Data  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-5",
+    "href": "publications.pt.html#section-5",
+    "title": "Publications PT",
+    "section": "2019",
+    "text": "2019\nEbihara, A. and J. H. Nitta (2019). “An update and reassessment of fern and lycophyte diversity data in the Japanese Archipelago”. In: Journal of Plant Research 132.6, pp. 723-738. DOI: 10.1007/s10265-019-01137-3  Code  Data  PDF\nEbihara, A., J. H. Nitta, Y. Matsumoto, Y. Fukazawa, M. Kurihara, H. Yokote, K. Sakuma, O. Azakami, Y. Hirayama, and R. Imaichi (2019). “Growth dynamics of independent gametophytes of Pleurosoriopsis makinoi (Polypodiaceae)”. In: Bulletin of the National Museum of Nature and Science, Series B (Botany) 45.2, pp. 77-86.   Code  PDF\nNitta, J. H. and A. Ebihara (2019). “Virtual issue: Ecology and evolution of pteridophytes in the era of molecular genetics”. In: Journal of Plant Research 132.6, pp. 719-721. DOI: 10.1007/s10265-019-01139-1  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-6",
+    "href": "publications.pt.html#section-6",
+    "title": "Publications PT",
+    "section": "2018",
+    "text": "2018\nGilbert, K. J., J. H. Nitta, G. Talavera, and N. E. Pierce (2018). “Keeping an eye on coloration: Ecological correlates of the evolution of pitcher traits in the genus Nepenthes (Caryophyllales)”. In: Biological Journal of the Linnean Society 123.2, pp. 321-337. DOI: 10.1093/biolinnean/blx142  PDF\nNitta, J. H., S. Amer, and C. C. Davis (2018). “Microsorum × tohieaense (Polypodiaceae), a new hybrid fern from French Polynesia, with implications for the taxonomy of Microsorum”. In: Systematic Botany 43.2, pp. 397-413. DOI: 10.1600/036364418X697166  Data  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-7",
+    "href": "publications.pt.html#section-7",
+    "title": "Publications PT",
+    "section": "2017",
+    "text": "2017\nNitta, J. H., J. Meyer, R. Taputuarai, and C. C. Davis (2017). “Life cycle matters: DNA barcoding reveals contrasting community structure between fern sporophytes and gametophytes”. In: Ecological Monographs 87.2, pp. 278-296. DOI: 10.1002/ecm.1246  PDF\nPinson, J. B., S. M. Chambers, J. H. Nitta, L. Kuo, and E. B. Sessa (2017). “The separation of generations: Biology and biogeography of long-lived sporophyteless fern gametophytes”. In: International Journal of Plant Sciences 178.1, pp. 1-18. DOI: 10.1086/688773  PDF\nZhou, X., L. Zhang, C. Chen, C. Li, Y. Huang, D. Chen, N. T. Thi, D. Cicuzza, R. Knapp, T. T. Tam, J. H. Nitta, X. Gao, and L. Zhang (2017). “A plastid phylogeny and character evolution of the Old World fern genus Pyrrosia (Polypodiaceae) with the description of a new genus: Hovenkampia (Polypodiaceae)”. In: Molecular Phylogenetics and Evolution 114, pp. 271-294. DOI: 10.1016/j.ympev.2017.06.020  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-8",
+    "href": "publications.pt.html#section-8",
+    "title": "Publications PT",
+    "section": "2016",
+    "text": "2016\nPouteau, R., J. Meyer, P. Blanchard, J. H. Nitta, M. Terorotua, and R. Taputuarai (2016). “Fern species richness and abundance are indicators of climate change on high-elevation islands: evidence from an elevational gradient on Tahiti (French Polynesia)”. In: Climatic Change 138, pp. 143-156. DOI: 10.1007/s10584-016-1734-x  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-9",
+    "href": "publications.pt.html#section-9",
+    "title": "Publications PT",
+    "section": "2015",
+    "text": "2015\nChen, C., J. H. Nitta, M. Fanerii, T. Y. A. Yang, F. Pitisopa, C. W. Li, and W. Chiou (2015). “Antrophyum solomonense (Pteridaceae), a new species from the Solomon Islands, and its systematic position based on phylogenetic analysis”. In: Systematic Botany 40.3, pp. 645-651. DOI: 10.1600/036364415X689357  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-10",
+    "href": "publications.pt.html#section-10",
+    "title": "Publications PT",
+    "section": "2013",
+    "text": "2013\nEbihara, A., A. Yamaoka, N. Mizukami, A. Sakoda, J. H. Nitta, and R. Imaichi (2013). “A survey of the fern gametophyte flora of Japan: Frequent independent occurrences of noncordiform gametophytes”. In: American Journal of Botany 100.4, pp. 735-743. DOI: 10.3732/ajb.1200555  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-11",
+    "href": "publications.pt.html#section-11",
+    "title": "Publications PT",
+    "section": "2011",
+    "text": "2011\nNitta, J. H., A. Ebihara, and M. Ito (2011). “Reticulate evolution in the Crepidomanes minutum species complex (Hymenophyllaceae)”. In: American Journal of Botany 98.11, pp. 1782-1800. DOI: 10.3732/ajb.1000484  PDF\n\n\n\n\n\n\n\n\n\n\n\nNitta, J. H., J. Meyer, and A. R. Smith (2011). “Pteridophytes of Mo’orea, French Polynesia: Additional new records”. In: American Fern Journal 101.1, pp. 36-49. DOI: 10.1640/0002-8444-101.1.36  PDF"
+  },
+  {
+    "objectID": "publications.pt.html#section-12",
+    "href": "publications.pt.html#section-12",
+    "title": "Publications PT",
+    "section": "2010",
+    "text": "2010\nEbihara, A., J. H. Nitta, and M. Ito (2010). “Molecular species identification with rich floristic sampling: DNA barcoding the pteridophyte flora of Japan”. In: PLoS ONE 5.12, p. e15136. DOI: 10.1371/journal.pone.0015136  PDF\nEbihara, A., J. H. Nitta, and K. Iwatsuki (2010). “The Hymenophyllaceae of the Pacific area. 2. Hymenophyllum (excluding subgen. Hymenophyllum)”. In: Bulletin of the National Museum of Nature and Science, Series B (Botany) 36.2, pp. 43-59.   PDF"
+  },
+  {
+    "objectID": "about.pt.html",
+    "href": "about.pt.html",
+    "title": "Sobre NÓS",
+    "section": "",
+    "text": "PORTUGUESE!! Welcome to the home of Real World Data Science, a new project from the Royal Statistical Society, in partnership with the American Statistical Association. This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace."
+  },
+  {
+    "objectID": "about.pt.html#what-are-our-aims",
+    "href": "about.pt.html#what-are-our-aims",
+    "title": "Sobre NÓS",
+    "section": "What are our aims?",
+    "text": "What are our aims?\nReal World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:\n\ndiscover and learn more efficiently;\n\nacquire practical problem-solving skills;\n\nshare their knowledge and accomplishments publicly;\n\nwork smarter, ethically, and more effectively."
+  },
+  {
+    "objectID": "about.pt.html#what-we-provide",
+    "href": "about.pt.html#what-we-provide",
+    "title": "Sobre NÓS",
+    "section": "What we provide",
+    "text": "What we provide\nResources are created to meet the needs of our target audiences. These include:\n\nCase studies – showing how data science is used to solve real-world problems in business, public policy and beyond.\nExplainers – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.\nExercises – to challenge and develop the analytical mindset that all data scientists need to succeed.\n\nAdvice – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.\n\nWe are also curating resources to help data scientists identify trustworthy, high-quality content. These include:\n\nTraining guides – step-by-step approaches and recommended sources for learning new skills and methods.\nDatasets – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.\nFeeds – who and what to follow to keep up with new ideas and developments.\n\nClimate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture\nThis research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8."
+  },
+  {
+    "objectID": "about.pt.html#how-you-can-get-involved",
+    "href": "about.pt.html#how-you-can-get-involved",
+    "title": "Sobre NÓS",
+    "section": "How you can get involved",
+    "text": "How you can get involved\nSee our open call for contributions."
+  },
+  {
+    "objectID": "talks.pt.html",
+    "href": "talks.pt.html",
+    "title": "Platicas",
+    "section": "",
+    "text": "Nenhum item correspondente"
+  },
+  {
+    "objectID": "about.html#research-questions",
+    "href": "about.html#research-questions",
+    "title": "about",
+    "section": "RESEARCH QUESTIONS",
+    "text": "RESEARCH QUESTIONS\n\nHow do climate hazards influence the prevalence of occupational health issues, work-related diseases, and slavery-like conditions among agricultural workers in Brazil?\nWhat are the most affected groups and the socioeconomic pathways through which climate change impacts labour rights, wages, and occupational safety within the agricultural sector?\nWhat existing interventions aim to address climate risks and indecent working conditions in agriculture?\nHow do workers in agriculture respond to climate hazards to promote well-being, food security and sustainable practices?\nWhat insights can be drawn from interdisciplinary research to inform policy and practice for enhancing resilience and well-being?\n\nIn answering these questions, we aim to better understand the impact of the climate/work/health nexus on local populations by explicitly linking geographical locations to specific agricultural commodities. This will identify vulnerable areas where targeted interventions can help to mitigate the effects of climate change. The project’s novel, innovative, and integrated methods, data, and analysis will support these more targeted mitigation and adaptation strategies."
+  },
+  {
+    "objectID": "index.html#partners",
+    "href": "index.html#partners",
+    "title": "Climate Change and Workers Health",
+    "section": "",
+    "text": "Federal University of Mato Grosso (UFMT) Federal University of Maranhão (UFMA) Federal University Fluminense (UFF) Rights Lab, University of Nottingham"
+  },
+  {
+    "objectID": "index.pt.html#o-project",
+    "href": "index.pt.html#o-project",
+    "title": "Mudanças climáticas, saúde ocupacional e trabalho decente",
+    "section": "",
+    "text": "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture"
   }
 ]

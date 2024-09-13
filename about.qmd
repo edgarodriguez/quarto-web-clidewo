@@ -1,9 +1,10 @@
 ---
-title: "about"
+title: about
 sidebar: false
 page-layout: article
 toc: false
-title-block-banner: true
+title-block-banner: false
+lang: en
 ---
 
 Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture

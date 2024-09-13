@@ -16,13 +16,13 @@ d-article a {
 
 a:hover, a:focus {
     color: var(--bs-secondary);
-    font-weight: 500;
+    font-weight: 100;
     border-color: var(--bs-secondary);
 }
 
 d-article a:hover, a:focus {
     color: var(--bs-secondary);
-    font-weight: 500;
+    font-weight: 100;
     border-color: var(--bs-secondary);
 }
 
@@ -34,6 +34,7 @@ d-article a:hover, a:focus {
     padding: 3px 5px 3px 5px;
     margin: 0 2px 0 2px;
     border-radius: 5px; /* Rounded edges */
+   
 }
 
 .icon-link:hover {
@@ -43,19 +44,33 @@ d-article a:hover, a:focus {
 
 header {
   font-family: 'Bebas Neue', sans-serif;
-  font-weight: 400;
-  font-size: large;
+  font-weight: 100px;
+  font-size: x-large;
 }
 
 /* nav bar */
 
 .navbar-logo {
-  max-height: 100px;
+  max-height: 120px;
+  color:#FEDD00;
 }
 
 .navbar-brand
 {
-  font-size: 100px;
+  font-size: 150px;
+}
+
+
+.navbar-nav {
+  color:#FEDD00;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: x-large;
+  font-weight: 80;
+ 
+}
+
+.navbar li.nav-item a.nav-link span {
+  color: #FFFFFF !important;
 }
 
 }
