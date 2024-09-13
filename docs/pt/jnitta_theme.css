@@ -62,10 +62,11 @@ header {
 .navbar {
 	
 background:#212121;
+color: #fffff0 ;
 width:100%;
 margin-left:auto;
 margin-right:auto;
-font-size:x-large;
+
  }
 
 .navbar li.nav-item a.nav-link span {
@@ -74,6 +75,7 @@ font-size:x-large;
   font-weight: 100;
   
 }
+
 
 }
 
