@@ -1,6 +1,5 @@
 ---
-title: "Sobre NÓS"
-
+title: Sobre NÓS
 sidebar: false
 page-layout: article
 toc: false

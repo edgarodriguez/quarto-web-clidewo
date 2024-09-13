@@ -2,8 +2,8 @@
 title: "Edgar Rodriguez-Huerta"
 sortby: "1"
 subtitle: "Senior Research Fellow"
-image: Rodriguez.jpg
-started: "Fall 2020"
+image: Rodriguez.jpeg
+started: 
 toc: false
 resources: 
   - "girard_cv.pdf"

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Our team"
+pagetitle: Our team
 lang: en
 toc: false
 listing:
