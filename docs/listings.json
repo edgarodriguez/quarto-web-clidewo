@@ -66,24 +66,5 @@
       "/talks/2022-05-07_biocasia.html",
       "/talks/2022-01-12_biohack.html"
     ]
-  },
-  {
-    "listing": "/blog.pt.html",
-    "items": []
-  },
-  {
-    "listing": "/people.pt.html",
-    "items": [
-      "/people/staff/Rodriguez-Huerta.html",
-      "/people/staff/Leao.html",
-      "/people/staff/Landman.html",
-      "/people/staff/Reita.html",
-      "/people/staff/Moura.html",
-      "/people/staff/Carthew.html"
-    ]
-  },
-  {
-    "listing": "/talks.pt.html",
-    "items": []
   }
 ]
