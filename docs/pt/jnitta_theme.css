@@ -60,16 +60,13 @@ header {
 }
 
 .navbar {
-
-
+	
 background:#212121;
 width:100%;
 margin-left:auto;
 margin-right:auto;
-
-font-size:20px;
+font-size:x-large;
  }
-
 
 .navbar li.nav-item a.nav-link span {
   color: #fffff0 !important;
