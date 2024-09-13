@@ -16,12 +16,14 @@
     ]
   },
   {
-    "listing": "/posts_test_layout.html",
+    "listing": "/old_people.html",
     "items": [
-      "/posts/2021-11-24_using-giscus/index.html",
-      "/posts/2021-11-24_using-giscus/index.pt.html",
-      "/posts/2021-06-02_color-scheme-anc-states/index.html",
-      "/posts/2021-06-02_color-scheme-anc-states/index.pt.html"
+      "/people/staff/Rodriguez-Huerta.html",
+      "/people/staff/Leao.html",
+      "/people/staff/Landman.html",
+      "/people/staff/Reita.html",
+      "/people/staff/Moura.html",
+      "/people/staff/Carthew.html"
     ]
   },
   {
@@ -32,6 +34,15 @@
       "/talks/2022-09-27_biodigi.html",
       "/talks/2022-08-10_carptrans.html",
       "/talks/2022-07-24_botany_taxastand.html"
+    ]
+  },
+  {
+    "listing": "/posts_test_layout.html",
+    "items": [
+      "/posts/2021-11-24_using-giscus/index.html",
+      "/posts/2021-11-24_using-giscus/index.pt.html",
+      "/posts/2021-06-02_color-scheme-anc-states/index.html",
+      "/posts/2021-06-02_color-scheme-anc-states/index.pt.html"
     ]
   },
   {

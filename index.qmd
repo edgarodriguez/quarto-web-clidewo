@@ -44,5 +44,6 @@ Rights Lab, University of Nottingham
 
 ## Acknowlegde
 
+This project is funded by the British Academy’s ODA Challenge-Oriented Research Grants 2024 Programme, supported under the UK Government’s International Science Partnerships Fund.
 
 :::

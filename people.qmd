@@ -3,7 +3,7 @@ pagetitle: Our team
 lang: en
 toc: false
 listing:
-  - id: research-staff
+  - id: Our-team
     contents: "people/staff/*.qmd"
     type: grid
     image-height: 225px
@@ -13,28 +13,7 @@ listing:
     sort: sortby
     field-display-names: 
       started: "Started"
-  - id: research-assistants
-    contents: "people/ras/*.qmd"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    sort: sortby
-    fields: [image, title, subtitle, started]
-    field-display-names: 
-      started: "Started"
-    grid-item-align: center
-  - id: alumni
-    contents: "people/alumni/*.qmd"
-    type: table
-    sort: sortby
-    fields: [title, subtitle, started, ended]
-    sort-ui: [title, subtitle, started, ended]
-    filter-ui: [title, subtitle, started, ended]
-    field-display-names: 
-      title: "Name"
-      subtitle: "Role"
-      started: "Started"
-      ended: "Ended"
+ 
 ---
 
 ```{=html}
@@ -47,17 +26,9 @@ listing:
 ```
 
 
-## Research Staff
+## Our team
 
-:::{#research-staff}
+:::{#Our-team}
 :::
 
-## Research Assistants
 
-:::{#research-assistants}
-:::
-
-## Alumni
-
-:::{#alumni}
-:::
