@@ -2,8 +2,8 @@
 title: "Todd Landman"
 sortby: "3"
 subtitle: "Professor"
-image: Landman.jpg
-started: "Fall 2020"
+image: Landman.jpeg
+started: 
 toc: false
 resources: 
   - "girard_cv.pdf"
@@ -13,13 +13,13 @@ about:
   links:
     - icon: link
       text: website
-      href: https://www.jmgirard.com
+      href: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/todd-landman/index.aspx
     - icon: file-earmark-text
       text: vitae
       href: ./people/staff/girard_cv.pdf
     - icon: mortarboard
       text: scholar
-      href: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
+      href: https://scholar.google.co.uk/citations?user=eK7k3pQAAAAJ&hl=en
     - icon: github
       text: github
       href: https://www.github.com/jmgirard

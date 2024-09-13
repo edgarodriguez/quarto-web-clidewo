@@ -2,7 +2,7 @@
 title: "Edgar Rodriguez-Huerta"
 sortby: "1"
 subtitle: "Senior Research Fellow"
-image: Rodriguez.png
+image: "content/img/Rodriguez.jpeg"
 started: 
 toc: false
 resources: 
@@ -13,7 +13,7 @@ about:
   links:
     - icon: link
       text: website
-      href: https://www.jmgirard.com
+      href: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
     - icon: file-earmark-text
       text: vitae
       href: ./people/staff/girard_cv.pdf
