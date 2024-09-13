@@ -26,6 +26,10 @@ about:
     - icon: twitter
       text: twitter
       href: https://www.twitter.com/edgarodriguez
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/edgarodriguez
+
 ---
 
 ```{=html}

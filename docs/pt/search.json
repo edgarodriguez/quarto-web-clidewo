@@ -114,28 +114,28 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "Climate Resilience for Workers",
+    "title": "",
     "section": "",
     "text": "Home\n    People"
   },
   {
     "objectID": "people.html#research-staff",
     "href": "people.html#research-staff",
-    "title": "Climate Resilience for Workers",
+    "title": "",
     "section": "Research Staff",
     "text": "Research Staff\n\n\n\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nSenior Research Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nLuís Henrique da Costa Leão\n\n\nProfessor II at Universidade Federal Fluminense (UFF)\n\n\n\n\n\n\n\n\n\n\n\n\n\nTodd Landman\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarla Reita Leal\n\n\nProfessor of Law, Faculty of the Federal University of Mato Grosso\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlavia Moura\n\n\nProfessor of Social Communication, Federal University of Maranhão\n\n\n\n\n\n\n\n\n\n\n\n\n\nKelsey Carthew\n\n\nRights Lab Senior Operations Officer (Research Administration)\n\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "people.html#research-assistants",
     "href": "people.html#research-assistants",
-    "title": "Climate Resilience for Workers",
+    "title": "",
     "section": "Research Assistants",
     "text": "Research Assistants\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "people.html#alumni",
     "href": "people.html#alumni",
-    "title": "Climate Resilience for Workers",
+    "title": "",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\nNenhum item correspondente"
   },
@@ -238,74 +238,32 @@
     "text": "2010\nEbihara, A., J. H. Nitta, and M. Ito (2010). “Molecular species identification with rich floristic sampling: DNA barcoding the pteridophyte flora of Japan”. In: PLoS ONE 5.12, p. e15136. DOI: 10.1371/journal.pone.0015136  PDF\nEbihara, A., J. H. Nitta, and K. Iwatsuki (2010). “The Hymenophyllaceae of the Pacific area. 2. Hymenophyllum (excluding subgen. Hymenophyllum)”. In: Bulletin of the National Museum of Nature and Science, Series B (Botany) 36.2, pp. 43-59.   PDF"
   },
   {
-    "objectID": "talks/2022-03-17_india.html",
-    "href": "talks/2022-03-17_india.html",
-    "title": "DNA Barcoding of Fern Gametophytes: Past, Present, and Future (XVI Indian Fern Symposium Talk)",
+    "objectID": "talks/2023-01-01_ropensci.html",
+    "href": "talks/2023-01-01_ropensci.html",
+    "title": "Managing bioinformatics pipelines with R (rOpenSci community call)",
     "section": "",
-    "text": "Resources\n\nSlides\nPaper"
+    "text": "Resources\n\nrOpenSci community call\nSlides\nExample code\nBlog post"
   },
   {
-    "objectID": "talks/2022-06-30_iscbacad.ja.html",
-    "href": "talks/2022-06-30_iscbacad.ja.html",
-    "title": "Modular, reproducible bioinformatics workflows with the targets R package (ISCBacademy チュートリアル)",
+    "objectID": "talks/2022-07-24_botany_taxastand.ja.html",
+    "href": "talks/2022-07-24_botany_taxastand.ja.html",
+    "title": "Resolving Species Names Rapidly and Accurately with taxastand (Botany 2022 ポスター)",
     "section": "",
-    "text": "資料\n\nワークショップ\nスライド\nコード"
+    "text": "資料\n\nスライド\nRパッケージ"
   },
   {
-    "objectID": "talks/2022-05-07_biocasia.ja.html",
-    "href": "talks/2022-05-07_biocasia.ja.html",
-    "title": "How to use {targets} for effective workflows in R (BioC Asia ミートアップ)",
+    "objectID": "talks/2022-09-27_biodigi.ja.html",
+    "href": "talks/2022-09-27_biodigi.ja.html",
+    "title": "taxastand and dwctaxon: A pair of R packages for standardizing species names in Darwin Core format (BioDigiCon 2022 口頭発表)",
     "section": "",
-    "text": "資料\n\nワークショップ\nスライド\nコード"
+    "text": "資料\n\nスライド\ndwctaxon Rパッケージ\ntaxastand Rパッケージ"
   },
   {
-    "objectID": "talks/2022-05-07_biocasia.html",
-    "href": "talks/2022-05-07_biocasia.html",
-    "title": "How to use {targets} for effective workflows in R (BioC Asia meetup)",
+    "objectID": "talks/2022-08-10_carptrans.html",
+    "href": "talks/2022-08-10_carptrans.html",
+    "title": "Translation at The Carpentries: Technology Past, Present, and Future (CarpentryCon 2022 talk)",
     "section": "",
-    "text": "Resources\n\nWorkshop repo\nSlides\nExample code"
-  },
-  {
-    "objectID": "talks/2022-01-12_biohack.ja.html",
-    "href": "talks/2022-01-12_biohack.ja.html",
-    "title": "データ解析ワークフローを無駄なく、再現可能にするRパッケージ｢targets｣の紹介",
-    "section": "",
-    "text": "資料\n\nスライド\nコード"
-  },
-  {
-    "objectID": "talks/2022-08-10_carptrans.ja.html",
-    "href": "talks/2022-08-10_carptrans.ja.html",
-    "title": "Translation at The Carpentries: Technology Past, Present, and Future (CarpentryCon 2022 口頭発表)",
-    "section": "",
-    "text": "資料\n\nスライド"
-  },
-  {
-    "objectID": "talks/2023-01-21_yurufuwa.html",
-    "href": "talks/2023-01-21_yurufuwa.html",
-    "title": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ",
-    "section": "",
-    "text": "Resources\n\nYurufuwa Biology"
-  },
-  {
-    "objectID": "talks/2022-03-17_india.ja.html",
-    "href": "talks/2022-03-17_india.ja.html",
-    "title": "DNA Barcoding of Fern Gametophytes: Past, Present, and Future (XVI Indian Fern Symposium 口頭発表)",
-    "section": "",
-    "text": "資料\n\nスライド\n論文"
-  },
-  {
-    "objectID": "talks/2022-06-30_iscbacad.html",
-    "href": "talks/2022-06-30_iscbacad.html",
-    "title": "Modular, reproducible bioinformatics workflows with the targets R package (ISCBacademy Tutorial)",
-    "section": "",
-    "text": "Resources\n\nWorkshop repo\nSlides\nExample code"
-  },
-  {
-    "objectID": "talks/2022-09-27_biodigi.html",
-    "href": "talks/2022-09-27_biodigi.html",
-    "title": "taxastand and dwctaxon: A pair of R packages for standardizing species names in Darwin Core format (BioDigiCon 2022 talk)",
-    "section": "",
-    "text": "Resources\n\nSlides\ndwctaxon\ntaxastand"
+    "text": "Resources\n\nSlides"
   },
   {
     "objectID": "talks/2023-01-21_yurufuwa.ja.html",
@@ -525,53 +483,25 @@
     "text": "資料\n\nコミュニティー・コール\nスライド\nコード\nブログポスト"
   },
   {
-    "objectID": "talks/2022-07-24_botany_ftol.html",
-    "href": "talks/2022-07-24_botany_ftol.html",
-    "title": "An Open and Continuously Updated Fern Tree of Life (Botany 2022 talk)",
+    "objectID": "talks/2022-09-27_biodigi.html",
+    "href": "talks/2022-09-27_biodigi.html",
+    "title": "taxastand and dwctaxon: A pair of R packages for standardizing species names in Darwin Core format (BioDigiCon 2022 talk)",
     "section": "",
-    "text": "Resources\n\nSlides\nPaper"
+    "text": "Resources\n\nSlides\ndwctaxon\ntaxastand"
   },
   {
-    "objectID": "talks/2022-07-13_ismb.ja.html",
-    "href": "talks/2022-07-13_ismb.ja.html",
-    "title": "An Open and Continuously Updated Fern Tree of Life (ISMB EvolCompGen ポスター)",
+    "objectID": "talks/2023-01-21_yurufuwa.html",
+    "href": "talks/2023-01-21_yurufuwa.html",
+    "title": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ",
     "section": "",
-    "text": "資料\n\n論文"
+    "text": "Resources\n\nYurufuwa Biology"
   },
   {
-    "objectID": "talks/2022-07-13_ismb.html",
-    "href": "talks/2022-07-13_ismb.html",
-    "title": "An Open and Continuously Updated Fern Tree of Life (ISMB EvolCompGen Poster)",
+    "objectID": "talks/2022-08-10_carptrans.ja.html",
+    "href": "talks/2022-08-10_carptrans.ja.html",
+    "title": "Translation at The Carpentries: Technology Past, Present, and Future (CarpentryCon 2022 口頭発表)",
     "section": "",
-    "text": "Resources\n\nPaper"
-  },
-  {
-    "objectID": "talks/2022-08-10_carptrans.html",
-    "href": "talks/2022-08-10_carptrans.html",
-    "title": "Translation at The Carpentries: Technology Past, Present, and Future (CarpentryCon 2022 talk)",
-    "section": "",
-    "text": "Resources\n\nSlides"
-  },
-  {
-    "objectID": "talks/2022-09-27_biodigi.ja.html",
-    "href": "talks/2022-09-27_biodigi.ja.html",
-    "title": "taxastand and dwctaxon: A pair of R packages for standardizing species names in Darwin Core format (BioDigiCon 2022 口頭発表)",
-    "section": "",
-    "text": "資料\n\nスライド\ndwctaxon Rパッケージ\ntaxastand Rパッケージ"
-  },
-  {
-    "objectID": "talks/2022-07-24_botany_taxastand.ja.html",
-    "href": "talks/2022-07-24_botany_taxastand.ja.html",
-    "title": "Resolving Species Names Rapidly and Accurately with taxastand (Botany 2022 ポスター)",
-    "section": "",
-    "text": "資料\n\nスライド\nRパッケージ"
-  },
-  {
-    "objectID": "talks/2022-07-24_botany_ftol.ja.html",
-    "href": "talks/2022-07-24_botany_ftol.ja.html",
-    "title": "An Open and Continuously Updated Fern Tree of Life (Botany 2022 口頭発表)",
-    "section": "",
-    "text": "資料\n\nスライド\n論文"
+    "text": "資料\n\nスライド"
   },
   {
     "objectID": "talks/2022-07-24_botany_taxastand.html",
@@ -579,20 +509,6 @@
     "title": "Resolving Species Names Rapidly and Accurately with taxastand (Botany 2022 poster)",
     "section": "",
     "text": "Resources\n\nSlides\ntaxastand"
-  },
-  {
-    "objectID": "talks/2023-01-01_ropensci.html",
-    "href": "talks/2023-01-01_ropensci.html",
-    "title": "Managing bioinformatics pipelines with R (rOpenSci community call)",
-    "section": "",
-    "text": "Resources\n\nrOpenSci community call\nSlides\nExample code\nBlog post"
-  },
-  {
-    "objectID": "talks/2022-01-12_biohack.html",
-    "href": "talks/2022-01-12_biohack.html",
-    "title": "データ解析ワークフローを無駄なく、再現可能にするRパッケージ｢targets｣の紹介",
-    "section": "",
-    "text": "Resources\n\nSlides\nExample code"
   },
   {
     "objectID": "index.html",
@@ -611,28 +527,28 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Sobre NÓS",
+    "title": "sobre NÓS",
     "section": "",
-    "text": "PORTUGUESE!! Welcome to the home of Real World Data Science, a new project from the Royal Statistical Society, in partnership with the American Statistical Association. This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace."
+    "text": "PORTUGUESE!!"
   },
   {
     "objectID": "about.html#what-are-our-aims",
     "href": "about.html#what-are-our-aims",
-    "title": "Sobre NÓS",
+    "title": "sobre NÓS",
     "section": "What are our aims?",
     "text": "What are our aims?\nReal World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:\n\ndiscover and learn more efficiently;\n\nacquire practical problem-solving skills;\n\nshare their knowledge and accomplishments publicly;\n\nwork smarter, ethically, and more effectively."
   },
   {
     "objectID": "about.html#what-we-provide",
     "href": "about.html#what-we-provide",
-    "title": "Sobre NÓS",
+    "title": "sobre NÓS",
     "section": "What we provide",
     "text": "What we provide\nResources are created to meet the needs of our target audiences. These include:\n\nCase studies – showing how data science is used to solve real-world problems in business, public policy and beyond.\nExplainers – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.\nExercises – to challenge and develop the analytical mindset that all data scientists need to succeed.\n\nAdvice – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.\n\nWe are also curating resources to help data scientists identify trustworthy, high-quality content. These include:\n\nTraining guides – step-by-step approaches and recommended sources for learning new skills and methods.\nDatasets – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.\nFeeds – who and what to follow to keep up with new ideas and developments.\n\nClimate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture\nThis research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8."
   },
   {
     "objectID": "about.html#how-you-can-get-involved",
     "href": "about.html#how-you-can-get-involved",
-    "title": "Sobre NÓS",
+    "title": "sobre NÓS",
     "section": "How you can get involved",
     "text": "How you can get involved\nSee our open call for contributions."
   },

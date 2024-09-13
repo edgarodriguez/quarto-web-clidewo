@@ -5,7 +5,6 @@ website:
   favicon: "content/images/logo_yellow3.png"
   site-url: https://edgarodriguez.github.io/quarto-web-testing/
   repo-url: https://github.com/edgarodriguez/quarto-web-testing
- # title: "From amazing web Joel Nitta (example using github repo)"
   navbar:
     pinned: true
     logo: "content/img/logo_yellow3.png"
@@ -42,7 +41,7 @@ website:
 
   page-footer:
     background: light
-    left: © Copyright 2024, ERH
+    left: © Copyright 2024, Edgar Rodríguez-Huerta
     right: This website is built with {{< fa heart title="a heart" >}} Multi-lenguage thanks to babelquarto and Joel Nitto :)
   google-analytics: "G-RG1R3XP26Q"
   announcement:
@@ -57,10 +56,9 @@ format:
     theme: lux
      # light: flatly
      # dark: darkly
-    #fontsize: 1.5rem
+    fontsize: 1.2rem
     #fontcolor: "#212121"
     mainfont: inter
-  
     css: jnitta_theme.css
     include-in-header:
       - text: |
@@ -75,9 +73,9 @@ babelquarto:
     text: "English"
   mainlanguage: 'en'
   languages: ['pt']
-title-pt: Climate Resilience for Workers
-description-pt: CRVAA
-author-pt: Edgar Rodriguez
+title-pt: 
+description-pt: CRVA
+author-pt: Edgar Rodriguez Huerta
 lang: en
 
 # Override language specific fields here
