@@ -20,16 +20,15 @@ about:
     - icon: mortarboard
       text: scholar
       href: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
-    - icon: github
-      text: github
-      href: https://www.github.com/edgarodriguez
     - icon: twitter
       text: twitter
       href: https://www.twitter.com/edgarodriguez
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/edgarodriguez
-
+    - icon: github
+      text: github
+      href: https://www.github.com/edgarodriguez
 ---
 
 ```{=html}
@@ -47,20 +46,4 @@ about:
 :::
 
 ## Biography
-Dr. ERH...
-
-## Experience
-
-- **University of Nottingam** | Lawrence, KS, USA<br />
-  Assistant Professor of Psychology | 2020–Current<br />
-  Wright Faculty Scholar | 2020–2025<br />
-  Director of the [BBQ Doctoral Program](https://psychology.ku.edu/bbq) | 2022–Current <br />
-  Co-Director of the [Kansas Data Science Consortium](https://data.ku.edu) | 2023-Current
-
-- **Carnegie Mellon University** | Pittsburgh, PA, USA<br />
-  Postdoctoral Researcher, School of Computer Science | 2018–2020
-
-- **University of Mississippi Medical Center** | Jackson, MS, USA<br />
-  Clinical Intern, Department of Psychiatry | 2017–2018
-
-
+Edgar Rodríguez-Huerta works as part of the Measurement and Geographies Programme to research the interactions among socio-ecological systems, climate change and modern slavery. He conducts quantitative research through multiple systemic-thinking approaches such as Social Life Cycle Assessment and secondary data analysis, climate modelling, societal metabolism, and complex networks to explore the human dimensions of different supply chains (i.e. food supply, solar panels and brick kilns). He completed a PhD in Sustainability Science and with his background in data science and Business Intelligence, he is an enthusiast in data visualization to communicate and publish the technical results among stakeholders and facilitate decision making

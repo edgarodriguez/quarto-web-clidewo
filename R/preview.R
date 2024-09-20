@@ -12,4 +12,4 @@ if (check_urls) {
 render_website()
 
 # View locally
-httw("_site")
+httw("docs")

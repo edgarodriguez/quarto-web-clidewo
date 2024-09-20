@@ -1,9 +1,9 @@
 ---
-pagetitle: "Nosso time"
+pagetitle: Nosso time
 lang: pt
 toc: false
 listing:
-  - id: research-staff
+  - id: nosso-time
     contents: "people/staff/*.qmd"
     type: grid
     image-height: 225px

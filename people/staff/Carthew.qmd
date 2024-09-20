@@ -2,7 +2,7 @@
 title: "Kelsey Carthew"
 sortby: "7"
 subtitle: "Rights Lab Senior Operations Officer (Research Administration)"
-image: Carthew.jpeg
+image: "content/img/Carthew.jpeg"
 started:
 toc: false
 resources: 
@@ -13,16 +13,10 @@ about:
   links:
     - icon: link
       text: website
-      href: https://www.jmgirard.com
-    - icon: mortarboard
-      text: scholar
-      href: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
-    - icon: github
-      text: github
-      href: https://www.github.com/edgarodriguez
-    - icon: twitter
-      text: twitter
-      href: https://www.twitter.com/edgarodriguez
+      href: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/kelsey-carthew/index.aspx
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/kelsey-carthew-480661118/
 ---
 
 ```{=html}
@@ -40,48 +34,5 @@ about:
 :::
 
 ## Biography
-Dr. Jeffrey Girard studies how emotions are expressed through verbal and nonverbal behavior, as well as how interpersonal communication is influenced by individual differences (e.g., personality and mental health) and social factors (e.g., culture and context). This work is deeply interdisciplinary and draws insights and tools from various areas of social science, computer science, statistics, and medicine.
+Kelsey Carthew is part of the Rights Lab’s research operations team. She supports the coordination and implementation efforts on several Rights Lab research projects in addition to providing operational support. She joined the team after success within other roles within the University. She is currently pursuing her LLM in Public International Law at the University of Nottingham.
 
-He completed his doctoral training under the mentorship of Dr. Jeffrey Cohn (nonverbal behavior, machine learning, depression) and Dr. Aidan Wright (interpersonal functioning, statistics, personality). He then completed his predoctoral clinical internship at the University of Mississippi Medical Center (inpatient psychiatry, trauma treatment, neuropsychology) and a two-year postdoctoral research fellowship at Carnegie Mellon University under the mentorship of Dr. Louis-Philippe Morency (verbal behavior, machine learning, computer science). 
-
-He is now an Assistant Professor in the department of Psychology at the University of Kansas, where he directs the Affective Communication and Computing lab and the Brain, Behavior, and Quantitative Science (BBQ) program. He teaches undergraduate and graduate courses on psychological assessment, data science, and statistics within the department and is a co-founder of [SMaRT Workshops](https://www.smart-workshops.com), which offers numerous methodological training workshops to faculty and students. He is also the developer and maintainer of numerous open-source research software packages (see [Resources](../../resources.qmd)).
-
-## Experience
-
-- **University of Kansas** | Lawrence, KS, USA<br />
-  Assistant Professor of Psychology | 2020–Current<br />
-  Wright Faculty Scholar | 2020–2025<br />
-  Director of the [BBQ Doctoral Program](https://psychology.ku.edu/bbq) | 2022–Current <br />
-  Co-Director of the [Kansas Data Science Consortium](https://data.ku.edu) | 2023-Current
-
-- **Carnegie Mellon University** | Pittsburgh, PA, USA<br />
-  Postdoctoral Researcher, School of Computer Science | 2018–2020
-
-- **University of Mississippi Medical Center** | Jackson, MS, USA<br />
-  Clinical Intern, Department of Psychiatry | 2017–2018
-
-## Journal Editing
-
-- **NPP Digital Psychiatry and Neuroscience** <a href="https://www.nature.com/dpn/" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Consulting Editor | 2023–Current
-- **Journal of Psychopathology and Clinical Science** <a href="https://www.apa.org/pubs/journals/abn" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Consulting Editor | 2023–Current
-- **IEEE Transactions on Affective Computing** <a href="https://www.computer.org/csdl/journal/ta" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Associate Editor | 2022–Current
-- **Collabra Psychology** <a href="https://online.ucpress.edu/collabra" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Associate Editor | 2021–Current
-- **Clinical Psychological Science** <a href="https://journals.sagepub.com/home/cpx" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Consulting Editor | 2021–Current
-- **Psychological Assessment** <a href="https://www.apa.org/pubs/journals/pas" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Consulting Editor | 2020–2022
-
-## Education
-
-- **University of Pittsburgh** | Pittsburgh, PA, USA<br />
-  PhD in Psychology (Clinical) | 2013–2018
-
-- **University of Pittsburgh** | Pittsburgh, PA, USA<br />
-  MS in Psychology (Clinical) | 2010–2013
-
-- **University of Washington** | Seattle, WA, USA<br />
-  BA in Psychology & Philosophy (Honors) | 2005–2008 

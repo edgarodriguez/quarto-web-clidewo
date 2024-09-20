@@ -1,5 +1,5 @@
 ---
-title: "Publications PT"
+title: "Publicações"
 lang: pt
 date: today
 output: distill::distill_article
