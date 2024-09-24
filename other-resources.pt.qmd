@@ -1,13 +1,14 @@
 ---
-title: "Other Resources"
+pagetitle: Outros recursos
+title: "outros recursos"
 subtitle: "List of other resources related to the analysis for Climate Change, Decent Work and Workers Health"
 comments: false
-lang: en
+lang: pt
 date: today
 listing:
   contents: other-resources
   include:
-    lang: en
+    lang: pt
   type: table
   fields: [title,description, categories]
   categories: true

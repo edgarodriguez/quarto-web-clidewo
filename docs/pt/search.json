@@ -9,9 +9,9 @@
   {
     "objectID": "other-resources.html",
     "href": "other-resources.html",
-    "title": "Other Resources",
+    "title": "outros recursos",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDescription\n\n\nCategories\n\n\n\n\n\n\nSmartLab\n\n\nPromoção do Trabalho Decente Guiada por Dados\n\n\nForced labour\n\n\n\n\n\nNo matching items"
+    "text": "Ordenar por\n       Pré-selecionado\n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\nCategorias\n\n\n\n\n\n\nSmartLab\n\n\nPromoção do Trabalho Decente Guiada por Dados\n\n\ntrabalho escravo\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "people/staff/Andrade.html",
@@ -170,37 +170,37 @@
   {
     "objectID": "literature-tools.html",
     "href": "literature-tools.html",
-    "title": "about",
+    "title": "",
     "section": "",
-    "text": "https://www.alphaxiv.org\nalphaXiv.org is an online platform designed for open and collaborative discussion on research papers published on arXiv. It allows users to leave comments directly on specific lines within a paper, fostering a more focused and insightful conversation."
+    "text": "Parte dos nossos objetivos é abrir novas formas de compartilhamento de informações e aprendizagem durante todas as etapas do projeto, incluindo o processo de coleta de referências, revisão da literatura e discussão entre a equipe.\nA seguir estão algumas ferramentas propostas. Ainda estamos no processo de identificar quais ferramentas são mais eficazes para o nosso propósito e que se adaptam ao fluxo de trabalho do projeto. Então, isso pode evoluir no futuro.\n\n\n\nalphaXiv.org is an online platform designed for open and collaborative discussion on research papers published on arXiv. It allows users to leave comments directly on specific lines within a paper, fostering a more focused and insightful conversation.\n\n\nAs an open access tool, we will include analyses related to our literature review and the process during the development of the methodological framework. We also believe that it will be a powerful tool for collaborating with other stakeholders during the project.\n\n\n\n\nResearchRabbit is a free online “citation-based literature mapping tool.” It is a visual literature review software mapping tool. The tool connects your research interests to related articles and authors.\n\n\nWe will share our collections of quotes and leave it open to the community to collaborate to identify gaps and strengthen data collection.\nSee our collection in Research Rabbit: Collection (in process)\n\n\n\n\nCode for CRVA integration will be included to facilitate reproducibility of the project."
   },
   {
-    "objectID": "literature-tools.html#what-is-alphaxiv",
-    "href": "literature-tools.html#what-is-alphaxiv",
-    "title": "about",
+    "objectID": "literature-tools.html#revisão-de-literatura-e-ferramentas-de-análise",
+    "href": "literature-tools.html#revisão-de-literatura-e-ferramentas-de-análise",
+    "title": "",
     "section": "",
-    "text": "https://www.alphaxiv.org\nalphaXiv.org is an online platform designed for open and collaborative discussion on research papers published on arXiv. It allows users to leave comments directly on specific lines within a paper, fostering a more focused and insightful conversation."
+    "text": "Parte dos nossos objetivos é abrir novas formas de compartilhamento de informações e aprendizagem durante todas as etapas do projeto, incluindo o processo de coleta de referências, revisão da literatura e discussão entre a equipe.\nA seguir estão algumas ferramentas propostas. Ainda estamos no processo de identificar quais ferramentas são mais eficazes para o nosso propósito e que se adaptam ao fluxo de trabalho do projeto. Então, isso pode evoluir no futuro."
   },
   {
-    "objectID": "literature-tools.html#our-proposal",
-    "href": "literature-tools.html#our-proposal",
-    "title": "about",
-    "section": "Our proposal",
-    "text": "Our proposal\nOur goal is abrir nuevas formas de compartir información y aprendizaje durantes todas las etapdas del proyecto, incluyendo revisión bibliografica, elaboracion de borradores, y discusión entre el equipo de trabajo.\nAs open-access tool, we will try to include analysis related oour literature review and process during the elboration od the methodlogical framework. Likewise, we believe will be a powerfool tool to collaborate with other stakeholders durii g the project"
+    "objectID": "literature-tools.html#alphaxiv",
+    "href": "literature-tools.html#alphaxiv",
+    "title": "",
+    "section": "",
+    "text": "alphaXiv.org is an online platform designed for open and collaborative discussion on research papers published on arXiv. It allows users to leave comments directly on specific lines within a paper, fostering a more focused and insightful conversation.\n\n\nAs an open access tool, we will include analyses related to our literature review and the process during the development of the methodological framework. We also believe that it will be a powerful tool for collaborating with other stakeholders during the project."
   },
   {
-    "objectID": "literature-tools.html#how",
-    "href": "literature-tools.html#how",
-    "title": "about",
-    "section": "How?",
-    "text": "How?\nWe will share links to the documents that we are using.."
+    "objectID": "literature-tools.html#literature-review-networks",
+    "href": "literature-tools.html#literature-review-networks",
+    "title": "",
+    "section": "",
+    "text": "ResearchRabbit is a free online “citation-based literature mapping tool.” It is a visual literature review software mapping tool. The tool connects your research interests to related articles and authors.\n\n\nWe will share our collections of quotes and leave it open to the community to collaborate to identify gaps and strengthen data collection.\nSee our collection in Research Rabbit: Collection (in process)"
   },
   {
-    "objectID": "literature-tools.html#other-ideas",
-    "href": "literature-tools.html#other-ideas",
-    "title": "about",
-    "section": "Other ideas",
-    "text": "Other ideas\n\nIntentar añadir analisis de redes en la literatura para idnetificar key references.. Igualmente, idneitifcar missingness.\nRevisar opciones de agregar widgets de research rabbit o obsidian."
+    "objectID": "literature-tools.html#data-science-tools-and-r-packages",
+    "href": "literature-tools.html#data-science-tools-and-r-packages",
+    "title": "",
+    "section": "",
+    "text": "Code for CRVA integration will be included to facilitate reproducibility of the project."
   },
   {
     "objectID": "people.pt/staff/Montanari.html",
