@@ -1,6 +1,7 @@
 ---
 pagetitle: about
-title: ""
+title: about
+hide_title: true
 subtitle: ""
 sidebar: false
 page-layout: article
@@ -30,8 +31,6 @@ library(fontawesome)
 ```
 
 ::: {.justify}
-
-## ABOUT
 
 This research project aims to 
 
