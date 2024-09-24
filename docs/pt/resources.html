@@ -63,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -194,8 +194,14 @@ window.Quarto = {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
     <h5 class="quarto-listing-category-title">Categorias</h5>
-<div class="quarto-listing-category category-default"><div class="category" data-category="">Tudo <span class="quarto-category-count">(0)</span>
-</div></div>
+<div class="quarto-listing-category category-default">
+<div class="category" data-category="">Tudo <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="Climate change">Climate change <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="Heat stress">Heat stress <span class="quarto-category-count">(1)</span>
+</div>
+</div>
 </div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
@@ -247,7 +253,17 @@ Descrição
 Categorias
 </th>
 </tr></thead>
-<tbody class="list"></tbody>
+<tbody class="list"><tr data-index="0" data-categories="Climate change,Heat stress" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1727189656059" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23" data-listing-title-sort="Exposição ao clima" data-listing-filename-sort="2024-09-24_heatstress.pt.qmd">
+<td>
+<a href="./resources/2024-09-24_heatstress.pt.html" class="title listing-title">Exposição ao clima</a>
+</td>
+<td>
+<span class="listing-description">Exposição ao estresse térmico no Brasil</span>
+</td>
+<td>
+<span class="listing-categories">Climate change, Heat stress</span>
+</td>
+</tr></tbody>
 </table>
 <div class="listing-no-matching d-none">
 Nenhum item correspondente

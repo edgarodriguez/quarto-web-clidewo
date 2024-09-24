@@ -1,5 +1,5 @@
 ---
-title: Sobre
+pagetitle: Sobre
 subtitle: ""
 sidebar: false
 page-layout: article

@@ -33,9 +33,7 @@
   },
   {
     "listing": "/news.html",
-    "items": [
-      "/posts/2024-09-24_example-scrollying-telling/index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/publications.html",
@@ -52,6 +50,8 @@
   },
   {
     "listing": "/resources.html",
-    "items": []
+    "items": [
+      "/resources/2024-09-24_heatstress.pt.html"
+    ]
   }
 ]

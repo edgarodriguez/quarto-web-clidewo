@@ -1,9 +1,11 @@
 ---
-title: Mudanças climáticas, saúde ocupacional e trabalho decente
-subtitle: "Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira"
+title: ""
+subtitle: ""
 lang: pt
-
-
+draft: false
+toc: false
+lightbox: false
+cookie-consent: true
 execute:
   echo: false
 comments: false
@@ -19,22 +21,52 @@ comments: false
 library(fontawesome)
 ```
 
+::: {.column-screen}
+![](./content/img/Ecosystem.jpg "Planada Community Mural @JoelArtista")
+:::
+
+
 :::{.column-body-outset}
 
-## O Project
 
 
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
 
-Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture
+::: {.justify}
+
+# Mudanças climáticas, saúde ocupacional e trabalho decente: Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira
+
+O projeto produzirá uma avaliação de risco e vulnerabilidade climática (CRVA) informada pelo trabalhador e orientada por dados para trabalhadores agrícolas no Brasil com relação aos riscos climáticos e avaliará como práticas de trabalho indecentes exacerbam a vulnerabilidade e diminuem a saúde ocupacional. Ao aplicar uma abordagem inovadora de avaliação de risco multicamadas que integra modelos climáticos, dados socioeconômicos e dados qualitativos de voz do trabalhador, o projeto fornece uma compreensão valiosa da relação entre mudança climática e trabalho decente, incluindo saúde do trabalhador, condições de trabalho e vulnerabilidade do trabalhador no caso do Brasil.
 
 
-
-![](./content/img/Ecosystem.jpg){.hero}
-
-## Partners
+## Qual é o nosso objetivo?
+Este projeto apoia as aspirações mais amplas para alcançar condições de trabalho decentes, conforme estabelecido no [Objetivo de Desenvolvimento Sustentável (ODS) 8 da ONU](https://sdgs.un.org/goals/goal8).
 
 
-## Acknowlegde
+## Organizações
+
+:::{#logo-organizations layout-ncol=4}
+
+[![](./content/img/logo-RL.png)](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx){fig-align="center" width="100%"}
+
+[![](./content/img/logo-UFF.png){fig-align="center" width="100%"}](https://www.uff.br)
+
+[![](./content/img/logo-UFMT.png){fig-align="center" width="90"}](https://www.ufmt.br)
+
+[![](./content/img/logo-UFMA.png){fig-align="center" width="90"}](https://portalpadrao.ufma.br)
+
+:::
+
+
+## Reconhecimento
+
+Este projeto é financiado pelo Programa ODA Challenge-Oriented Research Grants 2024 da [Academia Britânica](https://www.thebritishacademy.ac.uk), apoiado pelo Fundo de Parcerias Científicas Internacionais do governo do Reino Unido.
 
 
 :::
+:::
+

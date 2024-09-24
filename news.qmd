@@ -1,5 +1,6 @@
 ---
 title: "News/Events"
+subtitle: "Coming events and working planning could be here"
 lang: en
 listing:
   contents: news

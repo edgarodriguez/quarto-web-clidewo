@@ -15,7 +15,8 @@ categories:
 
 An example of how can be publised multiples datasets generated during the project
 
-![2024-09-24_heatstress-demo.png]
+[![](2024-09-24_heatstress-demo.png)]{fig-align="center" width="100%"}
+
 
 
 ### Resources

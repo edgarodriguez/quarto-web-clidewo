@@ -1,10 +1,11 @@
 ---
-title: "Blog"
-lang: en
+title: "Notícias e Eventos"
+subtitle: "Próximos eventos e planejamento de trabalho podem estar aqui"
+lang: pt
 listing:
-  contents: posts
+  contents: news
   include:
-    lang: en
+    lang: pt
   sort: "date desc"
   type: default
   categories: true

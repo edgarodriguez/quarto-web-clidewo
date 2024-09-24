@@ -1,4 +1,5 @@
 ---
+pagetitle: Datasets
 title: "Datasets"
 subtitle: "Conjuntos de dados gerados durante o projeto"
 comments: false

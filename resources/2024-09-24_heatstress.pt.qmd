@@ -1,8 +1,8 @@
 ---
-title: "Climate Exposure"
-description: "Heat stress exposure in Brazil"
+title: "Exposição ao clima"
+description: "Exposição ao estresse térmico no Brasil"
 image: "2024-09-24_heatstress-demo.png"
-lang: en
+lang: pt
 date: 2023-01-01
 execute:
   echo: false
@@ -13,12 +13,12 @@ categories:
   - Heat stress
 ---
 
-An example of how can be publised multiples datasets generated during the project
+Um exemplo de como podem ser publicados múltiplos conjuntos de dados gerados durante o projeto
 
-![2024-09-24_heatstress-demo.png]
+[![](2024-09-24_heatstress-demo.png)]{fig-align="center" width="100%"}
 
 
-### Resources
+### Recursos
 
 - [Download dataset]
 - [Code and documentation]

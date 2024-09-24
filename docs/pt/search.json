@@ -2,7 +2,7 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Blogue",
+    "title": "",
     "section": "",
     "text": "Para a Amazônia\n\n\n\n\n\n\nAmanzon\n\n\ndatavis\n\n\n\nExemplo de scrollytelling\n\n\n\n\n\n24 de nov. de 2021\n\n\n\n\n\n\nNenhum item correspondente"
   },
@@ -86,21 +86,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Sobre",
+    "title": "",
     "section": "",
     "text": "Este projeto de pesquisa visa\n\nProduzir um CRVA para trabalhadores agrícolas no Brasil com relação aos riscos climáticos,\nAvaliar como as práticas de trabalho forçado exacerbam a vulnerabilidade e diminuem a saúde ocupacional,\nEntender como os trabalhadores estão se adaptando atualmente e quais são suas principais necessidades para aumentar sua resiliência às mudanças climáticas.\n\nProduziremos inferências acionáveis para as principais partes interessadas e formuladores de políticas com o objetivo de melhorar as estratégias de mitigação de riscos climáticos no trabalho agrícola e desenvolver estratégias de adaptação para trabalhadores afetados pelas mudanças climáticas.\n\n\n\n\nComo os riscos climáticos influenciam a prevalência de problemas de saúde ocupacional, doenças relacionadas ao trabalho e condições análogas à escravidão entre trabalhadores agrícolas no Brasil?\nQuais são os grupos mais afetados e os caminhos socioeconômicos pelos quais as mudanças climáticas impactam os direitos trabalhistas, salários e segurança ocupacional no setor agrícola?\nQuais intervenções existentes visam abordar os riscos climáticos e as condições indecentes de trabalho na agricultura?\nComo os trabalhadores na agricultura respondem aos riscos climáticos para promover o bem-estar, a segurança alimentar e práticas sustentáveis?\nQuais insights podem ser extraídos da pesquisa interdisciplinar para informar políticas e práticas para aumentar a resiliência e o bem-estar?\n\nAo responder a essas perguntas, pretendemos entender melhor o impacto do nexo clima/trabalho/saúde nas populações locais, vinculando explicitamente as localizações geográficas a commodities agrícolas específicas. Isso identificará áreas vulneráveis donde intervenções direcionadas podem ajudar a mitigar os efeitos das mudanças climáticas. Os métodos, dados e análises novos, inovadores e integrados do projeto apoiarão essas estratégias de mitigação e adaptação mais direcionadas."
   },
   {
     "objectID": "about.html#objectivos",
     "href": "about.html#objectivos",
-    "title": "Sobre",
+    "title": "",
     "section": "",
     "text": "Este projeto de pesquisa visa\n\nProduzir um CRVA para trabalhadores agrícolas no Brasil com relação aos riscos climáticos,\nAvaliar como as práticas de trabalho forçado exacerbam a vulnerabilidade e diminuem a saúde ocupacional,\nEntender como os trabalhadores estão se adaptando atualmente e quais são suas principais necessidades para aumentar sua resiliência às mudanças climáticas.\n\nProduziremos inferências acionáveis para as principais partes interessadas e formuladores de políticas com o objetivo de melhorar as estratégias de mitigação de riscos climáticos no trabalho agrícola e desenvolver estratégias de adaptação para trabalhadores afetados pelas mudanças climáticas."
   },
   {
     "objectID": "about.html#perguntas-de-pesquisa",
     "href": "about.html#perguntas-de-pesquisa",
-    "title": "Sobre",
+    "title": "",
     "section": "",
     "text": "Como os riscos climáticos influenciam a prevalência de problemas de saúde ocupacional, doenças relacionadas ao trabalho e condições análogas à escravidão entre trabalhadores agrícolas no Brasil?\nQuais são os grupos mais afetados e os caminhos socioeconômicos pelos quais as mudanças climáticas impactam os direitos trabalhistas, salários e segurança ocupacional no setor agrícola?\nQuais intervenções existentes visam abordar os riscos climáticos e as condições indecentes de trabalho na agricultura?\nComo os trabalhadores na agricultura respondem aos riscos climáticos para promover o bem-estar, a segurança alimentar e práticas sustentáveis?\nQuais insights podem ser extraídos da pesquisa interdisciplinar para informar políticas e práticas para aumentar a resiliência e o bem-estar?\n\nAo responder a essas perguntas, pretendemos entender melhor o impacto do nexo clima/trabalho/saúde nas populações locais, vinculando explicitamente as localizações geográficas a commodities agrícolas específicas. Isso identificará áreas vulneráveis donde intervenções direcionadas podem ajudar a mitigar os efeitos das mudanças climáticas. Os métodos, dados e análises novos, inovadores e integrados do projeto apoiarão essas estratégias de mitigação e adaptação mais direcionadas."
   },
@@ -112,25 +112,32 @@
     "text": "SmartLab\n\nSmartLab\n\nGovernos de todo o mundo produzem grandes quantidades de dados relevantes para políticas públicas. Entretanto, raramente esses dados se transformam em informações úteis à tomada de decisões a respeito de questões de alta complexidade que marcam a atualidade e que exigem intervenções baseadas em evidências e orientadas para resultados. Por outro lado, a formulação, o monitoramento e a avaliação de programas, projetos e políticas públicas são processos que exigem informações. Nesse contexto, a iniciativa SmarlLab surgiu para construir conhecimento relevante para políticas públicas de promoção do trabalho decente com o uso de um recurso público de baixíssimo custo: dados públicos abertos. A iniciativa conjunta do MPT e da OIT Brasil deu origem à Plataforma SmartLab, que tem fortalecido a cooperação com organizações governamentais, não-governamentais e internacionais que atuam na promoção dessa agenda e que precisam de informações para tomar decisões sobre as ações que desenvolvem. Por meio de Observatórios Digitais, a plataforma beneficia também a comunidade científica, que passa a ter acesso a informações com facilidade sem precedentes para pesquisa. Além disso, o fluxo público de informações para tomada de decisões baseadas em evidências e orientadas para resultados beneficia a sociedade civil em geral."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mudanças climáticas, saúde ocupacional e trabalho decente",
-    "section": "",
-    "text": "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture"
+    "objectID": "index.html#qual-é-o-nosso-objetivo",
+    "href": "index.html#qual-é-o-nosso-objetivo",
+    "title": "Mudanças climáticas, saúde ocupacional e trabalho decente: Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira",
+    "section": "Qual é o nosso objetivo?",
+    "text": "Qual é o nosso objetivo?\nEste projeto apoia as aspirações mais amplas para alcançar condições de trabalho decentes, conforme estabelecido no Objetivo de Desenvolvimento Sustentável (ODS) 8 da ONU."
   },
   {
-    "objectID": "index.html#o-project",
-    "href": "index.html#o-project",
-    "title": "Mudanças climáticas, saúde ocupacional e trabalho decente",
-    "section": "",
-    "text": "Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture"
+    "objectID": "index.html#organizações",
+    "href": "index.html#organizações",
+    "title": "Mudanças climáticas, saúde ocupacional e trabalho decente: Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira",
+    "section": "Organizações",
+    "text": "Organizações"
+  },
+  {
+    "objectID": "index.html#reconhecimento",
+    "href": "index.html#reconhecimento",
+    "title": "Mudanças climáticas, saúde ocupacional e trabalho decente: Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira",
+    "section": "Reconhecimento",
+    "text": "Reconhecimento\nEste projeto é financiado pelo Programa ODA Challenge-Oriented Research Grants 2024 da Academia Britânica, apoiado pelo Fundo de Parcerias Científicas Internacionais do governo do Reino Unido."
   },
   {
     "objectID": "resources/2024-09-24_heatstress.pt.html",
     "href": "resources/2024-09-24_heatstress.pt.html",
-    "title": "Climate Exposure",
+    "title": "Exposição ao clima",
     "section": "",
-    "text": "An example of how can be publised multiples datasets generated during the project\n![2024-09-24_heatstress-demo.png]\n\nResources\n\n[Download dataset]\n[Code and documentation]\n[Blog post]"
+    "text": "Um exemplo de como podem ser publicados múltiplos conjuntos de dados gerados durante o projeto\n\n\nRecursos\n\n[Download dataset]\n[Code and documentation]\n[Blog post]"
   },
   {
     "objectID": "publications/2024-07-20_theorical-framework/index.pt.html",
@@ -368,14 +375,14 @@
     "href": "resources/2024-09-24_heatstress.html",
     "title": "Climate Exposure",
     "section": "",
-    "text": "An example of how can be publised multiples datasets generated during the project\n![2024-09-24_heatstress-demo.png]\n\nResources\n\n[Download dataset]\n[Code and documentation]\n[Blog post]"
+    "text": "An example of how can be publised multiples datasets generated during the project\n\n\nResources\n\n[Download dataset]\n[Code and documentation]\n[Blog post]"
   },
   {
     "objectID": "news.html",
     "href": "news.html",
-    "title": "Blog",
+    "title": "Notícias e Eventos",
     "section": "",
-    "text": "Into the Amazon\n\n\n\n\n\n\nAmanzon\n\n\ndatavis\n\n\n\nExample of scrollytelling\n\n\n\n\n\nNov 24, 2021\n\n\n\n\n\n\nNo matching items"
+    "text": "Nenhum item correspondente"
   },
   {
     "objectID": "other-resources/SmartLab.html",
@@ -466,6 +473,6 @@
     "href": "resources.html",
     "title": "Datasets",
     "section": "",
-    "text": "Ordenar por\n       Pré-selecionado\n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\nCategorias\n\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Ordenar por\n       Pré-selecionado\n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\nCategorias\n\n\n\n\n\n\nExposição ao clima\n\n\nExposição ao estresse térmico no Brasil\n\n\nClimate change, Heat stress\n\n\n\n\n\nNenhum item correspondente"
   }
 ]
