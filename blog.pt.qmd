@@ -1,6 +1,6 @@
 ---
 pagetitle: Blogue
-title: ""
+title: "Blogue"
 lang: pt
 listing:
   contents: posts

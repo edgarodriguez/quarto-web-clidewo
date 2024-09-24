@@ -24,10 +24,8 @@ website:
             href: literature-tools.qmd        
           - text: Other sources
             href: other-resources.qmd                   
-      - text: Blog
-        href: blog.qmd 
-      - text: News/Events
-        href: news.qmd
+      - href: blog.qmd 
+      - href: news.qmd
       - text: Contact
         href: contact.qmd      
 
