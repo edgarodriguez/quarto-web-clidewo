@@ -1,12 +1,12 @@
 ---
 title: "Marcia Montanari"
 sortby: "7"
-subtitle: "TBD"
+subtitle: ""
 image: "content/img/TBD.png"
 started:
 toc: false
 resources: 
-  - "girard_cv.pdf"
+  - "TBD_cv.pdf"
 about:
   id: person-profile
   template: jolla
@@ -33,5 +33,24 @@ about:
 :::{#person-profile}
 :::
 
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
 ## Biography
 
+Coming soon
+
+:::

@@ -1,0 +1,49 @@
+---
+title: "Edgar Rodriguez-Huerta"
+sortby: "1"
+subtitle: "Senior Research Fellow"
+image: "content/img/Rodriguez.jpeg"
+started: 
+toc: false
+resources: 
+  - "girard_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    - icon: file-earmark-text
+      text: vitae
+      href: ./people/staff/girard_cv.pdf
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
+    - icon: twitter
+      text: twitter
+      href: https://www.twitter.com/edgarodriguez
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/edgarodriguez
+    - icon: github
+      text: github
+      href: https://www.github.com/edgarodriguez
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+Edgar Rodríguez-Huerta works as part of the Measurement and Geographies Programme to research the interactions among socio-ecological systems, climate change and modern slavery. He conducts quantitative research through multiple systemic-thinking approaches such as Social Life Cycle Assessment and secondary data analysis, climate modelling, societal metabolism, and complex networks to explore the human dimensions of different supply chains (i.e. food supply, solar panels and brick kilns). He completed a PhD in Sustainability Science and with his background in data science and Business Intelligence, he is an enthusiast in data visualization to communicate and publish the technical results among stakeholders and facilitate decision making

@@ -1,5 +1,5 @@
 ---
-title: about
+title: ""
 sidebar: false
 page-layout: article
 toc: false
@@ -15,5 +15,3 @@ lang: en
 ```
 
 
-## How you can get involved
-See our open [call for contributions](contributor-docs/call-for-contributions.qmd).

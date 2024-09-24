@@ -54,7 +54,7 @@ ul.task-list li input[type="checkbox"] {
 }</script><script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-nosso-time .list');
+    const listingTargetEl = window.document.querySelector('#listing-Nosso-time .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -67,63 +67,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-nosso-time'] = new List('listing-nosso-time', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-research-assistants .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-started',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: [],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-research-assistants'] = new List('listing-research-assistants', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-alumni .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-subtitle","listing-started","listing-ended"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-alumni'] = new List('listing-alumni', options);
+    window['quarto-listings']['listing-Nosso-time'] = new List('listing-Nosso-time', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -188,11 +132,11 @@ window.Quarto = {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
 <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">sobre NÓS</span></a>
+<span class="menu-text">about</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./people.html" aria-current="page"> 
-<span class="menu-text">Research Staff</span></a>
+<span class="menu-text">Nosso time</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
@@ -208,16 +152,12 @@ window.Quarto = {
  <span class="dropdown-text">Datasets</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./publications.html">
- <span class="dropdown-text">Literature analysis</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./alphaxiv.html">
+    <a class="dropdown-item" href="./datavis.qmd">
  <span class="dropdown-text">Datavis</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./alphaxiv.html">
- <span class="dropdown-text">Alphaxiv</span></a>
+ <span class="dropdown-text">Literature analysis</span></a>
   </li>  
     </ul>
 </li>
@@ -226,11 +166,11 @@ window.Quarto = {
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.qmd"> 
+    <a class="nav-link" href="./news.html"> 
 <span class="menu-text">News/Events</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.qmd"> 
+    <a class="nav-link" href="./contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -252,75 +192,20 @@ window.Quarto = {
 <main class="content" id="quarto-document-content"><nav aria-label="breadcrumb"><ol class="breadcrumb">
 <li class="breadcrumb-item"><a href="index.html">Home</a></li>
     <li class="breadcrumb-item active" aria-current="page">People</li>
-  </ol></nav><section id="research-staff" class="level2"><h2 class="anchored" data-anchor-id="research-staff">Research Staff</h2>
-<div id="research-staff">
+  </ol></nav><section id="nosso-time" class="level2"><h2 class="anchored" data-anchor-id="nosso-time">Nosso time</h2>
+<div id="Our-team">
 
 </div>
-</section><section id="research-assistants" class="level2"><h2 class="anchored" data-anchor-id="research-assistants">Research Assistants</h2>
-<div id="listing-research-assistants" class="quarto-listing quarto-listing-container-grid">
+
+
+
+</section><div class="quarto-listing quarto-listing-container-grid" id="listing-Nosso-time">
 <div class="list grid quarto-listing-cols-3">
-
-</div>
-<div class="listing-no-matching d-none">
-Nenhum item correspondente
-</div>
-</div>
-</section><section id="alumni" class="level2"><h2 class="anchored" data-anchor-id="alumni">Alumni</h2>
-<div id="listing-alumni" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-alumni-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-alumni'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})"><option value="" disabled selected hidden="">Ordenar por</option>
-<option value="index" data-direction="asc">Pré-selecionado</option>
-<option value="listing-title-sort" data-direction="asc">
-          Name
-        </option>
-<option value="listing-subtitle" data-direction="asc">
-          Role
-        </option>
-<option value="listing-started" data-direction="asc">
-          Started
-        </option>
-<option value="listing-ended" data-direction="asc">
-          Ended
-        </option></select>
-</div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filtro">
-</div>
-</div>
-<table class="quarto-listing-table table">
-<thead><tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Name</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Role</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-started" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Started</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-ended" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Ended</a>
-</th>
-</tr></thead>
-<tbody class="list"></tbody>
-</table>
-<div class="listing-no-matching d-none">
-Nenhum item correspondente
-</div>
-</div>
-
-
-
-</section><div class="quarto-listing quarto-listing-container-grid" id="listing-nosso-time">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1727171988587" data-listing-reading-time-sort="1" data-listing-word-count-sort="137">
-<a href="./people/staff/Rodriguez-Huerta.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1727178785111" data-listing-reading-time-sort="1" data-listing-word-count-sort="137">
+<a href="./people.pt/staff/Rodriguez-Huerta.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./people/staff/content/img/Rodriguez.jpeg" class="thumbnail-image card-img" style="height: 225px;"></p>
+<img loading="lazy" src="./people.pt/staff/content/img/Rodriguez.jpeg" class="thumbnail-image card-img" style="height: 225px;"></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Edgar Rodriguez-Huerta
@@ -332,11 +217,27 @@ Senior Research Fellow
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1727171988586" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
-<a href="./people/staff/Leao.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1727178785109" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
+<a href="./people.pt/staff/Andrade.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./people/staff/content/img/TBD.png" class="thumbnail-image card-img" style="height: 225px;"></p>
+<img loading="lazy" src="./people.pt/staff/content/img/TBD.png" class="thumbnail-image card-img" style="height: 225px;"></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gabriela Andrade
+</h5>
+<div class="card-subtitle listing-subtitle">
+
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1727178785110" data-listing-reading-time-sort="2" data-listing-word-count-sort="238">
+<a href="./people.pt/staff/Leao.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people.pt/staff/content/img/TBD.png" class="thumbnail-image card-img" style="height: 225px;"></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Luís Henrique da Costa Leão
@@ -348,11 +249,11 @@ Professor II at Universidade Federal Fluminense (UFF)
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1727171988586" data-listing-reading-time-sort="1" data-listing-word-count-sort="153">
-<a href="./people/staff/Landman.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1727178785110" data-listing-reading-time-sort="1" data-listing-word-count-sort="170">
+<a href="./people.pt/staff/Landman.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./people/staff/content/img/Landman.jpg" class="thumbnail-image card-img" style="height: 225px;"></p>
+<img loading="lazy" src="./people.pt/staff/content/img/Landman.jpg" class="thumbnail-image card-img" style="height: 225px;"></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Todd Landman
@@ -364,11 +265,11 @@ Rights Lab Research Director and Professor of Political Science
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1727171988587" data-listing-reading-time-sort="3" data-listing-word-count-sort="478">
-<a href="./people/staff/Reita.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1727178785110" data-listing-reading-time-sort="1" data-listing-word-count-sort="61">
+<a href="./people.pt/staff/Reita.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./people/staff/girard_jeffrey.jpg" class="thumbnail-image card-img" style="height: 225px;"></p>
+<img loading="lazy" src="./people.pt/staff/content/img/TBD.png" class="thumbnail-image card-img" style="height: 225px;"></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Carla Reita Leal
@@ -380,11 +281,11 @@ Professor of Law, Faculty of the Federal University of Mato Grosso
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1727171988586" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
-<a href="./people/staff/Moura.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1727178785110" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
+<a href="./people.pt/staff/Moura.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./people/staff/content/img/TBD.png" class="thumbnail-image card-img" style="height: 225px;"></p>
+<img loading="lazy" src="./people.pt/staff/content/img/TBD.png" class="thumbnail-image card-img" style="height: 225px;"></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Flavia Moura
@@ -396,49 +297,33 @@ Professor of Social Communication, Federal University of Maranhão
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1727171988585" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
-<a href="./people/staff/Carthew.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1727178785110" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
+<a href="./people.pt/staff/Montanari.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./people/staff/content/img/Carthew.jpeg" class="thumbnail-image card-img" style="height: 225px;"></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Kelsey Carthew
-</h5>
-<div class="card-subtitle listing-subtitle">
-Rights Lab Senior Operations Officer (Research Administration)
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1727171988586" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
-<a href="./people/staff/Montanari.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/staff/content/img/TBD.png" class="thumbnail-image card-img" style="height: 225px;"></p>
+<img loading="lazy" src="./people.pt/staff/content/img/TBD.png" class="thumbnail-image card-img" style="height: 225px;"></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Marcia Montanari
 </h5>
 <div class="card-subtitle listing-subtitle">
-TBD
+
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1727171988584" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
-<a href="./people/staff/Andrade.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1727178785109" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
+<a href="./people.pt/staff/Carthew.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./people/staff/content/img/TBD.png" class="thumbnail-image card-img" style="height: 225px;"></p>
+<img loading="lazy" src="./people.pt/staff/content/img/Carthew.jpeg" class="thumbnail-image card-img" style="height: 225px;"></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Gabriela Andrade
+Kelsey Carthew
 </h5>
 <div class="card-subtitle listing-subtitle">
-TBD
+Rights Lab Senior Operations Officer
 </div>
 </div>
 </div>

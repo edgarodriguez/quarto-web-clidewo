@@ -5,7 +5,6 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.5.55">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="dcterms.date" content="2024-09-24">
 <title>Publications</title>
 <style>
 code{white-space: pre-wrap;}
@@ -22,7 +21,7 @@ ul.task-list li input[type="checkbox"] {
 </style>
 <script src="site_libs/quarto-nav/quarto-nav.js"></script><script src="site_libs/clipboard/clipboard.min.js"></script><script src="site_libs/quarto-search/autocomplete.umd.js"></script><script src="site_libs/quarto-search/fuse.min.js"></script><script src="site_libs/quarto-search/quarto-search.js"></script><meta name="quarto:offset" content="./">
 <link href="./content/images/logo_yellow3.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script><script src="site_libs/quarto-html/popper.min.js"></script><script src="site_libs/quarto-html/tippy.umd.min.js"></script><script src="site_libs/quarto-html/anchor.min.js"></script><link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<script src="site_libs/quarto-listing/list.min.js"></script><script src="site_libs/quarto-listing/quarto-listing.js"></script><script src="site_libs/quarto-html/quarto.js"></script><script src="site_libs/quarto-html/popper.min.js"></script><script src="site_libs/quarto-html/tippy.umd.min.js"></script><script src="site_libs/quarto-html/anchor.min.js"></script><link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script><link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
@@ -52,14 +51,67 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
-}</script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-RG1R3XP26Q"></script><script type="text/javascript">
+}</script><script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-RG1R3XP26Q"></script><script type="text/javascript">
 
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
 </script><link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=Inter:opsz,wght@14..32,300&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="erh_theme.css">
+<script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script><script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script><link rel="stylesheet" href="erh_theme.css">
 </head>
 <body class="nav-fixed">
 
@@ -100,16 +152,12 @@ gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
  <span class="dropdown-text">Datasets</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./publications.html">
- <span class="dropdown-text">Literature analysis</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./alphaxiv.html">
+    <a class="dropdown-item" href="./datavis.html">
  <span class="dropdown-text">Datavis</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./alphaxiv.html">
- <span class="dropdown-text">Alphaxiv</span></a>
+ <span class="dropdown-text">Literature analysis</span></a>
   </li>  
     </ul>
 </li>
@@ -140,16 +188,21 @@ gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">On this page</h2>
-   
-  <ul>
-<li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2024</a></li>
-  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2021</a></li>
-  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2020</a></li>
-  </ul></nav>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5>
+<div class="quarto-listing-category category-default">
+<div class="category" data-category="">All <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="Climate change">Climate change <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="Human Rights">Human Rights <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="Workers Health">Workers Health <span class="quarto-category-count">(1)</span>
+</div>
+</div>
 </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
 <h1 class="title">Publications</h1>
 </div>
 
@@ -158,43 +211,59 @@ gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
 <div class="quarto-title-meta">
 
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">September 24, 2024</p>
-    </div>
-  </div>
   
     
   </div>
   
 
 
-</header><!-- Manually add forthcoming pubs, e.g. 
-
-## Forthcoming 
-
-**Nitta, J. H.**, S. W. Laffan, B. D. Mishler, and W. Iwasaki. "canaper: Categorical analysis of neo- and paleo-endemism in R". In-press, *Ecography*.
-
-`<a href="https://www.biorxiv.org/content/10.1101/2022.10.06.511072v1" class="icon-link" target="_blank" rel="noopener">Preprint</a>`{=html}
-`<a href="https://github.com/ropensci/canaper" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a>`{=html} !--><section id="section" class="level2"><h2 class="anchored" data-anchor-id="section">2024</h2>
-<p><strong>Nitta, J. H.</strong> and W. Iwasaki (2024). “dwctaxon, an R package for editing and validating taxonomic data in Darwin Core format”. In: <em>Journal of Open Source Software</em> 9.93, p. 6215. DOI: <a href="https://doi.org/10.21105/joss.06215">10.21105/joss.06215</a><br><a href="https://github.com/joelnitta/dwctaxon_ms" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a> <a href="content/pdf/Nitta_Iwasaki_2024_dwctaxon,_an_R_package_for_editing_and_validating_taxonomic_data_in_Darwin_Core.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a></p>
-</section><section id="section-1" class="level2 page-columns page-full"><h2 class="anchored" data-anchor-id="section-1">2021</h2>
-<p><strong>Nitta, J. H.</strong>, J. E. Watkins Jr., N. M. Holbrook, T. W. Wang, and C. C. Davis (2021). “Ecophysiological differentiation between life stages in filmy ferns (Hymenophyllaceae)”. In: <em>Journal of Plant Research</em> 134.5, pp. 971-988. DOI: <a href="https://doi.org/10.1007/s10265-021-01318-z">10.1007/s10265-021-01318-z</a><br><a href="https://doi.org/10.1101/2021.03.12.435213" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-biorxiv"></i> Preprint</a> <a href="https://github.com/joelnitta/moorea_filmies" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a> <a href="https://figshare.com/s/d6349abf01a3756a5aae" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-figshare"></i> Data</a> <a href="content/pdf/Nitta_et_al_2021_Ecophysiological_differentiation_between_life_stages_in.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a></p>
-<aside><div class="cell">
-<div class="cell-output-display">
-<div>
-<figure class="figure"><p><img src="content/img/jpr_cover.jpg" class="img-fluid figure-img" width="788"></p>
-</figure>
+</header><div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Workers Health,Climate change,Human Rights" data-listing-date-sort="NaN" data-listing-file-modified-sort="1727178724607" data-listing-date-modified-sort="1727132400000" data-listing-reading-time-sort="1" data-listing-word-count-sort="124">
+<div class="thumbnail">
+<p><a href="./publications/2024-07-20_theorical-framework/index.html" class="no-external"></a></p>
+<a href="./publications/2024-07-20_theorical-framework/index.html" class="no-external">
+<p><img loading="lazy" src="./publications/2024-07-20_theorical-framework/img/theoretical-framework.png" class="thumbnail-image"></p>
+</a><p><a href="./publications/2024-07-20_theorical-framework/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publications/2024-07-20_theorical-framework/index.html" class="no-external">Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publications/2024-07-20_theorical-framework/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Workers Health'); return false;">
+Workers Health
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Climate change'); return false;">
+Climate change
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Human Rights'); return false;">
+Human Rights
+</div>
+</div>
+<div class="listing-description">
+<a href="./publications/2024-07-20_theorical-framework/index.html" class="no-external">This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs)…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./publications/2024-07-20_theorical-framework/index.html" class="no-external">
+<div class="listing-date">
+Invalid Date
+</div>
+<div class="listing-author">
+Edgar Rodriguez-Huerta, Luis Leao, Todd Landman
+</div>
+</a>
 </div>
 </div>
 </div>
-</aside></section><section id="section-2" class="level2"><h2 class="anchored" data-anchor-id="section-2">2020</h2>
-<p><strong>Nitta, J. H.</strong>, A. Ebihara, and A. R. Smith (2020). “A taxonomic and molecular survey of the pteridophytes of the Nectandra Cloud Forest Reserve, Costa Rica”. In: <em>PLoS ONE</em> 15.11, p. e0241231. DOI: <a href="https://doi.org/10.1371/journal.pone.0241231">10.1371/journal.pone.0241231</a><br><a href="https://github.com/joelnitta/nectandra_ferns" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a> <a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.bnzs7h477" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-dryad"></i> Data</a> <a href="content/pdf/Nitta_et_al_2020_A_taxonomic_and_molecular_survey_of_the_pteridophytes_of.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a></p>
-<p><strong>Nitta, J. H.</strong>, J. E. Watkins Jr., and C. C. Davis (2020). “Life in the canopy: Community trait assessments reveal substantial functional diversity among fern epiphytes”. In: <em>New Phytologist</em> 227.6, pp. 1885-1899. DOI: <a href="https://doi.org/10.1111/nph.16607">10.1111/nph.16607</a><br><a href="https://github.com/joelnitta/canopylife" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a> <a href="https://doi.org/10.5061/dryad.fqz612jps" class="icon-link" target="_blank" rel="noopener"><i class="ai ai-dryad"></i> Data</a> <a href="content/pdf/Nitta_et_al_2020_Life_in_the_canopy.pdf" class="icon-link" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a></p>
-
-
-</section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");

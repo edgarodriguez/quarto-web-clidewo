@@ -1,0 +1,13 @@
+---
+title: "Datavis"
+lang: en
+listing:
+  contents: datavis
+  feed: true
+  type: grid
+  include:
+    lang: en
+  sort: "date desc"
+  categories: true
+comments: false
+---

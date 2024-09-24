@@ -30,3 +30,18 @@ render_website()
 
 # View locally
 httw("docs")
+
+
+#####
+
+install.packages(c("htmlwidgets","shiny","remotes"))
+remotes::install_github('royfrancis/pixture')
+
+library(pixture)
+
+pixgallery(
+	list.files("assets/challenges_images", 
+						 full.names=TRUE),
+	dim="350px",
+	gap = "10px"
+)

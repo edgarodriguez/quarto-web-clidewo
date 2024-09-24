@@ -1,0 +1,15 @@
+{
+  "hash": "0fbc9c1833aa8bc1d7b1cf59c9139ce7",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Multilayer visualisation\"\ndescription:\n  An example of what Climate Risk Vulnerability Assessments (CRVA) looks like by applying the proposed method\ndate: \"2024-09-24\"\ndate-modified: today\nimage: img/adam-solomon-WHUDOzd5IYU-unsplash.jpg\nexecute:\n  echo: false\ncitation:\n  url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx\ncategories:\n  - datavis\n  - R tools\nlang: en\n---\n\n\n\n\n\n\n\n:::{.column-body-outset}\n\n\n\n\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n\n\n\n::: {.justify}\n\n\nComing soon: Insert figure, inlcuding coding source and references.\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -16,6 +16,15 @@
         "lang: en\n",
         "---\n",
         "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::{.column-body-outset}\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
         "```{css, echo = FALSE}\n",
         ".justify {\n",
         "  text-align: justify !important\n",
@@ -24,6 +33,8 @@
         "\n",
         "\n",
         "\n",
+        "\n",
+        "::: {.justify}\n",
         "\n",
         "## OBJECTIVES\n",
         "This research project aims to \n",
@@ -35,7 +46,7 @@
         "We will produce actionable inferences for key stakeholders and policymakers aimed at improving climate risk mitigation strategies in agricultural work and developing adaptation strategies for workers affected by climate change.\n",
         "\n",
         "## RESEARCH QUESTIONS\n",
-        "::: {.justify}\n",
+        "\n",
         "1. How do climate hazards influence the prevalence of occupational health issues, work-related diseases, and slavery-like conditions among agricultural workers in Brazil?\n",
         "\n",
         "2. What are the most affected groups and the socioeconomic pathways through which climate change impacts labour rights, wages, and occupational safety within the agricultural sector?\n",
@@ -43,10 +54,13 @@
         "4. How do workers in agriculture respond to climate hazards to promote well-being, food security and sustainable practices?\n",
         "5. What insights can be drawn from interdisciplinary research to inform policy and practice for enhancing resilience and well-being?\n",
         "\n",
+        "\n",
         "In answering these questions, we aim to better understand the impact of the climate/work/health nexus on local populations by explicitly linking geographical locations to specific agricultural commodities. This will identify vulnerable areas where targeted interventions can help to mitigate the effects of climate change. The project’s novel, innovative, and integrated methods, data, and analysis will support these more targeted mitigation and adaptation strategies.\n",
-        "::: "
+        "::: \n",
+        "\n",
+        ":::"
       ],
-      "id": "59a4c5b8"
+      "id": "281be878"
     }
   ],
   "metadata": {

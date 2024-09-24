@@ -1,0 +1,57 @@
+---
+title: "Flavia Moura"
+sortby: "5"
+subtitle: "Professor of Social Communication, Federal University of Maranhão"
+image: "content/img/TBD.png"
+started: "Fall 2020"
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://sigaa.ufma.br/sigaa/public/docente/portal.jsf?siape=1702717&lc=en_US
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+## Biography
+
+Coming soon
+
+
+:::

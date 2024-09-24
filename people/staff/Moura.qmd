@@ -6,26 +6,15 @@ image: "content/img/TBD.png"
 started: "Fall 2020"
 toc: false
 resources: 
-  - "girard_cv.pdf"
+  - "TBD_cv.pdf"
 about:
   id: person-profile
   template: jolla
   links:
     - icon: link
       text: website
-      href: https://www.jmgirard.com
-    - icon: file-earmark-text
-      text: vitae
-      href: ./people/staff/girard_cv.pdf
-    - icon: mortarboard
-      text: scholar
-      href: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
-    - icon: github
-      text: github
-      href: https://www.github.com/jmgirard
-    - icon: twitter
-      text: twitter
-      href: https://www.twitter.com/edgarodriguez
+      href: https://sigaa.ufma.br/sigaa/public/docente/portal.jsf?siape=1702717&lc=en_US
+
 ---
 
 ```{=html}
@@ -42,5 +31,27 @@ about:
 :::{#person-profile}
 :::
 
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
 ## Biography
 
+Coming soon
+
+
+:::

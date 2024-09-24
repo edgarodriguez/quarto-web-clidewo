@@ -1,55 +1,15 @@
 ---
 title: "Publications"
 lang: en
-date: today
-output: distill::distill_article`
-editor_options: 
-  chunk_output_type: console
-execute:
-  echo: false
+listing:
+  contents: publications
+  feed: true
+  type: default
+  include:
+    lang: en
+  sort: "date desc"
+  categories: true
 comments: false
+title-block-banner: false
 ---
-
-```{r}
-#| label: setup
-#| include: false
-library(distilltools)
-```
-
-```{r}
-#| child: R/pub-prep.Rmd
-```
-
-
-<!-- Manually add forthcoming pubs, e.g. 
-
-## Forthcoming 
-
-**Nitta, J. H.**, S. W. Laffan, B. D. Mishler, and W. Iwasaki. "canaper: Categorical analysis of neo- and paleo-endemism in R". In-press, *Ecography*.
-
-`r icon_link(text = "Preprint", url = "https://www.biorxiv.org/content/10.1101/2022.10.06.511072v1")`
-`r icon_link(icon = "github", text = "Code", url = "https://github.com/ropensci/canaper")` !-->
-
-## 2024
-
-`r print_ref("Nitta2024")`
-
-## 2021
-
-`r print_ref("Nitta2021")`
-
-<aside>
-```{r}
-#| label: Nitta2021-cover
-#| echo: false
-knitr::include_graphics("content/img/jpr_cover.jpg")
-```
-</aside>
-
-## 2020
-
-`r print_ref("Nitta2020b")`
-
-`r print_ref("Nitta2020")`
-
 

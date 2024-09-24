@@ -1,12 +1,12 @@
 ---
 title: "Kelsey Carthew"
-sortby: "7"
-subtitle: "Rights Lab Senior Operations Officer (Research Administration)"
+sortby: "8"
+subtitle: "Rights Lab Senior Operations Officer"
 image: "content/img/Carthew.jpeg"
 started:
 toc: false
 resources: 
-  - "girard_cv.pdf"
+  - "TBD_cv.pdf"
 about:
   id: person-profile
   template: jolla
@@ -33,6 +33,25 @@ about:
 :::{#person-profile}
 :::
 
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
 ## Biography
+
 Kelsey Carthew is part of the Rights Lab’s research operations team. She supports the coordination and implementation efforts on several Rights Lab research projects in addition to providing operational support. She joined the team after success within other roles within the University. She is currently pursuing her LLM in Public International Law at the University of Nottingham.
+
+:::
 

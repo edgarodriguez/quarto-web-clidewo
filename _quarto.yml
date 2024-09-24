@@ -10,18 +10,18 @@ website:
     logo: "content/img/logo_yellow3.png"
     background: primary
     right:
-      - href: about.qmd
+      - text: about  
+        href: about.qmd
       - href: people.qmd
       - href: publications.qmd
       - text: Resources
         menu:
           - text: Datasets
             href: resources.qmd
-          - text: Literature analysis
-            href: publications.qmd
+
           - text: Datavis
-            href: alphaxiv.qmd              
-          - text: Alphaxiv
+            href: datavis.qmd  
+          - text: Literature analysis
             href: alphaxiv.qmd            
       - text: Blog
         href: blog.qmd 
