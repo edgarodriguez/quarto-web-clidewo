@@ -1,42 +1,57 @@
 ---
-title: sobre NÓS
+title: Sobre
+subtitle: ""
 sidebar: false
 page-layout: article
+draft: false
 toc: false
+lightbox: false
 title-block-banner: false
 lang: pt
 ---
 
-PORTUGUESE!! 
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
 
-## What are our aims?
+# Include dependencies to track with renv here
+library(fontawesome)
+```
 
-Real World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:
+:::{.column-body-outset}
 
--   discover and learn more efficiently;\
--   acquire practical problem-solving skills;\
--   share their knowledge and accomplishments publicly;\
--   work smarter, ethically, and more effectively.
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
 
-## What we provide
+::: {.justify}
 
-Resources are *created* to meet the needs of our target audiences. These include:
+## OBJECTIVOS
 
--   **Case studies** – showing how data science is used to solve real-world problems in business, public policy and beyond.
--   **Explainers** – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.
--   **Exercises** – to challenge and develop the analytical mindset that all data scientists need to succeed.\
--   **Advice** – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.
+Este projeto de pesquisa visa
 
-We are also *curating* resources to help data scientists identify trustworthy, high-quality content. These include:
+1. Produzir um CRVA para trabalhadores agrícolas no Brasil com relação aos riscos climáticos,
+2. Avaliar como as práticas de trabalho forçado exacerbam a vulnerabilidade e diminuem a saúde ocupacional,
+3. Entender como os trabalhadores estão se adaptando atualmente e quais são suas principais necessidades para aumentar sua resiliência às mudanças climáticas.
 
--   **Training guides** – step-by-step approaches and recommended sources for learning new skills and methods.
--   **Datasets** – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.
--   **Feeds** – who and what to follow to keep up with new ideas and developments.
+Produziremos inferências acionáveis para as principais partes interessadas e formuladores de políticas com o objetivo de melhorar as estratégias de mitigação de riscos climáticos no trabalho agrícola e desenvolver estratégias de adaptação para trabalhadores afetados pelas mudanças climáticas.
 
-Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture
+## Perguntas de pesquisa
 
-This research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8.
+1. Como os riscos climáticos influenciam a prevalência de problemas de saúde ocupacional, doenças relacionadas ao trabalho e condições análogas à escravidão entre trabalhadores agrícolas no Brasil?
 
-## How you can get involved
+2. Quais são os grupos mais afetados e os caminhos socioeconômicos pelos quais as mudanças climáticas impactam os direitos trabalhistas, salários e segurança ocupacional no setor agrícola?
+3. Quais intervenções existentes visam abordar os riscos climáticos e as condições indecentes de trabalho na agricultura?
+4. Como os trabalhadores na agricultura respondem aos riscos climáticos para promover o bem-estar, a segurança alimentar e práticas sustentáveis?
+5. Quais insights podem ser extraídos da pesquisa interdisciplinar para informar políticas e práticas para aumentar a resiliência e o bem-estar?
 
-See our open [call for contributions](contributor-docs/call-for-contributions.qmd).
+Ao responder a essas perguntas, pretendemos entender melhor o impacto do nexo clima/trabalho/saúde nas populações locais, vinculando explicitamente as localizações geográficas a commodities agrícolas específicas. Isso identificará áreas vulneráveis donde intervenções direcionadas podem ajudar a mitigar os efeitos das mudanças climáticas. Os métodos, dados e análises novos, inovadores e integrados do projeto apoiarão essas estratégias de mitigação e adaptação mais direcionadas.
+
+::: 
+
+:::
+

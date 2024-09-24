@@ -5,8 +5,8 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.5.55">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="description" content="How to use the giscus commenting system on a Distill blog">
-<title>Enable giscus in Distill</title>
+<meta name="description" content="Exemplo de scrollytelling">
+<title>Para a Amazônia</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -141,27 +141,23 @@ gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto"><nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">Table of contents</h2>
    
   <ul>
-<li><a href="#update-2022-06-06" id="toc-update-2022-06-06" class="nav-link active" data-scroll-target="#update-2022-06-06">UPDATE 2022-06-06</a></li>
-  <li><a href="#tldr" id="toc-tldr" class="nav-link" data-scroll-target="#tldr">TL;DR</a></li>
-  <li><a href="#why-distill-and-giscus" id="toc-why-distill-and-giscus" class="nav-link" data-scroll-target="#why-distill-and-giscus">Why Distill and giscus?</a></li>
-  <li><a href="#how-to-set-up-giscus-on-distill" id="toc-how-to-set-up-giscus-on-distill" class="nav-link" data-scroll-target="#how-to-set-up-giscus-on-distill">How to set up giscus on Distill</a></li>
-  
+<li><a href="#example-of-blog" id="toc-example-of-blog" class="nav-link active" data-scroll-target="#example-of-blog">Example of blog</a></li>
   </ul></nav></nav><div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
-<h1 class="title">Enable giscus in Distill</h1>
+<h1 class="title">Para a Amazônia</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">blogging</div>
-    <div class="quarto-category">distill</div>
+    <div class="quarto-category">Amanzon</div>
+    <div class="quarto-category">datavis</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    How to use the giscus commenting system on a Distill blog
+    Exemplo de scrollytelling
   </div>
 </div>
 
@@ -187,125 +183,26 @@ gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
   
 
 
-</header><section id="update-2022-06-06" class="level2"><h2 class="anchored" data-anchor-id="update-2022-06-06">UPDATE 2022-06-06</h2>
-<p>Since writing this blogpost, a new publishing system called <a href="https://quarto.org/">Quarto</a> is now available that <a href="https://quarto.org/docs/output-formats/html-basics.html#commenting">supports giscus natively</a>. If you are setting up a new blog or website, you may want to consider using Quarto instead of Distill<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. It will save you the trouble of setting up everything like I describe below.</p>
-</section><section id="tldr" class="level2"><h2 class="anchored" data-anchor-id="tldr">TL;DR</h2>
-<ul>
-<li>
-<a href="https://github.com/giscus/giscus">giscus</a> is a free, open-source commenting system for blogs that uses the GitHub API</li>
-<li>giscus uses GitHub Discussions (not Issues) to store data</li>
-<li>I show how to enable giscus on a Distill blog</li>
-</ul>
-<div id="fig-featured" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure"><div aria-describedby="fig-featured-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="img/adam-solomon-WHUDOzd5IYU-unsplash.jpg" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-featured-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figura 1: Image by <a href="https://unsplash.com/@solomac">Adam Solomon</a> on <a href="https://unsplash.com/photos/WHUDOzd5IYU">unsplash</a>
-</figcaption></figure>
-</div>
-</section><section id="why-distill-and-giscus" class="level2"><h2 class="anchored" data-anchor-id="why-distill-and-giscus">Why Distill and giscus?</h2>
-<p>Like many R-bloggers these days, I have made some changes: I switched from <a href="https://github.com/rstudio/blogdown">blogdown</a> to <a href="https://github.com/rstudio/distill">Distill</a> <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>, and from disqus to <a href="https://github.com/utterance/utterances">utterances</a> <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>. Several things about utterances appealed to me: <strong>free</strong>, <strong>open-source</strong>, <strong>no data tracking</strong>. But when I started using it, I immediately was turned off by the dual use of GitHub issues as a way to store comments. It just felt odd to have an issue that wasn’t an issue!</p>
-<p>Fortunately, <a href="https://github.com/utterance/utterances/issues/324">I’m not the only one to feel this way</a>, and <a href="https://laymonage.com/"><code>@laymonage</code></a> actually <a href="https://laymonage.com/posts/giscus">did something about it</a>: there is now a very similar app to utterances, <a href="https://github.com/giscus/giscus">called giscus</a>. It offers almost the same functionality, but <strong>it uses GitHub Discussions as the place to store comments</strong> instead of Issues. This makes much more sense to me.</p>
-</section><section id="how-to-set-up-giscus-on-distill" class="level2"><h2 class="anchored" data-anchor-id="how-to-set-up-giscus-on-distill">How to set up giscus on Distill</h2>
-<p>There are several blogposts <a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> on how to enable utterances on Distill, but none that I’ve found so far on giscus. So, here goes!</p>
-<ol type="1">
-<li><p><a href="https://docs.github.com/en/discussions/quickstart">Enable Discussions on your blog repo</a>. Optionally, if you want to use a non-default Discussions category for storing giscus content, <a href="https://docs.github.com/en/discussions/managing-discussions-for-your-community/managing-categories-for-discussions-in-your-repository">add a new category</a>. I did this and called it “Comments”. As recommended by giscus, it’s a good idea to <a href="https://docs.github.com/en/discussions/managing-discussions-for-your-community/managing-categories-for-discussions-in-your-repository">set the discussion format</a> to “Announcement” so that non-authorized users can’t add content via the Discussions interface (only the giscus widget on your blog).</p></li>
-<li><p><a href="https://github.com/apps/giscus">Install the giscus GitHub app</a> and configure it to have access to your blog’s repo.</p></li>
-<li><p><a href="https://giscus.app/">Go to the giscus app interface</a>, scroll down to “configuration” and fill in the details for your blog. Once you’ve done so, further down you should see an HTML code block under “Enable giscus” populated with your information.</p></li>
-</ol>
-<div id="fig-giscus-config" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure"><div aria-describedby="fig-giscus-config-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="img/giscus-config.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-giscus-config-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figura 2: <a href="https://giscus.app/">giscus</a> configuration menu.
-</figcaption></figure>
-</div>
-<div id="fig-giscus-html" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure"><div aria-describedby="fig-giscus-html-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="img/giscus-enable.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-giscus-html-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figura 3: <a href="https://giscus.app/">giscus</a> HTML block. Once you fill in the fields in the configuration menu, the parts starting with <code>[ENTER ...]</code> will get automatically populated.
-</figcaption></figure>
-</div>
-<p>As described in <a href="https://milesmcbain.micro.blog/2020/09/04/how-i-got.html">Miles McBain’s blogpost</a>, unfortunately in Distill, you can’t just paste the HTML directly into an Rmd file. It won’t show up. But the same work-around that he describes for utterances also happily works for giscus! Read on…</p>
-<ol start="5" type="1">
-<li>Add an <code>.html</code> file (I’ve called mine <code>giscus.html</code>) to the root of your blog repo that looks like this (and is based off of <a href="https://milesmcbain.micro.blog/2020/09/04/how-i-got.html">Miles’ HTML</a>):</li>
-</ol>
-<pre><code>&lt;script&gt;
-   document.addEventListener("DOMContentLoaded", function () {
-     if (!/posts/.test(location.pathname)) {
-       return;
-     }
+</header><section id="example-of-blog" class="level3"><h3 class="anchored" data-anchor-id="example-of-blog">Example of blog</h3>
+<p><a href="https://www.nationalgeographic.com/into-the-amazon/">Into the Amazon</a></p>
 
-     var script = document.createElement("script");
-     script.src = "https://giscus.app/client.js";
-     script.setAttribute("data-repo", "[ENTER REPO HERE]");
-     script.setAttribute("data-repo-id", "[ENTER REPO ID HERE]");
-     script.setAttribute("data-category", "[ENTER CATEGORY NAME HERE]");
-     script.setAttribute("data-category-id", "[ENTER CATEGORY ID HERE]");
-     script.setAttribute("data-mapping", "pathname");
-     script.setAttribute("data-reactions-enabled", "0");
-     script.setAttribute("data-emit-metadata", "0");
-     script.setAttribute("data-theme", "light");
-     script.setAttribute("data-lang", "en");
 
-     /* wait for article to load, append script to article element */
-     var observer = new MutationObserver(function (mutations, observer) {
-       var article = document.querySelector("d-article");
-       if (article) {
-         observer.disconnect();
-         /* HACK: article scroll */
-         article.setAttribute("style", "overflow-y: hidden");
-         article.appendChild(script);
-       }
-     });
-
-     observer.observe(document.body, { childList: true });
-   });
- &lt;/script&gt;</code></pre>
-<p>If you compare the above code with the HTML block in the giscus app (<a href="#fig-giscus-html" class="quarto-xref">Figura 3</a>), you should be able to see how the <code>script.setAttribute</code> lines above map to the key-value pairs in the HTML block in the giscus app. All we have to do is copy the contents of the HTML block over to this <code>giscus.html</code> file. You can <a href="https://github.com/joelnitta/joelnitta-home/blob/047152c2d1c6cfdeee438b6e23453d4330ece6ef/giscus.html">see what my <code>giscus.html</code> file looks like here</a>.</p>
-<ol start="6" type="1">
-<li>
-<a href="https://rstudio.github.io/distill/website.html#site-output">Modify <code>_site.yml</code></a> so that the <code>giscus.html</code> file gets loaded on every Distill article page <a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>:</li>
-</ol>
-<pre><code>output: 
-  distill::distill_article:
-    includes:
-      in_header: giscus.html</code></pre>
-<p><strong>That’s it!</strong> Or it should be anyways. I recommend trying a test comment to make sure everything is working (nobody will tell you otherwise…)</p>
 </section><div id="quarto-appendix" class="default">
-<section id="reproducibility" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Reproducibility</h2>
-<div class="quarto-appendix-contents">
-
-<ul>
-<li><a href="https://github.com/joelnitta/joelnitta-home/tree/main/posts/2021-11-24_using-giscus/index.ja.qmd">Source code</a></li>
-</ul>
-</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Notas de rodapé</h2>
-
-<ol>
-<li id="fn1"><p>I have converted my website to Quarto.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>blogdown and Distill are R packages for making websites. In a nutshell, Distill is much simpler to use than blogdown, at the cost of some design flexibility. For more about making the switch, you can get caught up with posts from <a href="https://themockup.blog/posts/2020-08-01-building-a-blog-with-distill/">Thomas Mock</a>, <a href="https://frie.codes/posts/tricks-blogdown-to-distill/">Frie Preu</a>, <a href="https://education.rstudio.com/blog/2021/02/distill-it-down/">Lisa Lendway</a>, and <a href="https://www.andreashandel.com/posts/distill-github-website/">Andreas Handel</a>.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3"><p>disqus and utterances are tools that let users comment on blog posts. Recently many R-bloggers have been <a href="https://twitter.com/hrbrmstr/status/1135915244532822018">moving away from disqus</a> because it has a habit of <a href="https://nanx.me/blog/post/migrating-from-disqus-to-utterances/">tracking user’s data</a> and <a href="https://victorzhou.com/blog/replacing-disqus/">causing page bloat</a>. More recently, when I checked on my disqus account (in the process of migrating away!), it had a option to “opt-out” of data tracking, but that means data-tracking is <strong>on</strong> by default.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4"><p>For example, <a href="https://sciencificity-blog.netlify.app/posts/2021-02-20-enable-utterances-with-distill/">Vebash Naidoo’s tutorial</a> and <a href="https://tidytales.ca/posts/2021-06-19_distill/">Michael McCarthy’s post describing how to control the location of the comments section</a>.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn5"><p>The <code>_site.yml</code> file is longer than this, but I’m just showing the relevant code to add. You can <a href="https://github.com/joelnitta/joelnitta-home/blob/047152c2d1c6cfdeee438b6e23453d4330ece6ef/_site.yml">see my <code>_site.yml</code> file here</a>.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2>
+<section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2>
 <div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.pt">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citação</h2>
 <div>
 <div class="quarto-appendix-secondary-label">BibTeX</div>
 <pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{2021,
   author = {},
-  title = {Enable giscus in Distill},
+  title = {Para a Amazônia},
   date = {2021-11-24},
-  url = {https://www.joelnitta.com/posts/2021-11-24_using-giscus/},
+  url = {https://www.nationalgeographic.com/into-the-amazon/},
   langid = {pt}
 }
 </code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre>
 <div class="quarto-appendix-secondary-label">Por favor, cite este trabalho como:</div>
 <div id="ref-2021" class="csl-entry quarto-appendix-citeas" role="listitem">
-<span>“Enable giscus in Distill.”</span> 2021. November 24, 2021. <a href="https://www.joelnitta.com/posts/2021-11-24_using-giscus/">https://www.joelnitta.com/posts/2021-11-24_using-giscus/</a>.
+<span>“Para a Amazônia.”</span> 2021. November 24, 2021. <a href="https://www.nationalgeographic.com/into-the-amazon/">https://www.nationalgeographic.com/into-the-amazon/</a>.
 </div>
 </div></section>
 </div></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">

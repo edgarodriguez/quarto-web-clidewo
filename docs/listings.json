@@ -25,12 +25,6 @@
     ]
   },
   {
-    "listing": "/news.html",
-    "items": [
-      "/news/2024-09-01_Awarding-ODA.html"
-    ]
-  },
-  {
     "listing": "/datavis.html",
     "items": [
       "/datavis/2024-09-24_multilayer-vis/index.html",
@@ -38,10 +32,9 @@
     ]
   },
   {
-    "listing": "/posts_test_layout.html",
+    "listing": "/news.html",
     "items": [
-      "/posts/2024-09-24_example-scrollying-telling/index.html",
-      "/posts/2024-09-24_example-scrollying-telling/index.pt.html"
+      "/news/2024-09-01_Awarding-ODA.html"
     ]
   },
   {
@@ -60,6 +53,7 @@
   {
     "listing": "/resources.html",
     "items": [
+      "/resources/2024-09-24_heatstress.html",
       "/resources/2024-09-24_heatstress.pt.html"
     ]
   }

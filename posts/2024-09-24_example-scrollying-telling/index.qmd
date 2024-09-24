@@ -1,7 +1,7 @@
 ---
 title: "Into the Amazon"
 description: 
-  Example of scrollying telling
+  Example of scrollytelling
 date: "2021-11-24"
 date-modified: today
 image: img/natgeo-amazon.png

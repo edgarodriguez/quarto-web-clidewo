@@ -1,10 +1,10 @@
 ---
-title: "ブログ"
-lang: ja
+title: "Blogue"
+lang: pt
 listing:
   contents: posts
   include:
-    lang: ja
+    lang: pt
   sort: "date desc"
   type: default
   categories: true
