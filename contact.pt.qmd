@@ -1,12 +1,11 @@
 ---
+title: "Contato"
 sidebar: false
 page-layout: article
 toc: false
 title-block-banner: false
 lang: pt
 ---
-
-#Contato{.hidden}
 
 ## Envie-nos um e-mail
 

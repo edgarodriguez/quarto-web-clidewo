@@ -13,13 +13,12 @@ website:
       - href: about.qmd
       - href: people.qmd
       - href: publications.qmd
-      - text: Resources
+      - text: Resources #change html index.pt to Recursos"
         menu:
           - href: resources.qmd
           - href: datavis.qmd  
           - href: literature-tools.qmd        
-          - text: Other sources
-            href: other-resources.qmd                   
+          - href: other-resources.qmd                   
       - href: blog.qmd 
       - href: news.qmd
       - href: contact.qmd      
