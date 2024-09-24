@@ -1,19 +1,15 @@
 ---
-title: about
+title: ""
 sidebar: false
 page-layout: article
 toc: false
 title-block-banner: false
-lang: en
+lang: pt
 ---
 
 
-## Email us
+## Envie-nos um e-mail
 
 ```{=html}
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHgiitQEkBjRKjd2tXIox8bNUNjhGR0lGUEpFQjA0TlM5WlpOSFczT1RSSC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height="1100px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHgiitQEkBjRKjd2tXIox8bNUNjhGR0lGUEpFQjA0TlM5WlpOSFczT1RSSC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 ```
-
-
-## How you can get involved
-See our open [call for contributions](contributor-docs/call-for-contributions.qmd).

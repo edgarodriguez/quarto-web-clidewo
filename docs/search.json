@@ -112,34 +112,6 @@
     "text": "SmartLab\n\nSmartLab\n\nGovernos de todo o mundo produzem grandes quantidades de dados relevantes para políticas públicas. Entretanto, raramente esses dados se transformam em informações úteis à tomada de decisões a respeito de questões de alta complexidade que marcam a atualidade e que exigem intervenções baseadas em evidências e orientadas para resultados. Por outro lado, a formulação, o monitoramento e a avaliação de programas, projetos e políticas públicas são processos que exigem informações. Nesse contexto, a iniciativa SmarlLab surgiu para construir conhecimento relevante para políticas públicas de promoção do trabalho decente com o uso de um recurso público de baixíssimo custo: dados públicos abertos. A iniciativa conjunta do MPT e da OIT Brasil deu origem à Plataforma SmartLab, que tem fortalecido a cooperação com organizações governamentais, não-governamentais e internacionais que atuam na promoção dessa agenda e que precisam de informações para tomar decisões sobre as ações que desenvolvem. Por meio de Observatórios Digitais, a plataforma beneficia também a comunidade científica, que passa a ter acesso a informações com facilidade sem precedentes para pesquisa. Além disso, o fluxo público de informações para tomada de decisões baseadas em evidências e orientadas para resultados beneficia a sociedade civil em geral."
   },
   {
-    "objectID": "index.html#what-are-our-aims",
-    "href": "index.html#what-are-our-aims",
-    "title": "Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
-    "section": "What are our aims?",
-    "text": "What are our aims?\nThis project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8."
-  },
-  {
-    "objectID": "index.html#organizations",
-    "href": "index.html#organizations",
-    "title": "Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
-    "section": "Organizations",
-    "text": "Organizations"
-  },
-  {
-    "objectID": "index.html#acknowlegde",
-    "href": "index.html#acknowlegde",
-    "title": "Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
-    "section": "Acknowlegde",
-    "text": "Acknowlegde\nThis project is funded by the British Academy’s ODA Challenge-Oriented Research Grants 2024 Programme, supported under the UK Government’s International Science Partnerships Fund."
-  },
-  {
-    "objectID": "talks/2023-01-21_yurufuwa.ja.html",
-    "href": "talks/2023-01-21_yurufuwa.ja.html",
-    "title": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ",
-    "section": "",
-    "text": "資料\n\nゆるふわ生物学"
-  },
-  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News/Events",
@@ -147,25 +119,25 @@
     "text": "Climate and Occupational Health and Decent Work Nexus: Worker’s Vulnerabilities\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "resources/2023-01-21_yurufuwa.ja.html",
-    "href": "resources/2023-01-21_yurufuwa.ja.html",
-    "title": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ",
+    "objectID": "resources/2024-09-24_heatstress.html",
+    "href": "resources/2024-09-24_heatstress.html",
+    "title": "Climate Exposure",
     "section": "",
-    "text": "資料\n\nゆるふわ生物学"
+    "text": "Um exemplo de como podem ser publicados múltiplos conjuntos de dados gerados durante o projeto\n![2024-09-24_heatstress-demo.png]\n\nResources\n\n[Download dataset]\n[Code and documentation]\n[Blog post]"
   },
   {
-    "objectID": "publications/2024-07-20_theorical-framework/index.pt.html",
-    "href": "publications/2024-07-20_theorical-framework/index.pt.html",
-    "title": "Enable giscus in Distill",
+    "objectID": "publications/2024-07-20_theorical-framework/index.html",
+    "href": "publications/2024-07-20_theorical-framework/index.html",
+    "title": "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations",
     "section": "",
-    "text": "ReusoCC BY NCCitaçãoBibTeX@online{2021,\n  author = {},\n  title = {Enable giscus in Distill},\n  date = {2021-11-24},\n  url = {https://www.joelnitta.com/posts/2021-11-24_using-giscus/},\n  langid = {pt}\n}\nPor favor, cite este trabalho como:\n“Enable giscus in Distill.” 2021. November 24, 2021. https://www.joelnitta.com/posts/2021-11-24_using-giscus/."
+    "text": "This is only and example to review website  This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil. It establishes the overall relationship between climate change risk and working conditions, relevant international legal standards and norms on worker rights, and the features of worker conditions in Brazilian agriculture. It offers a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations. The more holistic framework developed here avoids monocausal explanations and solutions, incomplete and fragmented interventions, and multiple unintended consequences in ways that can bring real impact to the livelihoods and health of Brazilian agricultural workers."
   },
   {
-    "objectID": "posts_test_layout.html",
-    "href": "posts_test_layout.html",
-    "title": "posts",
+    "objectID": "publications/2024-07-20_theorical-framework/index.html#abstract",
+    "href": "publications/2024-07-20_theorical-framework/index.html#abstract",
+    "title": "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations",
     "section": "",
-    "text": "Into the Amazon\n\n\n\n\n\n\nAmanzon\n\n\ndatavis\n\n\n\nExample of scrollying telling\n\n\n\n\n\nNov 24, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nEnable giscus in Distill\n\n\n\n\n\n\nblogging\n\n\ndistill\n\n\n\nHow to use the giscus commenting system on a Distill blog\n\n\n\n\n\nNov 24, 2021\n\n\n\n\n\n\nNo matching items"
+    "text": "This is only and example to review website  This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil. It establishes the overall relationship between climate change risk and working conditions, relevant international legal standards and norms on worker rights, and the features of worker conditions in Brazilian agriculture. It offers a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations. The more holistic framework developed here avoids monocausal explanations and solutions, incomplete and fragmented interventions, and multiple unintended consequences in ways that can bring real impact to the livelihoods and health of Brazilian agricultural workers."
   },
   {
     "objectID": "datavis.html",
@@ -180,230 +152,6 @@
     "title": "Into the Amazon",
     "section": "",
     "text": "Example of blog\nInto the Amazon\n\n\n\n\nReuseCC BY 4.0CitationBibTeX citation:@online{2021,\n  author = {},\n  title = {Into the {Amazon}},\n  date = {2021-11-24},\n  url = {https://www.nationalgeographic.com/into-the-amazon/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“Into the Amazon.” 2021. November 24, 2021. https://www.nationalgeographic.com/into-the-amazon/."
-  },
-  {
-    "objectID": "publications_distill_tool.html",
-    "href": "publications_distill_tool.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Nitta, J. H. and W. Iwasaki (2024). “dwctaxon, an R package for editing and validating taxonomic data in Darwin Core format”. In: Journal of Open Source Software 9.93, p. 6215. DOI: 10.21105/joss.06215  Code  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section",
-    "href": "publications_distill_tool.html#section",
-    "title": "Publications",
-    "section": "",
-    "text": "Nitta, J. H. and W. Iwasaki (2024). “dwctaxon, an R package for editing and validating taxonomic data in Darwin Core format”. In: Journal of Open Source Software 9.93, p. 6215. DOI: 10.21105/joss.06215  Code  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-1",
-    "href": "publications_distill_tool.html#section-1",
-    "title": "Publications",
-    "section": "2021",
-    "text": "2021\nNitta, J. H., J. E. Watkins Jr., N. M. Holbrook, T. W. Wang, and C. C. Davis (2021). “Ecophysiological differentiation between life stages in filmy ferns (Hymenophyllaceae)”. In: Journal of Plant Research 134.5, pp. 971-988. DOI: 10.1007/s10265-021-01318-z Preprint  Code  Data  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-2",
-    "href": "publications_distill_tool.html#section-2",
-    "title": "Publications",
-    "section": "2020",
-    "text": "2020\nNitta, J. H., A. Ebihara, and A. R. Smith (2020). “A taxonomic and molecular survey of the pteridophytes of the Nectandra Cloud Forest Reserve, Costa Rica”. In: PLoS ONE 15.11, p. e0241231. DOI: 10.1371/journal.pone.0241231  Code  Data  PDF\nNitta, J. H., J. E. Watkins Jr., and C. C. Davis (2020). “Life in the canopy: Community trait assessments reveal substantial functional diversity among fern epiphytes”. In: New Phytologist 227.6, pp. 1885-1899. DOI: 10.1111/nph.16607  Code  Data  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-3",
-    "href": "publications_distill_tool.html#section-3",
-    "title": "Publications",
-    "section": "2019",
-    "text": "2019\nEbihara, A. and J. H. Nitta (2019). “An update and reassessment of fern and lycophyte diversity data in the Japanese Archipelago”. In: Journal of Plant Research 132.6, pp. 723-738. DOI: 10.1007/s10265-019-01137-3  Code  Data  PDF\nEbihara, A., J. H. Nitta, Y. Matsumoto, Y. Fukazawa, M. Kurihara, H. Yokote, K. Sakuma, O. Azakami, Y. Hirayama, and R. Imaichi (2019). “Growth dynamics of independent gametophytes of Pleurosoriopsis makinoi (Polypodiaceae)”. In: Bulletin of the National Museum of Nature and Science, Series B (Botany) 45.2, pp. 77-86.   Code  PDF\nNitta, J. H. and A. Ebihara (2019). “Virtual issue: Ecology and evolution of pteridophytes in the era of molecular genetics”. In: Journal of Plant Research 132.6, pp. 719-721. DOI: 10.1007/s10265-019-01139-1  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-4",
-    "href": "publications_distill_tool.html#section-4",
-    "title": "Publications",
-    "section": "2018",
-    "text": "2018\nGilbert, K. J., J. H. Nitta, G. Talavera, and N. E. Pierce (2018). “Keeping an eye on coloration: Ecological correlates of the evolution of pitcher traits in the genus Nepenthes (Caryophyllales)”. In: Biological Journal of the Linnean Society 123.2, pp. 321-337. DOI: 10.1093/biolinnean/blx142  PDF\nNitta, J. H., S. Amer, and C. C. Davis (2018). “Microsorum × tohieaense (Polypodiaceae), a new hybrid fern from French Polynesia, with implications for the taxonomy of Microsorum”. In: Systematic Botany 43.2, pp. 397-413. DOI: 10.1600/036364418X697166  Data  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-5",
-    "href": "publications_distill_tool.html#section-5",
-    "title": "Publications",
-    "section": "2017",
-    "text": "2017\nNitta, J. H., J. Meyer, R. Taputuarai, and C. C. Davis (2017). “Life cycle matters: DNA barcoding reveals contrasting community structure between fern sporophytes and gametophytes”. In: Ecological Monographs 87.2, pp. 278-296. DOI: 10.1002/ecm.1246  PDF\nPinson, J. B., S. M. Chambers, J. H. Nitta, L. Kuo, and E. B. Sessa (2017). “The separation of generations: Biology and biogeography of long-lived sporophyteless fern gametophytes”. In: International Journal of Plant Sciences 178.1, pp. 1-18. DOI: 10.1086/688773  PDF\nZhou, X., L. Zhang, C. Chen, C. Li, Y. Huang, D. Chen, N. T. Thi, D. Cicuzza, R. Knapp, T. T. Tam, J. H. Nitta, X. Gao, and L. Zhang (2017). “A plastid phylogeny and character evolution of the Old World fern genus Pyrrosia (Polypodiaceae) with the description of a new genus: Hovenkampia (Polypodiaceae)”. In: Molecular Phylogenetics and Evolution 114, pp. 271-294. DOI: 10.1016/j.ympev.2017.06.020  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-6",
-    "href": "publications_distill_tool.html#section-6",
-    "title": "Publications",
-    "section": "2016",
-    "text": "2016\nPouteau, R., J. Meyer, P. Blanchard, J. H. Nitta, M. Terorotua, and R. Taputuarai (2016). “Fern species richness and abundance are indicators of climate change on high-elevation islands: evidence from an elevational gradient on Tahiti (French Polynesia)”. In: Climatic Change 138, pp. 143-156. DOI: 10.1007/s10584-016-1734-x  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-7",
-    "href": "publications_distill_tool.html#section-7",
-    "title": "Publications",
-    "section": "2015",
-    "text": "2015\nChen, C., J. H. Nitta, M. Fanerii, T. Y. A. Yang, F. Pitisopa, C. W. Li, and W. Chiou (2015). “Antrophyum solomonense (Pteridaceae), a new species from the Solomon Islands, and its systematic position based on phylogenetic analysis”. In: Systematic Botany 40.3, pp. 645-651. DOI: 10.1600/036364415X689357  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-8",
-    "href": "publications_distill_tool.html#section-8",
-    "title": "Publications",
-    "section": "2013",
-    "text": "2013\nEbihara, A., A. Yamaoka, N. Mizukami, A. Sakoda, J. H. Nitta, and R. Imaichi (2013). “A survey of the fern gametophyte flora of Japan: Frequent independent occurrences of noncordiform gametophytes”. In: American Journal of Botany 100.4, pp. 735-743. DOI: 10.3732/ajb.1200555  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-9",
-    "href": "publications_distill_tool.html#section-9",
-    "title": "Publications",
-    "section": "2011",
-    "text": "2011\nNitta, J. H., A. Ebihara, and M. Ito (2011). “Reticulate evolution in the Crepidomanes minutum species complex (Hymenophyllaceae)”. In: American Journal of Botany 98.11, pp. 1782-1800. DOI: 10.3732/ajb.1000484  PDF\n\n\n\n\n\n\n\n\n\n\n\nNitta, J. H., J. Meyer, and A. R. Smith (2011). “Pteridophytes of Mo’orea, French Polynesia: Additional new records”. In: American Fern Journal 101.1, pp. 36-49. DOI: 10.1640/0002-8444-101.1.36  PDF"
-  },
-  {
-    "objectID": "publications_distill_tool.html#section-10",
-    "href": "publications_distill_tool.html#section-10",
-    "title": "Publications",
-    "section": "2010",
-    "text": "2010\nEbihara, A., J. H. Nitta, and M. Ito (2010). “Molecular species identification with rich floristic sampling: DNA barcoding the pteridophyte flora of Japan”. In: PLoS ONE 5.12, p. e15136. DOI: 10.1371/journal.pone.0015136  PDF\nEbihara, A., J. H. Nitta, and K. Iwatsuki (2010). “The Hymenophyllaceae of the Pacific area. 2. Hymenophyllum (excluding subgen. Hymenophyllum)”. In: Bulletin of the National Museum of Nature and Science, Series B (Botany) 36.2, pp. 43-59.   PDF"
-  },
-  {
-    "objectID": "people.pt/staff/Andrade.html",
-    "href": "people.pt/staff/Andrade.html",
-    "title": "Gabriela Andrade",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Gabriela Andrade"
-  },
-  {
-    "objectID": "people.pt/staff/Andrade.html#biography",
-    "href": "people.pt/staff/Andrade.html#biography",
-    "title": "Gabriela Andrade",
-    "section": "Biography",
-    "text": "Biography\n\n\n\n\nComing soon"
-  },
-  {
-    "objectID": "people.pt/staff/Reita.html",
-    "href": "people.pt/staff/Reita.html",
-    "title": "Carla Reita Leal",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Carla Reita Leal"
-  },
-  {
-    "objectID": "people.pt/staff/Reita.html#biography",
-    "href": "people.pt/staff/Reita.html#biography",
-    "title": "Carla Reita Leal",
-    "section": "Biography",
-    "text": "Biography\n\n\n\n\nComing soon"
-  },
-  {
-    "objectID": "people.pt/staff/Moura.html",
-    "href": "people.pt/staff/Moura.html",
-    "title": "Flavia Moura",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Flavia Moura"
-  },
-  {
-    "objectID": "people.pt/staff/Moura.html#biography",
-    "href": "people.pt/staff/Moura.html#biography",
-    "title": "Flavia Moura",
-    "section": "Biography",
-    "text": "Biography\nComing soon"
-  },
-  {
-    "objectID": "people.pt/staff/Leao.html",
-    "href": "people.pt/staff/Leao.html",
-    "title": "Luís Henrique da Costa Leão",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Luís Henrique da Costa Leão"
-  },
-  {
-    "objectID": "people.pt/staff/Leao.html#biography",
-    "href": "people.pt/staff/Leao.html#biography",
-    "title": "Luís Henrique da Costa Leão",
-    "section": "Biography",
-    "text": "Biography\nDoctor in Sciences in the area of Public Health at the National School of Public Health. Associate Professor II of the Universidade Federal Fluminense, permanent professor in the Postgraduate Program in Health Collective of the Universidade Federal de Mato Grosso and the PPG Health Collective of UFF. Visiting professor at the University of Padova, Italy (2019) and University of Nottingham, England (2019). We have experience in the area of Collective Health, with emphasis on Worker’s Health, focusing mainly on the following topics: critical theories and health relations, work and environment, contemporary work, surveillance in work-related health, production chains and work-related mental health. . He was coordinator of the PPGSC/ISC/UFMT (2016-2018), member of the Comissão de Avaliação de Programs de Pós-Graduação em Saúde Coletiva da CAPES - Qudriênio (2017-2020) and was associate editor in the Health of Work area of the newspaper Ciência Health Collective (2015-2018), member of the EdUFMT Editorial Council (2020-2022) and associate editor of the Brazilian Journal of Occupational Health. He was a member of the Núcleo Gestor de Ciências Sociais e Humanas em Saúde (2020-2023) of the Brazilian Association of Health Collective (Abrasco)."
-  },
-  {
-    "objectID": "datavis/2024-09-24_multilayer-vis/index.pt.html",
-    "href": "datavis/2024-09-24_multilayer-vis/index.pt.html",
-    "title": "Visualização multicamadas",
-    "section": "",
-    "text": "Coming soon: Insert figure, inlcuding coding source and references.\n\n\n\n\n\nReusoCC BY NCCitaçãoBibTeX@online{rodríguez-huerta2024,\n  author = {Rodríguez-Huerta, Edgar},\n  title = {Visualização multicamadas},\n  date = {2024-09-24},\n  url = {https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx},\n  langid = {pt}\n}\nPor favor, cite este trabalho como:\nRodríguez-Huerta, Edgar. 2024. “Visualização multicamadas.”\nSeptember 24, 2024. https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx."
-  },
-  {
-    "objectID": "datavis/2024-09-19_Visualizing the globe.html",
-    "href": "datavis/2024-09-19_Visualizing the globe.html",
-    "title": "Visualizing the globe",
-    "section": "",
-    "text": "globe\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\nThanks\n\n\n\nReuseCC BY NC"
-  },
-  {
-    "objectID": "datavis/2024-09-24_multilayer-vis/index.html",
-    "href": "datavis/2024-09-24_multilayer-vis/index.html",
-    "title": "Multilayer visualisation",
-    "section": "",
-    "text": "An example of what Climate Risk Vulnerability Assessments (CRVA) looks like by applying the proposed method.\nComing soon: Insert figure, inlcuding coding source and references."
-  },
-  {
-    "objectID": "datavis/2024-09-24_multilayer-vis/index.html#reproducibility",
-    "href": "datavis/2024-09-24_multilayer-vis/index.html#reproducibility",
-    "title": "Multilayer visualisation",
-    "section": "Reproducibility",
-    "text": "Reproducibility\n\n\nReference"
-  },
-  {
-    "objectID": "people.pt/staff/Carthew.html",
-    "href": "people.pt/staff/Carthew.html",
-    "title": "Kelsey Carthew",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Kelsey Carthew"
-  },
-  {
-    "objectID": "people.pt/staff/Carthew.html#biography",
-    "href": "people.pt/staff/Carthew.html#biography",
-    "title": "Kelsey Carthew",
-    "section": "Biography",
-    "text": "Biography\nKelsey Carthew is part of the Rights Lab’s research operations team. She supports the coordination and implementation efforts on several Rights Lab research projects in addition to providing operational support. She joined the team after success within other roles within the University. She is currently pursuing her LLM in Public International Law at the University of Nottingham."
-  },
-  {
-    "objectID": "people.pt/staff/Rodriguez-Huerta.html",
-    "href": "people.pt/staff/Rodriguez-Huerta.html",
-    "title": "Edgar Rodriguez-Huerta",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Edgar Rodriguez-Huerta"
-  },
-  {
-    "objectID": "people.pt/staff/Rodriguez-Huerta.html#biography",
-    "href": "people.pt/staff/Rodriguez-Huerta.html#biography",
-    "title": "Edgar Rodriguez-Huerta",
-    "section": "Biography",
-    "text": "Biography\nEdgar Rodríguez-Huerta works as part of the Measurement and Geographies Programme to research the interactions among socio-ecological systems, climate change and modern slavery. He conducts quantitative research through multiple systemic-thinking approaches such as Social Life Cycle Assessment and secondary data analysis, climate modelling, societal metabolism, and complex networks to explore the human dimensions of different supply chains (i.e. food supply, solar panels and brick kilns). He completed a PhD in Sustainability Science and with his background in data science and Business Intelligence, he is an enthusiast in data visualization to communicate and publish the technical results among stakeholders and facilitate decision making"
-  },
-  {
-    "objectID": "people.pt/staff/Landman.html",
-    "href": "people.pt/staff/Landman.html",
-    "title": "Todd Landman",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Todd Landman"
-  },
-  {
-    "objectID": "people.pt/staff/Landman.html#biography",
-    "href": "people.pt/staff/Landman.html#biography",
-    "title": "Todd Landman",
-    "section": "Biography",
-    "text": "Biography\n\n\n\n\nProfessor Todd Landman is the Rights Lab Research Director and Professor of Political Science at the University of Nottingham. He has worked in the field of human rights for 25 years, and is currently researching in the areas of modern slavery prevalence, anti-slavery as a social movement, and the social theory of modern slavery, among other topics. He currently leads a large externally-funded project assessing human rights risks, including forced labour, in the context of business and supply chains, and works as part of a large US-government project that is researching the extent and causes of forced child begging in Niger. His most recent book is The Rights Track: Sound Evidence on Human Rights and Modern Slavery (2022)."
-  },
-  {
-    "objectID": "people.pt/staff/Montanari.html",
-    "href": "people.pt/staff/Montanari.html",
-    "title": "Marcia Montanari",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Marcia Montanari"
-  },
-  {
-    "objectID": "people.pt/staff/Montanari.html#biography",
-    "href": "people.pt/staff/Montanari.html#biography",
-    "title": "Marcia Montanari",
-    "section": "Biography",
-    "text": "Biography\nComing soon"
   },
   {
     "objectID": "literature-tools.html",
@@ -439,6 +187,153 @@
     "title": "",
     "section": "",
     "text": "Code for CRVA integration will be included to facilitate reproducibility of the project."
+  },
+  {
+    "objectID": "people.pt/staff/Montanari.html",
+    "href": "people.pt/staff/Montanari.html",
+    "title": "Marcia Montanari",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Marcia Montanari"
+  },
+  {
+    "objectID": "people.pt/staff/Montanari.html#biography",
+    "href": "people.pt/staff/Montanari.html#biography",
+    "title": "Marcia Montanari",
+    "section": "Biography",
+    "text": "Biography\nComing soon"
+  },
+  {
+    "objectID": "people.pt/staff/Landman.html",
+    "href": "people.pt/staff/Landman.html",
+    "title": "Todd Landman",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Todd Landman"
+  },
+  {
+    "objectID": "people.pt/staff/Landman.html#biography",
+    "href": "people.pt/staff/Landman.html#biography",
+    "title": "Todd Landman",
+    "section": "Biography",
+    "text": "Biography\n\n\n\n\nProfessor Todd Landman is the Rights Lab Research Director and Professor of Political Science at the University of Nottingham. He has worked in the field of human rights for 25 years, and is currently researching in the areas of modern slavery prevalence, anti-slavery as a social movement, and the social theory of modern slavery, among other topics. He currently leads a large externally-funded project assessing human rights risks, including forced labour, in the context of business and supply chains, and works as part of a large US-government project that is researching the extent and causes of forced child begging in Niger. His most recent book is The Rights Track: Sound Evidence on Human Rights and Modern Slavery (2022)."
+  },
+  {
+    "objectID": "people.pt/staff/Rodriguez-Huerta.html",
+    "href": "people.pt/staff/Rodriguez-Huerta.html",
+    "title": "Edgar Rodriguez-Huerta",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Edgar Rodriguez-Huerta"
+  },
+  {
+    "objectID": "people.pt/staff/Rodriguez-Huerta.html#biography",
+    "href": "people.pt/staff/Rodriguez-Huerta.html#biography",
+    "title": "Edgar Rodriguez-Huerta",
+    "section": "Biography",
+    "text": "Biography\nEdgar Rodríguez-Huerta works as part of the Measurement and Geographies Programme to research the interactions among socio-ecological systems, climate change and modern slavery. He conducts quantitative research through multiple systemic-thinking approaches such as Social Life Cycle Assessment and secondary data analysis, climate modelling, societal metabolism, and complex networks to explore the human dimensions of different supply chains (i.e. food supply, solar panels and brick kilns). He completed a PhD in Sustainability Science and with his background in data science and Business Intelligence, he is an enthusiast in data visualization to communicate and publish the technical results among stakeholders and facilitate decision making"
+  },
+  {
+    "objectID": "people.pt/staff/Carthew.html",
+    "href": "people.pt/staff/Carthew.html",
+    "title": "Kelsey Carthew",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Kelsey Carthew"
+  },
+  {
+    "objectID": "people.pt/staff/Carthew.html#biography",
+    "href": "people.pt/staff/Carthew.html#biography",
+    "title": "Kelsey Carthew",
+    "section": "Biography",
+    "text": "Biography\nKelsey Carthew is part of the Rights Lab’s research operations team. She supports the coordination and implementation efforts on several Rights Lab research projects in addition to providing operational support. She joined the team after success within other roles within the University. She is currently pursuing her LLM in Public International Law at the University of Nottingham."
+  },
+  {
+    "objectID": "datavis/2024-09-24_multilayer-vis/index.pt.html",
+    "href": "datavis/2024-09-24_multilayer-vis/index.pt.html",
+    "title": "Visualização multicamadas",
+    "section": "",
+    "text": "Coming soon: Insert figure, inlcuding coding source and references.\n\n\n\n\n\nReusoCC BY NCCitaçãoBibTeX@online{rodríguez-huerta2024,\n  author = {Rodríguez-Huerta, Edgar},\n  title = {Visualização multicamadas},\n  date = {2024-09-24},\n  url = {https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx},\n  langid = {pt}\n}\nPor favor, cite este trabalho como:\nRodríguez-Huerta, Edgar. 2024. “Visualização multicamadas.”\nSeptember 24, 2024. https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx."
+  },
+  {
+    "objectID": "datavis/2024-09-19_Visualizing the globe.html",
+    "href": "datavis/2024-09-19_Visualizing the globe.html",
+    "title": "Visualizing the globe",
+    "section": "",
+    "text": "globe\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\nThanks\n\n\n\nReuseCC BY NC"
+  },
+  {
+    "objectID": "datavis/2024-09-24_multilayer-vis/index.html",
+    "href": "datavis/2024-09-24_multilayer-vis/index.html",
+    "title": "Multilayer visualisation",
+    "section": "",
+    "text": "An example of what Climate Risk Vulnerability Assessments (CRVA) looks like by applying the proposed method.\nComing soon: Insert figure, inlcuding coding source and references."
+  },
+  {
+    "objectID": "datavis/2024-09-24_multilayer-vis/index.html#reproducibility",
+    "href": "datavis/2024-09-24_multilayer-vis/index.html#reproducibility",
+    "title": "Multilayer visualisation",
+    "section": "Reproducibility",
+    "text": "Reproducibility\n\n\nReference"
+  },
+  {
+    "objectID": "datavis/2024-09-19_Visualizing the globe.pt.html",
+    "href": "datavis/2024-09-19_Visualizing the globe.pt.html",
+    "title": "Visualizando o globo",
+    "section": "",
+    "text": "globe\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\nThanks\n\n\n\nReusoCC BY NC"
+  },
+  {
+    "objectID": "people.pt/staff/Leao.html",
+    "href": "people.pt/staff/Leao.html",
+    "title": "Luís Henrique da Costa Leão",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Luís Henrique da Costa Leão"
+  },
+  {
+    "objectID": "people.pt/staff/Leao.html#biography",
+    "href": "people.pt/staff/Leao.html#biography",
+    "title": "Luís Henrique da Costa Leão",
+    "section": "Biography",
+    "text": "Biography\nDoctor in Sciences in the area of Public Health at the National School of Public Health. Associate Professor II of the Universidade Federal Fluminense, permanent professor in the Postgraduate Program in Health Collective of the Universidade Federal de Mato Grosso and the PPG Health Collective of UFF. Visiting professor at the University of Padova, Italy (2019) and University of Nottingham, England (2019). We have experience in the area of Collective Health, with emphasis on Worker’s Health, focusing mainly on the following topics: critical theories and health relations, work and environment, contemporary work, surveillance in work-related health, production chains and work-related mental health. . He was coordinator of the PPGSC/ISC/UFMT (2016-2018), member of the Comissão de Avaliação de Programs de Pós-Graduação em Saúde Coletiva da CAPES - Qudriênio (2017-2020) and was associate editor in the Health of Work area of the newspaper Ciência Health Collective (2015-2018), member of the EdUFMT Editorial Council (2020-2022) and associate editor of the Brazilian Journal of Occupational Health. He was a member of the Núcleo Gestor de Ciências Sociais e Humanas em Saúde (2020-2023) of the Brazilian Association of Health Collective (Abrasco)."
+  },
+  {
+    "objectID": "people.pt/staff/Moura.html",
+    "href": "people.pt/staff/Moura.html",
+    "title": "Flavia Moura",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Flavia Moura"
+  },
+  {
+    "objectID": "people.pt/staff/Moura.html#biography",
+    "href": "people.pt/staff/Moura.html#biography",
+    "title": "Flavia Moura",
+    "section": "Biography",
+    "text": "Biography\nComing soon"
+  },
+  {
+    "objectID": "people.pt/staff/Reita.html",
+    "href": "people.pt/staff/Reita.html",
+    "title": "Carla Reita Leal",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Carla Reita Leal"
+  },
+  {
+    "objectID": "people.pt/staff/Reita.html#biography",
+    "href": "people.pt/staff/Reita.html#biography",
+    "title": "Carla Reita Leal",
+    "section": "Biography",
+    "text": "Biography\n\n\n\n\nComing soon"
+  },
+  {
+    "objectID": "people.pt/staff/Andrade.html",
+    "href": "people.pt/staff/Andrade.html",
+    "title": "Gabriela Andrade",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Gabriela Andrade"
+  },
+  {
+    "objectID": "people.pt/staff/Andrade.html#biography",
+    "href": "people.pt/staff/Andrade.html#biography",
+    "title": "Gabriela Andrade",
+    "section": "Biography",
+    "text": "Biography\n\n\n\n\nComing soon"
   },
   {
     "objectID": "posts/2024-09-24_example-scrollying-telling/index.pt.html",
@@ -490,74 +385,53 @@
     "text": "Notas de rodapé\n\n\nI have converted my website to Quarto.↩︎\nblogdown and Distill are R packages for making websites. In a nutshell, Distill is much simpler to use than blogdown, at the cost of some design flexibility. For more about making the switch, you can get caught up with posts from Thomas Mock, Frie Preu, Lisa Lendway, and Andreas Handel.↩︎\ndisqus and utterances are tools that let users comment on blog posts. Recently many R-bloggers have been moving away from disqus because it has a habit of tracking user’s data and causing page bloat. More recently, when I checked on my disqus account (in the process of migrating away!), it had a option to “opt-out” of data tracking, but that means data-tracking is on by default.↩︎\nFor example, Vebash Naidoo’s tutorial and Michael McCarthy’s post describing how to control the location of the comments section.↩︎\nThe _site.yml file is longer than this, but I’m just showing the relevant code to add. You can see my _site.yml file here.↩︎"
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Resources",
+    "objectID": "posts_test_layout.html",
+    "href": "posts_test_layout.html",
+    "title": "posts",
     "section": "",
-    "text": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ\n\n\n\n\n\n\nferns\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Into the Amazon\n\n\n\n\n\n\nAmanzon\n\n\ndatavis\n\n\n\nExample of scrollying telling\n\n\n\n\n\nNov 24, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nEnable giscus in Distill\n\n\n\n\n\n\nblogging\n\n\ndistill\n\n\n\nHow to use the giscus commenting system on a Distill blog\n\n\n\n\n\nNov 24, 2021\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications/2024-07-20_theorical-framework/index.html",
-    "href": "publications/2024-07-20_theorical-framework/index.html",
+    "objectID": "publications/2024-07-20_theorical-framework/index.pt.html",
+    "href": "publications/2024-07-20_theorical-framework/index.pt.html",
     "title": "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations",
     "section": "",
-    "text": "This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil. It establishes the overall relationship between climate change risk and working conditions, relevant international legal standards and norms on worker rights, and the features of worker conditions in Brazilian agriculture. It offers a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations. The more holistic framework developed here avoids monocausal explanations and solutions, incomplete and fragmented interventions, and multiple unintended consequences in ways that can bring real impact to the livelihoods and health of Brazilian agricultural workers."
+    "text": "This is only and example to review website  This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil. It establishes the overall relationship between climate change risk and working conditions, relevant international legal standards and norms on worker rights, and the features of worker conditions in Brazilian agriculture. It offers a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations. The more holistic framework developed here avoids monocausal explanations and solutions, incomplete and fragmented interventions, and multiple unintended consequences in ways that can bring real impact to the livelihoods and health of Brazilian agricultural workers."
   },
   {
-    "objectID": "publications/2024-07-20_theorical-framework/index.html#abstract",
-    "href": "publications/2024-07-20_theorical-framework/index.html#abstract",
+    "objectID": "publications/2024-07-20_theorical-framework/index.pt.html#resumo",
+    "href": "publications/2024-07-20_theorical-framework/index.pt.html#resumo",
     "title": "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations",
     "section": "",
-    "text": "This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil. It establishes the overall relationship between climate change risk and working conditions, relevant international legal standards and norms on worker rights, and the features of worker conditions in Brazilian agriculture. It offers a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations. The more holistic framework developed here avoids monocausal explanations and solutions, incomplete and fragmented interventions, and multiple unintended consequences in ways that can bring real impact to the livelihoods and health of Brazilian agricultural workers."
+    "text": "This is only and example to review website  This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil. It establishes the overall relationship between climate change risk and working conditions, relevant international legal standards and norms on worker rights, and the features of worker conditions in Brazilian agriculture. It offers a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations. The more holistic framework developed here avoids monocausal explanations and solutions, incomplete and fragmented interventions, and multiple unintended consequences in ways that can bring real impact to the livelihoods and health of Brazilian agricultural workers."
   },
   {
-    "objectID": "resources/2023-01-01_ropensci.ja.html",
-    "href": "resources/2023-01-01_ropensci.ja.html",
-    "title": "Managing bioinformatics pipelines with R (rOpenSci コミュニティー・コール)",
+    "objectID": "resources/2024-09-24_heatstress.pt.html",
+    "href": "resources/2024-09-24_heatstress.pt.html",
+    "title": "Climate Exposure",
     "section": "",
-    "text": "資料\n\nコミュニティー・コール\nスライド\nコード\nブログポスト"
+    "text": "An example of how can be publised multiples datasets generated during the project\n![2024-09-24_heatstress-demo.png]\n\nResources\n\n[Download dataset]\n[Code and documentation]\n[Blog post]"
   },
   {
-    "objectID": "resources/2023-01-01_ropensci.html",
-    "href": "resources/2023-01-01_ropensci.html",
-    "title": "Managing bioinformatics pipelines with R (rOpenSci community call)",
-    "section": "",
-    "text": "Resources\n\nrOpenSci community call\nSlides\nExample code\nBlog post"
+    "objectID": "index.html#what-are-our-aims",
+    "href": "index.html#what-are-our-aims",
+    "title": "Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
+    "section": "What are our aims?",
+    "text": "What are our aims?\nThis project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8."
   },
   {
-    "objectID": "talks/2023-01-21_yurufuwa.html",
-    "href": "talks/2023-01-21_yurufuwa.html",
-    "title": "【研究者に聞いてみた】シダ植物の多様性：進化生態学的なアプローチ",
-    "section": "",
-    "text": "Resources\n\nYurufuwa Biology"
+    "objectID": "index.html#organizations",
+    "href": "index.html#organizations",
+    "title": "Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
+    "section": "Organizations",
+    "text": "Organizations"
   },
   {
-    "objectID": "old_people.html",
-    "href": "old_people.html",
-    "title": "",
-    "section": "",
-    "text": "Home\n    People"
-  },
-  {
-    "objectID": "old_people.html#research-staff",
-    "href": "old_people.html#research-staff",
-    "title": "",
-    "section": "Research Staff",
-    "text": "Research Staff"
-  },
-  {
-    "objectID": "old_people.html#research-assistants",
-    "href": "old_people.html#research-assistants",
-    "title": "",
-    "section": "Research Assistants",
-    "text": "Research Assistants\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "old_people.html#alumni",
-    "href": "old_people.html#alumni",
-    "title": "",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "index.html#acknowlegde",
+    "href": "index.html#acknowlegde",
+    "title": "Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
+    "section": "Acknowlegde",
+    "text": "Acknowlegde\nThis project is funded by the British Academy’s ODA Challenge-Oriented Research Grants 2024 Programme, supported under the UK Government’s International Science Partnerships Fund."
   },
   {
     "objectID": "publications.html",
@@ -641,6 +515,6 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 1, 2023\n\n\nManaging bioinformatics pipelines with R (rOpenSci community call)\n\n\n \n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 1, 2023\n\n\nClimate Exposure\n\n\n \n\n\n\n\n\nNo matching items"
   }
 ]

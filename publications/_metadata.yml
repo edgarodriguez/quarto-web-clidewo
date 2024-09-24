@@ -18,11 +18,11 @@ toc-location: left
 #   `quarto render` is run on that file
 # - false: always re-render
 # - auto: only re-render during project render if the source has changed
-execute:
-  freeze: true
-  # knitr options
-  echo: true
-  message: true
-  warning: true
+#execute:
+#  freeze: true
+#  # knitr options
+#  echo: true
+#  message: true
+#  warning: true
 
 # Default author

@@ -1,5 +1,6 @@
 ---
-title: "Resources"
+title: "Datasets"
+subtitle: "Databases generated during the project"
 comments: false
 lang: en
 date: today
@@ -8,6 +9,7 @@ listing:
   include:
     lang: en
   type: table
+  fields: [title,description, categories]
   categories: true
   sort:
     - "date desc"

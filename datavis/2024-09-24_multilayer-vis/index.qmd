@@ -12,6 +12,7 @@ categories:
   - datavis
   - R tools
 lang: en
+lightbox: true
 
 #author:
 #  - name: Edgar Rodriguez-Huerta
@@ -46,6 +47,7 @@ An example of what Climate Risk Vulnerability Assessments (CRVA) looks like by a
 
 Coming soon: Insert figure, inlcuding coding source and references.
 
+![](img/map_layers.png "From amazing post from Urban demograpghics")
 
 ## Reproducibility {.appendix}
 

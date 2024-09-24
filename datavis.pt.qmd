@@ -1,0 +1,13 @@
+---
+title: "Dadosvisuais"
+lang: pt
+listing:
+  contents: datavis
+  feed: true
+  type: grid
+  include:
+    lang: pt
+  sort: "date desc"
+  categories: true
+comments: false
+---

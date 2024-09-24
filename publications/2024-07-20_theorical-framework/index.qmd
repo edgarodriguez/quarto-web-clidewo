@@ -27,7 +27,7 @@ lang: en
 ---
 
 ## Abstract
-
+**This is only and example to review website **
 This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil. It establishes the overall relationship between climate change risk and working conditions, relevant international legal standards and norms on worker rights, and the features of worker conditions in Brazilian agriculture. It offers a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations. The more holistic framework developed here avoids monocausal explanations and solutions, incomplete and fragmented interventions, and multiple unintended consequences in ways that can bring real impact to the livelihoods and health of Brazilian agricultural workers.
 
 ![](img/theoretical-framework.png)

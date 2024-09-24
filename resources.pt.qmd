@@ -1,13 +1,15 @@
 ---
-title: "Resources"
+title: "Datasets"
+subtitle: "Conjuntos de dados gerados durante o projeto"
 comments: false
 lang: pt
 date: today
 listing:
-  contents: talks
+  contents: resources
   include:
     lang: pt
-  type: default
+  type: table
+  fields: [title,description, categories]
   categories: true
   sort:
     - "date desc"

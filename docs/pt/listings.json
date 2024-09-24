@@ -4,6 +4,31 @@
     "items": []
   },
   {
+    "listing": "/other-resources.html",
+    "items": [
+      "/other-resources/SmartLab.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.html"
+    ]
+  },
+  {
+    "listing": "/datavis.html",
+    "items": [
+      "/datavis/2024-09-24_multilayer-vis/index.pt.html",
+      "/datavis/2024-09-19_Visualizing the globe.pt.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/posts/2024-09-24_example-scrollying-telling/index.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people.pt/staff/Rodriguez-Huerta.html",
@@ -14,16 +39,6 @@
       "/people.pt/staff/Moura.html",
       "/people.pt/staff/Montanari.html",
       "/people.pt/staff/Carthew.html"
-    ]
-  },
-  {
-    "listing": "/talks.html",
-    "items": []
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/posts/2024-09-24_example-scrollying-telling/index.html"
     ]
   },
   {

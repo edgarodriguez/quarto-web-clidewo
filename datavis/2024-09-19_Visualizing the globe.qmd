@@ -3,7 +3,7 @@ title: "Visualizing the globe"
 lang: en
 date: 2024-09-19
 draft: false
-image: "2023-01-21_yurufuwa.png"
+image: "2024-09-19_Visualizing-the-globe.png"
 execute:
   echo: false
 comments: false
