@@ -18,11 +18,12 @@ website:
         menu:
           - text: Datasets
             href: resources.qmd
-
           - text: Datavis
             href: datavis.qmd  
-          - text: Literature analysis
-            href: alphaxiv.qmd            
+          - text: Literature analysis and tools
+            href: literature-tools.qmd        
+          - text: Other sources
+            href: other-resources.qmd                   
       - text: Blog
         href: blog.qmd 
       - text: News/Events
@@ -55,7 +56,7 @@ format:
     css: erh_theme.css
     include-in-header:
       - text: |
-          <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:opsz,wght@14..32,300&display=swap" rel="stylesheet">
+          <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
     toc: true
 
 babelquarto:

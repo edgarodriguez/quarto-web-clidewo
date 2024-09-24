@@ -4,10 +4,10 @@ comments: false
 lang: en
 date: today
 listing:
-  contents: talks
+  contents: resources
   include:
     lang: en
-  type: default
+  type: table
   categories: true
   sort:
     - "date desc"

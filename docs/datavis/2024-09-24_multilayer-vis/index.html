@@ -5,9 +5,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.5.55">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="author" content="Edgar Perez">
 <meta name="dcterms.date" content="2024-09-24">
-<meta name="description" content="An example of what Climate Risk Vulnerability Assessments (CRVA) looks like by applying the proposed method">
 <title>Multilayer visualisation</title>
 <style>
 code{white-space: pre-wrap;}
@@ -60,7 +58,7 @@ window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
-</script><link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=Inter:opsz,wght@14..32,300&amp;display=swap" rel="stylesheet">
+</script><link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../erh_theme.css">
 </head>
 <body class="floating nav-fixed">
@@ -106,8 +104,12 @@ gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
  <span class="dropdown-text">Datavis</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../alphaxiv.html">
- <span class="dropdown-text">Literature analysis</span></a>
+    <a class="dropdown-item" href="../../literature-tools.html">
+ <span class="dropdown-text">Literature analysis and tools</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../other-resources.html">
+ <span class="dropdown-text">Other sources</span></a>
   </li>  
     </ul>
 </li>
@@ -149,31 +151,11 @@ gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
   </div>
   </div>
 
-<div>
-  <div class="description">
-    An example of what Climate Risk Vulnerability Assessments (CRVA) looks like by applying the proposed method
-  </div>
-</div>
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Author</div>
-  <div class="quarto-title-meta-heading">Affiliation</div>
-  
-    <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodr%C3%ADguez-huerta/index.aspx">Edgar Perez</a> <a href="https://orcid.org/0000-0002-6887-0040" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            <a href="https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx">
-            University of Nottingham, Rights Lab
-            </a>
-          </p>
-      </div>
-  </div>
 
 <div class="quarto-title-meta">
 
-      
+    
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
@@ -201,19 +183,27 @@ gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
 </style>
 </div>
 <div class="justify">
+<p>An example of what Climate Risk Vulnerability Assessments (CRVA) looks like by applying the proposed method.</p>
 <p>Coming soon: Insert figure, inlcuding coding source and references.</p>
+
 </div>
 </div>
 
 
 
 <div id="quarto-appendix" class="default">
-<section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2>
+<section id="reproducibility" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Reproducibility</h2>
+<div class="quarto-appendix-contents">
+
+<ul>
+<li><a href="https://www.urbandemographics.org/post/figures-map-layers-r/">Reference</a></li>
+</ul>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2>
 <div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/NC/">CC BY NC</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2>
 <div>
 <div class="quarto-appendix-secondary-label">BibTeX citation:</div>
-<pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{perez2024,
-  author = {Perez, Edgar},
+<pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{2024,
+  author = {},
   title = {Multilayer Visualisation},
   date = {2024-09-24},
   url = {https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx},
@@ -221,9 +211,8 @@ gtag('config', 'G-RG1R3XP26Q', { 'anonymize_ip': true});
 }
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre>
 <div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div>
-<div id="ref-perez2024" class="csl-entry quarto-appendix-citeas" role="listitem">
-Perez, Edgar. 2024. <span>“Multilayer Visualisation.”</span> September
-24, 2024. <a href="https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx">https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx</a>.
+<div id="ref-2024" class="csl-entry quarto-appendix-citeas" role="listitem">
+<span>“Multilayer Visualisation.”</span> 2024. September 24, 2024. <a href="https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx">https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx</a>.
 </div>
 </div></section>
 </div></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">

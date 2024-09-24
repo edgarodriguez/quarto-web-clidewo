@@ -2,8 +2,8 @@
 title: "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations"
 description: ""
 
-date: "Not published"
-date-modified: today
+date: "2024-12-31"
+date-modified: "2024-08-09"
 image: img/theoretical-framework.png
 execute:
   echo: false
@@ -16,17 +16,17 @@ categories:
   
 author:
   - name: Edgar Rodriguez-Huerta
-    url: https://joelnitta.com
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
     affiliation: University of Nottingham, Rights Lab
     affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
     orcid: 0000-0002-6887-0040
-  - name: Luis Leao
+  - name: Luís Leão
   - name: Todd Landman
     affiliation: University of Nottingham, Rights Lab  
 lang: en  
 ---
 
-### This is only an example for the page structure
+## Abstract
 
 This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil. It establishes the overall relationship between climate change risk and working conditions, relevant international legal standards and norms on worker rights, and the features of worker conditions in Brazilian agriculture. It offers a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations. The more holistic framework developed here avoids monocausal explanations and solutions, incomplete and fragmented interventions, and multiple unintended consequences in ways that can bring real impact to the livelihoods and health of Brazilian agricultural workers.
 

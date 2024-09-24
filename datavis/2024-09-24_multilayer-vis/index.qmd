@@ -3,7 +3,7 @@ title: "Multilayer visualisation"
 
 date: "2024-09-24"
 date-modified: today
-image: img/adam-solomon-WHUDOzd5IYU-unsplash.jpg
+image: img/map_layers.png
 execute:
   echo: false
 citation:
@@ -13,12 +13,12 @@ categories:
   - R tools
 lang: en
 
-author:
-  - name: Edgar Perez
-    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
-    affiliation: University of Nottingham, Rights Lab
-    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
-    orcid: 0000-0002-6887-0040
+#author:
+#  - name: Edgar Rodriguez-Huerta
+#    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+#    affiliation: University of Nottingham, Rights Lab
+#    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+#    orcid: 0000-0002-6887-0040
 
 ---
 
@@ -46,6 +46,10 @@ An example of what Climate Risk Vulnerability Assessments (CRVA) looks like by a
 
 Coming soon: Insert figure, inlcuding coding source and references.
 
+
+## Reproducibility {.appendix}
+
+- [Reference](https://www.urbandemographics.org/post/figures-map-layers-r/)
 
 :::
 :::

@@ -2,202 +2,166 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/blog.html</loc>
-    <lastmod>2024-09-24T11:53:04.780Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.645Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/people/staff/Andrade.html</loc>
-    <lastmod>2024-09-24T11:53:05.094Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.973Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/people/staff/Reita.html</loc>
-    <lastmod>2024-09-24T11:53:05.096Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.975Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/people/staff/Moura.html</loc>
-    <lastmod>2024-09-24T11:53:05.095Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.975Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/people/staff/Leao.html</loc>
-    <lastmod>2024-09-24T11:53:05.095Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.974Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/people.html</loc>
-    <lastmod>2024-09-24T11:53:05.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/alphaxiv.html</loc>
-    <lastmod>2024-09-24T11:53:04.779Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/publications.html</loc>
-    <lastmod>2024-09-24T11:53:05.161Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/talks/2023-01-21_yurufuwa.html</loc>
-    <lastmod>2024-09-24T11:53:05.176Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/R/pub-prep.html</loc>
-    <lastmod>2024-09-24T11:53:04.704Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2023-01-01_ropensci.html</loc>
-    <lastmod>2024-09-24T11:53:05.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2022-07-24_botany_taxastand.ja.html</loc>
-    <lastmod>2024-09-24T11:53:05.163Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2022-09-27_biodigi.ja.html</loc>
-    <lastmod>2024-09-24T11:53:05.166Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2024-09-19_Visualizing the globe.html</loc>
-    <lastmod>2024-09-24T11:53:05.173Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2023-01-21_yurufuwa.ja.html</loc>
-    <lastmod>2024-09-24T11:53:05.169Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/publications/2024-07-20_theorical-framework/index.pt.html</loc>
-    <lastmod>2024-09-24T11:53:05.160Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/talks.html</loc>
-    <lastmod>2024-09-24T11:53:05.176Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/posts/2021-11-24_using-giscus/index.html</loc>
-    <lastmod>2024-09-24T11:53:05.155Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/posts/2021-06-02_color-scheme-anc-states/index.html</loc>
-    <lastmod>2024-09-24T11:53:05.131Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Andrade.html</loc>
-    <lastmod>2024-09-24T11:53:05.109Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Reita.html</loc>
-    <lastmod>2024-09-24T11:53:05.110Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Moura.html</loc>
-    <lastmod>2024-09-24T11:53:05.110Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Leao.html</loc>
-    <lastmod>2024-09-24T11:53:05.110Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/datavis/2024-09-24_multilayer-vis/index.pt.html</loc>
-    <lastmod>2024-09-24T11:53:04.971Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/datavis/2021-06-02_color-scheme-anc-states/index.pt.html</loc>
-    <lastmod>2024-09-24T11:53:04.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/datavis/2021-06-02_color-scheme-anc-states/index.html</loc>
-    <lastmod>2024-09-24T11:53:04.944Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/datavis/2024-09-24_multilayer-vis/index.html</loc>
-    <lastmod>2024-09-24T11:53:04.971Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Carthew.html</loc>
-    <lastmod>2024-09-24T11:53:05.109Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Rodriguez-Huerta.html</loc>
-    <lastmod>2024-09-24T11:53:05.111Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Landman.html</loc>
-    <lastmod>2024-09-24T11:53:05.110Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Montanari.html</loc>
-    <lastmod>2024-09-24T11:53:05.110Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/contact.html</loc>
-    <lastmod>2024-09-24T11:53:04.780Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/posts/2021-06-02_color-scheme-anc-states/index.pt.html</loc>
-    <lastmod>2024-09-24T11:53:05.131Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/posts/2021-11-24_using-giscus/index.pt.html</loc>
-    <lastmod>2024-09-24T11:53:05.155Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/publications/2024-07-20_theorical-framework/index.html</loc>
-    <lastmod>2024-09-24T11:53:05.160Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2023-01-01_ropensci.ja.html</loc>
-    <lastmod>2024-09-24T11:53:05.167Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2022-09-27_biodigi.html</loc>
-    <lastmod>2024-09-24T11:53:05.167Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2022-08-10_carptrans.html</loc>
-    <lastmod>2024-09-24T11:53:05.166Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2022-08-10_carptrans.ja.html</loc>
-    <lastmod>2024-09-24T11:53:05.165Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2022-07-24_botany_taxastand.html</loc>
-    <lastmod>2024-09-24T11:53:05.164Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/news.html</loc>
-    <lastmod>2024-09-24T11:53:05.093Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/talks/2023-01-21_yurufuwa.ja.html</loc>
-    <lastmod>2024-09-24T11:53:05.174Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-testing/index.html</loc>
-    <lastmod>2024-09-24T11:53:05.087Z</lastmod>
+    <lastmod>2024-09-24T13:28:09.013Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/about.html</loc>
-    <lastmod>2024-09-24T11:53:04.779Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.644Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/other-resources/SmartLab.html</loc>
+    <lastmod>2024-09-24T13:28:08.972Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/talks/2023-01-21_yurufuwa.html</loc>
+    <lastmod>2024-09-24T13:28:09.038Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/R/pub-prep.html</loc>
+    <lastmod>2024-09-24T13:28:08.558Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2023-01-01_ropensci.html</loc>
+    <lastmod>2024-09-24T13:28:09.034Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2023-01-01_ropensci.ja.html</loc>
+    <lastmod>2024-09-24T13:28:09.033Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/publications/2024-07-20_theorical-framework/index.html</loc>
+    <lastmod>2024-09-24T13:28:09.029Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/posts/2024-09-24_example-scrollying-telling/index.pt.html</loc>
+    <lastmod>2024-09-24T13:28:09.018Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/contact.html</loc>
+    <lastmod>2024-09-24T13:28:08.646Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Andrade.html</loc>
+    <lastmod>2024-09-24T13:28:08.996Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Reita.html</loc>
+    <lastmod>2024-09-24T13:28:08.998Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Moura.html</loc>
+    <lastmod>2024-09-24T13:28:08.997Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Leao.html</loc>
+    <lastmod>2024-09-24T13:28:08.997Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/datavis/2024-09-24_multilayer-vis/index.pt.html</loc>
+    <lastmod>2024-09-24T13:28:08.834Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/datavis/2024-09-19_Visualizing the globe.html</loc>
+    <lastmod>2024-09-24T13:28:08.818Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/datavis/2024-09-24_multilayer-vis/index.html</loc>
+    <lastmod>2024-09-24T13:28:08.835Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Carthew.html</loc>
+    <lastmod>2024-09-24T13:28:08.996Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Rodriguez-Huerta.html</loc>
+    <lastmod>2024-09-24T13:28:08.998Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Landman.html</loc>
+    <lastmod>2024-09-24T13:28:08.997Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/people.pt/staff/Montanari.html</loc>
+    <lastmod>2024-09-24T13:28:08.997Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/literature-tools.html</loc>
+    <lastmod>2024-09-24T13:28:08.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/posts/2024-09-24_example-scrollying-telling/index.html</loc>
+    <lastmod>2024-09-24T13:28:09.020Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/talks.html</loc>
+    <lastmod>2024-09-24T13:28:09.039Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/publications/2024-07-20_theorical-framework/index.pt.html</loc>
+    <lastmod>2024-09-24T13:28:09.028Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/resources/2023-01-21_yurufuwa.ja.html</loc>
+    <lastmod>2024-09-24T13:28:09.034Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/news.html</loc>
+    <lastmod>2024-09-24T13:28:08.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/talks/2023-01-21_yurufuwa.ja.html</loc>
+    <lastmod>2024-09-24T13:28:09.037Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/index.html</loc>
+    <lastmod>2024-09-24T13:28:08.966Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-testing/publications.html</loc>
+    <lastmod>2024-09-24T13:28:09.030Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/news/2024-09-01_Awarding-ODA.html</loc>
-    <lastmod>2024-09-24T11:53:05.092Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.971Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/people/staff/Carthew.html</loc>
-    <lastmod>2024-09-24T11:53:05.094Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.974Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/people/staff/Rodriguez-Huerta.html</loc>
-    <lastmod>2024-09-24T11:53:05.096Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.975Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/people/staff/Landman.html</loc>
-    <lastmod>2024-09-24T11:53:05.095Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.974Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/people/staff/Montanari.html</loc>
-    <lastmod>2024-09-24T11:53:05.095Z</lastmod>
+    <lastmod>2024-09-24T13:28:08.974Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-testing/resources.html</loc>
-    <lastmod>2024-09-24T11:53:05.174Z</lastmod>
+    <lastmod>2024-09-24T13:28:09.036Z</lastmod>
   </url>
 </urlset>
