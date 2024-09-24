@@ -45,3 +45,8 @@ pixgallery(
 	dim="350px",
 	gap = "10px"
 )
+
+
+### icons social media
+
+quarto install extension schochastics/quarto-social-share

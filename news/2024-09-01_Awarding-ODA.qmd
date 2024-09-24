@@ -2,6 +2,7 @@
 title: "Climate and Occupational Health and Decent Work Nexus: Worker's Vulnerabilities"
 lang: en
 date: 2024-09-01
+author: "Edgar Rodríguez-Huerta"
 image: "2024-09-01_Awarding-ODA.jpg"
 execute:
   echo: false
@@ -10,6 +11,20 @@ toc: false
 title-block-banner: false
 categories:
   - news
+filters:
+  - social-share
+share:
+  permalink: "https://mr.schochastics.net/"
+  description: "awesome page"
+  linkedin: true
+  twitter: false
+  facebook: true
+  reddit: true
+  stumble: false
+  tumblr: false
+  email: true
+  mastodon: true
+
 ---
 
 ```{r}

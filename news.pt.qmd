@@ -1,5 +1,6 @@
 ---
-title: "Notícias e Eventos"
+pagetitle: News
+title: "Notícias/Eventos"
 subtitle: "Próximos eventos e planejamento de trabalho podem estar aqui"
 lang: pt
 listing:

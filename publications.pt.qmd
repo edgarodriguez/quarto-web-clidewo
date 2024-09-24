@@ -1,4 +1,5 @@
 ---
+pagetitle: "pubs"
 title: "Publicações"
 lang: pt
 listing:

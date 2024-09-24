@@ -1,6 +1,6 @@
 ---
 pagetitle: about
-title: ""
+title: "about"
 subtitle: ""
 sidebar: false
 page-layout: article
