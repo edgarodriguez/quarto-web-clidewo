@@ -1,1 +1,1 @@
-Sitemap: https://edgarodriguez.github.io/quarto-web-testing/sitemap.xml
+Sitemap: https://edgarodriguez.github.io/quarto-web-clidewo/sitemap.xml

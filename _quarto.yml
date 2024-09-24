@@ -3,31 +3,26 @@ project:
   output-dir: docs
 website:
   favicon: "content/images/logo_yellow3.png"
-  site-url: https://edgarodriguez.github.io/quarto-web-testing/
-  repo-url: https://github.com/edgarodriguez/quarto-web-testing
+  site-url: https://edgarodriguez.github.io/quarto-web-clidewo/
+  repo-url: https://github.com/edgarodriguez/quarto-web-clidewo
   navbar:
     pinned: true
     logo: "content/img/logo_yellow3.png"
     background: primary
     right:
-      - text: about  
-        href: about.qmd
+      - href: about.qmd
       - href: people.qmd
       - href: publications.qmd
       - text: Resources
         menu:
-          - text: Datasets
-            href: resources.qmd
-          - text: Datavis
-            href: datavis.qmd  
-          - text: Literature analysis and tools
-            href: literature-tools.qmd        
+          - href: resources.qmd
+          - href: datavis.qmd  
+          - href: literature-tools.qmd        
           - text: Other sources
             href: other-resources.qmd                   
       - href: blog.qmd 
       - href: news.qmd
-      - text: Contact
-        href: contact.qmd      
+      - href: contact.qmd      
 
 
   page-footer:

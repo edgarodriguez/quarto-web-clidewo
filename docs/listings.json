@@ -25,10 +25,9 @@
     ]
   },
   {
-    "listing": "/datavis.html",
+    "listing": "/publications.html",
     "items": [
-      "/datavis/2024-09-24_multilayer-vis/index.html",
-      "/datavis/2024-09-19_Visualizing the globe.html"
+      "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
   {
@@ -38,9 +37,10 @@
     ]
   },
   {
-    "listing": "/publications.html",
+    "listing": "/datavis.html",
     "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
+      "/datavis/2024-09-24_multilayer-vis/index.html",
+      "/datavis/2024-09-19_Visualizing the globe.html"
     ]
   },
   {

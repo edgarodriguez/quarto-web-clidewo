@@ -1,5 +1,6 @@
 ---
-title: ""
+pagetitle: Contact
+title: "Contact"
 sidebar: false
 page-layout: article
 toc: false

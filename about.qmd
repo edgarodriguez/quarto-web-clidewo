@@ -1,4 +1,5 @@
 ---
+pagetitle: about
 title: ""
 subtitle: ""
 sidebar: false
