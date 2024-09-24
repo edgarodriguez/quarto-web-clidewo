@@ -12,8 +12,8 @@ format:
   html:
     page-layout: full
 categories:
-  - DataViz
-  - Supply chain
+  - datavis
+  - supply chain
 ---
 
 
