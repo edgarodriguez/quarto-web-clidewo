@@ -19,7 +19,7 @@ website:
             href: resources.qmd
           - text: Literature analysis
             href: publications.qmd
-          - text: Datavizs
+          - text: Datavis
             href: alphaxiv.qmd              
           - text: Alphaxiv
             href: alphaxiv.qmd            
@@ -31,11 +31,10 @@ website:
         href: contact.qmd      
 
 
-
   page-footer:
-    background: light
-    left: © Copyright 2024, Edgar Rodríguez-Huerta
-    right: This website is built with {{< fa heart title="a heart" >}} and Quarto. Multi-lenguage website is possible thanks to babelquarto and Joel Nitto Web
+    background: dark
+    left: © Copyright 2024 CC-BY-NC, Edgar Rodríguez-Huerta
+    right: Multi-lenguage website is possible thanks to package babelquarto and Joel Nitto Website
   google-analytics: "G-RG1R3XP26Q"
   announcement:
     icon: info-circle
@@ -50,12 +49,13 @@ format:
      # light: flatly
      # dark: darkly
     fontsize: 1.2rem
+    linestretch: 1.5
     #fontcolor: "#212121"
     mainfont: inter
-    css: jnitta_theme.css
+    css: erh_theme.css
     include-in-header:
       - text: |
-         <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+          <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:opsz,wght@14..32,300&display=swap" rel="stylesheet">
     toc: true
 
 babelquarto:

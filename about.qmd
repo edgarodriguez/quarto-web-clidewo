@@ -1,28 +1,30 @@
 ---
 title: about
+subtitle: ""
 sidebar: false
 page-layout: article
+draft: false
 toc: false
+lightbox: false
 title-block-banner: false
 lang: en
 ---
 
-Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture
 
-University of Nottingham (Rights Lab)
-Universidade Federal Fluminense 
+:::{.column-body-outset}
 
-## What are our aims?
-
-
-
-This research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8.
 
 ## OBJECTIVES
-This research project aims to (1) produce a CRVA for agricultural workers in Brazil with respect to climate hazards, (2) assess how forced labour practices exacerbate vulnerability and decrease occupational health, and (3) understand how workers are currently adapting and what their main needs are to increase their resilience to climate change.
+This research project aims to 
+
+1. Produce a CRVA for agricultural workers in Brazil with respect to climate hazards, 
+2. Assess how forced labour practices exacerbate vulnerability and decrease occupational health, 
+3. Understand how workers are currently adapting and what their main needs are to increase their resilience to climate change.
+
 We will produce actionable inferences for key stakeholders and policymakers aimed at improving climate risk mitigation strategies in agricultural work and developing adaptation strategies for workers affected by climate change.
 
 ## RESEARCH QUESTIONS
+
 1. How do climate hazards influence the prevalence of occupational health issues, work-related diseases, and slavery-like conditions among agricultural workers in Brazil?
 
 2. What are the most affected groups and the socioeconomic pathways through which climate change impacts labour rights, wages, and occupational safety within the agricultural sector?
@@ -30,13 +32,8 @@ We will produce actionable inferences for key stakeholders and policymakers aime
 4. How do workers in agriculture respond to climate hazards to promote well-being, food security and sustainable practices?
 5. What insights can be drawn from interdisciplinary research to inform policy and practice for enhancing resilience and well-being?
 
+::: {.justify}
 In answering these questions, we aim to better understand the impact of the climate/work/health nexus on local populations by explicitly linking geographical locations to specific agricultural commodities. This will identify vulnerable areas where targeted interventions can help to mitigate the effects of climate change. The project’s novel, innovative, and integrated methods, data, and analysis will support these more targeted mitigation and adaptation strategies.
+::: 
 
-```{=html}
-
-<html here>
-
-```
-
-## How you can get involved
-See our open [call for contributions](contributor-docs/call-for-contributions.qmd).
+:::

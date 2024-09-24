@@ -4,6 +4,10 @@
     "items": []
   },
   {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/staff/Rodriguez-Huerta.html",
@@ -15,10 +19,6 @@
       "/people/staff/Montanari.html",
       "/people/staff/Andrade.html"
     ]
-  },
-  {
-    "listing": "/talks.html",
-    "items": []
   },
   {
     "listing": "/resources.html",

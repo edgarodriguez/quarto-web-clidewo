@@ -1,9 +1,11 @@
 ---
-title: Climate Change and Workers Health
-subtitle: "Vulnerabilities and Response in Brazilian Agriculture"
+title: ""
+subtitle: ""
 lang: en
-
-
+draft: false
+toc: false
+lightbox: false
+cookie-consent: true
 execute:
   echo: false
 comments: false
@@ -19,31 +21,49 @@ comments: false
 library(fontawesome)
 ```
 
+::: {.column-screen}
+![](./content/img/Ecosystem.jpg "Planada Community Mural @JoelArtista")
+:::
+
+
 :::{.column-body-outset}
 
-## The Project
 
 
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
 
-Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Response in Brazilian Agriculture
+::: {.justify}
+
+# Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture
+
+The project will produce a worker-informed, data-driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. 
 
 
+## What are our aims?
+This project supports the broader aspirations for achieving decent work conditions, as set out in [UN Sustainable Development Goal (SDG) 8](https://sdgs.un.org/goals/goal8).
 
-![](./content/img/Ecosystem.jpg){.hero}
 
+## Organizations
 
+:::{#logo-organizations layout-ncol=4}
 
-This research will advance our understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. In general, the impact of climate change on decent work is most acute in the agricultural sector, where Brazil represents a typical case as it is a large exporter of agricultural goods. The project will produce a worker-informed, data- driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable insights towards the development of targeted mitigation and adaptation strategies. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8.
+[![](./content/img/logo-RL.png)](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx){fig-align="center" width="100%"}
 
-## Partners
+[![](./content/img/logo-UFF.png){fig-align="center" width="100%"}](https://www.uff.br)
 
-Federal University of Mato Grosso (UFMT)
-Federal University of Maranhão (UFMA)
-Federal University Fluminense (UFF)
-Rights Lab, University of Nottingham
+[![](./content/img/logo-UFMT.png){fig-align="center" width="90"}](https://www.ufmt.br)
+
+[![](./content/img/logo-UFMA.png){fig-align="center" width="90"}](https://portalpadrao.ufma.br)
+
+:::
+
 
 ## Acknowlegde
 
-This project is funded by the British Academy’s ODA Challenge-Oriented Research Grants 2024 Programme, supported under the UK Government’s International Science Partnerships Fund.
-
+This project is funded by [the British Academy’s](https://www.thebritishacademy.ac.uk) ODA Challenge-Oriented Research Grants 2024 Programme, supported under the UK Government’s International Science Partnerships Fund.
+:::
 :::
