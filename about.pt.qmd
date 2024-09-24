@@ -1,6 +1,6 @@
 ---
 pagetitle: Sobre
-title: "Sobre"
+title: ""
 subtitle: ""
 sidebar: false
 page-layout: article
@@ -31,7 +31,7 @@ library(fontawesome)
 
 ::: {.justify}
 
-## OBJECTIVOS
+## SOBRE
 
 Este projeto de pesquisa visa
 

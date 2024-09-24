@@ -1,7 +1,7 @@
 ---
 pagetitle: "REVISÃO DE LITERATURA E FERRAMENTAS DE ANÁLISE"
 title: ""
-subtitle: "Testing"
+subtitle: ""
 sidebar: true
 page-layout: article
 title-block-banner: false

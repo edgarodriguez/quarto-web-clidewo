@@ -1,6 +1,6 @@
 ---
 pagetitle: about
-title: "about"
+title: ""
 subtitle: ""
 sidebar: false
 page-layout: article
@@ -31,7 +31,8 @@ library(fontawesome)
 
 ::: {.justify}
 
-## OBJECTIVES
+## ABOUT
+
 This research project aims to 
 
 1. Produce a CRVA for agricultural workers in Brazil with respect to climate hazards, 
