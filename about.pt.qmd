@@ -36,7 +36,7 @@ library(fontawesome)
 
 Este projeto de pesquisa visa
 
-1. Produzir um CRVA para trabalhadores agrícolas no Brasil com relação aos riscos climáticos,
+1. Produzir um Avaliação de Vulnerabilidade ao Risco Climático [em inglês: Climate Risk Vulnerability Assessment (CRVA)] para trabalhadores agrícolas no Brasil com relação aos riscos climáticos,
 2. Avaliar como as práticas de trabalho forçado exacerbam a vulnerabilidade e diminuem a saúde ocupacional,
 3. Entender como os trabalhadores estão se adaptando atualmente e quais são suas principais necessidades para aumentar sua resiliência às mudanças climáticas.
 
@@ -56,4 +56,27 @@ Ao responder a essas perguntas, pretendemos entender melhor o impacto do nexo cl
 ::: 
 
 :::
+
+Compartilhe esta publicação nas redes sociais::
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_google_gmail a2a_counter"></a>
+<a class="a2a_button_pocket a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_button_sms a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
 

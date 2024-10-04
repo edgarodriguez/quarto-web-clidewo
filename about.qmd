@@ -34,7 +34,7 @@ library(fontawesome)
 
 This research project aims to 
 
-1. Produce a CRVA for agricultural workers in Brazil with respect to climate hazards, 
+1. Produce a Climate Risk Vulnerability Assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards, 
 2. Assess how forced labour practices exacerbate vulnerability and decrease occupational health, 
 3. Understand how workers are currently adapting and what their main needs are to increase their resilience to climate change.
 

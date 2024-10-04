@@ -16,7 +16,7 @@ categories:
   - supply chain
 ---
 
-
+This is only a demo to validate html code inside a page
 ```{=html}
 <!DOCTYPE html>
 <html>
@@ -2317,4 +2317,3 @@ if (HTMLWidgets.shinyMode) {
 </html>
 ```
 
-Thanks
