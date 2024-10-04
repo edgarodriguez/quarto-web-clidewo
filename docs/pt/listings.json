@@ -12,6 +12,25 @@
     ]
   },
   {
+    "listing": "/datavis.html",
+    "items": [
+      "/datavis/2024-09-24_multilayer-vis/index.pt.html",
+      "/datavis/2024-09-19_Visualizing the globe.pt.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2024-09-01_Awarding-ODA.pt.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people.pt/staff/Rodriguez-Huerta.html",
@@ -22,25 +41,6 @@
       "/people.pt/staff/Montanari.html",
       "/people.pt/staff/Carthew.html",
       "/people.pt/staff/Andrade.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2024-09-01_Awarding-ODA.pt.html"
-    ]
-  },
-  {
-    "listing": "/datavis.html",
-    "items": [
-      "/datavis/2024-09-24_multilayer-vis/index.pt.html",
-      "/datavis/2024-09-19_Visualizing the globe.pt.html"
     ]
   },
   {

@@ -2,170 +2,178 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/blog.html</loc>
-    <lastmod>2024-09-24T22:29:39.123Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.822Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/other-resources.html</loc>
-    <lastmod>2024-09-24T22:29:39.146Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.867Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people/staff/Andrade.html</loc>
-    <lastmod>2024-09-24T22:29:39.146Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.869Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people/staff/Reita.html</loc>
-    <lastmod>2024-09-24T22:29:39.147Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.870Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people/staff/Moura.html</loc>
-    <lastmod>2024-09-24T22:29:39.147Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.870Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people/staff/Leao.html</loc>
-    <lastmod>2024-09-24T22:29:39.146Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.869Z</lastmod>
   </url>
   <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.html</loc>
-    <lastmod>2024-09-24T22:29:39.196Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/news/2024-09-01_Awarding-ODA.pt.html</loc>
-    <lastmod>2024-09-24T22:29:39.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/publications.html</loc>
-    <lastmod>2024-09-24T22:29:39.204Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/other-resources/SmartLab.html</loc>
-    <lastmod>2024-09-24T22:29:39.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/news.html</loc>
-    <lastmod>2024-09-24T22:29:39.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/resources/2024-09-24_heatstress.html</loc>
-    <lastmod>2024-09-24T22:29:39.205Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/publications/2024-07-20_theorical-framework/index.html</loc>
-    <lastmod>2024-09-24T22:29:39.203Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/posts/2024-09-24_example-scrollying-telling/index.pt.html</loc>
-    <lastmod>2024-09-24T22:29:39.200Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/contact.html</loc>
-    <lastmod>2024-09-24T22:29:39.123Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Andrade.html</loc>
-    <lastmod>2024-09-24T22:29:39.172Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Reita.html</loc>
-    <lastmod>2024-09-24T22:29:39.173Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Moura.html</loc>
-    <lastmod>2024-09-24T22:29:39.173Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Leao.html</loc>
-    <lastmod>2024-09-24T22:29:39.173Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis/2024-09-19_Visualizing the globe.pt.html</loc>
-    <lastmod>2024-09-24T22:29:39.136Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis/2024-09-24_multilayer-vis/index.html</loc>
-    <lastmod>2024-09-24T22:29:39.141Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis/2024-09-19_Visualizing the globe.html</loc>
-    <lastmod>2024-09-24T22:29:39.137Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis/2024-09-24_multilayer-vis/index.pt.html</loc>
-    <lastmod>2024-09-24T22:29:39.141Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Carthew.html</loc>
-    <lastmod>2024-09-24T22:29:39.173Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Rodriguez-Huerta.html</loc>
-    <lastmod>2024-09-24T22:29:39.173Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Landman.html</loc>
-    <lastmod>2024-09-24T22:29:39.173Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Montanari.html</loc>
-    <lastmod>2024-09-24T22:29:39.173Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/literature-tools.html</loc>
-    <lastmod>2024-09-24T22:29:39.144Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/posts/2024-09-24_example-scrollying-telling/index.html</loc>
-    <lastmod>2024-09-24T22:29:39.200Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis.html</loc>
-    <lastmod>2024-09-24T22:29:39.143Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/publications/2024-07-20_theorical-framework/index.pt.html</loc>
-    <lastmod>2024-09-24T22:29:39.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/resources/2024-09-24_heatstress.pt.html</loc>
-    <lastmod>2024-09-24T22:29:39.205Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/index.html</loc>
-    <lastmod>2024-09-24T22:29:39.144Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/other-resources/SmartLab.pt.html</loc>
-    <lastmod>2024-09-24T22:29:39.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/about.html</loc>
-    <lastmod>2024-09-24T22:29:39.123Z</lastmod>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people/organisations/GPMAT.html</loc>
+    <lastmod>2024-10-04T10:12:05.868Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/news/2024-09-01_Awarding-ODA.html</loc>
-    <lastmod>2024-09-24T22:29:39.145Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.866Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/about.html</loc>
+    <lastmod>2024-10-04T10:12:05.821Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/other-resources/SmartLab.pt.html</loc>
+    <lastmod>2024-10-04T10:12:05.866Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/index.html</loc>
+    <lastmod>2024-10-04T10:12:05.864Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/resources/2024-09-24_heatstress.pt.html</loc>
+    <lastmod>2024-10-04T10:12:05.931Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/publications/2024-07-20_theorical-framework/index.pt.html</loc>
+    <lastmod>2024-10-04T10:12:05.927Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis.html</loc>
+    <lastmod>2024-10-04T10:12:05.863Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/posts/2024-09-24_example-scrollying-telling/index.html</loc>
+    <lastmod>2024-10-04T10:12:05.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/literature-tools.html</loc>
+    <lastmod>2024-10-04T10:12:05.864Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Montanari.html</loc>
+    <lastmod>2024-10-04T10:12:05.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Landman.html</loc>
+    <lastmod>2024-10-04T10:12:05.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Rodriguez-Huerta.html</loc>
+    <lastmod>2024-10-04T10:12:05.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Carthew.html</loc>
+    <lastmod>2024-10-04T10:12:05.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis/2024-09-19_Visualizing the globe.pt.html</loc>
+    <lastmod>2024-10-04T10:12:05.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis/2024-09-24_multilayer-vis/index.html</loc>
+    <lastmod>2024-10-04T10:12:05.861Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis/2024-09-19_Visualizing the globe.html</loc>
+    <lastmod>2024-10-04T10:12:05.856Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/datavis/2024-09-24_multilayer-vis/index.pt.html</loc>
+    <lastmod>2024-10-04T10:12:05.860Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/organisations/GPMAT.pt.html</loc>
+    <lastmod>2024-10-04T10:12:05.895Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Leao.html</loc>
+    <lastmod>2024-10-04T10:12:05.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Moura.html</loc>
+    <lastmod>2024-10-04T10:12:05.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Reita.html</loc>
+    <lastmod>2024-10-04T10:12:05.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.pt/staff/Andrade.html</loc>
+    <lastmod>2024-10-04T10:12:05.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/contact.html</loc>
+    <lastmod>2024-10-04T10:12:05.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/posts/2024-09-24_example-scrollying-telling/index.pt.html</loc>
+    <lastmod>2024-10-04T10:12:05.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/publications/2024-07-20_theorical-framework/index.html</loc>
+    <lastmod>2024-10-04T10:12:05.928Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/resources/2024-09-24_heatstress.html</loc>
+    <lastmod>2024-10-04T10:12:05.931Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/news.html</loc>
+    <lastmod>2024-10-04T10:12:05.866Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/other-resources/SmartLab.html</loc>
+    <lastmod>2024-10-04T10:12:05.866Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/publications.html</loc>
+    <lastmod>2024-10-04T10:12:05.929Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/news/2024-09-01_Awarding-ODA.pt.html</loc>
+    <lastmod>2024-10-04T10:12:05.865Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people.html</loc>
+    <lastmod>2024-10-04T10:12:05.918Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people/staff/Carthew.html</loc>
-    <lastmod>2024-09-24T22:29:39.146Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.869Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people/staff/Rodriguez-Huerta.html</loc>
-    <lastmod>2024-09-24T22:29:39.147Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.870Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people/staff/Landman.html</loc>
-    <lastmod>2024-09-24T22:29:39.146Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.869Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/people/staff/Montanari.html</loc>
-    <lastmod>2024-09-24T22:29:39.146Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.869Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/posts.html</loc>
-    <lastmod>2024-09-24T22:29:39.201Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.926Z</lastmod>
   </url>
   <url>
     <loc>https://edgarodriguez.github.io/quarto-web-clidewo/resources.html</loc>
-    <lastmod>2024-09-24T22:29:39.206Z</lastmod>
+    <lastmod>2024-10-04T10:12:05.932Z</lastmod>
   </url>
 </urlset>

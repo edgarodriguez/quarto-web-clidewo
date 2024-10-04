@@ -49,7 +49,7 @@ This project supports the broader aspirations for achieving decent work conditio
 
 ## Organizations
 
-:::{#logo-organizations layout-ncol=4}
+:::{#logo-organizations layout-ncol=5}
 
 [![](./content/img/logo-RL.png)](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx){fig-align="center" width="100%"}
 
@@ -57,7 +57,10 @@ This project supports the broader aspirations for achieving decent work conditio
 
 [![](./content/img/logo-UFMT.png){fig-align="center" width="90"}](https://www.ufmt.br)
 
-[![](./content/img/logo-UFMA.png){fig-align="center" width="90"}](https://portalpadrao.ufma.br)
+[![](./content/img/logo-UFMA.png){fig-align="center" width="100"}](https://portalpadrao.ufma.br)
+
+[![](./content/img/logo-GPMAT.jpeg){fig-align="center" width="90%"}](/people/organisations/GPMAT.qmd)
+
 
 :::
 

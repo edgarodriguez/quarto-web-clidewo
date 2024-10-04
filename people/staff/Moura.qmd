@@ -2,7 +2,7 @@
 title: "Flavia Moura"
 sortby: "5"
 subtitle: "Professor of Social Communication, Federal University of Maranhão"
-image: "content/img/TBD.png"
+image: "content/img/Moura.jpeg"
 started: "Fall 2020"
 toc: false
 resources: 
@@ -11,10 +11,18 @@ about:
   id: person-profile
   template: jolla
   links:
-    - icon: link
-      text: website
-      href: https://sigaa.ufma.br/sigaa/public/docente/portal.jsf?siape=1702717&lc=en_US
-
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6672-2319
+    - text: "{{< ai lattes >}} Lattes"
+      href: http://lattes.cnpq.br/7307805971520569 
+    - text: "{{< fa brands instagram >}} Instagram"
+      href: https://www.instagram.com/getecom_ufma/       
+    - text: "{{< fa brands youtube >}} Youtube"
+      href: https://www.youtube.com/channel/UC66NJJWpRJhoymztBVaOLMQ
+    - text: "{{< fa brands spotify >}} Spotify"
+      href: https://open.spotify.com/show/2qQInYIu0DZ0NET2Kp3fbC     
+    - text: "{{< fa at >}} email"
+      href: flavia.moura@ufma.br                
 ---
 
 ```{=html}
@@ -39,6 +47,7 @@ about:
 
 # Include dependencies to track with renv here
 library(fontawesome)
+
 ```
 
 ```{css, echo = FALSE}
@@ -51,7 +60,7 @@ library(fontawesome)
 
 ## Biography
 
-Coming soon
+Post-Doctorate in Sociology and Anthropology (UFRJ) and PhD in Social Communication (PUC-RS). Professor at the Department of Social Communication and the Postgraduate Programs in Communication/Professional Master's Degree at UFMA. Currently coordinates two research projects relating the themes of Communication, Migration and Work. Researcher at the research groups [ObEEC (UFMA/CNPq)](https://portalpadrao.ufma.br/ppgcompro/grupos-de-pesquisa/obeec); [GPECOM (UFMA/CNPq)](https://portalpadrao.ufma.br/ppgcompro/grupos-de-pesquisa/grupo-de-pesquisa-e-estrategias-em-comunicacao), [GEPTS (UFMA/CNPq)](https://gepfs.ufma.br) and [GPTEC (UFRJ/CNPq)](https://www.gptec.org).
 
 
 :::

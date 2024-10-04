@@ -27,7 +27,7 @@ website:
   page-footer:
     background: dark
     left: © Copyright 2024 CC-BY-NC, Edgar Rodríguez-Huerta
-    right: Multi-lenguage website is possible thanks to babelquarto and Joel Nitto Website
+    right: Multi-lenguage website is possible thanks to [babelquarto](https://docs.ropensci.org/babelquarto/index.html) and [Joel Nitta Website](https://www.joelnitta.com)
   google-analytics: "G-RG1R3XP26Q"
   announcement:
     icon: info-circle
