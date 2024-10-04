@@ -55,5 +55,13 @@ See our collection in Research Rabbit: [Collection (in process)](https://www.res
 
 Code for CRVA integration will be included to facilitate reproducibility of the project.
 
+:::{#logo-r-packages layout-ncol=5}
+
+[![](./content/img/R-packages/datazoom-amazonia.png)](https://www.econ.puc-rio.br/datazoom/english/dz_R.html){fig-align="center" width="100%"}
+
+
+
+:::
+
 :::
 

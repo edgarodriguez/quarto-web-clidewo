@@ -44,7 +44,7 @@ Rights Lab project lead: Edgar Rodríguez-Huerta Programme: Measurement and Geog
 Compartilhe esta publicação nas redes sociais::
 ```{=html}
 <!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
 
 <a class="a2a_button_email a2a_counter"></a>
 <a class="a2a_button_copy_link a2a_counter"></a>
@@ -54,10 +54,7 @@ Compartilhe esta publicação nas redes sociais::
 <a class="a2a_button_x a2a_counter"></a>
 <a class="a2a_button_threads a2a_counter"></a>
 <a class="a2a_button_mastodon a2a_counter"></a>
-<a class="a2a_button_google_gmail a2a_counter"></a>
-<a class="a2a_button_pocket a2a_counter"></a>
 <a class="a2a_button_whatsapp a2a_counter"></a>
-<a class="a2a_button_sms a2a_counter"></a>
 <a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
 </div>
 <script async src="https://static.addtoany.com/menu/page.js"></script>

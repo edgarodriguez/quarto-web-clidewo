@@ -10,6 +10,9 @@ website:
     logo: "content/img/logo_yellow3.png"
     background: primary
     right:
+      - href: index.qmd
+        icon: house-door-fill
+        text: " "    
       - href: about.qmd
       - href: people.qmd
       - href: publications.qmd
@@ -50,7 +53,7 @@ format:
       - text: |
           <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
     toc: true
-
+    code-overflow: scroll
 babelquarto:
   languagecodes:
   - name: pt

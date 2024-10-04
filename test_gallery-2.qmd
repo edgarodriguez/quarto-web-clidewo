@@ -1,0 +1,25 @@
+---
+title: "Gallery"
+subtitle: "A gallery of work inspired by ALA Labs or made using <a href='https://galah.ala.org.au/'>galah</a>"
+title-block-banner: "#E06E53"
+title-block-banner-color: body
+include-after-body: _footer.html
+format:
+  html:
+    toc: false
+    css: [gallery.css, ../theme.css]
+search: false
+execute:
+  echo: false
+listing:
+  - id: gallery
+    template: gallery.ejs
+    contents: gallery.yml
+---
+
+:::{.gallery-note style="font-size:.8rem; text-align:center;margin-bottom:25px; margin-top: -20px;"}
+To have your work featured, tag us on [Twitter](https://twitter.com/atlaslivingaust), [Facebook](https://www.facebook.com/atlasoflivingaustralia/) or [LinkedIn](https://au.linkedin.com/company/atlas-of-living-australia), or share to [communications@ala.org.au](mailto:communications@ala.org.au)
+:::
+
+::: {#gallery .column-page}
+:::
