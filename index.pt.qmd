@@ -59,7 +59,7 @@ Este projeto apoia as aspirações mais amplas para alcançar condições de tra
 
 [![](./content/img/logo-UFMA.png){fig-align="center" width="100"}](https://portalpadrao.ufma.br)
 
-[![](./content/img/logo-GPMAT.jpeg){fig-align="center" width="90%"}](/people/organisations/GPMAT.pt.qmd)
+[![](./content/img/logo-GPMAT.jpeg){fig-align="center" width="90%"}](/people.pt/organisations/GPMAT.pt.qmd)
 
 :::
 
