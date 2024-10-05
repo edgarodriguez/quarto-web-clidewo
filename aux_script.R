@@ -8,6 +8,9 @@ install.packages("bib2df")
 
 base::library(RefManageR)
 base::library(distilltools)
+library(babelquarto)
+library(servr)
+
 quarto_version()
 babelquarto::render_website()
 
@@ -15,8 +18,7 @@ quarto add quarto-ext/fontawesome
 
 quarto add quarto-ext/fontawesome
 
-library(babelquarto)
-library(servr)
+
 
 # Optionally check URLs in references
 #TODO: expand this to all URLs in website

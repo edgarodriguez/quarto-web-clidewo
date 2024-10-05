@@ -14,7 +14,7 @@ comments: false
 page-layout: full
 format: 
   html:
-    include-after-body: _footer.html 
+    #include-after-body: _footer.html 
     grid:
       sidebar-width: 250px
       body-width: 1000px
