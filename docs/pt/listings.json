@@ -1,0 +1,59 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2024-09-24_example-scrollying-telling/index.pt.html"
+    ]
+  },
+  {
+    "listing": "/other-resources.html",
+    "items": [
+      "/other-resources/SmartLab.pt.html"
+    ]
+  },
+  {
+    "listing": "/datavis.html",
+    "items": [
+      "/datavis/2024-09-24_multilayer-vis/index.pt.html",
+      "/datavis/2024-09-19_Visualizing the globe.pt.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2024-09-01_Awarding-ODA.pt.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people.pt/staff/Rodriguez-Huerta.html",
+      "/people.pt/staff/Leao.html",
+      "/people.pt/staff/Landman.html",
+      "/people.pt/staff/Reita.html",
+      "/people.pt/staff/Moura.html",
+      "/people.pt/staff/Montanari.html",
+      "/people.pt/staff/Carthew.html",
+      "/people.pt/staff/Andrade.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2024-09-24_example-scrollying-telling/index.html",
+      "/posts/2024-09-24_example-scrollying-telling/index.pt.html"
+    ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/2024-09-24_heatstress.pt.html"
+    ]
+  }
+]

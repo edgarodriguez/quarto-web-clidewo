@@ -6,6 +6,7 @@ draft: false
 toc: false
 lightbox: false
 cookie-consent: true
+open-graph: true
 execute:
   echo: false
 comments: false
