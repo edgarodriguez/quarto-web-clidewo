@@ -3,9 +3,11 @@ title: ""
 subtitle: ""
 lang: pt
 draft: false
+image: "./content/img/Ecosystem.jpg"
 toc: false
 lightbox: false
 cookie-consent: true
+open-graph: true
 execute:
   echo: false
 comments: false
@@ -25,19 +27,6 @@ library(fontawesome)
 ![](./content/img/Ecosystem.jpg "Planada Community Mural @JoelArtista")
 :::
 
-
-:::{.column-body-outset}
-
-
-
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
-
-::: {.justify}
-
 # Mudanças climáticas, saúde ocupacional e trabalho decente: Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira
 
 O projeto produzirá uma avaliação de risco e vulnerabilidade climática (CRVA) informada pelo trabalhador e orientada por dados para trabalhadores agrícolas no Brasil com relação aos riscos climáticos e avaliará como práticas de trabalho indecentes exacerbam a vulnerabilidade e diminuem a saúde ocupacional. Ao aplicar uma abordagem inovadora de avaliação de risco multicamadas que integra modelos climáticos, dados socioeconômicos e dados qualitativos de voz do trabalhador, o projeto fornece uma compreensão valiosa da relação entre mudança climática e trabalho decente, incluindo saúde do trabalhador, condições de trabalho e vulnerabilidade do trabalhador no caso do Brasil.
@@ -51,15 +40,15 @@ Este projeto apoia as aspirações mais amplas para alcançar condições de tra
 
 :::{#logo-organizations layout-ncol=5}
 
-[![](./content/img/logo-RL.png)](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx){fig-align="center" width="100%"}
+[![](./content/img/logo-RL.png)](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx){fig-align="center" }
 
-[![](./content/img/logo-UFF.png){fig-align="center" width="100%"}](https://www.uff.br)
+[![](./content/img/logo-UFF.png){fig-align="center" }](https://www.uff.br)
 
-[![](./content/img/logo-UFMT.png){fig-align="center" width="90"}](https://www.ufmt.br)
+[![](./content/img/logo-UFMT.png){fig-align="center" }](https://www.ufmt.br)
 
-[![](./content/img/logo-UFMA.png){fig-align="center" width="100"}](https://portalpadrao.ufma.br)
+[![](./content/img/logo-UFMA.png){fig-align="center" }](https://portalpadrao.ufma.br)
 
-[![](./content/img/logo-GPMAT.jpeg){fig-align="center" width="90%"}](/people.pt/organisations/GPMAT.pt.qmd)
+[![](./content/img/logo-GPMAT.jpg){fig-align="center" }](/people/organisations/GPMAT.qmd)
 
 :::
 
@@ -69,6 +58,4 @@ Este projeto apoia as aspirações mais amplas para alcançar condições de tra
 Este projeto é financiado pelo Programa ODA Challenge-Oriented Research Grants 2024 da [Academia Britânica](https://www.thebritishacademy.ac.uk), apoiado pelo Fundo de Parcerias Científicas Internacionais do governo do Reino Unido.
 
 
-:::
-:::
 

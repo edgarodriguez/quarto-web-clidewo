@@ -3,6 +3,7 @@ title: ""
 subtitle: ""
 lang: en
 draft: false
+image: "./content/img/Ecosystem.jpg"
 toc: false
 lightbox: false
 cookie-consent: true
@@ -27,9 +28,6 @@ library(fontawesome)
 :::
 
 
-:::{.column-body-outset}
-
-
 
 ```{css, echo = FALSE}
 .justify {
@@ -37,12 +35,9 @@ library(fontawesome)
 }
 ```
 
-::: {.justify}
-
 # Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture
 
 The project will produce a worker-informed, data-driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards and will assess how indecent work practices exacerbate vulnerability and decrease occupational health. By applying an innovative multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative worker voice data, the project provides valuable understanding of the relationship between climate change and decent work, including worker health, working conditions, and worker vulnerability in the case of Brazil. 
-
 
 ## What are our aims?
 This project supports the broader aspirations for achieving decent work conditions, as set out in [UN Sustainable Development Goal (SDG) 8](https://sdgs.un.org/goals/goal8).
@@ -52,22 +47,20 @@ This project supports the broader aspirations for achieving decent work conditio
 
 :::{#logo-organizations layout-ncol=5}
 
-[![](./content/img/logo-RL.png)](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx){fig-align="center" width="100%"}
+[![](./content/img/logo-RL.png)](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx){fig-align="center" }
 
-[![](./content/img/logo-UFF.png){fig-align="center" width="100%"}](https://www.uff.br)
+[![](./content/img/logo-UFF.png){fig-align="center" }](https://www.uff.br)
 
-[![](./content/img/logo-UFMT.png){fig-align="center" width="90"}](https://www.ufmt.br)
+[![](./content/img/logo-UFMT.png){fig-align="center" }](https://www.ufmt.br)
 
-[![](./content/img/logo-UFMA.png){fig-align="center" width="100"}](https://portalpadrao.ufma.br)
+[![](./content/img/logo-UFMA.png){fig-align="center" }](https://portalpadrao.ufma.br)
 
-[![](./content/img/logo-GPMAT.jpeg){fig-align="center" width="90%"}](/people/organisations/GPMAT.qmd)
-
+[![](./content/img/logo-GPMAT.jpg){fig-align="center" }](/people/organisations/GPMAT.qmd)
 
 :::
-
 
 ## Acknowlegde
 
 This project is funded by [the British Academy’s](https://www.thebritishacademy.ac.uk) ODA Challenge-Oriented Research Grants 2024 Programme, supported under the UK Government’s International Science Partnerships Fund.
-:::
-:::
+
+

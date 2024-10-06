@@ -5,6 +5,7 @@ website:
   favicon: "content/images/logo_yellow3.png"
   site-url: https://edgarodriguez.github.io/quarto-web-clidewo/
   repo-url: https://github.com/edgarodriguez/quarto-web-clidewo
+  open-graph: true
   navbar:
     pinned: true
     logo: "content/img/logo_yellow3.png"

@@ -13,11 +13,34 @@
 :root {
   --primary-yellow: #FEDD00;
   --secondary-orange: #B8573E;
-  --main-font: 'Arimo', sans-serif;
+  --main-font: 'Lora', sans-serif;
   --subheader-font: 'Lora', sans-serif;
   --mono-font: 'Fira Mono', monospace;
   --header-font: 'Bebas Neue' sans-serif;
   --bs-navbar-hover-color: #E06E53;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Bebas Neue', sans-serif;
+	font-weight: 300;
+ 
+}
+
+h1 {
+  font-size: 40px;
+	font-weight: 300;
+ 
+}
+
+p {
+  font-family: 'Lora', sans-serif;
+  text-align: justify;
+}
+
+a {
+  font-family: 'Lora', sans-serif;
+  text-align: justify;
+  color: #1098ad;
 }
 
 /* navbar */
@@ -46,6 +69,7 @@
 .navbar {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  color: #fffff0 ;
 }
 
 a.nav-link,
@@ -85,7 +109,7 @@ a.nav-link {
 @media screen and (max-width: 952px){
   /*--    --*/
   .navbar-title {
-    content: url("./images/logos/ala-labs-logo-orange.png");
+    content: url("./content/images/logo_yellow3.png");
   }
 
 }
@@ -114,6 +138,28 @@ a.nav-link {
     color: var(--primary-yellow) !important;
 }
 
+
+
+/* adding from erh*/ 
+
+.navbar li.nav-item  span {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: x-large;
+  font-weight: 300;
+  
+}
+
+.navbar-nav .nav-link {
+  color: #fffff0;
+  font-weight: 300;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--primary-yellow);
+  font-weight: 300;
+}
+/* */
+
 .dropdown-item:active{
   background-color: var(--primary-yellow);
 }
@@ -139,9 +185,6 @@ a.white {
   text-decoration: none;
 }
 
-a:hover {
-  color: #FFC557;
-}
 
 /* ALA navbar favicon color */
 

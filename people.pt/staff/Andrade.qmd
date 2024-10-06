@@ -2,7 +2,7 @@
 title: "Gabriela Andrade"
 sortby: "9"
 subtitle: ""
-image: "content/img/TBD.png"
+image: "./content/img/TBD.jpg"
 started:
 toc: false
 resources: 
