@@ -22,15 +22,7 @@ lang: pt
 library(fontawesome)
 ```
 
-:::{.column-body-outset}
 
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
-
-::: {.justify}
 
 ## SOBRE
 
@@ -53,14 +45,11 @@ Produziremos inferências acionáveis para as principais partes interessadas e f
 
 Ao responder a essas perguntas, pretendemos entender melhor o impacto do nexo clima/trabalho/saúde nas populações locais, vinculando explicitamente as localizações geográficas a commodities agrícolas específicas. Isso identificará áreas vulneráveis donde intervenções direcionadas podem ajudar a mitigar os efeitos das mudanças climáticas. Os métodos, dados e análises novos, inovadores e integrados do projeto apoiarão essas estratégias de mitigação e adaptação mais direcionadas.
 
-::: 
 
-:::
-
-Compartilhe esta publicação nas redes sociais::
+#### Compartilhe esta publicação nas redes sociais::
 ```{=html}
 <!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
 
 <a class="a2a_button_email a2a_counter"></a>
 <a class="a2a_button_copy_link a2a_counter"></a>
@@ -70,13 +59,9 @@ Compartilhe esta publicação nas redes sociais::
 <a class="a2a_button_x a2a_counter"></a>
 <a class="a2a_button_threads a2a_counter"></a>
 <a class="a2a_button_mastodon a2a_counter"></a>
-<a class="a2a_button_google_gmail a2a_counter"></a>
-<a class="a2a_button_pocket a2a_counter"></a>
 <a class="a2a_button_whatsapp a2a_counter"></a>
-<a class="a2a_button_sms a2a_counter"></a>
 <a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
 </div>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 ```
-

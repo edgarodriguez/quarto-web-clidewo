@@ -1,7 +1,6 @@
 ---
-pagetitle: Outros recursos
-title: "outros recursos"
-subtitle: "List of other resources related to the analysis for Climate Change, Decent Work and Workers Health"
+title: "Outros recursos"
+description: "List of other resources related to the analysis for Climate Change, Decent Work and Workers Health"
 comments: false
 lang: pt
 date: today
@@ -15,4 +14,5 @@ listing:
   sort:
     - "date desc"
     - "title desc"
+page-layout: full    
 ---

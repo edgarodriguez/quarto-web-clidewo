@@ -32,7 +32,7 @@ h1 {
  
 }
 
-p {
+p,li,ol {
   font-family: 'Lora', sans-serif;
   text-align: justify;
 }
@@ -43,7 +43,27 @@ a {
   color: #1098ad;
 }
 
+.table a {
+  font-family:'Bebas Neue', sans-serif;
+  font-size: 1.5rem;
+  text-align: justify;
+  color: #1098ad;
+}
+
+th {
+    font-family:'Bebas Neue', sans-serif;
+    font-size: 1.5rem;
+		font-weight: 100;
+}
+
+body {
+    letter-spacing: 1px;
+    font-family: 'Bebas Neue';
+}
+
+
 /* navbar */
+
 
 @media screen and (max-width: 952px){
   /*--    --*/

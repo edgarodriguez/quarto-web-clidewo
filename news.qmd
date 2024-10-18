@@ -1,6 +1,6 @@
 ---
 title: "News/Events"
-subtitle: "Coming events and working planning could be here"
+description: "Here you can find upcoming events and news related to the project and the workteam"
 lang: en
 listing:
   contents: news

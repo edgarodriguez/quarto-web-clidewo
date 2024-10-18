@@ -1,0 +1,15 @@
+{
+  "hash": "d74eaafc620bc50703bdaf0660db7a59",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Visualização multicamadas\"\ndescription:\n  Um exemplo de como são as Avaliações de Vulnerabilidade ao Risco Climático (CRVA) aplicando o método proposto\ndate: \"2024-09-24\"\ndate-modified: today\nimage: img/map_layers.png\nexecute:\n  echo: false\ncitation:\n  url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx\ncategories:\n  - datavis\n  - R tools\nlang: pt\nauthor: Edgar Rodríguez-Huerta\n---\n\n\n\n\n\n\n\n:::{.column-body-outset}\n\n\n\n\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n\n\n\n::: {.justify}\n\n\nComing soon: Insert figure, inlcuding coding source and references.\n\n![](img/map_layers.png \"From amazing post from Urban demograpghics\")\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

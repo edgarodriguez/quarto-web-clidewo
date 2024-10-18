@@ -1,0 +1,54 @@
+---
+title: "Climate change and enviromental related risk: Excessive Heat"
+date: today
+date-modified: today
+draft: true
+draft-mode: visible 
+image: img/coming-soon.png
+execute:
+  echo: false
+categories:
+  - datavis
+  - Climate change
+  - Workers Health
+  - R tools
+lang: en
+format: 
+  html:
+    page-layout: full
+lightbox: true
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+
+
+
+Series of six infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+
+## Coming soon
+
+
+![](img/heat-stress-soon.png "Infographic about heat stress and health issues")
+
+## Download {.appendix}
+
+- [Download in high resolution]
+- [Look inside the code](Depending the tool and code)
+
+

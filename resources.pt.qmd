@@ -1,7 +1,7 @@
 ---
 pagetitle: Datasets
 title: "Datasets"
-subtitle: "Conjuntos de dados gerados durante o projeto"
+description: Explore bancos de dados gerados durante o projeto
 comments: false
 lang: pt
 date: today
@@ -15,4 +15,6 @@ listing:
   sort:
     - "date desc"
     - "title desc"
+page-layout: full    
 ---
+

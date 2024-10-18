@@ -23,13 +23,7 @@ categories:
 
 ```
 
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
 
-::: justify
 ### Project idea
 
 This research will advance our understanding of the relationship between climate change, occupational health, and decent work, in the case of Brazilian agriculture, in partnership with Universidade Federal Fluminense. The project will produce a worker-informed, data-driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil concerning climate hazards. It will assess how indecent work practices exacerbate vulnerability and decrease occupational health. The project provides valuable insights towards developing targeted mitigation and adaptation strategies by applying a multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative data from participatory methods such as worker voice data. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8, and linked with SDG 3, improving agricultural workers' overall health and well-being.
@@ -41,10 +35,10 @@ This research will advance our understanding of the relationship between climate
 
 -   [Project press release](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx)
 
-#### This is an example to check website
-:::
+#### Share this post on social media:
 
-Share this post on social media:
+
+
 ```{=html}
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">

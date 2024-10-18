@@ -1,17 +1,18 @@
 ---
 title: "Datasets"
-subtitle: "Databases generated during the project"
+description: "Explore databases generated during the project"
 comments: false
 lang: en
-date: today
 listing:
   contents: resources
   include:
     lang: en
   type: table
-  fields: [title,description, categories]
+  fields: [title,description, categories, date]
   categories: true
   sort:
     - "date desc"
     - "title desc"
+page-layout: full
 ---
+

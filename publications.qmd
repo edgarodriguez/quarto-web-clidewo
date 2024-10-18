@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: Here you can find and access our **publications**, **reports** and **policy briefings**
 lang: en
 listing:
   contents: publications
@@ -11,5 +12,6 @@ listing:
   categories: true
 comments: false
 title-block-banner: false
+
 ---
 

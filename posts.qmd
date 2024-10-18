@@ -1,6 +1,6 @@
 ---
 title: "posts"
-subtitle: "some workshop-related posts and other musings"
+description: "Comments, notes, insights, and information related to the project's goals"
 listing:
   contents: posts
   sort: "date desc"

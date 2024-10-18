@@ -2,20 +2,21 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/2024-09-24_example-scrollying-telling/index.html"
+      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html"
     ]
   },
   {
     "listing": "/other-resources.html",
     "items": [
-      "/other-resources/SmartLab.html"
+      "/other-resources/SmartLab.html",
+      "/other-resources/climate-conflict.html",
+      "/other-resources/climate-conflict.pt.html"
     ]
   },
   {
     "listing": "/datavis.html",
     "items": [
-      "/datavis/2024-09-24_multilayer-vis/index.html",
-      "/datavis/2024-09-19_Visualizing the globe.html"
+      "/datavis/2024-12-31_climate-hazard-01-heat/index.html"
     ]
   },
   {
@@ -46,8 +47,8 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/2024-09-24_example-scrollying-telling/index.html",
-      "/posts/2024-09-24_example-scrollying-telling/index.pt.html"
+      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
+      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.pt.html"
     ]
   },
   {
