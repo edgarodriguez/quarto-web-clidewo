@@ -17,6 +17,7 @@ format:
   html:
     page-layout: full
 lightbox: true
+toc: false
 author:
   - name: Edgar Rodriguez-Huerta
     url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
