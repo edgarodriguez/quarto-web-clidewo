@@ -2,7 +2,6 @@
 title: "Climate Exposure"
 description: "Heat stress exposure in Brazil"
 draft: true
-draft-mode: gone
 image: "2024-09-24_heatstress-demo.png"
 lang: en
 date: 2023-01-01

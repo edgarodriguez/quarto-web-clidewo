@@ -2,7 +2,6 @@
 title: "Exposição ao clima"
 description: "Exposição ao estresse térmico no Brasil"
 draft: true
-draft-mode: gone
 image: "2024-09-24_heatstress-demo.png"
 lang: pt
 date: 2023-01-01
