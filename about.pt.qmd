@@ -46,7 +46,7 @@ Produziremos inferências acionáveis para as principais partes interessadas e f
 Ao responder a essas perguntas, pretendemos entender melhor o impacto do nexo clima/trabalho/saúde nas populações locais, vinculando explicitamente as localizações geográficas a commodities agrícolas específicas. Isso identificará áreas vulneráveis donde intervenções direcionadas podem ajudar a mitigar os efeitos das mudanças climáticas. Os métodos, dados e análises novos, inovadores e integrados do projeto apoiarão essas estratégias de mitigação e adaptação mais direcionadas.
 
 
-#### Compartilhe esta publicação nas redes sociais::
+#### Compartilhe em redes sociais:
 ```{=html}
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">

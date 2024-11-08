@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+description: "Comments, notes, insights, and information related to the project's goals"
 lang: en
 listing:
   contents: posts

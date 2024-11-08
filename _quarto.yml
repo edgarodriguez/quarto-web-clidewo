@@ -36,7 +36,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**Announcement** - We are working in the website. Official release will be soon / Anúncio - Estamos trabalhando no site. O lançamento oficial será em breve"
+    content: "COMING SOON: Subscribe to our newsletter to be updated on project progress / EM BREVE: Assine nosso boletim informativo para ser atualizado sobre o andamento do projeto"
     type: success
     position: below-navbar
 

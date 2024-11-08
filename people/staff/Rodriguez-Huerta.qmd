@@ -1,12 +1,11 @@
 ---
 title: "Edgar Rodriguez-Huerta"
 sortby: "1"
-subtitle: "Rights Lab Research Fellow in Social-Ecological Systems Modelling"
+subtitle: "Senior Research Fellow in Social Sustainability and Complex Systems"
 image: "content/img/Rodriguez.jpeg"
 started: 
 toc: false
-resources: 
-  - "girard_cv.pdf"
+
 about:
   id: person-profile
   template: jolla

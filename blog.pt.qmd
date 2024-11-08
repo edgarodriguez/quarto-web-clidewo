@@ -1,6 +1,6 @@
 ---
-pagetitle: Blogue
 title: "Blogue"
+description: "Comentários, notas, insights e informações relacionadas aos objetivos do projeto"
 lang: pt
 listing:
   contents: posts

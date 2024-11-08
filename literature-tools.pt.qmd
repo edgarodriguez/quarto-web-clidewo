@@ -55,13 +55,38 @@ See our collection in Research Rabbit: [Collection (in process)](https://www.res
 
 Code for CRVA integration will be included to facilitate reproducibility of the project.
 
+Somos gratos pelo trabalho anterior que facilita a replicabilidade da pesquisa. A análise é conduzida com os seguintes pacotes R:
+
 :::{#logo-r-packages layout-ncol=5}
 
 [![](./content/img/R-packages/datazoom-amazonia.png)](https://www.econ.puc-rio.br/datazoom/english/dz_R.html){fig-align="center" width="100%"}
 
+[![](./content/img/R-packages/geobr_logo_y.png)](https://github.com/ipeaGIT/geobr){fig-align="center" width="100%"}
 
+[![](./content/img/R-packages/censobr.png)](https://ipeagit.github.io/censobr/){fig-align="center" width="100%"}
+
+[![](./content/img/R-packages/readdbc.png)](https://github.com/danicat/read.dbc){fig-align="center" width="100%"}
 
 :::
+#### Compartilhe em redes sociais:
 
-:::
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+
 

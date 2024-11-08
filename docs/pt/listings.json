@@ -8,14 +8,19 @@
   {
     "listing": "/other-resources.html",
     "items": [
-      "/other-resources/SmartLab.pt.html"
+      "/other-resources/SmartLab.pt.html",
+      "/other-resources/climate-conflict.pt.html"
     ]
   },
   {
     "listing": "/datavis.html",
     "items": [
+      "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.pt.html",
       "/datavis/2024-12-31_climate-hazard-01-heat/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-02-radiation/index.pt.html"
+      "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.pt.html",
+      "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.pt.html",
+      "/datavis/2024-99-99_climate-hazard-02-radiation/index.pt.html",
+      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.pt.html"
     ]
   },
   {
