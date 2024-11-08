@@ -16,4 +16,4 @@ listing:
 page-layout: full
 ---
 
-We are working on our first dataset: **"Occupational health risk in agricultural workers in Brazil"** and it will be available during the first quarter of 2025.
+We are developing our first dataset, **“Occupational health risk in agricultural workers in Brazil”**, which will be available in the first quarter of 2025.
