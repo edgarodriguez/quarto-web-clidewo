@@ -57,7 +57,7 @@ Code for CRVA integration will be included to facilitate reproducibility of the 
 
 Somos gratos pelo trabalho anterior que facilita a replicabilidade da pesquisa. A análise é conduzida com os seguintes pacotes R:
 
-:::{#logo-r-packages layout-ncol=5}
+:::{#logo-r-packages layout-ncol=10}
 
 [![](./content/img/R-packages/datazoom-amazonia.png)](https://www.econ.puc-rio.br/datazoom/english/dz_R.html){fig-align="center" width="100%"}
 

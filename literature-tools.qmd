@@ -58,7 +58,7 @@ Code for Climate Risk Vulnerability Assessment (CRVA) integration will be includ
 
 We are grateful for the previous work that facilitates the replicability of research. Analysis is conducted with the following R packages:
 
-:::{#logo-r-packages layout-ncol=5}
+:::{#logo-r-packages layout-ncol=10}
 [![](./content/img/R-packages/datazoom-amazonia.png)](https://www.econ.puc-rio.br/datazoom/english/dz_R.html){fig-align="center" width="100%"}
 
 [![](./content/img/R-packages/geobr_logo_y.png)](https://github.com/ipeaGIT/geobr){fig-align="center" width="100%"}
