@@ -59,7 +59,7 @@ This project supports the broader aspirations for achieving decent work conditio
 
 :::
 
-## Acknowlegde
+## Acknowledgement
 
 This project is funded by [the British Academy’s](https://www.thebritishacademy.ac.uk) ODA Challenge-Oriented Research Grants 2024 Programme (IOCRG100945), supported under the UK Government’s International Science Partnerships Fund.
 

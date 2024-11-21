@@ -17,6 +17,8 @@ about:
     - icon: mortarboard
       text: scholar
       href: https://scholar.google.com/citations?user=f0cb5QkAAAAJ&hl=en
+    - text: "{{< iconify ri:bluesky-fill >}} bluesky"
+      href: https://bsky.app/profile/edgarodriguez.bsky.social         
     - icon: twitter
       text: twitter
       href: https://www.twitter.com/edgarodriguez
