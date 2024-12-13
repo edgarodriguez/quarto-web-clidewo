@@ -3,6 +3,8 @@ project_dir <- "blop"
 babelquarto::quarto_multilingual_website(parent_dir = parent_dir, project_dir = project_dir)
 
 remotes::install_github("EllaKaye/distilltools")
+
+## packages to install and review
 remotes::install_github("ropensci/RefManageR")
 install.packages("bib2df")
 
@@ -11,13 +13,9 @@ base::library(distilltools)
 library(babelquarto)
 library(servr)
 
+### Aux code
 quarto_version()
 babelquarto::render_website()
-
-quarto add quarto-ext/fontawesome
-
-quarto add quarto-ext/fontawesome
-
 
 
 # Optionally check URLs in references
