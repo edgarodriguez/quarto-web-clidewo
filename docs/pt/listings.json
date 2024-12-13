@@ -13,29 +13,6 @@
     ]
   },
   {
-    "listing": "/datavis.html",
-    "items": [
-      "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.pt.html",
-      "/datavis/2024-12-31_climate-hazard-01-heat/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-02-radiation/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.pt.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2024-09-01_Awarding-ODA.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/2024-07-20_theorical-framework/index.pt.html"
-    ]
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people.pt/staff/Rodriguez-Huerta.html",
@@ -45,7 +22,31 @@
       "/people.pt/staff/Moura.html",
       "/people.pt/staff/Montanari.html",
       "/people.pt/staff/Carthew.html",
+      "/people.pt/staff/Silviero.html",
       "/people.pt/staff/Andrade.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.pt.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
+  },
+  {
+    "listing": "/datavis.html",
+    "items": [
+      "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.pt.html",
+      "/datavis/2024-12-31_climate-hazard-01-heat/index.pt.html",
+      "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.pt.html",
+      "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.pt.html",
+      "/datavis/2024-99-99_climate-hazard-02-radiation/index.pt.html",
+      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.pt.html"
     ]
   },
   {

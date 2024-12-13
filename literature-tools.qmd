@@ -67,6 +67,7 @@ We are grateful for the previous work that facilitates the replicability of rese
 
 [![](./content/img/R-packages/readdbc.png)](https://github.com/danicat/read.dbc){fig-align="center" width="100%"}
 
+[![](./content/img/R-packages/sidrar.png)](https://cran.r-project.org/web/packages/sidrar/vignettes/Introduction_to_sidrar.html){fig-align="center" width="100%"}
 :::
 
 
