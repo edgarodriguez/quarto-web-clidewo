@@ -43,7 +43,7 @@ website:
 format:
   html:
     theme: lux
-    css: ala_theme.css
+    css: clidewo_theme.css
     toc: true
     code-overflow: scroll
 babelquarto:
