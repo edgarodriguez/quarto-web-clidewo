@@ -15,7 +15,7 @@ about:
       text: website
       href: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/kelsey-carthew/index.aspx
     - icon: linkedin
-      text: linkedin
+      text: Linkedin
       href: https://www.linkedin.com/in/kelsey-carthew-480661118/
 ---
 

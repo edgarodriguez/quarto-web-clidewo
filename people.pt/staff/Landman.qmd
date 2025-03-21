@@ -18,10 +18,10 @@ about:
       text: scholar
       href: https://scholar.google.co.uk/citations?user=eK7k3pQAAAAJ&hl=en
     - icon: linkedin
-      text: linkedin
+      text: Linkedin
       href: https://www.linkedin.com/in/toddlandman/
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://x.com/DrToddLandman     
 ---
 
