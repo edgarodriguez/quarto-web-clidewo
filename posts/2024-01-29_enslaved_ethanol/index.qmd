@@ -15,6 +15,15 @@ categories:
   - Just transition
 lang: en
 title-block-banner: false
+
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+
 ---
 
 ### Enslaved in Ethanol
@@ -35,7 +44,7 @@ Many workers are subjected to debt bondage and unpredictable wages due to unfair
 :::
 
 ![](img/pesticides.png "Source: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides")
-: *Source: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides*
+: Source: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides
 
 
 Addressing these challenges requires stronger enforcement of labour laws, greater corporate accountability, and improved oversight in supply chains. A just transition in the ethanol industry must prioritize not only environmental sustainability but also the protection of workers' rights and well-being. Governments, companies, and financial institutions must take decisive action to eliminate modern slavery, ensure fair wages, and provide safe working conditions. Ethanol may be a cleaner fuel alternative, but it must not come at the cost of human lives, dignity and fundamental labour rights.

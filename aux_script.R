@@ -50,3 +50,15 @@ pixgallery(
 ### icons social media
 
 quarto install extension schochastics/quarto-social-share
+
+
+### scrollytelling (in the terminal)
+
+quarto add qmd-lab/closeread
+
+### to add code (no ointeraction)
+
+```bash
+quarto add qmd-lab/closeread
+```
+

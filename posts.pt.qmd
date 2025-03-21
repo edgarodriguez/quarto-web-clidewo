@@ -1,6 +1,7 @@
 ---
 title: "posts"
 description: "Comentários, perspectivas e informações relacionadas aos objetivos do projeto"
+lang: pt
 listing:
   contents: posts
   sort: "date desc"
