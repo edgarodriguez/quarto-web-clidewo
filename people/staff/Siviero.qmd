@@ -1,6 +1,6 @@
 ---
 title: "André Augusto Siviero"
-sortby: "9"
+sortby: 9
 subtitle: "Rights Lab Research Fellow in Forced Labour and Deforestation Data"
 image: "./content/img/Siviero.jpg"
 started:

@@ -1,7 +1,7 @@
 ---
 title: "Climate change and enviromental related risk: Excessive Heat"
-date: today
-date-modified: today
+date: 2024-10-30
+date-modified: 2024-10-30
 draft: true
 draft-mode: visible 
 image: img/coming-soon.png

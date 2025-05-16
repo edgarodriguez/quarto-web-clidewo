@@ -1,6 +1,6 @@
 ---
 title: "Edgar Rodriguez-Huerta"
-sortby: "1"
+sortby: 1
 subtitle: "Senior Research Fellow in Social Sustainability and Complex Systems"
 image: "content/img/Rodriguez.jpeg"
 started: 

@@ -17,13 +17,13 @@
   {
     "listing": "/datavis.html",
     "items": [
+      "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
       "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
       "/datavis/2024-12-31_climate-hazard-01-heat/index.html",
       "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
       "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
       "/datavis/2024-99-99_climate-hazard-02-radiation/index.html",
-      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html",
-      "/datavis/2025-05-09_health_global_pesticides_risk/index.html"
+      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html"
     ]
   },
   {
@@ -43,9 +43,6 @@
     "listing": "/people.html",
     "items": [
       "/people/staff/Rodriguez-Huerta.html",
-      "/people/staff/Trevizan.html",
-      "/people/staff/Galvao.html",
-      "/people/staff/Andrade.html",
       "/people/staff/Domingos.html",
       "/people/staff/Landman.html",
       "/people/staff/Leao.html",
@@ -53,7 +50,10 @@
       "/people/staff/Moura.html",
       "/people/staff/Montanari.html",
       "/people/staff/Carthew.html",
-      "/people/staff/Siviero.html"
+      "/people/staff/Siviero.html",
+      "/people/staff/Trevizan.html",
+      "/people/staff/Galvao.html",
+      "/people/staff/Andrade.html"
     ]
   },
   {

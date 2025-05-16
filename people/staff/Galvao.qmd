@@ -1,6 +1,6 @@
 ---
 title: "Pedro Igor Galvão"
-sortby: "11"
+sortby: 11
 subtitle: "Rights Lab Research Fellow in Social Production of Space"
 image: "./content/img/Galvao.jpg"
 started:

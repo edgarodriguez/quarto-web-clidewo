@@ -1,6 +1,6 @@
 ---
 title: "Marcia Montanari"
-sortby: "7"
+sortby: 7
 subtitle: ""
 image: "./content/img/TBD.jpg"
 started:

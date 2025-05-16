@@ -1,6 +1,6 @@
 ---
 title: "Isabel Domingos Martinez dos Santos"
-sortby: "2"
+sortby: 2
 subtitle: "Assistant Professor and researcher at the Department of Health Planning at the Institute of Public Health (ISC) at the Fluminense Federal University (UFF)"
 image: "./content/img/TBD.jpg"
 started: "Fall 2020"

@@ -1,6 +1,6 @@
 ---
 title: "Kelsey Carthew"
-sortby: "8"
+sortby: 8
 subtitle: "Rights Lab Senior Operations Officer"
 image: "content/img/Carthew.jpeg"
 started:

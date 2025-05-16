@@ -1,6 +1,6 @@
 ---
 title: "Todd Landman"
-sortby: "3"
+sortby: 3
 subtitle: "Rights Lab Research Director and Professor of Political Science"
 image: "content/img/Landman.jpg"
 started: 

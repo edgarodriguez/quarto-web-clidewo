@@ -17,13 +17,13 @@
   {
     "listing": "/datavis.html",
     "items": [
+      "/datavis/2025-05-09_health_global_pesticides_risk/index.pt.html",
       "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.pt.html",
       "/datavis/2024-12-31_climate-hazard-01-heat/index.pt.html",
       "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.pt.html",
       "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.pt.html",
       "/datavis/2024-99-99_climate-hazard-02-radiation/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.pt.html",
-      "/datavis/2025-05-09_health_global_pesticides_risk/index.pt.html"
+      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.pt.html"
     ]
   },
   {
@@ -43,9 +43,6 @@
     "listing": "/people.html",
     "items": [
       "/people.pt/staff/Rodriguez-Huerta.html",
-      "/people.pt/staff/Trevizan.html",
-      "/people.pt/staff/Galvao.html",
-      "/people.pt/staff/Andrade.html",
       "/people.pt/staff/Domingos.html",
       "/people.pt/staff/Landman.html",
       "/people.pt/staff/Leao.html",
@@ -53,7 +50,10 @@
       "/people.pt/staff/Moura.html",
       "/people.pt/staff/Montanari.html",
       "/people.pt/staff/Carthew.html",
-      "/people.pt/staff/Siviero.html"
+      "/people.pt/staff/Siviero.html",
+      "/people.pt/staff/Trevizan.html",
+      "/people.pt/staff/Galvao.html",
+      "/people.pt/staff/Andrade.html"
     ]
   },
   {
