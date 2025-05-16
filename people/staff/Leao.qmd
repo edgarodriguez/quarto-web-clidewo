@@ -1,6 +1,6 @@
 ---
 title: "Luís Henrique da Costa Leão"
-sortby: "2"
+sortby: "4"
 subtitle: "Professor II at Universidade Federal Fluminense (UFF)"
 image: "./content/img/TBD.jpg"
 started: "Fall 2020"

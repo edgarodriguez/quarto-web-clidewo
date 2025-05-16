@@ -1,6 +1,6 @@
 ---
 title: "Flavia Moura"
-sortby: "5"
+sortby: "6"
 subtitle: "Professor of Social Communication, Federal University of Maranhão"
 image: "content/img/Moura.jpeg"
 started: "Fall 2020"

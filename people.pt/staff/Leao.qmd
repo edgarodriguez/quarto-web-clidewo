@@ -1,6 +1,6 @@
 ---
 title: "Luís Henrique da Costa Leão"
-sortby: "2"
+sortby: "4"
 subtitle: "Professor II at Universidade Federal Fluminense (UFF)"
 image: "./content/img/TBD.jpg"
 started: "Fall 2020"
@@ -48,7 +48,7 @@ about:
 
 ::: {.justify}
 
-## Biography
-Doctor in Sciences in the area of Public Health at the National School of Public Health. Associate Professor II of the Universidade Federal Fluminense, permanent professor in the Postgraduate Program in Health Collective of the Universidade Federal de Mato Grosso and the PPG Health Collective of UFF. Visiting professor at the University of Padova, Italy (2019) and University of Nottingham, England (2019). We have experience in the area of Collective Health, with emphasis on Worker's Health, focusing mainly on the following topics: critical theories and health relations, work and environment, contemporary work, surveillance in work-related health, production chains and work-related mental health. . He was coordinator of the PPGSC/ISC/UFMT (2016-2018), member of the Comissão de Avaliação de Programs de Pós-Graduação em Saúde Coletiva da CAPES - Qudriênio (2017-2020) and was associate editor in the Health of Work area of the newspaper Ciência Health Collective (2015-2018), member of the EdUFMT Editorial Council (2020-2022) and associate editor of the Brazilian Journal of Occupational Health. He was a member of the Núcleo Gestor de Ciências Sociais e Humanas em Saúde (2020-2023) of the Brazilian Association of Health Collective (Abrasco).
+## Biografia
+Doutor em Ciências na área de Saúde Coletiva pela Escola Nacional de Saúde Pública. Professor Associado II da Universidade Federal Fluminense, professor permanente do Programa de Pós-Graduação em Saúde Coletiva da Universidade Federal de Mato Grosso e do PPG Saúde Coletiva da UFF. Professor visitante da Universidade de Padova, Itália (2019) e da Universidade de Nottingham, Inglaterra (2019). Temos experiência na área de Saúde Coletiva, com ênfase em Saúde do Trabalhador, atuando principalmente nos seguintes temas: teorias críticas e relações de saúde, trabalho e ambiente, trabalho contemporâneo, vigilância em saúde do trabalhador, cadeias produtivas e saúde mental relacionada ao trabalho. Foi coordenador do PPGSC/ISC/UFMT (2016-2018), membro da Comissão de Avaliação de Programas de Pós-Graduação em Saúde Coletiva da CAPES - Qudriênio (2017-2020) e foi editor associado da área Saúde do Trabalho do jornal Ciência Saúde Coletiva (2015-2018), membro do Conselho Editorial da EdUFMT (2020-2022) e editor associado da Revista Brasileira de Saúde Ocupacional. Foi membro do Núcleo Gestor de Ciências Sociais e Humanas em Saúde (2020-2023) da Associação Brasileira de Saúde Coletiva (Abrasco).
 
 :::

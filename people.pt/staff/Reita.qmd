@@ -1,6 +1,6 @@
 ---
 title: "Carla Reita Leal"
-sortby: "4"
+sortby: "5"
 subtitle: "Professor of Law, Faculty of the Federal University of Mato Grosso"
 image: "./content/img/TBD.jpg"
 started: ""
@@ -27,7 +27,7 @@ about:
 :::{#person-profile}
 :::
 
-## Biography
+## Biografia
 
 ```{r}
 #| label: deps
@@ -47,7 +47,7 @@ library(fontawesome)
 
 ::: {.justify}
 
-Coming soon
+Em breve
 
 
 :::

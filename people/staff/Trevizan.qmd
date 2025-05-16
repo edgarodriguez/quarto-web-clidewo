@@ -1,6 +1,6 @@
 ---
 title: "Ana Flávia Trevizan"
-sortby: "8"
+sortby: "10"
 subtitle: "Rights Lab Research Fellow in Socio-Environmental and Climate Law"
 image: "./content/img/Trevizan.jpg"
 started:

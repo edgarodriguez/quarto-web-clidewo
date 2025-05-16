@@ -84,3 +84,49 @@ margin-right:auto;
 }
 
 
+/*------------callouts--------------------*/
+
+.callout-note.simple::before {
+  background-color: #5D00FF; /* your desired color */
+}
+
+.callout-warning {
+    font-size: 2.5em; /* Increases font size by 1.5 times */
+    border-left: 5px solid #5D00FF;
+}
+
+
+
+/*------------testimonies--------------------*/
+.testimonies {
+
+  border: 1px solid #BACBD8;
+  border-left: 5px solid #161F36; 
+}
+
+
+.testimonies-header  {
+  margin-left: 0em;
+  padding-left:  60px;
+  padding-top:  5px;
+  padding-bottom: 0.1em;
+  color: black;
+  background-color: rgb(123, 173, 173);
+  border-top-right-radius: 10px;
+  font-size: 1em;
+  font-weight: bold;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+
+}
+
+.testimonies-container {
+  padding-top: 5px;
+  padding-left: 10px;
+  color: black;
+  background-color: white;
+  border-bottom-right-radius: 20px;
+}
+
+

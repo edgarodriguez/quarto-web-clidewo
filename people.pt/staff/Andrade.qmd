@@ -1,6 +1,6 @@
 ---
 title: "Gabriela Andrade"
-sortby: "9"
+sortby: "12"
 subtitle: ""
 image: "./content/img/TBD.jpg"
 started:
@@ -46,7 +46,7 @@ about:
 ::: {.justify}
 
 
-Coming soon
+Em breve
 
 
 :::
