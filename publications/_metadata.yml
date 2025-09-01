@@ -5,10 +5,10 @@ editor: visual
 title-block-banner: false
 
 # Enable CC licence appendix
-license: "CC BY NC"
+# license: "CC BY NC"
 
 # Default for table of contents
-toc: true
+toc: false
 toc-title: Content
 toc-location: left
 

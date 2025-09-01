@@ -33,12 +33,12 @@ website:
 #    type: express
 #    style: headline
 #    palette: dark
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "COMING SOON: Subscribe to our newsletter to be updated on project progress / EM BREVE: Assine nosso boletim informativo para ser atualizado sobre o andamento do projeto"
-    type: success
-    position: below-navbar
+#  announcement:
+#    icon: info-circle
+#    dismissable: true
+#    content: "COMING SOON: Subscribe to our newsletter to be updated on project progress / EM BREVE: Assine nosso boletim informativo para ser atualizado sobre o andamento do projeto"
+#    type: success
+#    position: below-navbar
 
 format:
   html:
