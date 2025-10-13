@@ -5,7 +5,7 @@ lang: pt
 listing:
   contents: news
   include:
-    lang: en
+    lang: pt
   sort: "date desc"
   type: default
   categories: true
