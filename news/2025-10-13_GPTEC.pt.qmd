@@ -1,0 +1,72 @@
+---
+title: "XVIII Reunião Científica: Trabalho Escravo Contemporâneo e Questões Correlatas"
+lang: pt
+date: 2025-10-13
+author: ""
+image: "2025-10-13_GPTEC.png"
+execute:
+  echo: false
+comments: false
+toc: false
+title-block-banner: false
+categories:
+  - news
+
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+
+<br/><br/>
+![](2025-10-13_GPTEC.png "XVIII Reunião Científica: Trabalho Escravo Contemporâneo e Questões Correlatas")
+
+<br/><br/>
+
+Temos o prazer de compartilhar que a [Professora Flávia de Almeida Moura](https://clidewo.com/people/staff/Moura.html) e [Porfessora Isabel Domingos Martinez Dos Santos](https://clidewo.com/people/staff/Domingos.html) apresentará um relatório sobre o projeto *Mudanças climáticas, saúde ocupacional e trabalho decente: Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira (CLIDEWO)* na **XVIII Reunião Científica: Trabalho Escravo Contemporâneo e Questões Correlatas**, que ocorrerá nos dias 15, 16 e 17 de outubro de 2025, em Cuiabá (MT), na sede do TRT23.  [GPTEC](https://www.instagram.com/gptec1/)
+
+O trabalho intitula-se: **Trabalho escravo, mudanças climáticas e saúde do trabalhador na agricultura brasileira: casos do Maranhão, Rio de Janeiro e Mato Grosso.**
+
+Nosso artigo explora a interação entre os Objetivos de Desenvolvimento Sustentável (ODSs) da ONU, destacando a relação entre clima, saúde e trabalho decente (ODS 8). Apresentamos caminhos teóricos e metodológicos da pesquisa em rede e resultados preliminares obtidos via levantamento bibliográfico, documental e rodas de conversa online com entidades da sociedade civil nos três estados investigados.  
+
+A Reunião Científica, promovida pelo GPTEC/NEPP-DH-UFRJ, em parceria com o GPMAT/UFMT, o Projeto Ação Integrada (PAI/MT) e a COETRAE/MT, com apoio do TRT23, visa:  
+
+1. Promover intercâmbio entre centros de pesquisa do Brasil e do exterior.  
+2. Estimular a produção acadêmica colaborativa e inovadora.  
+3. Ampliar o acesso ao conhecimento e novas metodologias de pesquisa.  
+4. Contribuir para debates sobre o enfrentamento ao trabalho escravo contemporâneo.  
+
+Para mais informações sobre o evento: [XVIII Reunião Científica GPTEC](https://www.even3.com.br/xviii-reuniao-cientifica-gptec/).
+
+Se você vai participar do evento, adoraríamos nos conectar!
+
+
+#xviiiRCGPTEC #trabalhoescravo #pesquisa		
+
+
+#### Compartilhe em redes sociais:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

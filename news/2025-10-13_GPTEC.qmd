@@ -1,0 +1,73 @@
+---
+title: "XVIII Scientific Meeting: Trabalho Escravo Contemporâneo e Questões Correlatas"
+lang: en
+date: 2025-10-13
+author: ""
+image: "2025-10-13_GPTEC.png"
+execute:
+  echo: false
+comments: false
+toc: false
+title-block-banner: false
+categories:
+  - news
+
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+
+<br/><br/>
+![](2025-10-13_GPTEC.png "XVIII Reunião Científica: Trabalho Escravo Contemporâneo e Questões Correlatas")
+
+<br/><br/>
+
+
+We are pleased to share that [Professor Flávia de Almeida Moura](https://clidewo.com/people/staff/Moura.html) and [Professor Isabel Domingos Martinez Dos Santos](https://clidewo.com/people/staff/Domingos.html) will present updates of *Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture (CLIDEWO) project* at the **XVIII Scientific Meeting: Trabalho Escravo Contemporâneo e Questões Correlatas**, which will take place on October 15, 16 and 17, 2025, in Cuiabá (MT), at the TRT23 headquarters. [GPTEC](https://www.instagram.com/gptec1/)
+
+The work is titled: **Escravo work, climatic changes and worker health in Brazilian agriculture: cases of Maranhão, Rio de Janeiro and Mato Grosso.**
+
+Our article explores the interaction between the Sustainable Development Goals (SDGs) of the UN, highlighting the relationship between climate, health and decent work (SDG 8). We present theoretical and methodological paths of online research and preliminary results obtained through bibliographical, documentary survey and online conversations with civil society entities in the three states investigated.
+
+The Scientific Meeting, promoted by GPTEC/NEPP-DH-UFRJ, in partnership with the GPMAT/UFMT, the Integrated Ação Project (PAI/MT) and a COETRAE/MT, with support from TRT23, visa:
+
+1. Promote exchange between research centers in Brazil and abroad.
+2. Stimulate collaborative and innovative academic production.
+3. Expand access to knowledge of new research methodologies.
+4. Contribute to debates on the confrontation with contemporary slave labor.
+
+For more information about the event: [XVIII Reunião Cientifica GPTEC](https://www.even3.com.br/xviii-reuniao-cientifica-gptec/).
+
+If you are going to participate in the event, we would love to connect!
+
+
+#xviiiRCGPTEC #trabalhoescravo #pesquisa		
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

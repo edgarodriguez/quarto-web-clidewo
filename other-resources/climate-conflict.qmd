@@ -1,7 +1,7 @@
 ---
 title: "Climate-Conflict-Vulnerability Index"
-subtitle: "Data-Driven Decent Work Promotion"
-description: "The Climate—Conflict—Vulnerability Index (CCVI) maps current global risks by integrating climate and conflict hazards with local vulnerabilities"
+subtitle: "The Climate—Conflict—Vulnerability Index (CCVI) maps current global risks by integrating climate and conflict hazards with local vulnerabilities"
+description: ""
 lang: en
 date: 2024-01-23
 image: "ccvi-logo-light.svg"
@@ -18,8 +18,8 @@ categories:
 
 ## [Climate-Conflict Vulnerability Index](https://climate-conflict.org/www)
 
-As métricas do CCVI são organizadas hierarquicamente em três pilares — clima, conflito e vulnerabilidade.
-Cada pilar é baseado em indicadores de fontes publicamente disponíveis, que são agrupados em dimensões.
-Seguindo a definição do IPCC, as métricas de risco são computadas como uma função de perigos, exposição e vulnerabilidade.
+CCVI metrics are organized hierarchically into three pillars — climate, conflict and vulnerability.
+Each pillar is based on indicators from publicly available sources, which are grouped by dimensions.
+Following the IPCC definition, risk metrics are computed as a function of risks, exposure and vulnerability.
 
 ![](ccvi-logo-light.svg "Infographic about heat stress and health issues")

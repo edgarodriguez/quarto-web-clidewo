@@ -18,4 +18,4 @@ listing:
 page-layout: full    
 ---
 
-Estamos desenvolvendo nosso primeiro conjunto de dados, **“Risco de saúde ocupacional em trabalhadores agrícolas no Brasil”**, que estará disponível no primeiro trimestre de 2025.
+Estamos desenvolvendo nossos conjuntos de dados, **“Risco de saúde ocupacional em trabalhadores agrícolas no Brasil”** 🙂

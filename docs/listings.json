@@ -10,8 +10,24 @@
   {
     "listing": "/other-resources.html",
     "items": [
+      "/other-resources/mosaiks.html",
+      "/other-resources/mapbiomas.html",
       "/other-resources/SmartLab.html",
       "/other-resources/climate-conflict.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
     ]
   },
   {
@@ -24,19 +40,6 @@
       "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
       "/datavis/2024-99-99_climate-hazard-02-radiation/index.html",
       "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
   {

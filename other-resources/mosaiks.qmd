@@ -1,0 +1,35 @@
+---
+title: "Human Development Index from MOSAIKS"
+subtitle: "Global High Resolution Estimates of the United Nations Human Development Index"
+description: ""
+lang: en
+date: 2025-09-16
+image: "mosaiks.png"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Development
+  - Global
+  - Dataset
+---
+
+[![](mosaiks.png "mosaiks")](https://www.mosaiks.org)
+
+
+### MOSAIKS: Satellite Imagery + Machine Learning for Everyone
+
+
+### [Human Development Index](https://www.mosaiks.org/hdi)
+
+##### About Mosaiks HDI
+
+MOSAIKS produce global fine resolution HDI estimates. Our paper, [Global high-resolution Estimates of the United Nations Human Development Index using Satellite Imagery and Machine Learning](https://www.nber.org/papers/w31044) is available as an NBER Working Paper. 
+
+
+
+
+
+
+

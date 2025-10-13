@@ -1,0 +1,83 @@
+---
+title: "Human Development Index from MOSAIKS"
+subtitle: "Global High Resolution Estimates of the United Nations Human Development Index"
+description: ""
+lang: en
+date: 2025-09-16
+image: "mosaiks.png"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Development
+  - Global
+  - Dataset
+---
+
+# What Data You Can Download from MapBiomas Brasil
+
+The **Downloads** section of [MapBiomas Brasil](https://brasil.mapbiomas.org/downloads/) provides a rich collection of datasets derived from decades of satellite imagery and remote sensing analysis. These datasets document how Brazil’s land cover and land use have changed since the 1980s and support research, policy, and environmental monitoring.
+
+---
+
+## Overview of MapBiomas
+
+MapBiomas is a collaborative initiative that transforms **satellite images**—especially from the Landsat program—into **annual maps of land use and land cover** for all of Brazil. It produces detailed spatial data and time series that are freely available for scientists, policy makers, NGOs, and anyone interested in tracking Brazil’s environmental changes.
+
+---
+
+## Types of Data Available
+
+Below is a guide to the key categories of data you can download and what each offers.
+
+| Dataset / Category | What it Contains | Time Span / Resolution | Typical Uses |
+|--------------------|------------------|------------------------|-------------|
+| **Land Use & Cover Maps (Coleções)** | Annual raster maps classifying each pixel into land use/cover classes (forest, agriculture, pasture, water, etc.). | 1985 → present (varies by collection) | Track deforestation, agricultural expansion, restoration, and other long-term land changes. |
+| **Statistics (Estatísticas)** | Area summaries by class, biome, state, and year derived from the land cover maps. | Same as maps | Easier-to-use numbers for reports, policy, or academic analysis without handling raster data. |
+| **Legend Information (Informações das Legendas)** | Codes and descriptions for each land cover class. | Static (per collection) | Correct interpretation of the maps and their categories. |
+| **Highlights (Destaques)** | Thematic or featured datasets summarizing key findings. | Varies | Quick insights and communication materials. |
+| **Infographics (Infográficos)** | Ready-made visuals showing important trends. | Recent years | Outreach, media, and teaching resources. |
+| **Wall Maps (Mapas Murais)** | Large-format maps of land cover/use for recent years. | Latest available year(s) | Presentation and display in institutions, schools, and policy meetings. |
+| **MapBiomas Fire (MapBiomas Fogo)** | Annual and monthly maps of fire scars—areas burned by wildfires. | 1985–2024 | Study fire regimes, carbon emissions, and land management strategies. |
+| **Rural Credit Monitor (Monitor do Crédito Rural)** | Vector data showing where rural credit is granted and its relation to land use. | Recent years | Policy analysis, agricultural finance, environmental compliance tracking. |
+| **Urban Module (Módulo Urbano)** | Annual maps of urbanized areas and their expansion. | Annual, since ~1985 | Research on urban growth and infrastructure planning. |
+| **Landsat Mosaics (Mosaicos Landsat)** | Pre-processed Landsat imagery mosaics covering Brazil. | 1985 → present | Remote sensing analyses, custom land cover mapping, or visualization. |
+| **Reference Maps (Mapas de Referência)** | Baseline spatial data such as administrative boundaries or protected areas used by MapBiomas. | Updated periodically | Ensures geographic consistency when combining datasets. |
+| **Infrastructure (Infraestrutura)** | Layers for energy, transport, mining, agribusiness, telecom, and Amazonian airstrips. | Recent years | Environmental impact assessment and development studies. |
+| **Validation Points (Pontos de Validação)** | Sample points used to evaluate map accuracy. | Various years | Assess reliability, train new models, or compare methodologies. |
+| **Layers (Camadas)** | Thematic layers available on the platform for targeted analysis. | Varies | Focused analyses of specific features. |
+| **10 m Collection (MapBiomas 10 metros – beta)** | Higher resolution (10 m) land use/cover maps. | ~2016 → present | Fine-scale studies of small features such as riparian zones or small farms. |
+| **Degradation (MapBiomas Degradação – beta)** | Maps of native vegetation degradation (e.g., selective logging, forest thinning). | Recent years | Conservation planning and restoration projects. |
+| **Soil (MapBiomas Solo – beta)** | Soil organic carbon stocks, soil texture and related properties. | Mostly static | Climate change mitigation, soil health research, sustainable agriculture. |
+| **Cacao Mapping (MapBiomas Cacau)** | Mapping of cacao (cocoa) plantations in southern Bahia. | Regional, recent years | Sustainable agriculture and commodity impact assessments. |
+
+---
+
+## Key Features
+
+- **Long-term time series:** Many datasets go back to **1985**, enabling trend analysis over almost four decades.  
+- **Multiple spatial resolutions:** From classic 30 m Landsat-based maps to **10 m beta products** for finer detail.  
+- **Thematic diversity:** Beyond forest cover, there are modules for **fire, soil carbon, urban growth, degradation**, and more.  
+- **Transparency and accuracy:** Download **validation points** and **legend details** to understand the precision and classification scheme.
+
+---
+
+## Why It Matters
+
+The MapBiomas datasets support a wide range of applications:
+
+- Monitoring **deforestation** and ecosystem restoration  
+- Estimating **carbon emissions** and soil carbon storage  
+- **Urban planning** and tracking city sprawl  
+- Evaluating the impact of **infrastructure development**  
+- Supporting **policy-making**, conservation, and sustainable agriculture initiatives  
+
+---
+
+Whether you are a researcher, policymaker, journalist, or simply curious about Brazil’s landscapes, the MapBiomas downloads page is a powerful starting point for understanding how the country’s land has changed—and continues to change—over time.
+
+
+
+
+
