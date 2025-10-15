@@ -1,0 +1,32 @@
+---
+title: "AdaptaBrasil MCTI"
+subtitle: "Indices and risk indicators of impacts of climate changes in Brazil, integrated into a single platform"
+description: ""
+lang: en
+date: 2025-10-14
+image: "adaptabrasil.png"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Climate Change
+  - Risk indicators
+---
+
+
+## [AdaptaBrasil MCTI](https://adaptabrasil.mcti.gov.br)
+
+The AdaptaBrasil MCTI platform is an official initiative developed by the Ministry of Science, Technology, and Innovation (MCTI) to provide comprehensive data and analyses to support climate adaptation efforts across Brazil. By consolidating information on climate change impacts, vulnerabilities, and risks, the platform aids policymakers, local governments, and communities in making informed decisions to enhance resilience to climate-related challenges.
+
+Data and platform is classified by sector such as:
+
+  * **Water Resources**: Assessing availability and quality.
+  * **Food Security**: Evaluating impacts on agriculture and food systems.
+  * **Energy Security**: Identifying risks to energy infrastructure.
+  * **Public Health**: Understanding climate-related health risks, including the spread of diseases like malaria and leishmaniasis.
+  * **Infrastructure**: Analyzing vulnerabilities in critical infrastructure like ports, roads, and railways.
+  * **Geo-Hydrological Disasters**: Mapping risks related to floods, landslides, and other natural hazards.
+
+It also includes an **Interactive Tool** allow users to explore climate data, facilitating the visualization of current and projected climate scenarios; and multiple **Educational Resources**, offering materials and resources to raise public awareness about climate change and its impacts.
+

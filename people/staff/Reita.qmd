@@ -2,7 +2,7 @@
 title: "Carla Reita Leal"
 sortby: 5
 subtitle: "Professor of Law, Faculty of the Federal University of Mato Grosso"
-image: "./content/img/TBD.jpg"
+image: "./content/img/Reita.jpg"
 started: ""
 toc: false
 resources: 
@@ -10,6 +10,10 @@ resources:
 about:
   id: person-profile
   template: jolla
+  links: 
+    - icon: link
+      text: website
+      href: https://carlareitafarialeal.com.br
 
 ---
 
@@ -47,8 +51,13 @@ library(fontawesome)
 
 ::: {.justify}
 
-Coming soon
+Dr. Carla Reita Faria Leal is a Doctor and MSc in Social Relations Law, sub-area of Labor Law, by Pontifícia Universidade Católica de São Paulo (PUC/SP). Associate professor of the Federal University of Mato Grosso (UFMT), currently teaching, research and extension, integrating academic knowledge and social commitment.
 
+She completed his post-doctorate and was a visiting fellow at the Rights Lab, at the University of Nottingham (United Kingdom).
+
+She is present at academic, legal and inter-institutional events, focusing on topics such as decent work, human rights, public policies and confrontation with slave labor.
+
+She is the Deputy Coordinator of the Direct Graduate Program at UFMT (2023–2025), leading the research group and coordinating the PAI Extension Project – aimed at the qualification and reinsertion of workers discharged from conditions similar to employment.
 
 :::
 

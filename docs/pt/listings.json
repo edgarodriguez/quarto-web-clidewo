@@ -2,70 +2,55 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/25-05-15_storytelling_lego/index.pt.html",
-      "/posts/2024-01-29_enslaved_ethanol/index.pt.html",
-      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.pt.html"
+      "/posts/25-05-15_storytelling_lego/index.html",
+      "/posts/2024-01-29_enslaved_ethanol/index.html",
+      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html"
     ]
   },
   {
     "listing": "/other-resources.html",
     "items": [
-      "/other-resources/SmartLab.pt.html",
-      "/other-resources/climate-conflict.pt.html"
+      "/other-resources/adaptabrasil.html",
+      "/other-resources/SmartLab.html",
+      "/other-resources/climate-conflict.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
     ]
   },
   {
     "listing": "/datavis.html",
     "items": [
-      "/datavis/2025-05-09_health_global_pesticides_risk/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.pt.html",
-      "/datavis/2024-12-31_climate-hazard-01-heat/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-02-radiation/index.pt.html",
-      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.pt.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2025-10-13_GPTEC.pt.html",
-      "/news/2025-05-16_ICEH.pt.html",
-      "/news/2024-09-01_Awarding-ODA.pt.html"
+      "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
+      "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
+      "/datavis/2024-12-31_climate-hazard-01-heat/index.html",
+      "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
+      "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
+      "/datavis/2024-99-99_climate-hazard-02-radiation/index.html",
+      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html"
     ]
   },
   {
     "listing": "/publications.html",
     "items": [
-      "/publications/2024-07-20_theorical-framework/index.pt.html"
-    ]
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people.pt/staff/Rodriguez-Huerta.html",
-      "/people.pt/staff/Domingos.html",
-      "/people.pt/staff/Landman.html",
-      "/people.pt/staff/Leao.html",
-      "/people.pt/staff/Reita.html",
-      "/people.pt/staff/Moura.html",
-      "/people.pt/staff/Montanari.html",
-      "/people.pt/staff/Carthew.html",
-      "/people.pt/staff/Siviero.html",
-      "/people.pt/staff/Trevizan.html",
-      "/people.pt/staff/Galvao.html",
-      "/people.pt/staff/Andrade.html"
+      "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
   {
     "listing": "/posts.html",
     "items": [
       "/posts/25-05-15_storytelling_lego/index.html",
-      "/posts/25-05-15_storytelling_lego/index.pt.html",
       "/posts/2024-01-29_enslaved_ethanol/index.html",
-      "/posts/2024-01-29_enslaved_ethanol/index.pt.html",
-      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
-      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.pt.html"
+      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html"
     ]
   },
   {

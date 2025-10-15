@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+   - CNAME
 website:
   favicon: "content/img/clidewo-favicon.png"
   site-url: https://clidewo.com

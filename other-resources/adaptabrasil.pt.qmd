@@ -1,0 +1,32 @@
+---
+title: "AdaptaBrasil MCTI"
+subtitle: "Índices e Indicadores de risco de impactos das mudanças climáticas no Brasil, integrados em uma única plataforma"
+description: ""
+lang: pt
+date: 2025-10-14
+image: "adaptabrasil.png"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Mudanças Climáticas
+  - Indicadores de risco
+---
+
+
+## [AdaptaBrasil MCTI](https://adaptabrasil.mcti.gov.br)
+
+A plataforma AdaptaBrasil MCTI é uma iniciativa oficial desenvolvida pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) para fornecer dados e análises abrangentes para apoiar os esforços de adaptação climática em todo o Brasil. Ao consolidar informações sobre mudanças climáticas, impactos e riscos, a plataforma auxilia formuladores de políticas, governos locais e comunidades na tomada de decisões informadas para aumentar a resiliência aos desafios relacionados ao clima.
+
+Os dados e a plataforma são classificados por setor, como:
+
+* **Recursos Hídricos**: Avaliação da disponibilidade e qualidade.
+* **Segurança Alimentar**: Avaliação dos impactos na agricultura e nos sistemas alimentares.
+* **Segurança Energética**: Identificação dos riscos à infraestrutura energética.
+* **Saúde Pública**: Compreensão dos riscos à saúde relacionados ao clima, incluindo a disseminação de doenças como malária e leishmaniose.
+* **Infraestrutura**: Análise de vulnerabilidades em infraestruturas críticas, como portos, estradas e ferrovias.
+* **Desastres Geo-Hidrológicos**: Mapeamento dos riscos relacionados a inundações, deslizamentos de terra e outros desastres naturais.
+
+Ele também inclui uma **Ferramenta Interativa** que permite aos usuários explorar dados climáticos, facilitando a visualização de cenários climáticos atuais e projetados; e vários **Recursos Educacionais**, oferecendo materiais e recursos para aumentar a conscientização pública sobre as mudanças climáticas e seus impactos.
+
