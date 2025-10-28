@@ -3,7 +3,8 @@ title: "Other Resources"
 description: "List of other resources related to the analysis for Climate Change, Decent Work and Workers Health"
 comments: false
 lang: en
-date: today
+date: "2025-04-18"
+date-modified: "2025-10-21"
 listing:
   contents: other-resources
   include:
@@ -17,7 +18,8 @@ listing:
   table-hover: TRUE
   field-links: [title,image]
   sort:
+    - "title asc"
     - "date desc"
-    - "title desc"
+
 page-layout: full    
 ---

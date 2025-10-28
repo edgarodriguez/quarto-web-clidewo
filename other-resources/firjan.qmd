@@ -1,0 +1,26 @@
+---
+title: "Índice FIRJAN de Desenvolvimento Municipal (IFDM)"
+subtitle: "Socioeconomic Development in Employment & Income, Health and Education"
+description: ""
+lang: en
+date: 2025-10-21
+image: "firjan.png"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Development
+  - Index
+---
+
+
+## [Índice FIRJAN de Desenvolvimento Municipal (IFDM)](https://www.firjan.com.br/ifdm/consulta-ao-indice/)
+
+The IFDM, prepared by the Federação das Indústrias do Estado do Rio de Janeiro (Firjan), is a study that since 2008 has accompanied the socioeconomic development of all Brazilian municipalities in three areas: Employment & Income, Health and Education.
+
+
+
+[Metodologia](https://firjan.com.br/data/files/FF/13/A6/95/60FE6910734FAA69D8284EA8/Anexo-Metodologico-IFDM-2025-2005.pdf?_gl=1*1m9jqkv*_gcl_au*MTg1NjEzNDIwNC4xNzYxMDQ0MDM1)
+
+[Download](https://www.firjan.com.br/ifdm/downloads/)

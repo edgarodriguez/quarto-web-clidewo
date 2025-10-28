@@ -43,7 +43,7 @@ library(fontawesome)
   text-align: justify !important
 }
 ```
-
+:::{.column-screen}
 :::{.column-body-outset}
 
 Enquanto continuamos a extrair e analisar vários conjuntos de dados, estamos animados em compartilhar o primeiro infográfico da nossa nova série que explora a interseção entre mudanças climáticas, trabalho decente e saúde dos trabalhadores.

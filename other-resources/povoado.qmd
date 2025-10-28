@@ -1,0 +1,24 @@
+---
+title: "Povoado Platform"
+subtitle: "Visibility and Protection of Traditional Communities of the Cerrado"
+description: ""
+lang: en
+date: 2025-10-28
+date-modified: 2025-10-28
+image: "povoado.svg"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+
+  - Cerrado
+  - Traditional Peoples and Communities
+---
+
+
+## Overview of Povoado Platform
+
+The [Povoado Platform](https://dados.tonomapa.org.br) brings together data collected through bibliographical reviews and public data available on the internet, with the aim of offering a panoramic view of the size, distribution, and segments of traditional peoples and communities in Brazil, beginning in the Cerrado Biome.
+
+The Povoado Platform is an innovative initiative dedicated to gathering, systematizing, and making available information on Traditional Peoples and Communities (TCPs) of the Cerrado from secondary sources. The project stems from a unique methodology and, therefore, is constantly being evaluated, refined, and consolidated, combining technical rigor with social participation.

@@ -1,0 +1,26 @@
+---
+title: "Global Hotspot Explorer"
+subtitle: "Impacts, vulnerabilities and risks from climate change"
+description: ""
+lang: en
+date: 2025-10-21
+image: "globalhotspotexplorer.png"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Global
+  - Vulnerability
+  - Climate Change
+  
+---
+
+
+## [Global Hotspot Explorer](https://hotspots-explorer.org/about)
+
+The Global Hotspots Explorer maps and presents information about impacts, vulnerabilities and risks arising from development, climate change in the water, energy and land sectors.
+
+State-of-the art models were used to assess the future trends of 14 indicators of development- and climate-induced challenges linked to three sectors–water, energy, and land.
+
+[Dashboard for Brazil](https://hotspots-explorer.org)

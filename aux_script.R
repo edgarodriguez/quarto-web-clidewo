@@ -8,6 +8,8 @@ remotes::install_github("EllaKaye/distilltools")
 remotes::install_github("ropensci/RefManageR")
 install.packages("bib2df")
 
+install.packages('babelquarto', repos = c('https://ropensci.r-universe.dev', 'https://cloud.r-project.org'))
+
 base::library(RefManageR)
 base::library(distilltools)
 library(babelquarto)

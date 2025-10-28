@@ -1,0 +1,132 @@
+---
+title: "Constellation of inspections"
+date: "2025-08-18"
+date-modified: "2025-08-28"
+# draft: true
+# draft-mode: visible 
+image: img/CLIDEWO-constallations.png
+execute:
+  echo: false
+categories:
+  - datavis
+  - decent work
+  - labour inspection
+
+lang: en
+format: 
+  html:
+    page-layout: full
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+---
+
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+:::{.column-screen}
+
+:::{.column-body-outset}
+
+
+The DataViz focuses on the results of labour inspections and the relevance behind each fiscalização (inspection in the visualisation). Whether one or 1,064 rescues, each star symbolises justice for workers. At the same time, it serves as a reminder of the immense task ahead, the vast territory to be covered, the potential gaps or voids yet to be explored, and the need to strengthen the capacity of the inspectorate to continue its effort.
+
+More inspectors mean a greater capacity to identify spots of vulnerability and eradicate degrading working conditions.
+
+
+
+
+
+```{=html}
+
+<div class='tableauPlaceholder' id='viz1761646796249' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='CLIDEWO-constellations ' 
+           src='https://public.tableau.com/static/images/Co/ConstellationsofInspections/CLIDEWO-constellations/1_rss.png' 
+           style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='ConstellationsofInspections/CLIDEWO-constellations' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/Co/ConstellationsofInspections/CLIDEWO-constellations/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-GB' />
+  </object>
+</div>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1761646796249');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width = '900px';
+    vizElement.style.height = '1527px';
+  } else if (divElement.offsetWidth > 500) {
+    vizElement.style.width = '900px';
+    vizElement.style.height = '1527px';
+  } else {
+    vizElement.style.width = '100%';
+    vizElement.style.height = '1977px';
+  }
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<!-- Centering Script -->
+<script>
+  // Center the Tableau placeholder horizontally and vertically
+  const placeholder = document.getElementById('viz1761646796249');
+  placeholder.style.display = 'flex';
+  placeholder.style.justifyContent = 'center';
+  placeholder.style.alignItems = 'center';
+  placeholder.style.minHeight = '100vh';
+</script>
+
+
+```
+
+:::
+:::
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

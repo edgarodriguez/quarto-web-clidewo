@@ -1,0 +1,26 @@
+---
+title: "Índice de Vulnerabilidade InPACTO"
+subtitle: "Variáveis socioeconômicas e demográficas para avaliar a vulnerabilidade ao trabalho análogo à escravidão e ao trabalho infantil em diferentes regiões do Brasil"
+description: ""
+lang: pt
+date: 2025-10-21
+image: "inpacto.webp"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Vulnerabilidade
+  - Índice
+  - trabalho análogo à escravidão
+---
+
+
+## [IVI (Índice de Vulnerabilidade InPACTO)](https://indicedevulnerabilidade.org.br)
+
+ [O Instituto Pacto Nacional pela Erradicação do Trabalho Escravo (InPACTO)](https://inpacto.org.br/indice-de-vulnerabilidade-inpacto/) é uma organização sem fins lucrativos criada em 2013 para prevenir e erradicar o trabalho escravo e infantil e promover o trabalho decente nas cadeias produtivas brasileiras. O instituto monitora o cumprimento dos compromissos assumidos no Pacto Nacional pela Erradicação do Trabalho Escravo, lançado em 2005, identificando desafios e avanços e auxiliando empresas a desenvolver planos de ação para promover as melhores práticas. O InPACTO atua para conscientizar e mobilizar setores produtivos, influenciar políticas públicas e promover o diálogo entre diferentes atores da sociedade, para alcançar a dignidade humana e a equidade nas relações de trabalho e superar as desigualdades sociais históricas, o racismo e outras discriminações estruturais.
+
+O IVI (Índice de Vulnerabilidade InPACTO) é uma ferramenta inovadora que analisa indicadores sociais baseado em uma  ampla gama de variáveis socioeconômicas e demográficas , para avaliar a vulnerabilidade ao trabalho análogo à escravidão e ao trabalho infantil em diferentes regiões do Brasil.
+
+Ao revelar o nível de vulnerabilidade socioeconômica da população em cada município do país, o IVI facilita ações mais eficazes e eficientes para superação de desigualdades sociais, prevenção de violações e promoção dos direitos humanos e do trabalho decente.
+

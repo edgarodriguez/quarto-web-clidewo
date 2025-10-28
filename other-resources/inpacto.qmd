@@ -1,0 +1,26 @@
+---
+title: "InPACTO Vulnerability Index"
+subtitle: "Socioeconomic and demographic variables, to assess vulnerability to slave-like labor and child labor in different regions of Brazil"
+description: ""
+lang: en
+date: 2025-10-21
+image: "inpacto.webp"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Vulnerability
+  - Index
+  - Slavary labour
+---
+
+
+## [IVI (Índice de Vulnerabilidade InPACTO)](https://indicedevulnerabilidade.org.br)
+
+IVI (Índice de Vulnerabilidade InPACTO) é uma ferramenta inovadora que analisa indicadores 
+[The National Pact Institute for the Eradication of Slave Labor (InPACTO)](https://inpacto.org.br/indice-de-vulnerabilidade-inpacto/) is a non-profit organization created in 2013 to prevent and eradicate slave and child labor and promote decent work in Brazilian production chains. The institute monitors compliance with the commitments made in the National Pact for the Eradication of Slave Labor, launched in 2005, identifying challenges and progress, and assisting companies in developing action plans to promote best practices. InPACTO works to raise awareness and mobilize productive sectors, influence public policies, and promote dialogue among different actors in society, to achieve human dignity and equity in labor relations, and overcome historical social inequalities, racism, and other structural discrimination.
+
+The IVI (InPACTO Vulnerability Index) is an innovative tool that analyzes social indicators based on a wide range of socioeconomic and demographic variables to assess vulnerability to forced labor and child labor in different regions of Brazil.
+
+By revealing the level of socioeconomic vulnerability of the population in each municipality, the IVI facilitates more effective and efficient actions to overcome social inequalities, prevent violations, and promote human rights and decent work.

@@ -1,0 +1,50 @@
+---
+title: "MapBiomas Brasil"
+subtitle: "Mapeamento e monitoramento de mudanças no uso e cobertura do solo"
+description: ""
+lang: pt
+date: 2025-10-28
+date-modified: 2025-10-28
+image: "mapbiomas.png"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Development
+  - Global
+  - Dataset
+---
+
+
+## Visão geral do MapBiomas
+
+MapBiomas is a collaborative initiative that transforms **satellite images**—especially from the Landsat program—into **annual maps of land use and land cover** for all of Brazil. It produces detailed spatial data and time series that are freely available to scientists, policy makers, NGOs, and anyone interested in tracking Brazil’s environmental changes.
+
+[MapBiomas Brasil](https://brasil.mapbiomas.org/downloads/) provides a rich collection of datasets derived from decades of satellite imagery and remote sensing analysis. These datasets document how Brazil’s land cover and land use have changed since the 1980s and support research, policy, and environmental monitoring.
+
+
+
+Among the datasets available in the [Platforma MapBiomas](https://plataforma.brasil.mapbiomas.org/) are:
+
+| Dataset / Category | What it Contains | Time Span/Resolution | Typical Uses |
+|--------------------|------------------|-----------------------|-------------|
+| **Land Use & Cover Maps (Collections)** | Annual raster maps classifying each pixel into land use/cover classes (forest, agriculture, pasture, water, etc.). | 1985 → present (variables by collection) | Track deforestation, agricultural expansion, restoration, and other long-term land changes. |
+| **Statistics** | Area summaries by class, biome, state, and year derived from the land cover maps. | Same as maps | Easier-to-use numbers for reports, policy, or academic analysis without handling raster data. |
+| **Legend Information** | Codes and descriptions for each land cover class. | Static (per collection) | Correct interpretation of the maps and their categories. |
+| **Highlights** | Thematic or featured datasets summarizing key findings. | Varieties | Quick insights and communication materials. |
+| **Infographics** | Ready-made visuals showing important trends. | Recent years | Outreach, media, and teaching resources. |
+| **Wall Maps** | Large-format maps of land cover/use for recent years. | Latest available year(s) | Presentation and display in institutions, schools, and political meetings. |
+| **MapBiomas Fire (MapBiomas Fogo)** | Annual and monthly maps of fire scars—areas burned by wildfires. | 1985–2024 | Study fire regimes, carbon emissions, and land management strategies. |
+| **Rural Credit Monitor** | Vector data showing where rural credit is granted and its relation to land use. | Recent years | Policy analysis, agricultural finance, environmental compliance monitoring. |
+| **Urban Module** | Annual maps of urbanized areas and their expansion. | Annual, since ~1985 | Research on urban growth and infrastructure planning. |
+| **Landsat Mosaics** | Pre-processed Landsat imagery mosaics covering Brazil. | 1985 → present | Remote sensing analyses, custom land cover mapping, or visualization. |
+| **Reference Maps** | Baseline spatial data such as administrative boundaries or protected areas used by MapBiomas. | Updated periodically | Ensures geographic consistency when combining datasets. |
+| **Infrastructure** | Layers for energy, transport, mining, agribusiness, telecom, and Amazonian airstrips. | Recent years | Environmental impact assessment and development studies. |
+| **Validation Points** | Sample points used to evaluate map accuracy. | Several years | Assess reliability, train new models, or compare methodologies. |
+| **Layers** | Thematic layers available on the platform for targeted analysis. | Varieties | Focused analyzes of specific features. |
+| **10 m Collection (MapBiomas 10 meters – beta)** | Higher resolution (10 m) land use/cover maps. | ~2016 → present | Fine-scale studies of small features such as riparian zones or small farms. |
+| **Degradation (MapBiomas Degradation – beta)** | Maps of native vegetation degradation (e.g., selective logging, forest thinning). | Recent years | Conservation planning and restoration projects. |
+| **Soil (MapBiomas Solo – beta)** | Soil organic carbon stocks, soil texture and related properties. | Mostly static | Climate change mitigation, soil health research, sustainable agriculture. |
+| **Cacao Mapping (MapBiomas Cacau)** | Mapping of cacao (cocoa) plantations in southern Bahia. | Regional, recent years | Sustainable agriculture and commodity impact assessments. |
+

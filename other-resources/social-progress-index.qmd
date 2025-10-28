@@ -1,0 +1,23 @@
+---
+title: "Social Progress Index"
+subtitle: "Quality of life of Brazil's population through a multidimensional approach"
+description: ""
+lang: en
+date: 2025-10-17
+image: "social-progress-index.webp"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Development
+  - Social
+---
+
+
+## [Social Progress Index](https://ipsbrasil.org.br/en/)
+
+The Social Progress Index (SPI) is a methodology that assesses the quality of life of Brazil's population through a multidimensional approach. The SPI examines whether people have the necessary resources to thrive, moving beyond traditional metrics and economic paradigms, and enables comparisons among municipalities, states, and regions.
+
+
+

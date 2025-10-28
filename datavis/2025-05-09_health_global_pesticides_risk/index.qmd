@@ -42,7 +42,7 @@ library(fontawesome)
   text-align: justify !important
 }
 ```
-
+:::{.column-screen}
 :::{.column-body-outset}
 
 While we continue to extract and wrangle multiple datasets, we're excited to share the first infographic in our new series exploring the intersection of Climate change, Decent Work, and Workers’ Health.

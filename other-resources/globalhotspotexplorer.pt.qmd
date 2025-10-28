@@ -1,0 +1,26 @@
+---
+title: "Global Hotspot Explorer"
+subtitle: "Impactos, vulnerabilidades e riscos das mudanças climáticas"
+description: ""
+lang: pt
+date: 2025-10-21
+image: "globalhotspotexplorer.png"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Global
+  - Vulnerabilidades
+  - Mudanças Climáticas
+  
+---
+
+
+## [Global Hotspot Explorer](https://hotspots-explorer.org/about)
+
+O Global Hotspots Explorer mapeia e apresenta informações sobre impactos, vulnerabilidades e riscos decorrentes do desenvolvimento e das mudanças climáticas nos setores de água, energia e solo.
+
+Modelos de última geração foram utilizados para avaliar as tendências futuras de 14 indicadores de desafios induzidos pelo desenvolvimento e pelo clima, vinculados a três setores: água, energia e solo.
+
+[Painel do Brasil](https://hotspots-explorer.org)

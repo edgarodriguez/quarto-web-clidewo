@@ -1,0 +1,24 @@
+---
+title: "Plataforma Povoado"
+subtitle: "Visibilidade e Proteção das Comunidades Tradicionais do Cerrado"
+description: ""
+lang: pt
+date: 2025-10-28
+date-modified: 2025-10-28
+image: "povoado.svg"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+
+  - Cerrado
+  - Povos e Comunidades Tradicionais
+---
+
+
+## Overview of Povoado Platform
+
+A [plataforma Povoado](https://dados.tonomapa.org.br)  reúne dados coletados por meio de revisão bibliográfica e dados públicos disponível na internet, com o objetivo de oferecer uma visão panorâmica da dimensão, distribuição, segmentos dos povos e comunidades tradicionais do Brasil, com início no Bioma Cerrado.
+
+A Plataforma Povoado é uma iniciativa inovadora dedicada a reunir, sistematizar e disponibilizar informações sobre Povos e Comunidades Tradicionais (PCTs) do Cerrado a partir de fontes secundárias. O projeto nasce de uma metodologia inédita e, por conseguinte, em constante processo de avaliação, aprimoramento e consolidação, que combina rigor técnico com participação social.

@@ -1,10 +1,11 @@
 ---
-title: "Human Development Index from MOSAIKS"
-subtitle: "Global High Resolution Estimates of the United Nations Human Development Index"
+title: "MapBiomas Brasil"
+subtitle: "Mapping and monitoring land use and cover changes"
 description: ""
 lang: en
-date: 2025-09-16
-image: "mosaiks.png"
+date: 2025-10-28
+date-modified: 2025-10-28
+image: "mapbiomas.png"
 execute:
   echo: false
 comments: false
@@ -15,21 +16,18 @@ categories:
   - Dataset
 ---
 
-# What Data You Can Download from MapBiomas Brasil
-
-The **Downloads** section of [MapBiomas Brasil](https://brasil.mapbiomas.org/downloads/) provides a rich collection of datasets derived from decades of satellite imagery and remote sensing analysis. These datasets document how Brazil’s land cover and land use have changed since the 1980s and support research, policy, and environmental monitoring.
-
----
 
 ## Overview of MapBiomas
 
+
+
 MapBiomas is a collaborative initiative that transforms **satellite images**—especially from the Landsat program—into **annual maps of land use and land cover** for all of Brazil. It produces detailed spatial data and time series that are freely available for scientists, policy makers, NGOs, and anyone interested in tracking Brazil’s environmental changes.
 
----
+[MapBiomas Brasil](https://brasil.mapbiomas.org/downloads/) provides a rich collection of datasets derived from decades of satellite imagery and remote sensing analysis. These datasets document how Brazil’s land cover and land use have changed since the 1980s and support research, policy, and environmental monitoring.
 
-## Types of Data Available
 
-Below is a guide to the key categories of data you can download and what each offers.
+
+Among the datasets available in the [Platforma MapBiomas](https://plataforma.brasil.mapbiomas.org/) are:
 
 | Dataset / Category | What it Contains | Time Span / Resolution | Typical Uses |
 |--------------------|------------------|------------------------|-------------|
@@ -51,33 +49,5 @@ Below is a guide to the key categories of data you can download and what each of
 | **Degradation (MapBiomas Degradação – beta)** | Maps of native vegetation degradation (e.g., selective logging, forest thinning). | Recent years | Conservation planning and restoration projects. |
 | **Soil (MapBiomas Solo – beta)** | Soil organic carbon stocks, soil texture and related properties. | Mostly static | Climate change mitigation, soil health research, sustainable agriculture. |
 | **Cacao Mapping (MapBiomas Cacau)** | Mapping of cacao (cocoa) plantations in southern Bahia. | Regional, recent years | Sustainable agriculture and commodity impact assessments. |
-
----
-
-## Key Features
-
-- **Long-term time series:** Many datasets go back to **1985**, enabling trend analysis over almost four decades.  
-- **Multiple spatial resolutions:** From classic 30 m Landsat-based maps to **10 m beta products** for finer detail.  
-- **Thematic diversity:** Beyond forest cover, there are modules for **fire, soil carbon, urban growth, degradation**, and more.  
-- **Transparency and accuracy:** Download **validation points** and **legend details** to understand the precision and classification scheme.
-
----
-
-## Why It Matters
-
-The MapBiomas datasets support a wide range of applications:
-
-- Monitoring **deforestation** and ecosystem restoration  
-- Estimating **carbon emissions** and soil carbon storage  
-- **Urban planning** and tracking city sprawl  
-- Evaluating the impact of **infrastructure development**  
-- Supporting **policy-making**, conservation, and sustainable agriculture initiatives  
-
----
-
-Whether you are a researcher, policymaker, journalist, or simply curious about Brazil’s landscapes, the MapBiomas downloads page is a powerful starting point for understanding how the country’s land has changed—and continues to change—over time.
-
-
-
 
 

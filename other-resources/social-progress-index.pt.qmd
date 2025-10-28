@@ -1,0 +1,23 @@
+---
+title: "Índice de Progresso Social"
+subtitle: "Qualidade de vida da população no Brasil de forma multidimensional"
+description: ""
+lang: pt
+date: 2025-10-17
+image: "social-progress-index.webp"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Development
+  - Social
+---
+
+
+## [Índice de Progresso Social](https://ipsbrasil.org.br/pt/)
+
+O Índice de Progresso Social (IPS) é uma metodologia que avalia a qualidade de vida da população no Brasil de forma multidimensional. O IPS avalia se as pessoas têm o necessário para prosperar, indo além de métricas tradicionais e paradigmas econômicos, e permite comparar municípios, estados e regiões.
+
+
+

@@ -11,8 +11,14 @@
     "listing": "/other-resources.html",
     "items": [
       "/other-resources/adaptabrasil.html",
+      "/other-resources/climate-conflict.html",
+      "/other-resources/globalhotspotexplorer.html",
+      "/other-resources/mapbiomas.html",
+      "/other-resources/povoado.html",
       "/other-resources/SmartLab.html",
-      "/other-resources/climate-conflict.html"
+      "/other-resources/firjan.html",
+      "/other-resources/social-progress-index.html",
+      "/other-resources/inpacto.html"
     ]
   },
   {
@@ -31,6 +37,7 @@
     "listing": "/datavis.html",
     "items": [
       "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
+      "/datavis/2025-10-18_labour_inspections/index.html",
       "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
       "/datavis/2024-12-31_climate-hazard-01-heat/index.html",
       "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",

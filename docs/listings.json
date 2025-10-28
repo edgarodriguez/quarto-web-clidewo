@@ -11,10 +11,15 @@
     "listing": "/other-resources.html",
     "items": [
       "/other-resources/adaptabrasil.html",
+      "/other-resources/climate-conflict.html",
+      "/other-resources/globalhotspotexplorer.html",
       "/other-resources/mosaiks.html",
+      "/other-resources/inpacto.html",
       "/other-resources/mapbiomas.html",
+      "/other-resources/povoado.html",
       "/other-resources/SmartLab.html",
-      "/other-resources/climate-conflict.html"
+      "/other-resources/social-progress-index.html",
+      "/other-resources/firjan.html"
     ]
   },
   {
@@ -40,8 +45,17 @@
     ]
   },
   {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
+  },
+  {
     "listing": "/datavis.html",
     "items": [
+      "/datavis/2025-10-18_labour_inspections/index.html",
       "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
       "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
       "/datavis/2024-12-31_climate-hazard-01-heat/index.html",
@@ -49,14 +63,6 @@
       "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
       "/datavis/2024-99-99_climate-hazard-02-radiation/index.html",
       "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2025-10-13_GPTEC.html",
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
     ]
   },
   {
