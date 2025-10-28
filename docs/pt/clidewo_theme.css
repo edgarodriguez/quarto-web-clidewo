@@ -350,3 +350,13 @@ a.white {
 }
 
 /*----------------------------------------------*/
+
+
+/* Custom CSS to control listing image sizing */
+
+.listing-table .listing-img {
+  height: auto;
+  max-height: 50px; /* Adjust this value as needed */
+  width: auto;
+  object-fit: contain;
+}

@@ -4,7 +4,7 @@ date: "2025-08-18"
 date-modified: "2025-08-28"
 # draft: true
 # draft-mode: visible 
-image: img/CLIDEWO-constallations.png
+image: img/CLIDEWO-constallations.svg
 execute:
   echo: false
 categories:

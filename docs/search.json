@@ -11,7 +11,7 @@
     "href": "other-resources.html",
     "title": "Other Resources",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nCategories\n\n\n\n \n\n\n\n\n\n\n\n\nAdaptaBrasil MCTI\n\n\n\n\n\nClimate Change, Risk indicators\n\n\n\n\n\n\n\n\n\nClimate-Conflict-Vulnerability Index\n\n\n\n\n\nClimate Change, Conflict, CRVA\n\n\n\n\n\n\n\n\n\nGlobal Hotspot Explorer\n\n\n\n\n\nGlobal, Vulnerability, Climate Change\n\n\n\n\n\n\n\n\n\nHuman Development Index from MOSAIKS\n\n\n\n\n\nDevelopment, Global, Dataset\n\n\n\n\n\n\n\n\n\nInPACTO Vulnerability Index\n\n\n\n\n\nVulnerability, Index, Slavary labour\n\n\n\n\n\n\n\n\n\nMapBiomas Brasil\n\n\n\n\n\nDevelopment, Global, Dataset\n\n\n\n\n\n\n\n\n\nPovoado Platform\n\n\n\n\n\nCerrado, Traditional Peoples and Communities\n\n\n\n\n\n\n\n\n\nSmartLab\n\n\nPromoção do Trabalho Decente Guiada por Dados\n\n\nForced labour\n\n\n\n\n\n\n\n\n\nSocial Progress Index\n\n\n\n\n\nDevelopment, Social\n\n\n\n\n\n\n\n\n\nÍndice FIRJAN de Desenvolvimento Municipal (IFDM)\n\n\n\n\n\nDevelopment, Index\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nCategories\n\n\n\n\n\n\n\n\nAdaptaBrasil MCTI\n\n\n\n\n\nClimate Change, Risk indicators\n\n\n\n\n\n\nClimate-Conflict-Vulnerability Index\n\n\n\n\n\nClimate Change, Conflict, CRVA\n\n\n\n\n\n\nGlobal Hotspot Explorer\n\n\n\n\n\nGlobal, Vulnerability, Climate Change\n\n\n\n\n\n\nHuman Development Index from MOSAIKS\n\n\n\n\n\nDevelopment, Global, Dataset\n\n\n\n\n\n\nInPACTO Vulnerability Index\n\n\n\n\n\nVulnerability, Index, Slavary labour\n\n\n\n\n\n\nMapBiomas Brasil\n\n\n\n\n\nDevelopment, Global, Dataset\n\n\n\n\n\n\nPovoado Platform\n\n\n\n\n\nCerrado, Traditional Peoples and Communities\n\n\n\n\n\n\nSmartLab\n\n\nPromoção do Trabalho Decente Guiada por Dados\n\n\nForced labour\n\n\n\n\n\n\nSocial Progress Index\n\n\n\n\n\nDevelopment, Social\n\n\n\n\n\n\nÍndice FIRJAN de Desenvolvimento Municipal (IFDM)\n\n\n\n\n\nDevelopment, Index\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/staff/Andrade.html",
@@ -252,25 +252,312 @@
     "text": "XVIII Scientific Meeting: Trabalho Escravo Contemporâneo e Questões Correlatas\n\n\n\n\n\n\n\n\nOct 13, 2025\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\n2nd International Congress of Ecological Humanities\n\n\n\n\n\n\n\n\nApr 16, 2025\n\n\nEdgar Rodríguez-Huerta\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nClimate and Occupational Health and Decent Work Nexus: Worker’s Vulnerabilities\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\nEdgar Rodríguez-Huerta\n\n1 min\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Universe.html",
-    "href": "Universe.html",
-    "title": "Universe",
+    "objectID": "datavis.html",
+    "href": "datavis.html",
+    "title": "Datavis",
     "section": "",
-    "text": "map = { const width = 954 + 28; const height = width; const cx = width / 2; const cy = height / 2; const radius = d3.scaleLinear([6, -1], [0, 8]); const outline = d3.geoCircle().radius(90).center([0, 90])(); const graticule = d3.geoGraticule().stepMinor([15, 10])();\nconst projection = d3.geoStereographic() .reflectY(true) .scale((width - 120) * 0.5) .clipExtent([[0, 0], [width, height]]) .rotate([0, -90]) .translate([width / 2, height / 2]) .precision(0.1);\nconst path = d3.geoPath(projection);\nconst voronoi = d3.Delaunay .from(data.map(projection)) .voronoi([0, 0, width, height]);\nconst svg = d3.create(“svg”) .attr(“width”, width) .attr(“height”, height) .attr(“viewBox”, [0, 0, width, height]) .attr(“style”, “display: block; margin: 0 -14px; width: 100%; height: auto; font: 10px sans-serif; color: white; background: radial-gradient(#061616 0%, #002573 100%);”) .attr(“text-anchor”, “middle”) .attr(“fill”, “currentColor”);\nsvg.append(“path”) .attr(“d”, path(graticule)) .attr(“fill”, “none”) .attr(“stroke”, “currentColor”) .attr(“stroke-opacity”, 0.2);\nsvg.append(“path”) .attr(“d”, path(outline)) .attr(“fill”, “none”) .attr(“stroke”, “currentColor”);\n// 5-minute ticks svg.append(“g”) .attr(“stroke”, “currentColor”) .selectAll() .data(d3.range(0, 1440, 5)) // every 5 minutes .join(“line”) .datum(d =&gt; [ projection([d / 4, 0]), projection([d / 4, d % 60 ? -1 : -2]) ]) .attr(“x1”, ([[x1]]) =&gt; x1) .attr(“x2”, ([, [x2]]) =&gt; x2) .attr(“y1”, ([[, y1]]) =&gt; y1) .attr(“y2”, ([, [, y2]]) =&gt; y2);\n// hourly ticks and labels svg.append(“g”) .selectAll() .data(d3.range(0, 1440, 60)) // every hour .join(“text”) .attr(“dy”, “0.35em”) .text(d =&gt; ${d / 60} Sectors) .attr(“font-size”, d =&gt; d % 360 ? null : 14) .attr(“font-weight”, d =&gt; d % 360 ? null : “bold”) .datum(d =&gt; projection([d / 4, -4])) .attr(“x”, ([x]) =&gt; x) .attr(“y”, ([, y]) =&gt; y);\n// 10° labels svg.append(“g”) .selectAll() .data(d3.range(10, 91, 10)) .join(“text”) .attr(“dy”, “0.65em”) .text(d =&gt; ${d} yr) .datum(d =&gt; projection([0, d])) .attr(“x”, ([x]) =&gt; x) .attr(“y”, ([, y]) =&gt; y);\nconst focusDeclination = svg.append(“circle”) .attr(“cx”, cx) .attr(“cy”, cy) .attr(“fill”, “none”) .attr(“stroke”, “yellow”);\nconst focusRightAscension = svg.append(“line”) .attr(“x1”, cx) .attr(“y1”, cy) .attr(“x2”, cx) .attr(“y2”, cy) .attr(“stroke”, “yellow”);\nsvg.append(“g”) .attr(“stroke”, “black”) .selectAll() .data(data) .join(“circle”) .attr(“r”, d =&gt; radius(d.magnitude)) .attr(“transform”, d =&gt; translate(${projection(d)}));\nsvg.append(“g”) .attr(“pointer-events”, “all”) .attr(“fill”, “none”) .selectAll() .data(data) .join(“path”) .on(“mouseover”, mouseovered) .on(“mouseout”, mouseouted) .attr(“d”, (d, i) =&gt; voronoi.renderCell(i)) .append(“title”) .text(formatTitle);\nfunction mouseovered(event, d) { const [px, py] = projection(d); const dx = px - cx; const dy = py - cy; const a = Math.atan2(dy, dx); focusDeclination.attr(“r”, Math.hypot(dx, dy)); focusRightAscension.attr(“x2”, cx + 1e3 * Math.cos(a)).attr(“y2”, cy + 1e3 * Math.sin(a)); }\nfunction mouseouted(event, d) { focusDeclination.attr(“r”, null); focusRightAscension.attr(“x2”, cx).attr(“y2”, cy); }\nreturn svg.node(); }"
+    "text": "Constellation of inspections\n\n\n\ndatavis\n\ndecent work\n\nlabour inspection\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nAug 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nMay 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Agrochemicals\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Excessive Heat\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Vector-borne diseases\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Air pollution\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: UV Radiation\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Extreme weather events\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
-    "href": "posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
-    "title": "What is a Climate Risk Vulnerability Assessment?",
+    "objectID": "posts/2024-01-29_enslaved_ethanol/index.html",
+    "href": "posts/2024-01-29_enslaved_ethanol/index.html",
+    "title": "The Hidden Cost of Renewables: Modern Slavery in Ethanol supply chain",
     "section": "",
-    "text": "Working in process\nCRVA is part of the project’s working packages (WPs). In the blog we describe what it is, how it differs from the rest of the risk assessments and how it can be applied in better decision making.\n\n\n\n\n\nReuseCC BY 4.0"
+    "text": "Enslaved in Ethanol\nEthanol is widely recognized as a important solution to reducing greenhouse gas emissions in transport sector and combating climate change. As the second-largest ethanol producer, Brazil plays a significant role in the global biofuel industry. However, despite its environmental benefits, ethanol production raises serious concerns regarding labour rights, occupational health, and social justice. The recent report Enslaved in Ethanol by Reportér Brasil highlights the exploitation and unsafe working conditions faced by sugarcane workers.\n\n“The situations reported in sugarcane fields linked to their operations include workers killed in fires, forced to sleep on the ground, unable to leave their jobs because of illegal debts imposed by their employers, and even hit by pesticides dropped from airplanes.”\n\nMany workers are subjected to debt bondage and unpredictable wages due to unfair deductions, paying for their own travel, accommodation, and food. Additionally, extreme working hours and lack of formal contracts deny workers access to essential social security benefits. Some workers report sleeping only four hours a night, as long commutes and exhausting shifts make proper rest impossible. Moreover, sugarcane workers are frequently exposed to hazardous pesticides, experience severe physical effort, and high risks of heat-related illnesses.\n\n“Workers reported to inspectors that they had been sprayed on with pesticides. The plane that allegedly did the spraying can be seen in the photo taken by one of them on his cell phone.”\n\n\n\n\nSource: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides\n\n\nAddressing these challenges requires stronger enforcement of labour laws, greater corporate accountability, and improved oversight in supply chains. A just transition in the ethanol industry must prioritize not only environmental sustainability but also the protection of workers’ rights and well-being. Governments, companies, and financial institutions must take decisive action to eliminate modern slavery, ensure fair wages, and provide safe working conditions. Ethanol may be a cleaner fuel alternative, but it must not come at the cost of human lives, dignity and fundamental labour rights.\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
   },
   {
-    "objectID": "posts/25-05-15_storytelling_lego/index.html",
-    "href": "posts/25-05-15_storytelling_lego/index.html",
-    "title": "LEGO-tellying",
+    "objectID": "people.pt/staff/Andrade.html",
+    "href": "people.pt/staff/Andrade.html",
+    "title": "Gabriela Andrade",
     "section": "",
-    "text": "As part of the Research Communication program, Mastering the Art of Research Communication: Develop your Skills! by the University of Nottingham’s Research Academy, we had the opportunity to disseminate our projects using non-conventional resources to change mindsets and encourage creativity. It was enjoyable to revisit LEGO — now to continue exploring new ways to share research.\nWe are working to produce a worker-informed, data-driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil. Each coloured LEGO layer represents a vital piece of the puzzle: climate data, socioeconomic conditions, and workers’ voices. By applying a multi-layer risk assessment, the project will provide insights into the relationship between climate change, workers’ health, and decent work.\nA big thank you to Andrew Rowe for introducing such a great initiative.\nSorry for the terrible map, but I ran out of time and green blocks 😅\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
+    "text": "Home\n    People\n    Research Staff\n    Gabriela Andrade"
+  },
+  {
+    "objectID": "people.pt/staff/Andrade.html#biography",
+    "href": "people.pt/staff/Andrade.html#biography",
+    "title": "Gabriela Andrade",
+    "section": "Biography",
+    "text": "Biography\n\n\n\n\nEm breve"
+  },
+  {
+    "objectID": "people.pt/staff/Landman.html",
+    "href": "people.pt/staff/Landman.html",
+    "title": "Todd Landman",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Todd Landman"
+  },
+  {
+    "objectID": "people.pt/staff/Landman.html#biografia",
+    "href": "people.pt/staff/Landman.html#biografia",
+    "title": "Todd Landman",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nO Professor Todd Landman é Diretor de Pesquisa do Rights Lab e Professor de Ciência Política na Universidade de Nottingham. Ele trabalha na área de direitos humanos há 25 anos e atualmente pesquisa nas áreas de prevalência da escravidão moderna, antiescravagismo como movimento social e teoria social da escravidão moderna, entre outros tópicos. Atualmente, ele lidera um grande projeto com financiamento externo que avalia riscos aos direitos humanos, incluindo trabalho forçado, no contexto de empresas e cadeias de suprimentos, e trabalha como parte de um grande projeto do governo dos EUA que pesquisa a extensão e as causas da mendicância forçada de crianças no Níger. Seu livro mais recente é “The Rights Track: Sound Evidence on Human Rights and Modern Slavery” (2022)."
+  },
+  {
+    "objectID": "people.pt/staff/Moura.html",
+    "href": "people.pt/staff/Moura.html",
+    "title": "Flavia Moura",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Flavia Moura"
+  },
+  {
+    "objectID": "people.pt/staff/Moura.html#biografia",
+    "href": "people.pt/staff/Moura.html#biografia",
+    "title": "Flavia Moura",
+    "section": "Biografia",
+    "text": "Biografia\nPós-Doutora em Sociologia e Antropologia (UFRJ) e Doutora em Comunicação Social (PUC-RS). Docente do Departamento de Comunicação Social e do Programas de Pós-Graduação de Comunicação/Mestrado Profissional da UFMA. Coordena atualmente dois projetos de pesquisa relacionando as temáticas Comunicação, Migração e Trabalho. Pesquisadora dos grupos de pesquisa ObEEC (UFMA/CNPq); GPECOM (UFMA/CNPq), GEPTS (UFMA/CNPq) e GPTEC (UFRJ/CNPq)."
+  },
+  {
+    "objectID": "people.pt/staff/Galvao.html",
+    "href": "people.pt/staff/Galvao.html",
+    "title": "Pedro Igor Galvão",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Pedro Igor Galvão"
+  },
+  {
+    "objectID": "people.pt/staff/Galvao.html#biografia",
+    "href": "people.pt/staff/Galvao.html#biografia",
+    "title": "Pedro Igor Galvão",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nPedro Igor Galvão é bolsista Early Career Fellow do British Council e integrante do programa Measurement and Geographies do Rights Lab (Universidade de Nottingham). Sua pesquisa investiga como o trabalho análogo à escravidão e o desmatamento na Amazônia Legal brasileira se expressam espacialmente por meio de transformações desiguais da paisagem. Ele integra ferramentas de SIG, imagens de satélite e indicadores socioambientais para avaliar correlações entre uso do solo, exploração e injustiça territorial. É graduado em Arquitetura e Urbanismo e está concluindo o mestrado em Ciências do Ambiente pela Universidade Federal do Tocantins (UFT), onde pesquisa a paisagem como produto e instrumento da produção social do espaço. Seu trabalho evidencia como o legado colonial brasileiro se inscreve nos padrões espaciais de segregação, exploração e desigualdade socioambiental. Desde 2018, Pedro atua como pesquisador no Instituto de Atenção às Cidades (IAC/UFT), onde tem coordenado e colaborado em projetos de planejamento e gestão territorial em contextos urbanos e rurais. Sua experiência inclui a elaboração de Planos de Mobilidade Urbana Sustentável (PlanMobs), Planos Diretores Municipais, Relatórios de Licenciamento Ambiental e masterplans em escala regional. Essas iniciativas integram pesquisa acadêmica, consultoria técnica e métodos participativos para apoiar a governança territorial democrática e a justiça espacial."
+  },
+  {
+    "objectID": "people.pt/staff/Carthew.html",
+    "href": "people.pt/staff/Carthew.html",
+    "title": "Kelsey Carthew",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Kelsey Carthew"
+  },
+  {
+    "objectID": "people.pt/staff/Carthew.html#biografia",
+    "href": "people.pt/staff/Carthew.html#biografia",
+    "title": "Kelsey Carthew",
+    "section": "Biografia",
+    "text": "Biografia\nKelsey Carthew faz parte da equipe de operações de pesquisa do Rights Lab. Ela apoia os esforços de coordenação e implementação de diversos projetos de pesquisa do Rights Lab, além de fornecer suporte operacional. Ela se juntou à equipe após sucesso em outras funções na universidade. Atualmente, ela cursa seu mestrado em Direito Internacional Público na Universidade de Nottingham."
+  },
+  {
+    "objectID": "people.pt/staff/Trevizan.html",
+    "href": "people.pt/staff/Trevizan.html",
+    "title": "Ana Flávia Trevizan",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Ana Flávia Trevizan"
+  },
+  {
+    "objectID": "people.pt/staff/Trevizan.html#biografia",
+    "href": "people.pt/staff/Trevizan.html#biografia",
+    "title": "Ana Flávia Trevizan",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nAna Flávia Trevizan é doutora em Alterações Climáticas e mestre em Direito Agroambiental. Especialista em direito climático e florestal, bem como em questões socioambientais, governança, inclusão e diversidade. Sua pesquisa examina a interseção entre o direito florestal e as políticas públicas ambientais, além de analisar a transparência e as práticas de inclusão e diversidade nas instituições financeiras no contexto da governança climática no Brasil. Atualmente, contribui para o desenvolvimento de soluções jurídicas e sustentáveis para desafios socioambientais no Rights Lab (Universidade de Nottingham). É autora de diversas publicações internacionais e membro de importantes grupos de pesquisa, como o CENSE (UNL), o CEDAT (URV) e o GPMAT (UFMT)."
+  },
+  {
+    "objectID": "datavis/2025-10-18_labour_inspections/index.html",
+    "href": "datavis/2025-10-18_labour_inspections/index.html",
+    "title": "Constellation of inspections",
+    "section": "",
+    "text": "The DataViz focuses on the results of labour inspections and the relevance behind each fiscalização (inspection in the visualisation). Whether one or 1,064 rescues, each star symbolises justice for workers. At the same time, it serves as a reminder of the immense task ahead, the vast territory to be covered, the potential gaps or voids yet to be explored, and the need to strengthen the capacity of the inspectorate to continue its effort.\nMore inspectors mean a greater capacity to identify spots of vulnerability and eradicate degrading working conditions.\n\n\n  \n    \n      \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\n\n\n\n\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
+    "href": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
+    "title": "Climate change and enviromental related risk: Air pollution",
+    "section": "",
+    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html#coming-soon",
+    "href": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html#coming-soon",
+    "title": "Climate change and enviromental related risk: Air pollution",
+    "section": "Coming soon",
+    "text": "Coming soon"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html#download",
+    "href": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html#download",
+    "title": "Climate change and enviromental related risk: Air pollution",
+    "section": "Download",
+    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
+    "href": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
+    "title": "Climate change and enviromental related risk: Vector-borne diseases",
+    "section": "",
+    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html#coming-soon",
+    "href": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html#coming-soon",
+    "title": "Climate change and enviromental related risk: Vector-borne diseases",
+    "section": "Coming soon",
+    "text": "Coming soon"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html#download",
+    "href": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html#download",
+    "title": "Climate change and enviromental related risk: Vector-borne diseases",
+    "section": "Download",
+    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
+    "href": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
+    "title": "Climate change and enviromental related risk: Agrochemicals",
+    "section": "",
+    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html#coming-soon",
+    "href": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html#coming-soon",
+    "title": "Climate change and enviromental related risk: Agrochemicals",
+    "section": "Coming soon",
+    "text": "Coming soon"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html#download",
+    "href": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html#download",
+    "title": "Climate change and enviromental related risk: Agrochemicals",
+    "section": "Download",
+    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
+  },
+  {
+    "objectID": "datavis/2024-12-31_climate-hazard-01-heat/index.html",
+    "href": "datavis/2024-12-31_climate-hazard-01-heat/index.html",
+    "title": "Climate change and enviromental related risk: Excessive Heat",
+    "section": "",
+    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
+  },
+  {
+    "objectID": "datavis/2024-12-31_climate-hazard-01-heat/index.html#coming-soon",
+    "href": "datavis/2024-12-31_climate-hazard-01-heat/index.html#coming-soon",
+    "title": "Climate change and enviromental related risk: Excessive Heat",
+    "section": "Coming soon",
+    "text": "Coming soon"
+  },
+  {
+    "objectID": "datavis/2024-12-31_climate-hazard-01-heat/index.html#download",
+    "href": "datavis/2024-12-31_climate-hazard-01-heat/index.html#download",
+    "title": "Climate change and enviromental related risk: Excessive Heat",
+    "section": "Download",
+    "text": "Download\n\n\n[Download in high resolution]\n[Look inside the code]"
+  },
+  {
+    "objectID": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
+    "href": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
+    "title": "Brazil’s pesticide risk and degrating working conditions",
+    "section": "Download",
+    "text": "Download\n\n\n[Interactive version] (coming soon)\nDownload high resolution datavis\n[Download Tableau worksheet] (coming soon)\n[Look inside the code to collect data] (coming soon)\n\n\nShare it on social media:"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-02-radiation/index.html",
+    "href": "datavis/2024-99-99_climate-hazard-02-radiation/index.html",
+    "title": "Climate change and enviromental related risk: UV Radiation",
+    "section": "",
+    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-02-radiation/index.html#coming-soon",
+    "href": "datavis/2024-99-99_climate-hazard-02-radiation/index.html#coming-soon",
+    "title": "Climate change and enviromental related risk: UV Radiation",
+    "section": "Coming soon",
+    "text": "Coming soon"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-02-radiation/index.html#download",
+    "href": "datavis/2024-99-99_climate-hazard-02-radiation/index.html#download",
+    "title": "Climate change and enviromental related risk: UV Radiation",
+    "section": "Download",
+    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html",
+    "href": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html",
+    "title": "Climate change and enviromental related risk: Extreme weather events",
+    "section": "",
+    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html#coming-soon",
+    "href": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html#coming-soon",
+    "title": "Climate change and enviromental related risk: Extreme weather events",
+    "section": "Coming soon",
+    "text": "Coming soon"
+  },
+  {
+    "objectID": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html#download",
+    "href": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html#download",
+    "title": "Climate change and enviromental related risk: Extreme weather events",
+    "section": "Download",
+    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
+  },
+  {
+    "objectID": "people.pt/staff/Domingos.html",
+    "href": "people.pt/staff/Domingos.html",
+    "title": "Isabel Domingos Martinez dos Santos",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Isabel Domingos Martinez dos Santos"
+  },
+  {
+    "objectID": "people.pt/staff/Domingos.html#biografia",
+    "href": "people.pt/staff/Domingos.html#biografia",
+    "title": "Isabel Domingos Martinez dos Santos",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nProfessora Adjunta e Vice-diretor do Instituto de Saúde Colectiva (ISC) da Universidade Federal Fluminense (UFF). Doutora em Saúde Pública pela Escola Nacional de Saúde Pública Sergio Arouca (ENSP) da Fundação Oswaldo Cruz (Fiocruz). Mestre em Saúde Pública pela ENSP/Fiocruz na área de concentração em Planejamento e Gestão de Sistemas e Serviços de Saúde. Foi bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). Especialista em Psicologia do Trabalho pela Universidade Federal de Minas Gerais (UFMG), Saúde da Família e Gestão da Atenção Básica (Residência Multiprofissional na ENSP/ FIOCRUZ). Psicóloga, graduada pela Universidade Federal de Juiz de Fora (UFJF). Foi psicóloga organizacional na Coordenação de Educação Permanente da Fundação Hospitalar do Estado de Minas Gerais (FHEMIG). É integrante dos grupos de pesquisa: “Governança e respostas nacionais dos BRICS à Covid-19: caminhos, desafios e lições para os sistemas de saúde em contextos desiguais” e “Relações público-privadas nos sistemas de saúde da América Latina: dinâmicas, características e implicações para as desigualdades em saúde”. É membro da Associação Brasileira de Saúde Coletiva (ABRASCO) e da Latin American Studies Association (LASA)."
+  },
+  {
+    "objectID": "people.pt/staff/Leao.html",
+    "href": "people.pt/staff/Leao.html",
+    "title": "Luís Henrique da Costa Leão",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Luís Henrique da Costa Leão"
+  },
+  {
+    "objectID": "people.pt/staff/Leao.html#biografia",
+    "href": "people.pt/staff/Leao.html#biografia",
+    "title": "Luís Henrique da Costa Leão",
+    "section": "Biografia",
+    "text": "Biografia\nDoutor em Ciências na área de Saúde Coletiva pela Escola Nacional de Saúde Pública. Professor Associado II da Universidade Federal Fluminense, professor permanente do Programa de Pós-Graduação em Saúde Coletiva da Universidade Federal de Mato Grosso e do PPG Saúde Coletiva da UFF. Professor visitante da Universidade de Padova, Itália (2019) e da Universidade de Nottingham, Inglaterra (2019). Temos experiência na área de Saúde Coletiva, com ênfase em Saúde do Trabalhador, atuando principalmente nos seguintes temas: teorias críticas e relações de saúde, trabalho e ambiente, trabalho contemporâneo, vigilância em saúde do trabalhador, cadeias produtivas e saúde mental relacionada ao trabalho. Foi coordenador do PPGSC/ISC/UFMT (2016-2018), membro da Comissão de Avaliação de Programas de Pós-Graduação em Saúde Coletiva da CAPES - Qudriênio (2017-2020) e foi editor associado da área Saúde do Trabalho do jornal Ciência Saúde Coletiva (2015-2018), membro do Conselho Editorial da EdUFMT (2020-2022) e editor associado da Revista Brasileira de Saúde Ocupacional. Foi membro do Núcleo Gestor de Ciências Sociais e Humanas em Saúde (2020-2023) da Associação Brasileira de Saúde Coletiva (Abrasco)."
+  },
+  {
+    "objectID": "people.pt/staff/Rodriguez-Huerta.html",
+    "href": "people.pt/staff/Rodriguez-Huerta.html",
+    "title": "Edgar Rodriguez-Huerta",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Edgar Rodriguez-Huerta"
+  },
+  {
+    "objectID": "people.pt/staff/Rodriguez-Huerta.html#biografia",
+    "href": "people.pt/staff/Rodriguez-Huerta.html#biografia",
+    "title": "Edgar Rodriguez-Huerta",
+    "section": "Biografia",
+    "text": "Biografia\nEdgar Rodríguez-Huerta trabalha como parte do Measurement and Geography Programme para pesquisar as interações entre sistemas socioecológicos, mudanças climáticas e escravidão moderna. Ele conduz pesquisas quantitativas por meio de múltiplas abordagens de pensamento sistêmico, como Avaliação do Ciclo de Vida Social e análise de dados secundários, modelagem climática, metabolismo social e redes complexas para explorar as dimensões humanas de diferentes cadeias de suprimentos (por exemplo, suprimento de alimentos, painéis solares e fornos de tijolos). Ele concluiu um PhD em Ciência da Sustentabilidade e, com sua formação em ciência de dados e Business Intelligence, é um entusiasta da visualização de dados para comunicar e publicar os resultados técnicos entre as partes interessadas e facilitar a tomada de decisões."
+  },
+  {
+    "objectID": "people.pt/staff/Siviero.html",
+    "href": "people.pt/staff/Siviero.html",
+    "title": "André Augusto Siviero",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    André Augusto Siviero"
+  },
+  {
+    "objectID": "people.pt/staff/Siviero.html#biografia",
+    "href": "people.pt/staff/Siviero.html#biografia",
+    "title": "André Augusto Siviero",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nBacharel em Direito (UFAC) e mestrando em Direito (UFRJ). Pesquisador dos grupos de pesquisa Direito do Trabalho no Século XXI (TRAB21) e Configurações Institucionais e Relações de Trabalho (CIRT). Áreas de interesse: Desenvolvimento sustentável na Amazônia, Direitos Humanos e Direito do Trabalho."
+  },
+  {
+    "objectID": "people.pt/staff/Reita.html",
+    "href": "people.pt/staff/Reita.html",
+    "title": "Carla Reita Leal",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Carla Reita Leal"
+  },
+  {
+    "objectID": "people.pt/staff/Reita.html#biografia",
+    "href": "people.pt/staff/Reita.html#biografia",
+    "title": "Carla Reita Leal",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nDra. Carla Reita Faria Leal é Doutora e Mestre em Direito das Relações Sociais, subárea Direito do Trabalho, pela Pontifícia Universidade Católica de São Paulo (PUC/SP). Professora associada da Universidade Federal de Mato Grosso (UFMT), atua no ensino, pesquisa e extensão, integrando o saber acadêmico e o compromisso social.\nRealizou pós-doutorado e foi visiting fellow no Rights Lab, da University of Nottingham (Reino Unido).\nÉ palestrante em eventos acadêmicos, jurídicos e interinstitucionais, com foco em temas como trabalho decente, direitos humanos, políticas públicas e enfrentamento ao trabalho escravo.\nÉ Coordenadora Adjunta do Programa de Pós-Graduação em Direito da UFMT (2023–2025), lidera grupo de pesquisa e coordena o Projeto de Extensão PAI – voltado à qualificação e reinserção de trabalhadores resgatados de condições análogas à escravidão."
   },
   {
     "objectID": "literature-tools.html",
@@ -308,312 +595,18 @@
     "text": "Code for Climate Risk Vulnerability Assessment (CRVA) integration will be included to facilitate reproducibility of the project."
   },
   {
-    "objectID": "people.pt/staff/Reita.html",
-    "href": "people.pt/staff/Reita.html",
-    "title": "Carla Reita Leal",
+    "objectID": "posts/25-05-15_storytelling_lego/index.html",
+    "href": "posts/25-05-15_storytelling_lego/index.html",
+    "title": "LEGO-tellying",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Carla Reita Leal"
+    "text": "As part of the Research Communication program, Mastering the Art of Research Communication: Develop your Skills! by the University of Nottingham’s Research Academy, we had the opportunity to disseminate our projects using non-conventional resources to change mindsets and encourage creativity. It was enjoyable to revisit LEGO — now to continue exploring new ways to share research.\nWe are working to produce a worker-informed, data-driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil. Each coloured LEGO layer represents a vital piece of the puzzle: climate data, socioeconomic conditions, and workers’ voices. By applying a multi-layer risk assessment, the project will provide insights into the relationship between climate change, workers’ health, and decent work.\nA big thank you to Andrew Rowe for introducing such a great initiative.\nSorry for the terrible map, but I ran out of time and green blocks 😅\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
   },
   {
-    "objectID": "people.pt/staff/Reita.html#biografia",
-    "href": "people.pt/staff/Reita.html#biografia",
-    "title": "Carla Reita Leal",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nDra. Carla Reita Faria Leal é Doutora e Mestre em Direito das Relações Sociais, subárea Direito do Trabalho, pela Pontifícia Universidade Católica de São Paulo (PUC/SP). Professora associada da Universidade Federal de Mato Grosso (UFMT), atua no ensino, pesquisa e extensão, integrando o saber acadêmico e o compromisso social.\nRealizou pós-doutorado e foi visiting fellow no Rights Lab, da University of Nottingham (Reino Unido).\nÉ palestrante em eventos acadêmicos, jurídicos e interinstitucionais, com foco em temas como trabalho decente, direitos humanos, políticas públicas e enfrentamento ao trabalho escravo.\nÉ Coordenadora Adjunta do Programa de Pós-Graduação em Direito da UFMT (2023–2025), lidera grupo de pesquisa e coordena o Projeto de Extensão PAI – voltado à qualificação e reinserção de trabalhadores resgatados de condições análogas à escravidão."
-  },
-  {
-    "objectID": "people.pt/staff/Siviero.html",
-    "href": "people.pt/staff/Siviero.html",
-    "title": "André Augusto Siviero",
+    "objectID": "posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
+    "href": "posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
+    "title": "What is a Climate Risk Vulnerability Assessment?",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    André Augusto Siviero"
-  },
-  {
-    "objectID": "people.pt/staff/Siviero.html#biografia",
-    "href": "people.pt/staff/Siviero.html#biografia",
-    "title": "André Augusto Siviero",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nBacharel em Direito (UFAC) e mestrando em Direito (UFRJ). Pesquisador dos grupos de pesquisa Direito do Trabalho no Século XXI (TRAB21) e Configurações Institucionais e Relações de Trabalho (CIRT). Áreas de interesse: Desenvolvimento sustentável na Amazônia, Direitos Humanos e Direito do Trabalho."
-  },
-  {
-    "objectID": "people.pt/staff/Rodriguez-Huerta.html",
-    "href": "people.pt/staff/Rodriguez-Huerta.html",
-    "title": "Edgar Rodriguez-Huerta",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Edgar Rodriguez-Huerta"
-  },
-  {
-    "objectID": "people.pt/staff/Rodriguez-Huerta.html#biografia",
-    "href": "people.pt/staff/Rodriguez-Huerta.html#biografia",
-    "title": "Edgar Rodriguez-Huerta",
-    "section": "Biografia",
-    "text": "Biografia\nEdgar Rodríguez-Huerta trabalha como parte do Measurement and Geography Programme para pesquisar as interações entre sistemas socioecológicos, mudanças climáticas e escravidão moderna. Ele conduz pesquisas quantitativas por meio de múltiplas abordagens de pensamento sistêmico, como Avaliação do Ciclo de Vida Social e análise de dados secundários, modelagem climática, metabolismo social e redes complexas para explorar as dimensões humanas de diferentes cadeias de suprimentos (por exemplo, suprimento de alimentos, painéis solares e fornos de tijolos). Ele concluiu um PhD em Ciência da Sustentabilidade e, com sua formação em ciência de dados e Business Intelligence, é um entusiasta da visualização de dados para comunicar e publicar os resultados técnicos entre as partes interessadas e facilitar a tomada de decisões."
-  },
-  {
-    "objectID": "people.pt/staff/Leao.html",
-    "href": "people.pt/staff/Leao.html",
-    "title": "Luís Henrique da Costa Leão",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Luís Henrique da Costa Leão"
-  },
-  {
-    "objectID": "people.pt/staff/Leao.html#biografia",
-    "href": "people.pt/staff/Leao.html#biografia",
-    "title": "Luís Henrique da Costa Leão",
-    "section": "Biografia",
-    "text": "Biografia\nDoutor em Ciências na área de Saúde Coletiva pela Escola Nacional de Saúde Pública. Professor Associado II da Universidade Federal Fluminense, professor permanente do Programa de Pós-Graduação em Saúde Coletiva da Universidade Federal de Mato Grosso e do PPG Saúde Coletiva da UFF. Professor visitante da Universidade de Padova, Itália (2019) e da Universidade de Nottingham, Inglaterra (2019). Temos experiência na área de Saúde Coletiva, com ênfase em Saúde do Trabalhador, atuando principalmente nos seguintes temas: teorias críticas e relações de saúde, trabalho e ambiente, trabalho contemporâneo, vigilância em saúde do trabalhador, cadeias produtivas e saúde mental relacionada ao trabalho. Foi coordenador do PPGSC/ISC/UFMT (2016-2018), membro da Comissão de Avaliação de Programas de Pós-Graduação em Saúde Coletiva da CAPES - Qudriênio (2017-2020) e foi editor associado da área Saúde do Trabalho do jornal Ciência Saúde Coletiva (2015-2018), membro do Conselho Editorial da EdUFMT (2020-2022) e editor associado da Revista Brasileira de Saúde Ocupacional. Foi membro do Núcleo Gestor de Ciências Sociais e Humanas em Saúde (2020-2023) da Associação Brasileira de Saúde Coletiva (Abrasco)."
-  },
-  {
-    "objectID": "people.pt/staff/Domingos.html",
-    "href": "people.pt/staff/Domingos.html",
-    "title": "Isabel Domingos Martinez dos Santos",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Isabel Domingos Martinez dos Santos"
-  },
-  {
-    "objectID": "people.pt/staff/Domingos.html#biografia",
-    "href": "people.pt/staff/Domingos.html#biografia",
-    "title": "Isabel Domingos Martinez dos Santos",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nProfessora Adjunta e Vice-diretor do Instituto de Saúde Colectiva (ISC) da Universidade Federal Fluminense (UFF). Doutora em Saúde Pública pela Escola Nacional de Saúde Pública Sergio Arouca (ENSP) da Fundação Oswaldo Cruz (Fiocruz). Mestre em Saúde Pública pela ENSP/Fiocruz na área de concentração em Planejamento e Gestão de Sistemas e Serviços de Saúde. Foi bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). Especialista em Psicologia do Trabalho pela Universidade Federal de Minas Gerais (UFMG), Saúde da Família e Gestão da Atenção Básica (Residência Multiprofissional na ENSP/ FIOCRUZ). Psicóloga, graduada pela Universidade Federal de Juiz de Fora (UFJF). Foi psicóloga organizacional na Coordenação de Educação Permanente da Fundação Hospitalar do Estado de Minas Gerais (FHEMIG). É integrante dos grupos de pesquisa: “Governança e respostas nacionais dos BRICS à Covid-19: caminhos, desafios e lições para os sistemas de saúde em contextos desiguais” e “Relações público-privadas nos sistemas de saúde da América Latina: dinâmicas, características e implicações para as desigualdades em saúde”. É membro da Associação Brasileira de Saúde Coletiva (ABRASCO) e da Latin American Studies Association (LASA)."
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html",
-    "href": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html",
-    "title": "Climate change and enviromental related risk: Extreme weather events",
-    "section": "",
-    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html#coming-soon",
-    "href": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html#coming-soon",
-    "title": "Climate change and enviromental related risk: Extreme weather events",
-    "section": "Coming soon",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html#download",
-    "href": "datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html#download",
-    "title": "Climate change and enviromental related risk: Extreme weather events",
-    "section": "Download",
-    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-02-radiation/index.html",
-    "href": "datavis/2024-99-99_climate-hazard-02-radiation/index.html",
-    "title": "Climate change and enviromental related risk: UV Radiation",
-    "section": "",
-    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-02-radiation/index.html#coming-soon",
-    "href": "datavis/2024-99-99_climate-hazard-02-radiation/index.html#coming-soon",
-    "title": "Climate change and enviromental related risk: UV Radiation",
-    "section": "Coming soon",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-02-radiation/index.html#download",
-    "href": "datavis/2024-99-99_climate-hazard-02-radiation/index.html#download",
-    "title": "Climate change and enviromental related risk: UV Radiation",
-    "section": "Download",
-    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code"
-  },
-  {
-    "objectID": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
-    "href": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
-    "title": "Brazil’s pesticide risk and degrating working conditions",
-    "section": "Download",
-    "text": "Download\n\n\n[Interactive version] (coming soon)\nDownload high resolution datavis\n[Download Tableau worksheet] (coming soon)\n[Look inside the code to collect data] (coming soon)\n\n\nShare it on social media:"
-  },
-  {
-    "objectID": "datavis/2024-12-31_climate-hazard-01-heat/index.html",
-    "href": "datavis/2024-12-31_climate-hazard-01-heat/index.html",
-    "title": "Climate change and enviromental related risk: Excessive Heat",
-    "section": "",
-    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2024-12-31_climate-hazard-01-heat/index.html#coming-soon",
-    "href": "datavis/2024-12-31_climate-hazard-01-heat/index.html#coming-soon",
-    "title": "Climate change and enviromental related risk: Excessive Heat",
-    "section": "Coming soon",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "datavis/2024-12-31_climate-hazard-01-heat/index.html#download",
-    "href": "datavis/2024-12-31_climate-hazard-01-heat/index.html#download",
-    "title": "Climate change and enviromental related risk: Excessive Heat",
-    "section": "Download",
-    "text": "Download\n\n\n[Download in high resolution]\n[Look inside the code]"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
-    "href": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "",
-    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html#coming-soon",
-    "href": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html#coming-soon",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "Coming soon",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html#download",
-    "href": "datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html#download",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "Download",
-    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
-    "href": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
-    "title": "Climate change and enviromental related risk: Vector-borne diseases",
-    "section": "",
-    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html#coming-soon",
-    "href": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html#coming-soon",
-    "title": "Climate change and enviromental related risk: Vector-borne diseases",
-    "section": "Coming soon",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html#download",
-    "href": "datavis/2024-99-99_climate-hazard-05-vector-disease/index.html#download",
-    "title": "Climate change and enviromental related risk: Vector-borne diseases",
-    "section": "Download",
-    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
-    "href": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
-    "title": "Climate change and enviromental related risk: Air pollution",
-    "section": "",
-    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html#coming-soon",
-    "href": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html#coming-soon",
-    "title": "Climate change and enviromental related risk: Air pollution",
-    "section": "Coming soon",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html#download",
-    "href": "datavis/2024-99-99_climate-hazard-04-air-pollution/index.html#download",
-    "title": "Climate change and enviromental related risk: Air pollution",
-    "section": "Download",
-    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
-  },
-  {
-    "objectID": "datavis/2025-10-18_labour_inspections/index.html",
-    "href": "datavis/2025-10-18_labour_inspections/index.html",
-    "title": "Constellation of inspections",
-    "section": "",
-    "text": "The DataViz focuses on the results of labour inspections and the relevance behind each fiscalização (inspection in the visualisation). Whether one or 1,064 rescues, each star symbolises justice for workers. At the same time, it serves as a reminder of the immense task ahead, the vast territory to be covered, the potential gaps or voids yet to be explored, and the need to strengthen the capacity of the inspectorate to continue its effort.\nMore inspectors mean a greater capacity to identify spots of vulnerability and eradicate degrading working conditions.\n\n\n  \n    \n      \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\n\n\n\n\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
-  },
-  {
-    "objectID": "people.pt/staff/Trevizan.html",
-    "href": "people.pt/staff/Trevizan.html",
-    "title": "Ana Flávia Trevizan",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Ana Flávia Trevizan"
-  },
-  {
-    "objectID": "people.pt/staff/Trevizan.html#biografia",
-    "href": "people.pt/staff/Trevizan.html#biografia",
-    "title": "Ana Flávia Trevizan",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nAna Flávia Trevizan é doutora em Alterações Climáticas e mestre em Direito Agroambiental. Especialista em direito climático e florestal, bem como em questões socioambientais, governança, inclusão e diversidade. Sua pesquisa examina a interseção entre o direito florestal e as políticas públicas ambientais, além de analisar a transparência e as práticas de inclusão e diversidade nas instituições financeiras no contexto da governança climática no Brasil. Atualmente, contribui para o desenvolvimento de soluções jurídicas e sustentáveis para desafios socioambientais no Rights Lab (Universidade de Nottingham). É autora de diversas publicações internacionais e membro de importantes grupos de pesquisa, como o CENSE (UNL), o CEDAT (URV) e o GPMAT (UFMT)."
-  },
-  {
-    "objectID": "people.pt/staff/Carthew.html",
-    "href": "people.pt/staff/Carthew.html",
-    "title": "Kelsey Carthew",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Kelsey Carthew"
-  },
-  {
-    "objectID": "people.pt/staff/Carthew.html#biografia",
-    "href": "people.pt/staff/Carthew.html#biografia",
-    "title": "Kelsey Carthew",
-    "section": "Biografia",
-    "text": "Biografia\nKelsey Carthew faz parte da equipe de operações de pesquisa do Rights Lab. Ela apoia os esforços de coordenação e implementação de diversos projetos de pesquisa do Rights Lab, além de fornecer suporte operacional. Ela se juntou à equipe após sucesso em outras funções na universidade. Atualmente, ela cursa seu mestrado em Direito Internacional Público na Universidade de Nottingham."
-  },
-  {
-    "objectID": "people.pt/staff/Galvao.html",
-    "href": "people.pt/staff/Galvao.html",
-    "title": "Pedro Igor Galvão",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Pedro Igor Galvão"
-  },
-  {
-    "objectID": "people.pt/staff/Galvao.html#biografia",
-    "href": "people.pt/staff/Galvao.html#biografia",
-    "title": "Pedro Igor Galvão",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nPedro Igor Galvão é bolsista Early Career Fellow do British Council e integrante do programa Measurement and Geographies do Rights Lab (Universidade de Nottingham). Sua pesquisa investiga como o trabalho análogo à escravidão e o desmatamento na Amazônia Legal brasileira se expressam espacialmente por meio de transformações desiguais da paisagem. Ele integra ferramentas de SIG, imagens de satélite e indicadores socioambientais para avaliar correlações entre uso do solo, exploração e injustiça territorial. É graduado em Arquitetura e Urbanismo e está concluindo o mestrado em Ciências do Ambiente pela Universidade Federal do Tocantins (UFT), onde pesquisa a paisagem como produto e instrumento da produção social do espaço. Seu trabalho evidencia como o legado colonial brasileiro se inscreve nos padrões espaciais de segregação, exploração e desigualdade socioambiental. Desde 2018, Pedro atua como pesquisador no Instituto de Atenção às Cidades (IAC/UFT), onde tem coordenado e colaborado em projetos de planejamento e gestão territorial em contextos urbanos e rurais. Sua experiência inclui a elaboração de Planos de Mobilidade Urbana Sustentável (PlanMobs), Planos Diretores Municipais, Relatórios de Licenciamento Ambiental e masterplans em escala regional. Essas iniciativas integram pesquisa acadêmica, consultoria técnica e métodos participativos para apoiar a governança territorial democrática e a justiça espacial."
-  },
-  {
-    "objectID": "people.pt/staff/Moura.html",
-    "href": "people.pt/staff/Moura.html",
-    "title": "Flavia Moura",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Flavia Moura"
-  },
-  {
-    "objectID": "people.pt/staff/Moura.html#biografia",
-    "href": "people.pt/staff/Moura.html#biografia",
-    "title": "Flavia Moura",
-    "section": "Biografia",
-    "text": "Biografia\nPós-Doutora em Sociologia e Antropologia (UFRJ) e Doutora em Comunicação Social (PUC-RS). Docente do Departamento de Comunicação Social e do Programas de Pós-Graduação de Comunicação/Mestrado Profissional da UFMA. Coordena atualmente dois projetos de pesquisa relacionando as temáticas Comunicação, Migração e Trabalho. Pesquisadora dos grupos de pesquisa ObEEC (UFMA/CNPq); GPECOM (UFMA/CNPq), GEPTS (UFMA/CNPq) e GPTEC (UFRJ/CNPq)."
-  },
-  {
-    "objectID": "people.pt/staff/Landman.html",
-    "href": "people.pt/staff/Landman.html",
-    "title": "Todd Landman",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Todd Landman"
-  },
-  {
-    "objectID": "people.pt/staff/Landman.html#biografia",
-    "href": "people.pt/staff/Landman.html#biografia",
-    "title": "Todd Landman",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nO Professor Todd Landman é Diretor de Pesquisa do Rights Lab e Professor de Ciência Política na Universidade de Nottingham. Ele trabalha na área de direitos humanos há 25 anos e atualmente pesquisa nas áreas de prevalência da escravidão moderna, antiescravagismo como movimento social e teoria social da escravidão moderna, entre outros tópicos. Atualmente, ele lidera um grande projeto com financiamento externo que avalia riscos aos direitos humanos, incluindo trabalho forçado, no contexto de empresas e cadeias de suprimentos, e trabalha como parte de um grande projeto do governo dos EUA que pesquisa a extensão e as causas da mendicância forçada de crianças no Níger. Seu livro mais recente é “The Rights Track: Sound Evidence on Human Rights and Modern Slavery” (2022)."
-  },
-  {
-    "objectID": "people.pt/staff/Andrade.html",
-    "href": "people.pt/staff/Andrade.html",
-    "title": "Gabriela Andrade",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Gabriela Andrade"
-  },
-  {
-    "objectID": "people.pt/staff/Andrade.html#biography",
-    "href": "people.pt/staff/Andrade.html#biography",
-    "title": "Gabriela Andrade",
-    "section": "Biography",
-    "text": "Biography\n\n\n\n\nEm breve"
-  },
-  {
-    "objectID": "posts/2024-01-29_enslaved_ethanol/index.html",
-    "href": "posts/2024-01-29_enslaved_ethanol/index.html",
-    "title": "The Hidden Cost of Renewables: Modern Slavery in Ethanol supply chain",
-    "section": "",
-    "text": "Enslaved in Ethanol\nEthanol is widely recognized as a important solution to reducing greenhouse gas emissions in transport sector and combating climate change. As the second-largest ethanol producer, Brazil plays a significant role in the global biofuel industry. However, despite its environmental benefits, ethanol production raises serious concerns regarding labour rights, occupational health, and social justice. The recent report Enslaved in Ethanol by Reportér Brasil highlights the exploitation and unsafe working conditions faced by sugarcane workers.\n\n“The situations reported in sugarcane fields linked to their operations include workers killed in fires, forced to sleep on the ground, unable to leave their jobs because of illegal debts imposed by their employers, and even hit by pesticides dropped from airplanes.”\n\nMany workers are subjected to debt bondage and unpredictable wages due to unfair deductions, paying for their own travel, accommodation, and food. Additionally, extreme working hours and lack of formal contracts deny workers access to essential social security benefits. Some workers report sleeping only four hours a night, as long commutes and exhausting shifts make proper rest impossible. Moreover, sugarcane workers are frequently exposed to hazardous pesticides, experience severe physical effort, and high risks of heat-related illnesses.\n\n“Workers reported to inspectors that they had been sprayed on with pesticides. The plane that allegedly did the spraying can be seen in the photo taken by one of them on his cell phone.”\n\n\n\n\nSource: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides\n\n\nAddressing these challenges requires stronger enforcement of labour laws, greater corporate accountability, and improved oversight in supply chains. A just transition in the ethanol industry must prioritize not only environmental sustainability but also the protection of workers’ rights and well-being. Governments, companies, and financial institutions must take decisive action to eliminate modern slavery, ensure fair wages, and provide safe working conditions. Ethanol may be a cleaner fuel alternative, but it must not come at the cost of human lives, dignity and fundamental labour rights.\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
-  },
-  {
-    "objectID": "datavis.html",
-    "href": "datavis.html",
-    "title": "Datavis",
-    "section": "",
-    "text": "Constellation of inspections\n\n\n\ndatavis\n\ndecent work\n\nlabour inspection\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nAug 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nMay 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Agrochemicals\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Excessive Heat\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Vector-borne diseases\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Air pollution\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: UV Radiation\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Extreme weather events\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Working in process\nCRVA is part of the project’s working packages (WPs). In the blog we describe what it is, how it differs from the rest of the risk assessments and how it can be applied in better decision making.\n\n\n\n\n\nReuseCC BY 4.0"
   },
   {
     "objectID": "publications/2024-07-20_theorical-framework/index.html",

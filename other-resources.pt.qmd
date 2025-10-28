@@ -10,7 +10,7 @@ listing:
   include:
     lang: pt
   type: table
-  fields: [title,description, categories,image]
+  fields: [title,description, categories]
   categories: true
   page-size: 20
   max-description-length: 200
