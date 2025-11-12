@@ -1,0 +1,58 @@
+---
+title: "COP30: Health, Jobs, Justice, and Human Rights"
+lang: en
+date: 2025-11-11
+author: ""
+image: "2025-11-11_COP30.png"
+execute:
+  echo: false
+comments: false
+toc: false
+title-block-banner: false
+categories:
+  - news
+
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+![](2025-11-11_COP30.png "COP30: Health, Jobs, Justice, and Human Rights")
+
+<br/><br/>
+
+Today at #COP30, the theme of Health, Jobs, Justice, and Human Rights highlights how these topics are deeply interconnected. The effects of climate-related hazards significantly affect agriculture and disproportionately impact those who are already disadvantaged due to factors such as poverty, discrimination, gender and income inequalities, and limited access to resources. Integrating workers’ health and decent work into the climate change impacts on agriculture is essential, as vulnerabilities exacerbate socio-economic disparities and increase climate risks. Without support for adaptation, these vulnerabilities can intensify. 
+
+In our work [Climate change, decent work and workers’ health in Brazil: theoretical considerations](https://www.scielo.br/j/rbso/a/kKcgSbkdqgjrXr9rW9WQBKn/?lang=en), we highlighted the challenges, limitations, and knowledge gaps related to agricultural labour, worker health, and the increasing influence of climate change in Brazil.
+
+You can read the [PRESS RELEASE](https://pressreleases.scielo.org/en/2025/11/04/climate-change-impacts-the-health-of-agricultural-workers/) here!
+
+
+#WorkersHealth #HumanRights #DecentWork #ClimateAction #Brazil
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

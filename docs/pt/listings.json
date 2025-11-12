@@ -26,18 +26,16 @@
     "items": []
   },
   {
-    "listing": "/news.html",
+    "listing": "/publications.html",
     "items": [
-      "/news/2025-10-13_GPTEC.html",
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
+      "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
   {
     "listing": "/datavis.html",
     "items": [
-      "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
       "/datavis/2025-10-18_labour_inspections/index.html",
+      "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
       "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
       "/datavis/2024-12-31_climate-hazard-01-heat/index.html",
       "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
@@ -47,9 +45,12 @@
     ]
   },
   {
-    "listing": "/publications.html",
+    "listing": "/news.html",
     "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
+      "/news/2025-11-11_COP30.html",
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
     ]
   },
   {

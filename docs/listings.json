@@ -47,6 +47,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/2025-11-11_COP30.html",
       "/news/2025-10-13_GPTEC.html",
       "/news/2025-05-16_ICEH.html",
       "/news/2024-09-01_Awarding-ODA.html"
@@ -55,6 +56,7 @@
   {
     "listing": "/datavis.html",
     "items": [
+      "/datavis/2025-11-10_decent-work-nexus/index.html",
       "/datavis/2025-10-18_labour_inspections/index.html",
       "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
       "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",

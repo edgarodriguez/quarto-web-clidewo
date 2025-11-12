@@ -1,1 +1,1 @@
-Sitemap: https://clidewo.com/pt/sitemap.xml
+Sitemap: /pt/sitemap.xml

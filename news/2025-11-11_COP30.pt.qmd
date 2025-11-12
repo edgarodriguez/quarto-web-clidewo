@@ -1,0 +1,60 @@
+---
+title: "COP30: Saúde, Emprego, Justiça e Direitos Humanos"
+lang: pt
+date: 2025-11-11
+author: ""
+image: "2025-11-11_COP30.png"
+execute:
+  echo: false
+comments: false
+toc: false
+title-block-banner: false
+categories:
+  - news
+
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+
+<br/><br/>
+![](2025-11-11_COP30.png "COP30: Saúde, Emprego, Justiça e Direitos Humanos")
+
+<br/><br/>
+
+Hoje, na #COP30, o tema Saúde, Trabalho, Justiça e Direitos Humanos destaca como esses tópicos estão profundamente interligados. Os efeitos dos riscos climáticos afetam significativamente a agricultura e impactam desproporcionalmente aqueles que já se encontram em situação de vulnerabilidade devido a fatores como pobreza, discriminação, desigualdades de gênero e de renda, e acesso limitado a recursos. Integrar a saúde dos trabalhadores e o trabalho decente aos impactos das mudanças climáticas na agricultura é essencial, visto que as vulnerabilidades exacerbam as disparidades socioeconômicas e aumentam os riscos climáticos. Sem apoio à adaptação, essas vulnerabilidades podem se intensificar.
+
+Em nosso trabalho [Mudanças climáticas, trabalho decente e saúde dos trabalhadores no Brasil: considerações teóricas](https://www.scielo.br/j/rbso/a/kKcgSbkdqgjrXr9rW9WQBKn/?lang=en), destacamos os desafios, as limitações e as lacunas de conhecimento relacionados ao trabalho agrícola, à saúde dos trabalhadores e à crescente influência das mudanças climáticas no Brasil.
+
+Você pode ler o [COMUNICADO DE IMPRENSA](https://pressreleases.scielo.org/en/2025/11/04/climate-change-impacts-the-health-of-agricultural-workers/) aqui!
+
+#SaúdeDoTrabalhador #DireitosHumanos #TrabalhoDecente #AçãoClimática #Brasil
+
+
+#### Compartilhe em redes sociais:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

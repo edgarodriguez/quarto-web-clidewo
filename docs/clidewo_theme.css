@@ -80,6 +80,7 @@ body {
     height: 100px;
     margin-top: -13px;
     margin-right: -5px;
+    background-color: #070D0D !important;
   }
 
 }
@@ -91,12 +92,14 @@ body {
     padding-top: 0px;
     padding-bottom: 0px;
     padding-right: 20px;
+    background-color: #070D0D !important;
 }
 
 .navbar {
   padding-top: 1rem;
   padding-bottom: 1rem;
   color: #fffff0 ;
+  background-color: #070D0D !important;
 }
 
 a.nav-link,

@@ -14,7 +14,7 @@ base::library(RefManageR)
 base::library(distilltools)
 library(babelquarto)
 library(servr)
-
+library(quarto)
 ### Aux code
 quarto_version()
 babelquarto::render_website()
