@@ -5,7 +5,7 @@ author: Edgar Rodriguez-Huerta
 date: "2025/11/12"
 date-modified: "2025/11/12"
 draft: true
-draft-mode: visible 
+draft-mode: unlinked 
 image: nexus.png
 css: clidewo_theme.css
 freeze: auto

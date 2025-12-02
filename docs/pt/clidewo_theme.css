@@ -1,0 +1,365 @@
+
+/* Custom theme*/
+
+/* This must remain at the top of this file.                 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@100;200;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monserrat:wght@100;200;300;400;500;600;700&display=swap');
+@import url('_extensions/quarto-ext/fontawesome/assets/css/all.css');
+
+
+:root {
+  --primary-yellow: #FEDD00;
+  --secondary-orange: #B8573E;
+  --main-font: 'Monserrat', sans-serif;
+  --subheader-font: 'Lora', sans-serif;
+  --mono-font: 'Fira Mono', monospace;
+  --header-font: 'Bebas Neue' sans-serif;
+  --bs-navbar-hover-color: #E06E53;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+  letter-spacing: 0.5px; 
+}
+
+h1 {
+  font-size: 40px;
+	font-weight: 500;
+ 
+}
+
+p,li,ol {
+  font-family: 'Oswald', sans-serif;
+  text-align: justify;
+  font-weight: 200;
+  letter-spacing: 0.8px;    
+}
+
+a {
+  font-family: 'Oswald', sans-serif;
+  text-align: justify;
+  font-weight: 400;
+  color: #5D00ff;
+  letter-spacing: 0.5px;  
+}
+
+.table a {
+  font-family:'Oswald', sans-serif;
+  font-size: 1.5rem;
+  text-align: justify;
+  color: #1098ad;
+}
+
+th {
+    font-family:'Oswald', sans-serif;
+    font-size: 1rem;
+		font-weight: 100;
+}
+
+body {
+    letter-spacing: 1px;
+    font-family: 'Oswald';
+    font-size: 1rem;
+}
+
+
+/* navbar */
+
+
+@media screen and (max-width: 952px){
+  /*--    --*/
+  .navbar-brand.navbar-brand-logo {
+    background-attachment: scroll;
+    content: url("./content/images/logo_yellow3.png");
+    height: 100px;
+    margin-top: -13px;
+    margin-right: -5px;
+    background-color: #070D0D !important;
+  }
+
+}
+
+.navbar-brand>img {
+    max-height: 110px;
+    width: auto;
+    padding-left: 1px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 20px;
+    background-color: #070D0D !important;
+}
+
+.navbar {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: #fffff0 ;
+  background-color: #070D0D !important;
+}
+
+a.nav-link,
+a.nav-link:after,
+a.nav-link:before {
+  transition: all .3s;
+}
+
+a.nav-link {
+  position: relative;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: var(--primary-yellow) !important;
+}
+
+.navbar-title:hover {
+    color: var(--primary-yellow) !important;
+}
+
+.navbar-title {
+  display: inline-block;
+  padding: 0;
+  content: url("./content/images/logo_yellow3.png");
+  padding-left: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100px;
+  margin: auto;
+}
+
+.navbar-title:hover {
+  opacity:50;
+  content: url("./content/images/logo_yellow3.png");
+}
+
+@media screen and (max-width: 952px){
+  /*--    --*/
+  .navbar-title {
+    content: url("./content/images/logo_yellow3.png");
+  }
+
+}
+
+.navbar-nav .nav-link.active {
+  color: var(--primary-yellow) !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--primary-yellow) !important;
+}
+
+.navbar-dark .navbar-nav .show>.nav-link,
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:focus {
+    color: var(--primary-yellow) !important;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: var(--primary-yellow);
+}
+
+.sidebar nav[role=doc-toc] ul>li>a.active {
+    border-left: 1px solid var(--primary-yellow) !important;
+    color: var(--primary-yellow) !important;
+}
+
+
+
+/* adding from erh*/ 
+
+.navbar li.nav-item  span {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: x-large;
+  font-weight: 300;
+  
+}
+
+.navbar-nav .nav-link {
+  color: #fffff0;
+  font-weight: 300;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--primary-yellow);
+  font-weight: 300;
+}
+/* */
+
+.dropdown-item:active{
+  background-color: var(--primary-yellow);
+}
+
+/*  A circle image cropper  */
+
+.clipped {
+    clip-path: circle();
+}
+
+/* link color */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--primary-yellow);
+}
+
+a.white {
+  color: white;
+  text-decoration: none;
+}
+
+
+/* ALA navbar favicon color */
+
+.bi-ala {
+  content: url("./images/favicon.ico");
+  height:26px;
+}
+
+.bi-ala:hover {
+  opacity: 50;
+  background-color: white;
+  transition: all .3s;
+  clip-path: circle();
+}
+
+/* figure captions */
+
+.figure-caption {
+  text-align: center;
+  font-size: .8rem;
+}
+
+/* Add space between Posts title & description */
+#title-block-header.quarto-title-block.default .quarto-title .title {
+    margin-bottom: 10px;
+}
+
+
+/*----------------------------------------------*/
+/* CHANGE TOC FORMATING*/
+
+* Apply Oswald font to the table of contents */
+.toc,
+.quarto-toc {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1rem; /* adjust size if needed */
+  line-height: 1.4; /* spacing for readability */
+}
+
+/* Optional: TOC links styling */
+.toc a,
+.quarto-toc a {
+  font-family: inherit; /* inherit Oswald */
+  text-decoration: none;
+  color: var(--bs-link-color, #004aad);
+  transition: color 0.2s ease;
+}
+
+.toc a:hover,
+.quarto-toc a:hover {
+  color: #f1c40f; /* example hover color (yellow) */
+  text-decoration: underline;
+}
+
+
+/*----------------------------------------------*/
+/* LIST OF CATEGORIES IN TABLE FORMATING */
+.quarto-listing-categories.category-default a {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 100;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  text-decoration: none;
+  color: var(--bs-link-color, #004aad);
+  transition: color 0.2s ease;
+}
+
+.quarto-listing-categories.category-default a:hover {
+  color: #f1c40f;
+  text-decoration: underline;
+}
+
+
+/*----------------------------------------------*/
+/* LISTING TABLE FORMATING */
+
+/* Reduce vertical spacing for table cells */
+.quarto-listing-table th,
+.quarto-listing-table td {
+  padding-top: 0.9em;   /* smaller top padding */
+  padding-bottom: 0.9em; /* smaller bottom padding */
+  line-height: 1.2;      /* slightly tighter text */
+}
+
+
+/* Apply Oswald font to listing tables */
+.quarto-listing-table {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 100 !important;
+}
+
+/* === Headers: force Oswald for th and anything inside the th === */
+.quarto-listing-table thead th,
+.quarto-listing-table thead th * {
+  font-family: 'Oswald', sans-serif !important;
+  font-weight: 400 !important;
+  font-size: 1.2rem;
+  letter-spacing: 0.5px;
+}
+
+/* If the header uses a <button> or <a> for sorting, target those specifically */
+.quarto-listing-table thead th button,
+.quarto-listing-table thead th a {
+  font-family: 'Oswald', sans-serif !important;
+  font-weight: 400 !important;
+}
+
+/* Optional: make the table look cleaner */
+.quarto-listing-table tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+.quarto-listing-table tr:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Title column — often first column in a listing table */
+.quarto-listing-table td:first-child a {
+  font-family: 'Oswald', Times, serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--bs-link-color, #FEDD00);
+  text-decoration: none;
+}
+
+.quarto-listing-table td:first-child a:hover {
+  text-decoration: underline;
+  color: #FEDD00; /* changes text color on hover */
+  transition: color 0.2s ease; /* smooth transition */
+}
+
+
+.quarto-listing-table td {
+  font-weight: 300;
+}
+
+/*----------------------------------------------*/
+
+
+/* Custom CSS to control listing image sizing */
+
+.listing-table .listing-img {
+  height: auto;
+  max-height: 50px; /* Adjust this value as needed */
+  width: auto;
+  object-fit: contain;
+}
