@@ -2,7 +2,7 @@
 title: "Gabriela de Andrade Nogueira Gonçalves "
 sortby: 12
 subtitle: ""
-image: "./content/img/Nogueira.jpg"
+image: "./content/img/Nogueira.png"
 started:
 toc: false
 resources: 

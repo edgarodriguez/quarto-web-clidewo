@@ -5,6 +5,7 @@ subtitle: "Senior Research Fellow in Social Sustainability and Complex Systems"
 image: "content/img/Rodriguez.jpeg"
 started: 
 toc: false
+lang: pt
 resources: 
   - "TBD_CV.pdf"
 about:
