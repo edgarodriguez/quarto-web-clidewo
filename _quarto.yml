@@ -11,6 +11,7 @@ website:
   open-graph: true
   draft-mode: visible
   navbar:
+    title: false 
     pinned: true
     logo: "content/img/logo_yellow3.png"
     background: primary
