@@ -2,7 +2,7 @@
 title: "Mariana Rosa Soares"
 sortby: 14
 subtitle: ""
-image: "./content/img/Rosa.jpg"
+image: "./content/img/Rosa.png"
 started:
 toc: false
 lang: pt

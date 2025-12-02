@@ -2,7 +2,7 @@
 title: "Ludmila Ribeiro Paiva"
 sortby: 17
 subtitle: ""
-image: "./content/img/Ribeiro.jpg"
+image: "./content/img/Ribeiro.png"
 started:
 toc: false
 lang: pt

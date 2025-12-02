@@ -2,7 +2,7 @@
 title: "Laert Moraes"
 sortby: 17
 subtitle: ""
-image: "./content/img/Moraes.jpg"
+image: "./content/img/Moraes.png"
 started:
 toc: false
 lang: pt

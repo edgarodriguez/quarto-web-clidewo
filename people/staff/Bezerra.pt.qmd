@@ -2,7 +2,7 @@
 title: "Késley Gabriel Bezerra Coutinho"
 sortby: 15
 subtitle: ""
-image: "./content/img/Bezerra.jpg"
+image: "./content/img/Bezerra.png"
 started:
 toc: false
 lang: pt

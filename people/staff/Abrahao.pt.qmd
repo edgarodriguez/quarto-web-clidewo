@@ -2,7 +2,7 @@
 title: "Ivi Tavares Abrahão Castillero"
 sortby: 16
 subtitle: ""
-image: "./content/img/Abrahao.jpg"
+image: "./content/img/Abrahao.png"
 started:
 toc: false
 lang: pt

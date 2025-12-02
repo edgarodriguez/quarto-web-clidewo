@@ -2,7 +2,7 @@
 title: "Mayara Pinheiro Fortes Brandão"
 sortby: 13
 subtitle: ""
-image: "./content/img/Fortes.jpg"
+image: "./content/img/Fortes.png"
 started:
 toc: false
 lang: pt

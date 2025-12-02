@@ -2,7 +2,7 @@
 title: "Manuella Garcia de Freitas Gallego"
 sortby: 14
 subtitle: ""
-image: "./content/img/Garcia.jpg"
+image: "./content/img/Garcia.png"
 started:
 toc: false
 lang: pt
