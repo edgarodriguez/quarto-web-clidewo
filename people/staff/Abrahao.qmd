@@ -1,0 +1,51 @@
+---
+title: "Ivi Tavares Abrahão Castillero"
+sortby: 17
+subtitle: ""
+image: "./content/img/Abrahao.png"
+started:
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Graduated in Medicine from the Federal Fluminense University (2008). Specialist in Family and Community Medicine. Completed preceptorship in the PET-Saúde/UFF Program. Master's degree in Public Health, completed a Professional Master's degree in Work, Health, Environment and Social Movements at ENSP-FIOCRUZ. Was a supervisor for the Mais Médicos Program, Amazon Special Group, from 2015 to 2018. Currently a supervisor for the Mais Médicos Program, DSEI Leste Special Group. Trained in Traditional Chinese Medicine at the Neijing School. Coordinates courses on Traditional and Complementary Health Practices in rural areas in partnership with FIOCRUZ. Preceptor for medical students in their internship program at ESF-RJ (UFF and UNIGRANRIO).
+
+:::
+

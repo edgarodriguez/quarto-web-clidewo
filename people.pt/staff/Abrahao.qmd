@@ -1,0 +1,51 @@
+---
+title: "Ivi Tavares Abrahão Castillero"
+sortby: 16
+subtitle: ""
+image: "./content/img/Abrahao.jpg"
+started:
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biografia
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Graduação em Medicina pela Universidade Federal Fluminense (2008). Especialista em Medicina de Família e Comunidade. Fez preceptoria do Programa PET - Saúde/ UFF. Mestra em Saúde Pública, fez Mestrado Profissional em Trabalho, Saúde, Ambiente e Movimentos Sociais na ENSP - FIOCRUZ. Foi supervisora do Programa Mais Médicos Grupo Especial Amazônia de 2015 a 2018. Atualmente supervisora Programa Mais Médicos Grupo Especial DSEI Leste. Formação em Medicina Tradicional Chinesa pela Escola Neijing. Coordenação de Cursos de Práticas Tradicionais e Complementares de saúde em áreas rurais em parceria com FIOCRUZ. Preceptora de estudantes de medicina do internato na ESF- RJ (UFF e UNIGRANRIO).
+
+:::
+

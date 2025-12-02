@@ -1,0 +1,51 @@
+---
+title: "Ludmila Ribeiro Paiva"
+sortby: 17
+subtitle: ""
+image: "./content/img/Ribeiro.png"
+started:
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Holds a Bachelor's degree in Law from the Federal University of Rio de Janeiro (UFRJ), a Master's degree in Law from the State University of Rio de Janeiro (UERJ), and is a co-founder of the Institute for Migration, Gender and Race (I-MiGRa). She is an associate researcher on the research project Climate Change, Occupational Health and Decent Work: Vulnerabilities and Responses of Workers in Brazilian Agriculture, at the Federal Fluminense University (UFF).
+
+:::
+

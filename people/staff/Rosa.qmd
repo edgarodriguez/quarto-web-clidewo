@@ -1,0 +1,53 @@
+---
+title: "Mariana Rosa Soares"
+sortby: 14
+subtitle: ""
+image: "./content/img/Rosa.png"
+started:
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+
+Nurse. Master's degree in Public Health from UFMT. PhD candidate in the Postgraduate Program in Public Health at UFMT. Associate researcher at the Center for Environmental Studies and Occupational Health (NEAST). Professor in the medical course at UNIVAG.
+
+
+:::
+

@@ -1,0 +1,28 @@
+---
+title: "Índice de Vulnerabilidade Climática dos Municípios (IVCM)"
+subtitle: "Votorantim Institute"
+description: ""
+lang: pt
+date: 2025-12-02
+image: "ivcm.svg"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Mudanças climáticas
+  - Vulnerabilidade
+---
+
+
+## [Índice de Vulnerabilidade Climática dos Municípios (IVCM)](https://institutovotorantim.org.br/ivcm/)
+
+Os impactos das mudanças climáticas atingem de maneira desigual diferentes grupos sociais e localidades. Compreender as fragilidades de populações e territórios torna-se essencial para que seja possível apoiar e fortalecer as ações da mitigação e adaptação das regiões mais afetadas. Com o objetivo de mensurar a vulnerabilidade climática de todas as cidades do Brasil, o Instituto Votorantim apresenta o Índice de Vulnerabilidade Climática dos Municípios (IVCM).
+
+O IVCM contempla os riscos climáticos mais urgentes que podem atingem grande parte dos municípios brasileiros nos próximos anos: inundações; enchentes, alagamentos e enxurradas; deslizamentos; hídrico (seca); queimadas; redução/inviabilização de setores da agropecuária e aumento de problemas de saúde ligados ao clima. Os indicadores que o compõem foram escolhidos priorizando a preocupação com as populações mais vulneráveis, destacando em todos os subíndices, a participação da população de baixa renda, de população idosa e de crianças, as questões de perda de vidas, de moradias, de questões de saúde e de desemprego, entre outros.
+
+A ferramenta utiliza dados secundários para mensurar a ameaça de que fenômenos climáticos extremos aconteçam, a exposição da população municipal a eles e o nível de adaptação da cidade. Como resultado, a cada município é atribuída uma nota de 0 a 100, sendo maior o valor quanto maior a vulnerabilidade. 
+
+O índice permite a comparação da vulnerabilidade de municípios com uma visão integral, a partir de um olhar para o conjunto de subíndices, ou pode ser observado de maneira separada e isolada para cada risco mapeado.  
+
+O IVCM faz parte da Ação Climática, iniciativa do Instituto Votorantim em parceria com a CBA e o Instituto Itaúsa. Dela também fazem parte uma checklist de preparação para as mudanças climáticas e um programa de apoio e fortalecimento da gestão pública, o AGP Ação Climática. 

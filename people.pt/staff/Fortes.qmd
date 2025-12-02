@@ -1,0 +1,52 @@
+---
+title: "Mayara Pinheiro Fortes Brandão"
+sortby: 13
+subtitle: ""
+image: "./content/img/Fortes.jpg"
+started:
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biografia
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+
+Doutoranda pelo Programa de Pós-Graduação em Ciências Sociais da UFMA (PPGCSoc/UFMA). Mestra em Ciências Sociais pela PUC-São Paulo. Socióloga e membro do Grupo de Estudo e Pesquisa Trabalho e Sociedade (GEPTS/ UFMA). Pesquisa novas formas de organização do trabalho, precarização, trabalhadores em aplicativos digitais. Pesquisou movimento sindical no Brasil e sindicalismo docente no Maranhão.
+
+:::
+

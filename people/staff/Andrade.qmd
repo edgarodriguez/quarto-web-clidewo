@@ -1,8 +1,8 @@
 ---
-title: "Gabriela Andrade"
+title: "Gabriela de Andrade Nogueira Gonçalves "
 sortby: 12
 subtitle: ""
-image: "./content/img/TBD.jpg"
+image: "./content/img/Nogueira.jpg"
 started:
 toc: false
 resources: 
@@ -46,7 +46,7 @@ about:
 ::: {.justify}
 
 
-Coming soon
+Master's degree in Agro-environmental Law from the Federal University of Mato Grosso. Bachelor's degree in Law from the Federal University of Mato Grosso. Member of the research group "Balanced work environment as a component of decent work" and the Interdisciplinary Environmental Research Group - GIPA (2019 - present). Lawyer. Legal advisor at the Specialized Prosecutor's Office for Environmental Defense and Urban Planning in the Public Prosecutor's Office of the State of Mato Grosso (2018 - Mar. 2024 - Nov. 2024 - present). Legal advisor at the Support Center for Appeals to Superior Courts (NARE) in the Public Prosecutor's Office of the State of Mato Grosso.
 
 
 :::

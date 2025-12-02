@@ -1,0 +1,28 @@
+---
+title: "Municipal Climate Vulnerability Index (IVCM)"
+subtitle: "Votorantim Institute"
+description: ""
+lang: en
+date: 2025-12-02
+image: "ivcm.svg"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Climate
+  - Vulnerability
+---
+
+
+## [Municipal Climate Vulnerability Index (IVCM)](https://institutovotorantim.org.br/ivcm/)
+
+The impacts of climatic changes affect different social groups and localities unequally. Understanding the fragilities of populations and territories becomes essential so that it is possible to support and strengthen the mitigation and adaptation actions of the most affected regions. With the objective of measuring the climate vulnerability of all Brazilian cities, the Votorantim Institute presents the Municipal Climate Vulnerability Index (IVCM).
+
+The IVCM contemplates the most urgent climatic risks that could affect many Brazilian municipalities in the coming years: flooding; enchentes, alagamentos and enxurradas; landslides; hydric (dry); burned; reduction/infeasibility of agricultural sectors and increase in health problems linked to climate. The indicators that compõem are chosen prioritizing concern with the most vulnerable populations, highlighting in all the subindexes, the participation of the low-income population, the educated population and children, as well as the questões of loss of life, of moradias, of health quests and of performance, among others.
+
+The tool uses secondary data to measure the extent to which extreme climatic phenomena occur, the exposure of the municipal population to the elements and the level of adaptation of the city. As a result, each municipality is assigned a score from 0 to 100, with the higher the value, the greater the vulnerability.
+
+The index allows the comparison of the vulnerability of municipalities with a comprehensive view, based on an analysis for the set of subindices, or can be observed separately and isolated for each mapped cliff.
+
+The IVCM is part of Climate Action, an initiative of the Votorantim Institute in partnership with CBA and the Itaúsa Institute. We also make part of a preparation checklist for climate changes and a public management support and strengthening program, or AGP Climate Action.

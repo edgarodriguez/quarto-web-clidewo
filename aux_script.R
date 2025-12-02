@@ -10,6 +10,9 @@ install.packages("bib2df")
 
 install.packages('babelquarto', repos = c('https://ropensci.r-universe.dev', 'https://cloud.r-project.org'))
 
+# install.packages("pak")
+pak::pak("ropensci-review-tools/babelquarto")
+
 base::library(RefManageR)
 base::library(distilltools)
 library(babelquarto)

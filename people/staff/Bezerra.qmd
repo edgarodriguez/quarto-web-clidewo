@@ -1,0 +1,51 @@
+---
+title: "Késley Gabriel Bezerra Coutinho"
+sortby: 16
+subtitle: ""
+image: "./content/img/Bezerra.png"
+started:
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Psychologist. Master's degree in Anthropology from the Federal University of Mato Grosso (UFMT). Currently a doctoral candidate in Public Health at the same institution. Member of the Center for Anthropology and Plural Knowledges (NAPLUS/UFMT), the Junior Editorial Board of the Aceno Journal, the Schizoanalytic Laboratory for the Production of Subjectivities and Intersections (LEPSI), and the Center for Environmental Studies and Occupational Health (NEAST).
+
+:::
+

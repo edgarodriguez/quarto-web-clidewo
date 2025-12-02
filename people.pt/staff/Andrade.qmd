@@ -1,8 +1,8 @@
 ---
-title: "Gabriela Andrade"
+title: "Gabriela de Andrade Nogueira Gonçalves "
 sortby: 12
 subtitle: ""
-image: "./content/img/TBD.jpg"
+image: "./content/img/Nogueira.jpg"
 started:
 toc: false
 resources: 
@@ -27,7 +27,7 @@ about:
 :::{#person-profile}
 :::
 
-## Biography
+## Biografia
 
 ```{r}
 #| label: deps
@@ -46,7 +46,7 @@ about:
 ::: {.justify}
 
 
-Em breve
+Mestre em Direito Agroambiental pela Universidade Federal de Mato Grosso. Bacharel em Direito pela Universidade Federal de Mato Grosso. Membro do grupo de pesquisa "Meio ambiente do trabalho equilibrado como componente do trabalho decente" e do Grupo Interdisciplinar de Pesquisa Ambiental - GIPA (2019 - atual). Advogada. Assessora jurídica na Procuradoria Especializada em Defesa Ambiental e da Ordem Urbanística no Ministério Público do Estado de Mato Grosso (2018 - mar.2024 - nov. 2024 - atual). Assessoria Jurídica no Núcleo de Apoio aos Recursos aos Tribunais Superiores (NARE) no Ministério Público do Estado de Mato Grosso.
 
 
 :::

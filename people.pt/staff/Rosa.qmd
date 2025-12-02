@@ -1,0 +1,51 @@
+---
+title: "Mariana Rosa Soares"
+sortby: 14
+subtitle: ""
+image: "./content/img/Rosa.jpg"
+started:
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biografia
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Enfermeira. Mestre em Saúde Coletiva pela UFMT. Doutoranda pelo Programa de Pós-Graduação em Saúde Coletiva da UFMT. Pesquisadora associada do Núcleo de Estudos Ambientais e Saúde do Trabalhador (NEAST). Professora do curso de medicina do UNIVAG.
+
+:::
+

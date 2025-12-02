@@ -30,11 +30,12 @@ website:
     background: black
     left: © Copyright 2024 CC-BY-NC, Edgar Rodríguez-Huerta
     right: Multi-lenguage thanks to [babelquarto](https://docs.ropensci.org/babelquarto/index.html) and [Joel Nitta Website](https://www.joelnitta.com)
+
+  cookie-consent:
+    type: express
+    style: simple
+    palette: dark
   google-analytics: "G-RG1R3XP26Q"
-#  cookie-consent:
-#    type: express
-#    style: headline
-#    palette: dark
 #  announcement:
 #    icon: info-circle
 #    dismissable: true

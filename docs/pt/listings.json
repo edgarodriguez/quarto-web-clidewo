@@ -18,6 +18,7 @@
       "/other-resources/SmartLab.html",
       "/other-resources/firjan.html",
       "/other-resources/social-progress-index.html",
+      "/other-resources/ivcm.html",
       "/other-resources/inpacto.html"
     ]
   },
@@ -32,6 +33,15 @@
     ]
   },
   {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-11-11_COP30.html",
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
+  },
+  {
     "listing": "/datavis.html",
     "items": [
       "/datavis/2025-10-18_labour_inspections/index.html",
@@ -42,15 +52,6 @@
       "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
       "/datavis/2024-99-99_climate-hazard-02-radiation/index.html",
       "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2025-11-11_COP30.html",
-      "/news/2025-10-13_GPTEC.html",
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
     ]
   },
   {
