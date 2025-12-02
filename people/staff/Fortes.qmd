@@ -5,6 +5,7 @@ subtitle: ""
 image: "./content/img/Fortes.png"
 started:
 toc: false
+lang: en
 resources: 
   - "TBD_cv.pdf"
 about:

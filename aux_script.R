@@ -22,7 +22,6 @@ library(quarto)
 quarto_version()
 babelquarto::render_website()
 
-babelquarto::babelquarto_status()
 
 ### Install extension used
 quarto add quarto-ext/fontawesome

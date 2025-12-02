@@ -46,9 +46,6 @@ The DataViz focuses on the results of labour inspections and the relevance behin
 More inspectors mean a greater capacity to identify spots of vulnerability and eradicate degrading working conditions.
 
 
-
-
-
 ```{=html}
 
 <div class='tableauPlaceholder' id='viz1761646796249' style='position: relative'>
@@ -108,7 +105,10 @@ More inspectors mean a greater capacity to identify spots of vulnerability and e
 ```
 
 :::
+
 :::
+
+
 #### Share it on social media:
 
 ```{=html}

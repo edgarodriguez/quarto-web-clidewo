@@ -218,10 +218,6 @@ a.white {
 
 /* ALA navbar favicon color */
 
-.bi-ala {
-  content: url("./images/favicon.ico");
-  height:26px;
-}
 
 .bi-ala:hover {
   opacity: 50;
