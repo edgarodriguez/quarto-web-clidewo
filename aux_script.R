@@ -22,6 +22,12 @@ library(quarto)
 quarto_version()
 babelquarto::render_website()
 
+babelquarto::babelquarto_status()
+
+### Install extension used
+quarto add quarto-ext/fontawesome
+
+packageVersion("babelquarto")
 
 # Optionally check URLs in references
 #TODO: expand this to all URLs in website
@@ -34,7 +40,9 @@ if (check_urls) {
 render_website()
 
 # View locally
-httw("docs")
+servr::httw("docs")
+
+rm -rf _site _freeze
 
 
 #####

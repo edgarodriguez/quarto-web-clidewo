@@ -1,0 +1,52 @@
+---
+title: "Manuella Garcia de Freitas Gallego"
+sortby: 14
+subtitle: ""
+image: "./content/img/Garcia.jpg"
+started:
+toc: false
+lang: pt
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biografia
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Psicóloga da Rede de Atenção Psicossocial no estado do Rio de Janeiro. Mestranda em Saúde Coletiva no Instituto de Saúde Coletiva (ISC) da Universidade Federal Fluminense (UFF) - RJ.
+
+:::
+

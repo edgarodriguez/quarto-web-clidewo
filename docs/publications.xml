@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture</title>
+<link>https://clidewo.com/publications.html</link>
+<atom:link href="https://clidewo.com/publications.xml" rel="self" type="application/rss+xml"/>
+<description>Here you can find and access our **publications**, **reports** and **policy briefings**</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Tue, 19 Aug 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <dc:creator>Luís Leão</dc:creator>
+  <dc:creator>Todd Landman</dc:creator>
+  <link>https://clidewo.com/publications/2024-07-20_theorical-framework/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>This essay explores the theoretical and conceptual nexus between climate change, workers’health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil, offering a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations.</p>
+<p><br><br> <img src="https://clidewo.com/publications/2024-07-20_theorical-framework/img/theoretical-framework.jpg" title="Links between the Sustainable Development Goals, decent work, and occupational health" class="img-fluid"></p>
+<p><br><br> Check it out here 👉 <a href="https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12">https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12</a></p>
+<section id="share-it-on-social-media" class="level4">
+<h4 class="anchored" data-anchor-id="share-it-on-social-media">Share it on social media:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rodriguez-huerta2025,
+  author = {Rodriguez-Huerta, Edgar and Leão, Luís and Landman, Todd},
+  title = {Climate {Change,} {Decent} {Work} and {Workers’} {Health} in
+    {Brazil:} {Theoretical} {Considerations}},
+  date = {2025-08-20},
+  url = {https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-rodriguez-huerta2025" class="csl-entry quarto-appendix-citeas">
+Rodriguez-Huerta, Edgar, Luís Leão, and Todd Landman. 2025.
+<span>“Climate Change, Decent Work and Workers’ Health in Brazil:
+Theoretical Considerations.”</span> August 20, 2025. <a href="https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12">https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12</a>.
+</div></div></section></div> ]]></description>
+  <category>Sustainable Development</category>
+  <category>Workers Health</category>
+  <category>Climate change</category>
+  <category>Human Rights</category>
+  <category>Decent Work</category>
+  <guid>https://clidewo.com/publications/2024-07-20_theorical-framework/</guid>
+  <pubDate>Tue, 19 Aug 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://clidewo.com/publications/2024-07-20_theorical-framework/img/cover-en.png" medium="image" type="image/png" height="44" width="144"/>
+</item>
+</channel>
+</rss>

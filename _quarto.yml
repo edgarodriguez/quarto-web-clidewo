@@ -4,6 +4,7 @@ project:
   resources:
    - CNAME
 website:
+  title: "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture"
   favicon: "content/img/clidewo-favicon.png"
   site-url: https://clidewo.com
   repo-url: https://github.com/edgarodriguez/quarto-web-clidewo

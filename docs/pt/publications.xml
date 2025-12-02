@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture</title>
+<link>/pt/publications.html</link>
+<atom:link href="/pt/publications.xml" rel="self" type="application/rss+xml"/>
+<description>Aqui você pode encontrar e acessar nossas **publicações**, **relatórios** e **briefings de políticas**</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Tue, 19 Aug 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Mudanças climáticas, trabalho decente e saúde do trabalhador no Brasil: considerações teóricas</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <dc:creator>Luís Leão</dc:creator>
+  <dc:creator>Todd Landman</dc:creator>
+  <link>/pt/publications/2024-07-20_theorical-framework/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>##Resumo</p>
+<p>Este ensaio explora o nexo teórico e conceitual entre mudanças climáticas, saúde dos trabalhadores, trabalho decente, direitos humanos e os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, utilizando o caso dos trabalhadores agrícolas no Brasil, oferecendo uma agenda de pesquisa convincente com cinco pilares operacionais: (1) pesquisa, (2) vigilância e monitoramento, (3) avaliação de riscos, (4) gestão de riscos e (5) políticas e regulamentações.</p>
+<p><br><br></p>
+<p><img src="/pt/publications/2024-07-20_theorical-framework/img/theoretical-framework.jpg" title="Links between the Sustainable Development Goals, decent work, and occupational health" class="img-fluid"></p>
+<p><br><br> Confira aqui 👉 <a href="https://doi.org/10.1590/2317-6369/16224pt2025v50eddsst12">https://doi.org/10.1590/2317-6369/16224pt2025v50eddsst12</a></p>
+<section id="compartilhe-em-redes-sociais" class="level4">
+<h4 class="anchored" data-anchor-id="compartilhe-em-redes-sociais">Compartilhe em redes sociais:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citação</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rodriguez-huerta2025,
+  author = {Rodriguez-Huerta, Edgar and Leão, Luís and Landman, Todd},
+  title = {Mudanças climáticas, trabalho decente e saúde do trabalhador
+    no Brasil: considerações teóricas},
+  date = {2025-08-20},
+  url = {https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12},
+  langid = {pt}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cite este trabalho como:</div><div id="ref-rodriguez-huerta2025" class="csl-entry quarto-appendix-citeas">
+Rodriguez-Huerta, Edgar, Luís Leão, and Todd Landman. 2025.
+<span>“Mudanças climáticas, trabalho decente e saúde do trabalhador no
+Brasil: considerações teóricas.”</span> August 20, 2025. <a href="https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12">https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12</a>.
+</div></div></section></div> ]]></description>
+  <category>Desenvolvimento Sustentável</category>
+  <category>Saúde dos trabalhadores</category>
+  <category>Mudanças climáticas</category>
+  <category>Direitos humanos</category>
+  <category>Trabalho Decente</category>
+  <guid>/pt/publications/2024-07-20_theorical-framework/</guid>
+  <pubDate>Tue, 19 Aug 2025 23:00:00 GMT</pubDate>
+  <media:content url="/pt/publications/2024-07-20_theorical-framework/img/cover-pt.png" medium="image" type="image/png" height="43" width="144"/>
+</item>
+</channel>
+</rss>

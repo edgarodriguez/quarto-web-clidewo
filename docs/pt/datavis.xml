@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture</title>
+<link>/pt/datavis.html</link>
+<atom:link href="/pt/datavis.xml" rel="self" type="application/rss+xml"/>
+<description>Visualizações interativas, infográficos e conteúdos para atividades de divulgação para todos os públicos</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Fri, 17 Oct 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Constelação de inspeções</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <link>/pt/datavis/2025-10-18_labour_inspections/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+<div class="column-screen page-columns page-full">
+<div class="column-body-outset">
+<p>O DataViz concentra-se nos resultados das inspeções trabalhistas e na relevância de cada inspeção (inspeção na visualização). Seja um ou 1.064 resgates, cada estrela simboliza justiça para os trabalhadores. Ao mesmo tempo, serve como um lembrete da imensa tarefa pela frente, do vasto território a ser coberto, das potenciais lacunas ou vazios ainda a serem explorados e da necessidade de fortalecer a capacidade da inspeção para continuar seus esforços.</p>
+<p>Mais inspetores significam maior capacidade de identificar pontos de vulnerabilidade e erradicar condições de trabalho degradantes.</p>
+
+<div class="tableauPlaceholder" id="viz1761646796249" style="position: relative">
+  <noscript>
+    
+      <img alt="CLIDEWO-constellations " src="https://public.tableau.com/static/images/Co/ConstellationsofInspections/CLIDEWO-constellations/1_rss.png" style="border: none">
+    
+  </noscript>
+  <object class="tableauViz" style="display:none;">
+    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F">
+    <param name="embed_code_version" value="3">
+    <param name="site_root" value="">
+    <param name="name" value="ConstellationsofInspections/CLIDEWO-constellations">
+    <param name="tabs" value="no">
+    <param name="toolbar" value="yes">
+    <param name="static_image" value="https://public.tableau.com/static/images/Co/ConstellationsofInspections/CLIDEWO-constellations/1.png">
+    <param name="animate_transition" value="yes">
+    <param name="display_static_image" value="yes">
+    <param name="display_spinner" value="yes">
+    <param name="display_overlay" value="yes">
+    <param name="display_count" value="yes">
+    <param name="language" value="en-GB">
+  </object>
+</div>
+
+<script type="text/javascript">
+  var divElement = document.getElementById('viz1761646796249');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width = '900px';
+    vizElement.style.height = '1527px';
+  } else if (divElement.offsetWidth > 500) {
+    vizElement.style.width = '900px';
+    vizElement.style.height = '1527px';
+  } else {
+    vizElement.style.width = '100%';
+    vizElement.style.height = '1977px';
+  }
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<!-- Centering Script -->
+<script>
+  // Center the Tableau placeholder horizontally and vertically
+  const placeholder = document.getElementById('viz1761646796249');
+  placeholder.style.display = 'flex';
+  placeholder.style.justifyContent = 'center';
+  placeholder.style.alignItems = 'center';
+  placeholder.style.minHeight = '100vh';
+</script>
+
+
+</div>
+</div>
+<p>:::</p>
+<section id="compartilhe-em-redes-sociais" class="level4">
+<h4 class="anchored" data-anchor-id="compartilhe-em-redes-sociais">Compartilhe em redes sociais:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/NC/deed.pt">CC BY NC</a></div></div></section></div> ]]></description>
+  <category>datavis</category>
+  <category>decent work</category>
+  <guid>/pt/datavis/2025-10-18_labour_inspections/</guid>
+  <pubDate>Fri, 17 Oct 2025 23:00:00 GMT</pubDate>
+  <media:content url="/pt/datavis/2025-10-18_labour_inspections/img/CLIDEWO-constallations.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Risco de agrotóxicos e condições de trabalho degradantes no Brasil</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <link>/pt/datavis/2025-05-09_health_global_pesticides_risk/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+<div class="column-screen page-columns page-full">
+<div class="column-body-outset">
+<p>Enquanto continuamos a extrair e analisar vários conjuntos de dados, estamos animados em compartilhar o primeiro infográfico da nossa nova série que explora a interseção entre mudanças climáticas, trabalho decente e saúde dos trabalhadores.</p>
+<p>40% da população brasileira reside em áreas com alto risco de pesticidas, onde trabalhadores agrícolas e comunidades rurais estão mais significativamente expostos, tendo contato frequente e direto com agrotóxicos.</p>
+<p>Em condições de trabalho degradantes — definidas como análogas ao trabalho forçado pelo artigo 149 do Código Penal Brasileiro — os riscos de intoxicação por agrotóxicos e doenças crônicas aumentam significativamente. As inspeções trabalhistas revelaram violações, incluindo infraestrutura inadequada de água, saneamento e higiene (WASH), condições de vida degradantes, horas extras excessivas e ilegais e deduções arbitrárias de salários, como os incidentes mais frequentes.</p>
+<p>Esses fatores violam os direitos dos trabalhadores e aumentam as chances de intoxicação aguda e doenças crônicas, pois geralmente prejudicam o acesso a instalações adequadas de descontaminação e medidas de segurança. Um exemplo claro é destacado no relatório investigativo <strong>Escravizados do Etanol</strong>, que ilustra como os riscos de envenenamento pelo uso de agrotóxicos e pela exploração laboral estão intimamente interligados.</p>
+<div class="callout callout-style-simple callout-warning no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>“As situações relatadas em canaviais ligados às suas operações incluem trabalhadores mortos em incêndios, forçados a dormir no chão, impossibilitados de deixar seus empregos por causa de dívidas ilegais impostas por seus empregadores e até mesmo atingidos por pesticidas lançados de aviões.”<a href="https://reporterbrasil.org.br/wp-content/uploads/2024/12/Monitor_Etanol_PT.pdf">Escravizados do Etanol, página 5</a></p>
+</div>
+</div>
+</div>
+<p>Em breve, disponibilizaremos uma versão interativa e desvendaremos essas conexões críticas entre mudanças climáticas, trabalho decente e saúde dos trabalhadores.</p>
+<p><a href="img/infographic-agrchemicals-high.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="/pt/datavis/2025-05-09_health_global_pesticides_risk/img/infographic-agrchemicals-high.png" title="Brazil's pesticide risk and degrating working conditions" class="img-fluid"></a></p>
+</div>
+
+</div>
+
+<div id="quarto-appendix" class="default"><section id="baixar" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Baixar</h2><div class="quarto-appendix-contents">
+
+<p><strong>Em Breve version in PT</strong></p>
+<ul>
+<li>[Versão interativa] (Em breve)</li>
+<li>[Baixe em alta resolução] (Em breve)</li>
+<li>[Baixar planilha do Tableau] (Em breve)</li>
+<li>[Olhe dentro do código para coletar dados] (coming soon)</li>
+</ul>
+<section id="compartilhe-em-redes-sociais" class="level4">
+<h4 class="anchored" data-anchor-id="compartilhe-em-redes-sociais">Compartilhe em redes sociais:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/NC/deed.pt">CC BY NC</a></div></div></section></div> ]]></description>
+  <category>datavis</category>
+  <category>Climate change</category>
+  <category>Workers Health</category>
+  <guid>/pt/datavis/2025-05-09_health_global_pesticides_risk/</guid>
+  <pubDate>Thu, 08 May 2025 23:00:00 GMT</pubDate>
+  <media:content url="/pt/datavis/2025-05-09_health_global_pesticides_risk/img/infographic-agrchemicals-high.png" medium="image" type="image/png" height="204" width="144"/>
+</item>
+<item>
+  <title>Mudanças climáticas e riscos ambientais: Agroquímicos</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <link>/pt/datavis/2024-99-99_climate-hazard-06-agrochemicals/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente <a href="https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate">International Labour Organization (ILO) 2024</a></p>
+<section id="em-breve" class="level2">
+<h2 class="anchored" data-anchor-id="em-breve">Em breve</h2>
+<p><a href="img/agrochemicals-breve.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="/pt/datavis/2024-99-99_climate-hazard-06-agrochemicals/img/agrochemicals-breve.png" title="Infográfico sobre agroquímicos e problemas de saúde" class="img-fluid"></a></p>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="download" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Download</h2><div class="quarto-appendix-contents">
+
+<ul>
+<li>[Baixe em alta resolução]</li>
+<li>[Olhe dentro do código]</li>
+</ul>
+<section id="compartilhe-em-redes-sociais" class="level4">
+<h4 class="anchored" data-anchor-id="compartilhe-em-redes-sociais">Compartilhe em redes sociais:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/NC/deed.pt">CC BY NC</a></div></div></section></div> ]]></description>
+  <category>datavis</category>
+  <category>Climate change</category>
+  <category>Workers Health</category>
+  <category>R tools</category>
+  <guid>/pt/datavis/2024-99-99_climate-hazard-06-agrochemicals/</guid>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="/pt/datavis/2024-99-99_climate-hazard-06-agrochemicals/img/em-breve.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Mudanças climáticas e riscos ambientais: Calor excessivo</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <link>/pt/datavis/2024-12-31_climate-hazard-01-heat/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente <a href="https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate">International Labour Organization (ILO) 2024</a></p>
+<section id="em-breve" class="level2">
+<h2 class="anchored" data-anchor-id="em-breve">Em breve</h2>
+<p><a href="img/heat-stress-breve.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="/pt/datavis/2024-12-31_climate-hazard-01-heat/img/heat-stress-breve.png" title="Infográfico sobre estresse térmico e problemas de saúde" class="img-fluid"></a></p>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="download" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Download</h2><div class="quarto-appendix-contents">
+
+<ul>
+<li>[Baixe em alta resolução]</li>
+<li>[Olhe dentro do código]</li>
+</ul>
+<section id="compartilhe-em-redes-sociais" class="level4">
+<h4 class="anchored" data-anchor-id="compartilhe-em-redes-sociais">Compartilhe em redes sociais:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/NC/deed.pt">CC BY NC</a></div></div></section></div> ]]></description>
+  <category>datavis</category>
+  <category>Climate change</category>
+  <category>Workers Health</category>
+  <category>R tools</category>
+  <guid>/pt/datavis/2024-12-31_climate-hazard-01-heat/</guid>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="/pt/datavis/2024-12-31_climate-hazard-01-heat/img/em-breve.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Mudanças climáticas e riscos ambientais: Doenças transmitidas por vetores</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <link>/pt/datavis/2024-99-99_climate-hazard-05-vector-disease/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente <a href="https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate">International Labour Organization (ILO) 2024</a></p>
+<section id="em-breve" class="level2">
+<h2 class="anchored" data-anchor-id="em-breve">Em breve</h2>
+<p><a href="img/vector-borne-breve.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="/pt/datavis/2024-99-99_climate-hazard-05-vector-disease/img/vector-borne-breve.png" title="Infográfico sobre doenças transmitidas por vetores e problemas de saúde no trabalho" class="img-fluid"></a></p>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="download" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Download</h2><div class="quarto-appendix-contents">
+
+<ul>
+<li>[Baixe em alta resolução]</li>
+<li>[Olhe dentro do código]</li>
+</ul>
+<section id="compartilhe-em-redes-sociais" class="level4">
+<h4 class="anchored" data-anchor-id="compartilhe-em-redes-sociais">Compartilhe em redes sociais:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/NC/deed.pt">CC BY NC</a></div></div></section></div> ]]></description>
+  <category>datavis</category>
+  <category>Climate change</category>
+  <category>Workers Health</category>
+  <category>R tools</category>
+  <guid>/pt/datavis/2024-99-99_climate-hazard-05-vector-disease/</guid>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="/pt/datavis/2024-99-99_climate-hazard-05-vector-disease/img/em-breve.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Mudanças climáticas e riscos ambientais: Poluição do ar</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <link>/pt/datavis/2024-99-99_climate-hazard-04-air-pollution/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente <a href="https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate">International Labour Organization (ILO) 2024</a></p>
+<section id="em-breve" class="level2">
+<h2 class="anchored" data-anchor-id="em-breve">Em breve</h2>
+<p><a href="img/air-pollution-breve.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="/pt/datavis/2024-99-99_climate-hazard-04-air-pollution/img/air-pollution-breve.png" title="Infográfico sobre poluição do ar e problemas de saúde" class="img-fluid"></a></p>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="download" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Download</h2><div class="quarto-appendix-contents">
+
+<ul>
+<li>[Baixe em alta resolução]</li>
+<li>[Olhe dentro do código]</li>
+</ul>
+<section id="compartilhe-em-redes-sociais" class="level4">
+<h4 class="anchored" data-anchor-id="compartilhe-em-redes-sociais">Compartilhe em redes sociais:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/NC/deed.pt">CC BY NC</a></div></div></section></div> ]]></description>
+  <category>datavis</category>
+  <category>Climate change</category>
+  <category>Workers Health</category>
+  <category>R tools</category>
+  <guid>/pt/datavis/2024-99-99_climate-hazard-04-air-pollution/</guid>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="/pt/datavis/2024-99-99_climate-hazard-04-air-pollution/img/em-breve.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Mudanças climáticas e riscos ambientais: radiação UV</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <link>/pt/datavis/2024-99-99_climate-hazard-02-radiation/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente <a href="https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate">International Labour Organization (ILO) 2024</a></p>
+<section id="em-breve" class="level2">
+<h2 class="anchored" data-anchor-id="em-breve">Em breve</h2>
+<p><a href="img/uv-radiation-soon.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="/pt/datavis/2024-99-99_climate-hazard-02-radiation/img/uv-radiation-soon.png" title="Infográfico sobre radiação uv e problemas de saúde" class="img-fluid"></a></p>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="download" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Download</h2><div class="quarto-appendix-contents">
+
+<ul>
+<li>[Baixe em alta resolução]</li>
+<li>[Olhe dentro do código]</li>
+</ul>
+<section id="compartilhe-em-redes-sociais" class="level4">
+<h4 class="anchored" data-anchor-id="compartilhe-em-redes-sociais">Compartilhe em redes sociais:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/NC/deed.pt">CC BY NC</a></div></div></section></div> ]]></description>
+  <category>datavis</category>
+  <category>Climate change</category>
+  <category>Workers Health</category>
+  <category>R tools</category>
+  <guid>/pt/datavis/2024-99-99_climate-hazard-02-radiation/</guid>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="/pt/datavis/2024-99-99_climate-hazard-02-radiation/img/em-breve.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Mudanças climáticas e riscos ambientais: Eventos climáticos extremos</title>
+  <dc:creator>Edgar Rodriguez-Huerta</dc:creator>
+  <link>/pt/datavis/2024-99-99_climate-hazard-03-extreme-weather/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente <a href="https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate">International Labour Organization (ILO) 2024</a></p>
+<section id="em-breve" class="level2">
+<h2 class="anchored" data-anchor-id="em-breve">Em breve</h2>
+<p><a href="img/extreme-weather-breve.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="/pt/datavis/2024-99-99_climate-hazard-03-extreme-weather/img/extreme-weather-breve.png" title="Infográfico sobre eventos climáticos extremos e problemas de saúde" class="img-fluid"></a></p>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="download" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Download</h2><div class="quarto-appendix-contents">
+
+<ul>
+<li>[Baixe em alta resolução]</li>
+<li>[Olhe dentro do código]</li>
+</ul>
+<section id="compartilhe-em-redes-sociais" class="level4">
+<h4 class="anchored" data-anchor-id="compartilhe-em-redes-sociais">Compartilhe em redes sociais:</h4>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+</section>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuso</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/NC/deed.pt">CC BY NC</a></div></div></section></div> ]]></description>
+  <category>datavis</category>
+  <category>Climate change</category>
+  <category>Workers Health</category>
+  <category>R tools</category>
+  <guid>/pt/datavis/2024-99-99_climate-hazard-03-extreme-weather/</guid>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="/pt/datavis/2024-99-99_climate-hazard-03-extreme-weather/img/em-breve.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+</channel>
+</rss>

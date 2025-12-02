@@ -24,21 +24,25 @@
   },
   {
     "listing": "/people.html",
-    "items": []
-  },
-  {
-    "listing": "/publications.html",
     "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2025-11-11_COP30.html",
-      "/news/2025-10-13_GPTEC.html",
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
+      "/people/staff/Rodriguez-Huerta.html",
+      "/people/staff/Domingos.html",
+      "/people/staff/Landman.html",
+      "/people/staff/Leao.html",
+      "/people/staff/Reita.html",
+      "/people/staff/Moura.html",
+      "/people/staff/Carthew.html",
+      "/people/staff/Siviero.html",
+      "/people/staff/Trevizan.html",
+      "/people/staff/Galvao.html",
+      "/people/staff/Andrade.html",
+      "/people/staff/Fortes.html",
+      "/people/staff/Rosa.html",
+      "/people/staff/Garcia.html",
+      "/people/staff/Bezerra.html",
+      "/people/staff/Abrahao.html",
+      "/people/staff/Ribeiro.html",
+      "/people/staff/Moraes.html"
     ]
   },
   {
@@ -52,6 +56,21 @@
       "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
       "/datavis/2024-99-99_climate-hazard-02-radiation/index.html",
       "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-11-11_COP30.html",
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
   {

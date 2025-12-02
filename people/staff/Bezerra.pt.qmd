@@ -1,0 +1,52 @@
+---
+title: "Késley Gabriel Bezerra Coutinho"
+sortby: 15
+subtitle: ""
+image: "./content/img/Bezerra.jpg"
+started:
+toc: false
+lang: pt
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biografia
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Psicólogo. Mestre em Antropologia pela Universidade Federal de Mato Grosso (UFMT). Atualmente é doutorando em Saúde Coletiva pela mesma instituição. Integra o Núcleo de Antropologia e Saberes Plurais (NAPLUS/UFMT), o Conselho Editorial Júnior da Revista Aceno, o Laboratório Esquizoanalista de Produção de Subjetividades e(m) Interseccionalidades (LEPSI) e o Núcleo de Estudos Ambientais e Saúde do Trabalhador (NEAST). 
+
+:::
+

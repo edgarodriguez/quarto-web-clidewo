@@ -1,19 +1,21 @@
 ---
 pagetitle: Our team
 lang: en
+babelmark: false
 toc: false
 listing:
-  - id: Our-team
-    contents: "people/staff/*.qmd"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    fields: [image, title, subtitle]
-    grid-item-align: center
-    sort: sortby
-    field-display-names: 
-      started: "Started"
-	
+  contents: people
+  include:
+    lang: en
+
+  type: grid
+  image-height: 225px
+  grid-columns: 3
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  sort: sortby
+  field-display-names: 
+    started: "Started"
 ---
 
 ```{=html}
@@ -28,7 +30,5 @@ listing:
 
 ## Our team
 
-:::{#Our-team}
-:::
 
 

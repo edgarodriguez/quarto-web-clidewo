@@ -55,7 +55,7 @@ This project supports the broader aspirations for achieving decent work conditio
 
 [![](./content/img/logo-UFMA.png){fig-align="center" }](https://portalpadrao.ufma.br)
 
-[![](./content/img/logo-GPMAT.jpg){fig-align="center" }](/people/organisations/GPMAT.qmd)
+[![](./content/img/logo-GPMAT.jpg){fig-align="center" }](/organisations/GPMAT.qmd)
 
 :::
 

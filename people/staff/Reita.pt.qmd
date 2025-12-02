@@ -1,0 +1,63 @@
+---
+title: "Carla Reita Leal"
+sortby: 5
+subtitle: "Professora de Direito da Faculdade de Direito da Universidade Federal de Mato Grosso"
+image: "./content/img/Reita.jpg"
+started: ""
+toc: false
+lang: pt
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links: 
+    - icon: link
+      text: website   
+      href: https://carlareitafarialeal.com.br
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biografia
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Dra. Carla Reita Faria Leal é Doutora e Mestre em Direito das Relações Sociais, subárea Direito do Trabalho, pela Pontifícia Universidade Católica de São Paulo (PUC/SP). Professora associada da Universidade Federal de Mato Grosso (UFMT), atua no ensino, pesquisa e extensão, integrando o saber acadêmico e o compromisso social.
+
+Realizou pós-doutorado e foi visiting fellow no Rights Lab, da University of Nottingham (Reino Unido).
+
+É palestrante em eventos acadêmicos, jurídicos e interinstitucionais, com foco em temas como trabalho decente, direitos humanos, políticas públicas e enfrentamento ao trabalho escravo.
+
+É Coordenadora Adjunta do Programa de Pós-Graduação em Direito da UFMT (2023–2025), lidera grupo de pesquisa e coordena o Projeto de Extensão PAI – voltado à qualificação e reinserção de trabalhadores resgatados de condições análogas à escravidão.
+
+:::
+

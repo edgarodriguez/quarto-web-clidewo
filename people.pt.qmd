@@ -3,17 +3,17 @@ pagetitle: Nosso time
 lang: pt
 toc: false
 listing:
-  - id: Nosso-time
-    contents: "people.pt/staff/*.qmd"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    fields: [image, title, subtitle]
-    grid-item-align: center
-    sort: sortby
-    field-display-names: 
-      started: "Started"
-	
+  contents: people
+  include:
+    lang: pt
+  type: grid
+  image-height: 225px
+  grid-columns: 3
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  sort: sortby
+  field-display-names: 
+    started: "Started"
 ---
 
 ```{=html}
@@ -28,6 +28,4 @@ listing:
 
 ## Nosso time
 
-:::{#Our-team}
-:::
 
