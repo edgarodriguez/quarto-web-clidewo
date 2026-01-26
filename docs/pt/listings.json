@@ -23,6 +23,35 @@
     ]
   },
   {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.html"
+    ]
+  },
+  {
+    "listing": "/datavis.html",
+    "items": [
+      "/datavis/2025-10-18_labour_inspections/index.html",
+      "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
+      "/datavis/2025-01-16_Brazil_Indexs/index.html",
+      "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
+      "/datavis/2024-12-31_climate-hazard-01-heat/index.html",
+      "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
+      "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
+      "/datavis/2024-99-99_climate-hazard-02-radiation/index.html",
+      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-11-11_COP30.html",
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/staff/Rodriguez-Huerta.html",
@@ -37,40 +66,13 @@
       "/people/staff/Galvao.html",
       "/people/staff/Andrade.html",
       "/people/staff/Fortes.html",
+      "/people/staff/Barros.html",
       "/people/staff/Rosa.html",
       "/people/staff/Garcia.html",
       "/people/staff/Bezerra.html",
       "/people/staff/Abrahao.html",
       "/people/staff/Ribeiro.html",
       "/people/staff/Moraes.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2025-11-11_COP30.html",
-      "/news/2025-10-13_GPTEC.html",
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
-    ]
-  },
-  {
-    "listing": "/datavis.html",
-    "items": [
-      "/datavis/2025-10-18_labour_inspections/index.html",
-      "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
-      "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
-      "/datavis/2024-12-31_climate-hazard-01-heat/index.html",
-      "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
-      "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
-      "/datavis/2024-99-99_climate-hazard-02-radiation/index.html",
-      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
   {

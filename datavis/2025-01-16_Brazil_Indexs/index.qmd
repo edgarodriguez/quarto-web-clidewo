@@ -1,0 +1,112 @@
+---
+title: "Brazil's pesticide risk and degrating working conditions"
+date: "2025-12-09"
+date-modified: "2026-01-19"
+# draft: true
+# draft-mode: visible 
+image: img/infographic-agrchemicals-high.png
+execute:
+  echo: false
+categories:
+  - datavis
+  - Agrochemicals
+  - Workers Health
+
+lang: en
+format: 
+  html:
+    page-layout: full
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+:::{.column-screen}
+:::{.column-body-outset}
+
+
+Indexes turn lots of complex data into one clear picture. They help people quickly understand how countries or communities are doing and compare progress over time or between places.
+
+**Different indexes, different purposes**
+
+* **HDI** looks at overall human development (health, education, income).
+* **Social Protection Index** focuses on how well people are protected against risks like poverty, illness, or unemployment.
+* **Climate Vulnerability Index** shows how exposed and prepared a place is for climate risks.
+
+Each is designed for a specific question, but they often **share indicators**, use **rankings**, and **simplify data** to explain the bigger picture in an easy-to-read way.
+
+**Benefits**
+
+* Easy to understand and communicate
+* Allow comparisons and tracking progress
+* Support decision-making and policy priorities
+
+**Trade-offs**
+
+* Can oversimplify complex realities
+* Results depend on data quality and what’s included
+* Uncertainty and local differences may be hidden
+
+**Bottom line:** Indexes are powerful summaries—but they work best when used alongside deeper analysis, not alone.	
+
+
+
+
+We will soon enable an interactive version and unpack these critical connections among Climate Change, Decent Work, and Workers’ Health.
+
+
+![](img/infographic-agrchemicals-high.png "Brazil's pesticide risk and degrating working conditions")
+
+:::		
+:::
+
+## Download {.appendix}
+
+- [Interactive version] (coming soon)
+- [Download high resolution datavis](img/global_pesticides_risk_score.pdf)
+- [Download Tableau worksheet] (coming soon)
+- [Look inside the code to collect data] (coming soon)
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

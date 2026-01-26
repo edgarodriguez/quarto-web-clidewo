@@ -1,0 +1,208 @@
+---
+title: "Climate Health and decent work Nexus"
+description: "Compiled risk in Brazilian AG"
+author: Edgar Rodriguez-Huerta
+date: "2025/11/12"
+date-modified: "2025/11/12"
+draft: true
+draft-mode: unlinked #visible 
+image: nexus.png
+css: clidewo_theme.css
+freeze: auto
+format:
+  closeread-html:
+    cr-style:
+      narrative-background-color-sidebar: "#FFDD00"
+      narrative-text-color-sidebar: "#10263B"
+      section-background-color: "#FFFFFF"
+      narrative-font-size: 20pt
+      
+    remove-header-space: true
+    debug-mode: false
+    embed-resources: true
+    
+
+project:
+    type: website
+    output-dir: docs
+website:
+  navbar:
+    pinned: false
+    background: "#070D0D"
+
+---
+
+:::{.cr-section}
+
+:::{#cr-dots .scale-to-fill}
+
+![](resgates_nolines.png)
+:::
+
+:::{#cr-main-plot .scale-to-fill}
+
+![](resgates.png)
+
+:::
+
+:::{#cr-main-text-label-text .scale-to-fill}
+
+**this is the label for the main plot**
+
+
+:::
+
+:::{#cr-main-plot-label .scale-to-fill}
+
+
+![](slavery_issues.png)
+
+:::
+
+
+
+:::{focus-on="cr-anim-plot" .scale-to-fill}
+
+# [BACKGROUND]{style="background-color:white"}
+<br><br>
+
+**Between 2003 and 2024, more than 54,000 workers were rescued from
+analogous conditions to slavery in rural areas of Brazil**
+
+
+
+<br><br>
+
+**Livestock, sugarcane, and other are among sectors with higher risk**
+:::
+
+:::{#cr-gdp .scale-to-fill}
+
+:::
+
+@cr-main-plot
+
+
+
+:::{focus-on="cr-issues"}
+
+# [LABOUR INSPECTIONS]{style="background-color:white"}
+
+Brazil is among the few countries that publish open state labour inspection data on workers identified rural areas
+and removed from the conditions of modern slavery, and it has taken a leading role in addressing this issue.
+
+
+
+:::
+
+:::{focus-on="cr-other"}
+
+
+
+
+*Inadequate water, sanitation, and hygiene (WASH), accommodation,  excessive overtime, and severe and unexplained wage deductions have emerged* as main issues
+
+:::
+
+
+:::{#cr-health .scale-to-fill}
+
+inadequate water, sanitation, and hygiene (WASH), accommodation,  excessive overtime, and severe and unexplained wage deductions have emerged as main issues
+
+![](slavery_issues.png)
+
+:::
+
+:::{#cr-healthss .scale-to-fill}
+
+:::
+
+
+
+
+:::{focus-on="cr-hours"}
+
+### [**Exhausting working conditions**]{style="background-color:white" }
+
+![](slavery_issues.png)
+Explain the relationship
+
+:::
+
+:::{#cr-lifeExp .scale-to-fill}
+
+```{r}
+
+```
+
+:::
+
+:::{focus-on="cr-acci"}
+
+### [**Accidents and diseases**]{style="background-color:white" }
+
+Here explain the issues with lack of facilities
+
+:::
+
+
+:::{focus-on="cr-wash"}
+
+### [**inadequate WASH**]{style="background-color:white" }
+
+WASH to 
+
+
+“There are generally no good quality drinking water, or toilet facilities on the properties. Water for cooking and drinking is often taken from the same streams in which the workers wash themselves, their clothes, cooking utensils and work tools. Furthermore, the rains wash the pesticides used on pastures into those same streams.”
+
+
+:::
+
+:::{focus-on="cr-main-plot" .scale-to-fill}
+
+## WASH
+
+Wash
+
+:::
+
+
+
+
+:::{focus-on="cr-main-plot-label" pan-to="32%,55%" scale-by="1.6"}
+## WASH
+
+There are few countries with low GDP per capita but high life expectancy. These are primarily countries in Asia which may be due to strong public healthcare systems, community-based health initiatives, and cultural factors that promote healthy lifestyles.
+
+:::
+
+:::{focus-on="cr-main-plot-label" pan-to="32%,-30%" scale-by="2.6"}
+
+### [**Climate change and health**]{style="background-color:white" }
+
+"Workers are among those most exposed to climate change hazards, yet frequently have no choice but to continue working, even if conditions are dangerous. Global occupational safety and health (OSH) protections have struggled to keep up with the evolving risks from climate change, resulting in worker mortality and morbidity.”
+
+:::
+
+:::{focus-on="cr-main-plot-label" pan-to="-55%,-30%" scale-by="1.6"}
+
+### [**Climate change exacerbate health risk in workers **]{style="background-color:white" }
+
+Increasingly poor working conditions due to climate change are contributing to degrading circumstances at work and overwhelming workloads (e.g., heat exhaustion)—
+
+
+:::
+
+:::{focus-on="cr-anim-plot" .scale-to-fill}
+
+### [**conclusions **]{style="background-color:white" }
+*Secondary data analysis needs primary data and local knowledge.*
+
+
+<br>
+
+{{< fa brands github >}} [edgarodriguez](https://github.com/edgarodriguez)
+
+:::
+
+:::

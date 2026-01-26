@@ -1,0 +1,56 @@
+---
+title: "Saulo Barros da Costa"
+sortby: 13
+subtitle: "Professor de Geografia do Ensino Básico, Técnico e Tecnológico (EBTT) do Colégio Universitário (COLUN) da Universidade Federal do Maranhão (UFMA)"
+image: "./content/img/Barros.jpg"
+started: ""
+toc: false
+resources: 
+  - "TBD_CV.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - text: "{{< ai lattes >}} Lattes"
+      href: http://lattes.cnpq.br/2891144328258908
+#    - icon: mortarboard
+#      text: scholar
+#      href: 
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+## Biography
+
+Professor of Geography of Basic, Technical and Technological Education (EBTT) of the University College (COLUN) of the Federal University of Maranhão (UFMA), Bacanga Campus. He graduated in Geography from the Federal University of Pernambuco (UFPE) (2009) and masters in Geography from the Federal Fluminense University (UFF) (2012). Doctor in Geography for the Federal University of Pernambuco (UFPE) (2016). He is a specialist in Agricultural Management at the Federal University of Goiás (UFG) (2022). Leader of the Research Group on Geography, Territories and Societies (CNPq) and Territorial and Work Studies and Research Group (GETTRAB). Together with the people and traditional communities in search of guarantee and permanence in our territories, second processes of mourning and resistance. Assessor of the Comissão Pastoral da Terra (CPT), Regional Maranhão e da Teia de Povos e Comunidades Tradicionais do Maranhão (TEIA). He also has experience as a researcher, with experience in the area of ​​Geography, with an emphasis on: teaching geography; society-nature relationship; regional/environmental urban land use planning; agricultural quest; peasantry and peasant resistance; social metabolism; agrarian-environmental conflict; indigenous intercultural education; quilombola intercultural education.
+
+:::

@@ -1,0 +1,56 @@
+---
+title: "Saulo Barros da Costa"
+sortby: 13
+subtitle: "Professor de Geografia do Ensino Básico, Técnico e Tecnológico (EBTT) do Colégio Universitário (COLUN) da Universidade Federal do Maranhão (UFMA)"
+image: "./content/img/Barros.jpg"
+started: ""
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - text: "{{< ai lattes >}} Lattes"
+      href: http://lattes.cnpq.br/2891144328258908
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biografia
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Professor de Geografia do Ensino Básico, Técnico e Tecnológico (EBTT) do Colégio Universitário (COLUN) da Universidade Federal do Maranhão (UFMA), Campus do Bacanga. É licenciado em Geografia pela Universidade Federal de Pernambuco (UFPE) (2009) e mestre em Geografia pela Universidade Federal Fluminense (UFF) (2012). Doutor em Geografia pela Universidade Federal de Pernambuco (UFPE) (2016). É especialista em Direito Agrário pela Universidade Federal do Goiás (UFG) (2022). Líder do Grupo de pesquisa sobre Geografia, Territórios e Sociedades (CNPq) e Grupo de Estudos e Pesquisa Território e Trabalho (GETTRAB). Atua com os povos e comunidades tradicionais em busca de garantia e permanência nos territórios, segundo processos de luta e resistência. Assessor da Comissão Pastoral da Terra (CPT), Regional Maranhão e da Teia de Povos e Comunidades Tradicionais do Maranhão (TEIA). Além da experiência como pesquisador, tem experiência na área de Geografia, com ênfase em: ensino de geografia; relação sociedade-natureza; ordenamento territorial urbano regional/ambiental; questão agrária; campesinato e resistência camponesa; metabolismo social; conflito agrário-ambiental; educação intercultural indígena; educação intercultural quilombola.
+
+
+:::
+
