@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file and render with rmarkdown::render("README.Rmd")-->
 
-# Code adapted from joelnitta-home
+# Code adapted from joelnitta-home Website
 
 Original Source code for [personal website of Joel
 Nitta](https://www.joelnitta.com), adapted by Edgar Rodríguez-Huerta
@@ -66,7 +66,6 @@ fs::dir_delete(fs::path_dir(post_qmd))
 Code: [MIT](LICENSE)
 
 Text and images, unless otherwise indicated: Creative Commons
-Attribution [CC BY
-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+Attribution [CC BY-NC-SA 4.0]([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 Publications (PDF files): Indicated in each publication.
