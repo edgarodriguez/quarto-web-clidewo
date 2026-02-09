@@ -9,6 +9,8 @@ toc: true
 format:
   html:
     self-contained: false
+resources:
+  - _hexout.html
 ---
 
 ```{r}
