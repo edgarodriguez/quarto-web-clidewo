@@ -532,25 +532,39 @@
     "text": "Footnotes\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎"
   },
   {
+    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html",
+    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html",
+    "title": "Workers’ health under climate change: UV Radiation",
+    "section": "",
+    "text": "Agricultural workers are highly exposed to ultraviolet (UV) radiation due to prolonged outdoor work, often with limited access to protective measures, constituting a significant and frequently underestimated risk 1\nShort-term effects include sunburn (erythema), eye irritation, photokeratitis, and acute heat-UV interactions that intensify dehydration and fatigue. These effects can reduce work capacity and increase the likelihood of errors and injuries.\nLong-term exposure is strongly associated with non-melanoma and melanoma skin cancers, premature skin aging, immune system suppression, and chronic eye conditions such as cataracts and pterygium. Repeated UV exposure over a working lifetime disproportionately affects agricultural workers, contributing to long-term health burdens, loss of income, and reduced quality of life.\nAddressing UV radiation through access to protective clothing, shaded rest areas, adjusted work schedules, and occupational health policies is essential to safeguard workers’ health and uphold decent work standards in agriculture.\n\n\nUV-Radiation is based on normalisation of the number “High-UV” days = daily dose ≥ 5.5 kJ/m²/day (Equivalent to UVI ≥ 8) (average 2021 to 2024) 2\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#effect-of-excessive-uv-radiation-on-workers-health",
+    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#effect-of-excessive-uv-radiation-on-workers-health",
+    "title": "Workers’ health under climate change: UV Radiation",
+    "section": "",
+    "text": "Agricultural workers are highly exposed to ultraviolet (UV) radiation due to prolonged outdoor work, often with limited access to protective measures, constituting a significant and frequently underestimated risk 1\nShort-term effects include sunburn (erythema), eye irritation, photokeratitis, and acute heat-UV interactions that intensify dehydration and fatigue. These effects can reduce work capacity and increase the likelihood of errors and injuries.\nLong-term exposure is strongly associated with non-melanoma and melanoma skin cancers, premature skin aging, immune system suppression, and chronic eye conditions such as cataracts and pterygium. Repeated UV exposure over a working lifetime disproportionately affects agricultural workers, contributing to long-term health burdens, loss of income, and reduced quality of life.\nAddressing UV radiation through access to protective clothing, shaded rest areas, adjusted work schedules, and occupational health policies is essential to safeguard workers’ health and uphold decent work standards in agriculture.\n\n\nUV-Radiation is based on normalisation of the number “High-UV” days = daily dose ≥ 5.5 kJ/m²/day (Equivalent to UVI ≥ 8) (average 2021 to 2024) 2\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#footnotes",
+    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#footnotes",
+    "title": "Workers’ health under climate change: UV Radiation",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nTEMIS - Daily UV index and UV dose data from MSR- 2 ( uv dec ) https://www.temis.nl/uvradiation/UVarchive/uvncfiles_msr2.php↩︎"
+  },
+  {
     "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
     "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
+    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
     "section": "",
-    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
+    "text": "Note\n\n\n\n“Wildfire spreads toxic smoke across South America, straining the healthcare system”1"
   },
   {
-    "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#coming-soon",
-    "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#coming-soon",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "Coming soon",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#download",
-    "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#download",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "Download",
-    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
+    "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#footnotes",
+    "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#footnotes",
+    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSobreira, E., Lázaro, W.L., Vitorino, B.D., Frota, A.V.B. da, Young, C.E.F., Campos, D.V. de S., Viana, C.R.S., de Oliveira, E., López-Ramirez, L., de Souza, A.R., Silva, D.J. da, Ignotti, E., Hacon, S., Ignácio, Á.R.A., Muniz, C.C., Filho, M. dos S., Bogoni, J.A., 2025. Wildfires and their toll on Brazil: Who’s counting the cost? Perspectives in Ecology and Conservation 23, 214–217. https://doi.org/10.1016/j.pecon.2025.06.003↩︎\nThinkHazard!: https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard↩︎\nÍndice de Desenvolvimento Sustentável das Cidades – Brasil. https://idsc.cidadessustentaveis.org.br/↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎"
   },
   {
     "objectID": "datavis/2025-01-16_Brazil_Indexs/index.html#download",
@@ -588,48 +602,6 @@
     "text": "Footnotes\n\n\nDengue outbreak in Brazil: 2024 https://www.dengue.com/Dengue-outbreak-in-Brazil-2024↩︎\nIndice de Desenvolvimento Sustentável das Cidades – Brasil https://idsc.cidadessustentaveis.org.br/↩︎"
   },
   {
-    "objectID": "datavis/2026-02-08_climate-hazard-02-radiation/index.html",
-    "href": "datavis/2026-02-08_climate-hazard-02-radiation/index.html",
-    "title": "Workers’ health under climate change: UV Radiation",
-    "section": "",
-    "text": "Agricultural workers are highly exposed to ultraviolet (UV) radiation due to prolonged outdoor work, often with limited access to protective measures, constituting a significant and frequently underestimated risk.\nShort-term effects include sunburn (erythema), eye irritation, photokeratitis, and acute heat-UV interactions that intensify dehydration and fatigue. These effects can reduce work capacity and increase the likelihood of errors and injuries.\nLong-term exposure is strongly associated with non-melanoma and melanoma skin cancers, premature skin aging, immune system suppression, and chronic eye conditions such as cataracts and pterygium. Repeated UV exposure over a working lifetime disproportionately affects agricultural workers, contributing to long-term health burdens, loss of income, and reduced quality of life.\nAddressing UV radiation through access to protective clothing, shaded rest areas, adjusted work schedules, and occupational health policies is essential to safeguard workers’ health and uphold decent work standards in agriculture.\n\n\nUV-Radiation is based on normalisation of the number “High-UV” days = daily dose ≥ 5.5 kJ/m²/day (Equivalent to UVI ≥ 8) (average 2021 to 2024) 1"
-  },
-  {
-    "objectID": "datavis/2026-02-08_climate-hazard-02-radiation/index.html#effect-of-excessive-uv-radiation-on-workers-health",
-    "href": "datavis/2026-02-08_climate-hazard-02-radiation/index.html#effect-of-excessive-uv-radiation-on-workers-health",
-    "title": "Workers’ health under climate change: UV Radiation",
-    "section": "",
-    "text": "Agricultural workers are highly exposed to ultraviolet (UV) radiation due to prolonged outdoor work, often with limited access to protective measures, constituting a significant and frequently underestimated risk.\nShort-term effects include sunburn (erythema), eye irritation, photokeratitis, and acute heat-UV interactions that intensify dehydration and fatigue. These effects can reduce work capacity and increase the likelihood of errors and injuries.\nLong-term exposure is strongly associated with non-melanoma and melanoma skin cancers, premature skin aging, immune system suppression, and chronic eye conditions such as cataracts and pterygium. Repeated UV exposure over a working lifetime disproportionately affects agricultural workers, contributing to long-term health burdens, loss of income, and reduced quality of life.\nAddressing UV radiation through access to protective clothing, shaded rest areas, adjusted work schedules, and occupational health policies is essential to safeguard workers’ health and uphold decent work standards in agriculture.\n\n\nUV-Radiation is based on normalisation of the number “High-UV” days = daily dose ≥ 5.5 kJ/m²/day (Equivalent to UVI ≥ 8) (average 2021 to 2024) 1"
-  },
-  {
-    "objectID": "datavis/2026-02-08_climate-hazard-02-radiation/index.html#footnotes",
-    "href": "datavis/2026-02-08_climate-hazard-02-radiation/index.html#footnotes",
-    "title": "Workers’ health under climate change: UV Radiation",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nTEMIS - Daily UV index and UV dose data from MSR- 2 ( uv dec ) https://www.temis.nl/uvradiation/UVarchive/uvncfiles_msr2.php↩︎"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-09-floods/index.html",
-    "href": "datavis/2024-99-99_climate-hazard-09-floods/index.html",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "",
-    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-09-floods/index.html#coming-soon",
-    "href": "datavis/2024-99-99_climate-hazard-09-floods/index.html#coming-soon",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "Coming soon",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-09-floods/index.html#download",
-    "href": "datavis/2024-99-99_climate-hazard-09-floods/index.html#download",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "Download",
-    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
-  },
-  {
     "objectID": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
     "href": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
     "title": "Brazil’s pesticide risk and degrating working conditions",
@@ -662,42 +634,28 @@
     "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html",
     "title": "Workers’ health under climate change: Water Sanitisation and Hygiene",
     "section": "",
-    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nThe excessive heat score is estimated by integrating three indicators: the Wet Bulb Global Temperature (WBGT) 5-year period return1, maximum WBGT2, and accumulated heat waves, defined as periods of at least three consecutive days of excessive heat3. This composite metric captures the intensity, frequency, and persistence of heat exposure, aligning with international frameworks on occupational safety and health in the context of climate change4.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+    "text": "Note\n\n\n\nDuring work inspections, inadequate water, sanitation, and hygiene (WASH) have been identified as major issues and contribute to degrading working conditions."
   },
   {
-    "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html#effect-of-agrochemicals-workers-health",
-    "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html#effect-of-agrochemicals-workers-health",
+    "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html#wash",
+    "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html#wash",
     "title": "Workers’ health under climate change: Water Sanitisation and Hygiene",
-    "section": "",
-    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nThe excessive heat score is estimated by integrating three indicators: the Wet Bulb Global Temperature (WBGT) 5-year period return1, maximum WBGT2, and accumulated heat waves, defined as periods of at least three consecutive days of excessive heat3. This composite metric captures the intensity, frequency, and persistence of heat exposure, aligning with international frameworks on occupational safety and health in the context of climate change4.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+    "section": "WASH",
+    "text": "WASH\nShort-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\nWASH measure\nWASH score is estimated based on Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability 1 6 Diseases related to inadequate environmental sanitation (100k inhabitants) 2 4 Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability 3 6\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
   },
   {
     "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html#footnotes",
     "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html#footnotes",
     "title": "Workers’ health under climate change: Water Sanitisation and Hygiene",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nThinkHazard! Global Extreme Heat Hazard. World Bank Data Catalog. https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard↩︎\nRao, N. et al. Global inequality in environmental conditions. Environmental Research Letters. https://doi.org/10.1088/2515-7620/ae0407↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎"
+    "text": "Footnotes\n\n\nThinkHazard! Global Extreme Heat Hazard. World Bank Data Catalog. https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard↩︎\nRao, N. et al. Global inequality in environmental conditions. Environmental Research Letters. https://doi.org/10.1088/2515-7620/ae0407↩︎\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎"
   },
   {
-    "objectID": "datavis/2024-99-99_climate-hazard-08-droughts/index.html",
-    "href": "datavis/2024-99-99_climate-hazard-08-droughts/index.html",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
+    "objectID": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
+    "href": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
+    "title": "Workers’ health under climate change: Extreme weather events (Floods)",
     "section": "",
-    "text": "Series of six infographics describing the main risks to workers’ health related to climate change and the environment International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-08-droughts/index.html#coming-soon",
-    "href": "datavis/2024-99-99_climate-hazard-08-droughts/index.html#coming-soon",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "Coming soon",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-08-droughts/index.html#download",
-    "href": "datavis/2024-99-99_climate-hazard-08-droughts/index.html#download",
-    "title": "Climate change and enviromental related risk: Agrochemicals",
-    "section": "Download",
-    "text": "Download\n\n\n[Download in high resolution]\nLook inside the code\n\n\nShare it on social media:"
+    "text": "Note\n\n\n\n\n\n\n\nPrimary health impact\nAcute and chronic respiratory illness, asthma exacerbations, cardiovascular events, heat stress, eye injuries, burns, and adverse mental health outcomes.\n\n\nFlood score estimation\n\n\n\n\n\nDownload\n\n Download the pdf \n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
   },
   {
     "objectID": "datavis/2025-12-31_climate-hazard-01-heat/index.html",
@@ -718,7 +676,7 @@
     "href": "datavis/2025-12-31_climate-hazard-01-heat/index.html#footnotes",
     "title": "Workers’ health under climate change: Excessive Heat",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nThinkHazard! Global Extreme Heat Hazard. World Bank Data Catalog. https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard↩︎\nRao, N. et al. Global inequality in environmental conditions. Environmental Research Letters. https://doi.org/10.1088/2515-7620/ae0407↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎"
+    "text": "Footnotes\n\n\nThinkHazard! Global Extreme Heat Hazard. World Bank Data Catalog. https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard↩︎\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎"
   },
   {
     "objectID": "people.pt/staff/Trevizan.html",
@@ -872,7 +830,7 @@
     "href": "datavis.html",
     "title": "Datavis",
     "section": "",
-    "text": "Brazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstellation of inspections\n\n\n\ndatavis\n\ndecent work\n\nlabour inspection\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nAug 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nMay 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: UV Radiation\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Agrochemicals\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Vector-borne diseases\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Agrochemicals\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Water Sanitisation and Hygiene\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of six infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Agrochemicals\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate change and enviromental related risk: Agrochemicals\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Air pollution\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Excessive Heat\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of dez infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nOct 30, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Workers’ health under climate change: Extreme weather events (Wildfires)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of dez infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme weather events (Floods)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of dez infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme events (Droughts)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [^1] [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Air pollution\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Vector-borne diseases\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Agrochemicals\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Water Sanitisation and Hygiene\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: UV Radiation\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Excessive Heat\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [^1] [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstellation of inspections\n\n\n\ndatavis\n\ndecent work\n\nlabour inspection\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nAug 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nMay 9, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/2024-07-20_theorical-framework/index.html",

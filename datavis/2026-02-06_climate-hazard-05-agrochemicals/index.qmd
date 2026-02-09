@@ -1,12 +1,12 @@
 ---
 title: "Workers' health under climate change: Agrochemicals"
-description: Series of ten infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+description: Series of ten infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)[^1]
 
-date: 2024-10-30
-date-modified: 2026-02-04
-draft: true
+date: 2026-02-06
+date-modified: 2026-02-06
+draft: false
 draft-mode: visible 
-image: img/agrochemicals_logo.png
+image: img/agrochemicals_logo_02.png
 execute:
   echo: false
 categories:

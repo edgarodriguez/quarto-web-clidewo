@@ -1,0 +1,106 @@
+---
+title: "Workers' health under climate change: UV Radiation"
+description: Series of ten infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+
+date: 2026-02-04
+date-modified: 2026-02-04
+draft: true
+draft-mode: visible 
+image: img/uv_radiation_logo_02.png
+preview: false 
+execute:
+  echo: false
+categories:
+  - datavis
+  - Climate change
+  - Workers Health
+  - Tableau
+lang: en
+format: 
+  html:
+    page-layout: full
+#    code-tools: true
+embed-resources: true
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+
+
+
+## Effect of excessive UV Radiation on workers' health
+
+Agricultural workers are highly exposed to ultraviolet (UV) radiation due to prolonged outdoor work, often with limited access to protective measures, constituting a significant and frequently underestimated risk  [^1]
+
+**Short-term effects** include sunburn (erythema), eye irritation, photokeratitis, and acute heat-UV interactions that intensify dehydration and fatigue. These effects can reduce work capacity and increase the likelihood of errors and injuries.
+
+**Long-term exposure** is strongly associated with non-melanoma and melanoma skin cancers, premature skin aging, immune system suppression, and chronic eye conditions such as cataracts and pterygium. Repeated UV exposure over a working lifetime disproportionately affects agricultural workers, contributing to long-term health burdens, loss of income, and reduced quality of life.
+
+Addressing UV radiation through access to protective clothing, shaded rest areas, adjusted work schedules, and occupational health policies is essential to safeguard workers’ health and uphold decent work standards in agriculture.
+
+### UV Radiation score
+
+UV-Radiation is based on normalisation of the number "High-UV" days = daily dose ≥ 5.5 kJ/m²/day (Equivalent to UVI ≥ 8) (average 2021 to 2024) [^2]
+
+Data visualization summarizes the analysis of excessive heat in **Brazil**, disaggregated by **municipality, population, and crops**, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture.
+
+
+---
+
+
+
+![](img/02_viz_uv_radiation.png){width=100% height=100% loading="lazy"}
+
+
+
+
+### Download {.appendix}
+
+
+{{< downloadthis img/viz_uv_radiation.pdf dname=clidewo_climate_hazard_uv_radiation label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+
+
+---
+
+[^1]: International Labour Organization (ILO). *Ensuring safety and health at work in a changing climate*. [https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm](https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm)
+
+[^2]: TEMIS - Daily UV index and UV dose data from MSR- 2 ( uv dec ) [https://www.temis.nl/uvradiation/UVarchive/uvncfiles_msr2.php](https://www.temis.nl/uvradiation/UVarchive/uvncfiles_msr2.php)
+
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

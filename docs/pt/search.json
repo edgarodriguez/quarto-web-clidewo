@@ -378,6 +378,27 @@
     "text": "Notas de rodapé\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎"
   },
   {
+    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html",
+    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html",
+    "title": "Saúde dos trabalhadores em um contexto de mudanças climáticas: Radiação UV",
+    "section": "",
+    "text": "Os trabalhadores agrícolas estão altamente expostos à radiação ultravioleta (UV) devido ao trabalho prolongado ao ar livre, muitas vezes com acesso limitado a medidas de proteção, o que constitui um risco significativo e frequentemente subestimado 1\nEfeitos a curto prazo incluem queimaduras solares (eritema), irritação ocular, fotoceratite e interações agudas entre calor e UV que intensificam a desidratação e a fadiga. Esses efeitos podem reduzir a capacidade de trabalho e aumentar a probabilidade de erros e lesões.\nA exposição a longo prazo está fortemente associada a cânceres de pele não melanoma e melanoma, envelhecimento precoce da pele, supressão do sistema imunológico e doenças oculares crônicas, como catarata e pterígio. A exposição repetida à radiação UV ao longo da vida laboral afeta desproporcionalmente os trabalhadores agrícolas, contribuindo para problemas de saúde a longo prazo, perda de renda e redução da qualidade de vida.\n** Combater a radiação UV por meio do acesso a roupas de proteção, áreas de descanso sombreadas, horários de trabalho ajustados e políticas de saúde ocupacional é essencial para salvaguardar a saúde dos trabalhadores e manter padrões de trabalho decentes na agricultura.\n\n\nA radiação UV é baseada na normalização do número de dias com “Alta Radiação UV” = dose diária ≥ 5,5 kJ/m²/dia (equivalente a um IUV ≥ 8) (média de 2021 a 2024) 2"
+  },
+  {
+    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#efeito-da-radiação-uv-excessiva-na-saúde-dos-trabalhadores",
+    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#efeito-da-radiação-uv-excessiva-na-saúde-dos-trabalhadores",
+    "title": "Saúde dos trabalhadores em um contexto de mudanças climáticas: Radiação UV",
+    "section": "",
+    "text": "Os trabalhadores agrícolas estão altamente expostos à radiação ultravioleta (UV) devido ao trabalho prolongado ao ar livre, muitas vezes com acesso limitado a medidas de proteção, o que constitui um risco significativo e frequentemente subestimado 1\nEfeitos a curto prazo incluem queimaduras solares (eritema), irritação ocular, fotoceratite e interações agudas entre calor e UV que intensificam a desidratação e a fadiga. Esses efeitos podem reduzir a capacidade de trabalho e aumentar a probabilidade de erros e lesões.\nA exposição a longo prazo está fortemente associada a cânceres de pele não melanoma e melanoma, envelhecimento precoce da pele, supressão do sistema imunológico e doenças oculares crônicas, como catarata e pterígio. A exposição repetida à radiação UV ao longo da vida laboral afeta desproporcionalmente os trabalhadores agrícolas, contribuindo para problemas de saúde a longo prazo, perda de renda e redução da qualidade de vida.\n** Combater a radiação UV por meio do acesso a roupas de proteção, áreas de descanso sombreadas, horários de trabalho ajustados e políticas de saúde ocupacional é essencial para salvaguardar a saúde dos trabalhadores e manter padrões de trabalho decentes na agricultura.\n\n\nA radiação UV é baseada na normalização do número de dias com “Alta Radiação UV” = dose diária ≥ 5,5 kJ/m²/dia (equivalente a um IUV ≥ 8) (média de 2021 a 2024) 2"
+  },
+  {
+    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#footnotes",
+    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#footnotes",
+    "title": "Saúde dos trabalhadores em um contexto de mudanças climáticas: Radiação UV",
+    "section": "Notas de rodapé",
+    "text": "Notas de rodapé\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nTEMIS - Daily UV index and UV dose data from MSR- 2 ( uv dec ) https://www.temis.nl/uvradiation/UVarchive/uvncfiles_msr2.php↩︎"
+  },
+  {
     "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
     "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
     "title": "Mudanças climáticas e riscos ambientais: Agroquímicos",
@@ -434,48 +455,6 @@
     "text": "Notas de rodapé\n\n\nDengue outbreak in Brazil: 2024 https://www.dengue.com/Dengue-outbreak-in-Brazil-2024↩︎\nIndice de Desenvolvimento Sustentável das Cidades – Brasil https://idsc.cidadessustentaveis.org.br/↩︎"
   },
   {
-    "objectID": "datavis/2026-02-08_climate-hazard-02-radiation/index.html",
-    "href": "datavis/2026-02-08_climate-hazard-02-radiation/index.html",
-    "title": "Mudanças climáticas e riscos ambientais: radiação UV",
-    "section": "",
-    "text": "Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2026-02-08_climate-hazard-02-radiation/index.html#em-breve",
-    "href": "datavis/2026-02-08_climate-hazard-02-radiation/index.html#em-breve",
-    "title": "Mudanças climáticas e riscos ambientais: radiação UV",
-    "section": "Em breve",
-    "text": "Em breve"
-  },
-  {
-    "objectID": "datavis/2026-02-08_climate-hazard-02-radiation/index.html#download",
-    "href": "datavis/2026-02-08_climate-hazard-02-radiation/index.html#download",
-    "title": "Mudanças climáticas e riscos ambientais: radiação UV",
-    "section": "Download",
-    "text": "Download\n\n\n[Baixe em alta resolução]\n[Olhe dentro do código]\n\n\nCompartilhe em redes sociais:"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-09-floods/index.html",
-    "href": "datavis/2024-99-99_climate-hazard-09-floods/index.html",
-    "title": "Mudanças climáticas e riscos ambientais: Agroquímicos",
-    "section": "",
-    "text": "Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente International Labour Organization (ILO) 2024"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-09-floods/index.html#em-breve",
-    "href": "datavis/2024-99-99_climate-hazard-09-floods/index.html#em-breve",
-    "title": "Mudanças climáticas e riscos ambientais: Agroquímicos",
-    "section": "Em breve",
-    "text": "Em breve"
-  },
-  {
-    "objectID": "datavis/2024-99-99_climate-hazard-09-floods/index.html#download",
-    "href": "datavis/2024-99-99_climate-hazard-09-floods/index.html#download",
-    "title": "Mudanças climáticas e riscos ambientais: Agroquímicos",
-    "section": "Download",
-    "text": "Download\n\n\n[Baixe em alta resolução]\n[Olhe dentro do código]\n\n\nCompartilhe em redes sociais:"
-  },
-  {
     "objectID": "datavis/2025-05-09_health_global_pesticides_risk/index.html#baixar",
     "href": "datavis/2025-05-09_health_global_pesticides_risk/index.html#baixar",
     "title": "Risco de agrotóxicos e condições de trabalho degradantes no Brasil",
@@ -525,22 +504,22 @@
     "text": "Download\n\n\n[Baixe em alta resolução]\n[Olhe dentro do código]\n\n\nCompartilhe em redes sociais:"
   },
   {
-    "objectID": "datavis/2024-99-99_climate-hazard-08-droughts/index.html",
-    "href": "datavis/2024-99-99_climate-hazard-08-droughts/index.html",
+    "objectID": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
+    "href": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
     "title": "Mudanças climáticas e riscos ambientais: Agroquímicos",
     "section": "",
     "text": "Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente International Labour Organization (ILO) 2024"
   },
   {
-    "objectID": "datavis/2024-99-99_climate-hazard-08-droughts/index.html#em-breve",
-    "href": "datavis/2024-99-99_climate-hazard-08-droughts/index.html#em-breve",
+    "objectID": "datavis/2026-02-09_climate-hazard-09-floods/index.html#em-breve",
+    "href": "datavis/2026-02-09_climate-hazard-09-floods/index.html#em-breve",
     "title": "Mudanças climáticas e riscos ambientais: Agroquímicos",
     "section": "Em breve",
     "text": "Em breve"
   },
   {
-    "objectID": "datavis/2024-99-99_climate-hazard-08-droughts/index.html#download",
-    "href": "datavis/2024-99-99_climate-hazard-08-droughts/index.html#download",
+    "objectID": "datavis/2026-02-09_climate-hazard-09-floods/index.html#download",
+    "href": "datavis/2026-02-09_climate-hazard-09-floods/index.html#download",
     "title": "Mudanças climáticas e riscos ambientais: Agroquímicos",
     "section": "Download",
     "text": "Download\n\n\n[Baixe em alta resolução]\n[Olhe dentro do código]\n\n\nCompartilhe em redes sociais:"
@@ -606,7 +585,7 @@
     "href": "datavis.html",
     "title": "Dadosvisuais",
     "section": "",
-    "text": "Constelação de inspeções\n\n\n\ndatavis\n\ndecent work\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n18 de out. de 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nRisco de agrotóxicos e condições de trabalho degradantes no Brasil\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n9 de mai. de 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nRisco de agrotóxicos e condições de trabalho degradantes no Brasil\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n9 de mai. de 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaúde dos trabalhadores em um contexto de mudanças climáticas: Radiação UV\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSSérie de dez infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudanças climáticas e riscos ambientais: Agroquímicos\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaúde dos trabalhadores em um contexto de mudanças climáticas: doenças transmitidas por vetores\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSérie de dez infográficos que descrevem os principais riscos para a saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudanças climáticas e riscos ambientais: Agroquímicos\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudanças climáticas e riscos ambientais: Agroquímicos\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudanças climáticas e riscos ambientais: Agroquímicos\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudanças climáticas e riscos ambientais: Agroquímicos\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaúde dos trabalhadores em um contexto de mudanças climáticas: Poluição do ar\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSérie de dez infográficos que descrevem os principais riscos para a saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaúde dos trabalhadores em um contexto de mudanças climáticas: calor excessivo\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSérie de dez infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente. [International Labour…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Saúde dos trabalhadores em um contexto de mudanças climáticas: Eventos climáticos extremos (Incêndios florestais)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSérie de dez infográficos descrevendo os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n9 de fev. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaúde dos trabalhadores em um contexto de mudanças climáticas: Poluição do ar\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSérie de dez infográficos que descrevem os principais riscos para a saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n7 de fev. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaúde dos trabalhadores em um contexto de mudanças climáticas: doenças transmitidas por vetores\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSérie de dez infográficos que descrevem os principais riscos para a saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n6 de fev. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Agrochemicals\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n6 de fev. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaúde dos trabalhadores em um contexto de mudanças climáticas: calor excessivo\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSérie de dez infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente. [International Labour…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n31 de dez. de 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstelação de inspeções\n\n\n\ndatavis\n\ndecent work\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n18 de out. de 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nRisco de agrotóxicos e condições de trabalho degradantes no Brasil\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n9 de mai. de 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nRisco de agrotóxicos e condições de trabalho degradantes no Brasil\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n9 de mai. de 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudanças climáticas e riscos ambientais: Agroquímicos\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudanças climáticas e riscos ambientais: Agroquímicos\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaúde dos trabalhadores em um contexto de mudanças climáticas: Radiação UV\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSSérie de dez infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do…\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nMudanças climáticas e riscos ambientais: Agroquímicos\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nR tools\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\n30 de out. de 2024\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "news.html",

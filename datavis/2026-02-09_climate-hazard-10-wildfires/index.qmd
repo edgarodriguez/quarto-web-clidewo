@@ -1,21 +1,25 @@
 ---
-title: "Climate change and enviromental related risk: Agrochemicals"
-date: 2024-10-30
-date-modified: 2024-10-30
+title: "Workers' health under climate change: Extreme weather events (Wildfires)"
+description: Series of dez infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+
+date: 2026-02-09
+date-modified: 2026-02-09
 draft: true
-draft-mode: visible 
-image: img/coming-soon.png
+draft-mode: unlinked
+image: img/wildfires_logo_02.png
 execute:
   echo: false
 categories:
   - datavis
   - Climate change
   - Workers Health
-  - R tools
+  - Tableau
 lang: en
 format: 
   html:
     page-layout: full
+#    code-tools: true
+embed-resources: true
 lightbox: true
 toc: false
 author:
@@ -37,20 +41,48 @@ author:
 library(fontawesome)
 ```
 
+::: {.callout-note}
+
+"Wildfire spreads toxic smoke across South America, straining the healthcare system"[^2]
+:::
+
+### Primary health impact
+
+Acute and chronic respiratory illness, asthma exacerbations, cardiovascular events, heat stress, eye injuries, burns, and adverse mental health outcomes.
+
+
+### Wildfire estimation
+
+Wildfires score is estimated by integrating Fire Weather Index (FWI) 2-year return period [^3], Concentration of fire outbreaks [^4], and Accumulated wildfire events (in the past 7 years) [^5].
 
 
 
-Series of six infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
-
-## Coming soon
+---
 
 
-![](img/agrochemicals-soon.png "Infographic about agrochemicals and health issues")
 
-## Download {.appendix}
+![](img/10_viz_wildfires.png){width=100% height=100%}
 
-- [Download in high resolution]
-- [Look inside the code](Depending the tool and code)
+
+
+
+### Download {.appendix}
+
+
+{{< downloadthis img/viz_wildfires.pdf dname=clidewo_climate_hazard_wildfires label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+
+
+---
+
+[^1]: International Labour Organization (ILO). *Ensuring safety and health at work in a changing climate*. [https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm](https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm)
+
+[^2]:  Sobreira, E., Lázaro, W.L., Vitorino, B.D., Frota, A.V.B. da, Young, C.E.F., Campos, D.V. de S., Viana, C.R.S., de Oliveira, E., López-Ramirez, L., de Souza, A.R., Silva, D.J. da, Ignotti, E., Hacon, S., Ignácio, Á.R.A., Muniz, C.C., Filho, M. dos S., Bogoni, J.A., 2025. Wildfires and their toll on Brazil: Who’s counting the cost? Perspectives in Ecology and Conservation 23, 214–217. [https://doi.org/10.1016/j.pecon.2025.06.003](https://doi.org/10.1016/j.pecon.2025.06.003)
+
+[^3]: ThinkHazard!: [https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard](https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard)
+
+[^4]: Índice de Desenvolvimento Sustentável das Cidades – Brasil. [https://idsc.cidadessustentaveis.org.br/](https://idsc.cidadessustentaveis.org.br/) 
+
+[^5]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
 
 
 #### Share it on social media:
@@ -73,4 +105,3 @@ Series of six infographics describing the main risks to workers' health related 
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 ```
-

@@ -4,11 +4,14 @@ description: "Interactive visualizations, infographics and content for dissemina
 lang: en
 listing:
   contents: datavis
-  feed: true
+  feed: false
   type: grid
   include:
     lang: en
   sort: "date desc"
   categories: true
+
 comments: false
+
+
 ---

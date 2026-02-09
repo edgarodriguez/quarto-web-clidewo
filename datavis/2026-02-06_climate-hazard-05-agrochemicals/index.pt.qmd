@@ -1,21 +1,25 @@
 ---
-title: "Mudanças climáticas e riscos ambientais: Agroquímicos"
-date: 2024-10-30
-date-modified: 2024-10-30
-draft: true
+title: "Workers' health under climate change: Agrochemicals"
+description: Series of ten infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)[^1]
+
+date: 2026-02-06
+date-modified: 2026-02-06
+draft: false
 draft-mode: visible 
-image: img/em-breve.png
+image: img/agrochemicals_logo_02.png
 execute:
   echo: false
 categories:
   - datavis
   - Climate change
   - Workers Health
-  - R tools
+  - Tableau
 lang: pt
 format: 
   html:
     page-layout: full
+#    code-tools: true
+embed-resources: true
 lightbox: true
 toc: false
 author:
@@ -39,20 +43,50 @@ library(fontawesome)
 
 
 
+## Effect of agrochemicals workers' health
 
-Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+**Short-term health effects** include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.
 
-## Em breve
+**Long-term exposure** to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.
+
+Addressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.
+
+### Our Agrochemicals Score
 
 
-![](img/agrochemicals-breve.png "Infográfico sobre agroquímicos e problemas de saúde")
+Agrochemicals score is estimated by integrating two indicators: Application of pesticides [^2], and Pesticides Risk Score [^3].
 
-## Download {.appendix}
 
-- [Baixe em alta resolução]
-- [Olhe dentro do código]
+Data visualization summarizes the analysis of excessive heat in **Brazil**, disaggregated by **municipality, population, and crops**, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture.
 
-#### Compartilhe em redes sociais:
+
+---
+
+
+
+![](img/02_viz_agrochemicals.png){width=100% height=100%}
+
+
+
+
+### Download {.appendix}
+
+
+{{< downloadthis img/viz_agrochemicals.pdf dname=clidewo_climate_hazard_agrochemicals label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+
+
+---
+
+[^1]: International Labour Organization (ILO). *Ensuring safety and health at work in a changing climate*. [https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm](https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm)
+
+[^2]: Ormaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. [https://doi.org/10.1088/2515-7620/ae0407](https://doi.org/10.1088/2515-7620/ae0407)
+
+[^3]: Tang, F.H.M., Lenzen, M., McBratney, A., Maggi, F., 2021. Risk of pesticide pollution at the global scale. Nat. Geosci. 14, 206–210. [https://doi.org/10.1038/s41561-021-00712-5](https://doi.org/10.1038/s41561-021-00712-5)
+
+
+
+
+#### Share it on social media:
 
 ```{=html}
 <!-- AddToAny BEGIN -->
@@ -72,4 +106,3 @@ Série de seis infográficos que descrevem os principais riscos à saúde dos tr
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 ```
-
