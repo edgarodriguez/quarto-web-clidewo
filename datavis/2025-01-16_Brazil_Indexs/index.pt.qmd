@@ -2,8 +2,8 @@
 title: "Risco de agrotóxicos e condições de trabalho degradantes no Brasil"
 date: "2025-05-09"
 date-modified: "2025-05-09"
-# draft: true
-# draft-mode: visible 
+draft: true
+draft-mode: gone 
 image: img/infographic-agrchemicals-high.png
 execute:
   echo: false

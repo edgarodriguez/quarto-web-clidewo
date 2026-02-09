@@ -4,9 +4,9 @@ description: Série de dez infográficos que descrevem os principais riscos à s
 
 date: 2025-12-31
 date-modified: 2026-02-09
-draft: true
+draft: false
 draft-mode: visible 
-image: img/heat_logo_02.png
+image: img/excessive_heat_logo_02.png
 execute:
   echo: false
 categories:

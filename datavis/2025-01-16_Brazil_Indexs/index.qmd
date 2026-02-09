@@ -3,7 +3,7 @@ title: "Brazil's pesticide risk and degrating working conditions"
 date: "2025-12-09"
 date-modified: "2026-01-19"
 draft: true
-draft-mode: unlinked #gone #visible or #unlinked 
+draft-mode: gone #gone #visible or #unlinked 
 image: img/infographic-agrchemicals-high.png
 execute:
   echo: false
