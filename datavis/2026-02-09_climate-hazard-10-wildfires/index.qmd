@@ -41,7 +41,7 @@ author:
 library(fontawesome)
 ```
 
-::: {.callout-note}
+::: {.centered}
 
 "Wildfire spreads toxic smoke across South America, straining the healthcare system"[^2]
 :::

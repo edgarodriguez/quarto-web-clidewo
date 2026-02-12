@@ -8,7 +8,9 @@ listing:
   type: grid
   include:
     lang: en
-  sort: "date desc"
+  sort: "date-modified desc"
+  filter-ui: false
+  sort-ui: true
   categories: true
 
 comments: false
