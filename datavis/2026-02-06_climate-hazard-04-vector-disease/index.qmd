@@ -3,14 +3,13 @@ title: "Workers' health under climate change: Vector-borne diseases"
 description: Series of ten infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
 
 date: 2026-02-06
-date-modified: 2026-02-06
+date-modified: 2026-02-13
 draft: false
 draft-mode: visible 
 image: img/vectorborne_logo_02.png
 execute:
   echo: false
 categories:
-  - datavis
   - Climate change
   - Workers Health
   - Tableau
@@ -45,15 +44,17 @@ library(fontawesome)
 
 ## Dengue in Brazil 
 
-In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record [^2]
+In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record[^2]
 
 ### Our vector-borne diseases Score
 
 
-**Vector-borne diseases** score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030) [^3], Incidence of dengue per 100,000 inhabitants [^4] 
-Í
+**Vector-borne diseases** score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030)[^3], Incidence of dengue per 100,000 inhabitants[^4] 
 
-Data visualization summarizes the analysis of excessive heat in **Brazil**, disaggregated by **municipality, population, and crops**, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture.
+
+Data visualization summarizes the analysis of excessive heat in **Brazil**, disaggregated by **municipality, population, and crops**, to identify spatial differences and exposure to vector-borne dieases (dengue) hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture.
+
+Vector-borne diseases is one of the main risks to workers' health related to climate change and the environment[^1]
 
 ---
 
@@ -72,12 +73,12 @@ Data visualization summarizes the analysis of excessive heat in **Brazil**, disa
 
 [^1]: International Labour Organization (ILO). *Ensuring safety and health at work in a changing climate*. [https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm](https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm)
 
-[^2]: Dengue outbreak in Brazil: 2024 [https://www.dengue.com/Dengue-outbreak-in-Brazil-2024](https://www.dengue.com/Dengue-outbreak-in-Brazil-2024)
+[^2]: Dengue outbreak in Brazil 2024 [https://www.dengue.com/Dengue-outbreak-in-Brazil-2024](https://www.dengue.com/Dengue-outbreak-in-Brazil-2024)
 
 [^3]: AdaptaBrasil [https://sistema.adaptabrasil.mcti.gov.br/](https://sistema.adaptabrasil.mcti.gov.br/)
 
 
-[^4]: Indice de Desenvolvimento Sustentável das Cidades – Brasil [https://idsc.cidadessustentaveis.org.br/](https://idsc.cidadessustentaveis.org.br/)
+[^4]: Indice de Desenvolvimento Sustentável das Cidades Brasil [https://idsc.cidadessustentaveis.org.br/](https://idsc.cidadessustentaveis.org.br/)
 
 
 

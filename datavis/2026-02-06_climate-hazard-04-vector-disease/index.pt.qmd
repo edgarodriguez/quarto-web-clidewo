@@ -3,14 +3,13 @@ title: "Saúde dos trabalhadores em um contexto de mudanças climáticas: doenç
 description: Série de dez infográficos que descrevem os principais riscos para a saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do Trabalho (OIT) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
 
 date: 2026-02-06
-date-modified: 2026-02-06
+date-modified: 2026-02-13
 draft: false
 draft-mode: visible 
 image: img/vectorborne_logo_02.png
 execute:
   echo: false
 categories:
-  - datavis
   - Climate change
   - Workers Health
   - Tableau
@@ -43,14 +42,13 @@ library(fontawesome)
 
 ## Dengue no Brasil
 
-Em 2024, o Brasil ultrapassou sua pior projeção para casos de dengue em junho de 2024, com um recorde de 5,5 milhões de infecções relatadas, representando um aumento de 240% em relação aos 1,6 milhão de casos registrados em 2023, que já figurava entre os mais altos da história [^2]
+Em 2024, o Brasil ultrapassou sua pior projeção para casos de dengue em junho de 2024, com um recorde de 5,5 milhões de infecções relatadas, representando um aumento de 240% em relação aos 1,6 milhão de casos registrados em 2023, que já figurava entre os mais altos da história[^2]
 
 ### Nosso Índice de Doenças Transmitidas por Vetores
 
-O índice de doenças transmitidas por vetores é estimado pela integração do Índice de Risco Climático (Saúde) relacionado à ocorrência de dengue, zika e chikungunya (cenário médio para 2030) [^3] e pela incidência de dengue por 100.000 habitantes [^4]
+O índice de doenças transmitidas por vetores é estimado pela integração do Índice de Risco Climático (Saúde) relacionado à ocorrência de dengue, zika e chikungunya (cenário médio para 2030)[^3] e pela incidência de dengue por 100.000 habitantes[^4]
 
-Í
-
+Doenças transmitidas por vetores são um dos principais riscos para a saúde dos trabalhadores relacionados com as alterações climáticas e o ambiente[^1]
 
 ---
 
