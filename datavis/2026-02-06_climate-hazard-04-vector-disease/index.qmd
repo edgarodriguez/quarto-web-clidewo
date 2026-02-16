@@ -59,7 +59,6 @@ Vector-borne diseases is one of the main risks to workers' health related to cli
 ---
 
 
-
 ![](img/04_viz_vector.png){width=100% height=100%}
 
 
@@ -70,6 +69,7 @@ Vector-borne diseases is one of the main risks to workers' health related to cli
 
 
 ---
+
 
 [^1]: International Labour Organization (ILO). *Ensuring safety and health at work in a changing climate*. [https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm](https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm)
 

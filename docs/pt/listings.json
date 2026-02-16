@@ -23,9 +23,13 @@
     ]
   },
   {
-    "listing": "/publications.html",
+    "listing": "/news.html",
     "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
+      "/news/2026-02-16_WorkshopBrasilia.html",
+      "/news/2025-11-11_COP30.html",
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
     ]
   },
   {
@@ -46,12 +50,9 @@
     ]
   },
   {
-    "listing": "/news.html",
+    "listing": "/publications.html",
     "items": [
-      "/news/2025-11-11_COP30.html",
-      "/news/2025-10-13_GPTEC.html",
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
+      "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
   {

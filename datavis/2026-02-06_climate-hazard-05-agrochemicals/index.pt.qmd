@@ -3,14 +3,14 @@ title: "Workers' health under climate change: Agrochemicals"
 description: Series of ten infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)[^1]
 
 date: 2026-02-06
-date-modified: 2026-02-06
+date-modified: 2026-02-16
 draft: false
 draft-mode: visible 
 image: img/agrochemicals_logo_02.png
 execute:
   echo: false
 categories:
-  - datavis
+
   - Climate change
   - Workers Health
   - Tableau
@@ -43,21 +43,15 @@ library(fontawesome)
 
 
 
-## Effect of agrochemicals workers' health
+## Efeito dos agrotóxicos na saúde dos trabalhadores
 
-**Short-term health effects** include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.
+Os trabalhadores agrícolas são frequentemente expostos a agroquímicos (como pesticidas, herbicidas e fertilizantes) por contato com a pele, inalação ou ingestão de alimentos e água contaminados. Essa exposição pode causar efeitos na saúde a curto prazo, como irritação da pele, problemas oculares, dores de cabeça, náuseas e dificuldades respiratórias. A exposição a longo prazo é mais grave e tem sido associada a doenças respiratórias crônicas, disfunções hormonais, problemas reprodutivos, danos aos nervos e aumento do risco de certos tipos de câncer. A disponibilidade limitada de equipamentos de proteção e a falta de treinamento podem agravar esses riscos à saúde dos trabalhadores.
 
-**Long-term exposure** to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.
+### Nossa Pontuação de Agroquímicos
 
-Addressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.
+A pontuação de agroquímicos é estimada pela integração de dois indicadores: Aplicação de pesticidas [^2] e Pontuação de Risco de Pesticidas [^3].
 
-### Our Agrochemicals Score
-
-
-Agrochemicals score is estimated by integrating two indicators: Application of pesticides [^2], and Pesticides Risk Score [^3].
-
-
-Data visualization summarizes the analysis of excessive heat in **Brazil**, disaggregated by **municipality, population, and crops**, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture.
+A visualização de dados resume a análise do calor excessivo no **Brasil**, desagregada por **município, população e culturas**, para identificar diferenças espaciais e pontos críticos de estresse térmico em todas as dimensões. Ao traduzir dados climáticos e socioambientais complexos em formatos visuais acessíveis, a visualização de dados apoia uma melhor tomada de decisão, permitindo intervenções direcionadas, priorização de riscos e políticas que promovam trabalho decente na agricultura.
 
 
 ---

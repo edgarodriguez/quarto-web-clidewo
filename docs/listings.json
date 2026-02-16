@@ -24,18 +24,20 @@
     ]
   },
   {
-    "listing": "/publications.html",
+    "listing": "/datavis.html",
     "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2025-11-11_COP30.html",
-      "/news/2025-10-13_GPTEC.html",
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
+      "/datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
+      "/datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
+      "/datavis/2025-12-31_climate-hazard-01-heat/index.html",
+      "/datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
+      "/datavis/2026-02-09_climate-hazard-09-floods/index.html",
+      "/datavis/2026-02-09_climate-hazard-08-droughts/index.html",
+      "/datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
+      "/datavis/2026-02-06_climate-hazard-06-wash/index.html",
+      "/datavis/2026-02-04_climate-hazard-02-radiation/index.html",
+      "/datavis/2025-01-16_Brazil_Indexs/index.html",
+      "/datavis/2025-10-18_labour_inspections/index.html",
+      "/datavis/2025-05-09_health_global_pesticides_risk/index.html"
     ]
   },
   {
@@ -63,20 +65,19 @@
     ]
   },
   {
-    "listing": "/datavis.html",
+    "listing": "/news.html",
     "items": [
-      "/datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
-      "/datavis/2025-12-31_climate-hazard-01-heat/index.html",
-      "/datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
-      "/datavis/2026-02-09_climate-hazard-09-floods/index.html",
-      "/datavis/2026-02-09_climate-hazard-08-droughts/index.html",
-      "/datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
-      "/datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
-      "/datavis/2026-02-06_climate-hazard-06-wash/index.html",
-      "/datavis/2026-02-04_climate-hazard-02-radiation/index.html",
-      "/datavis/2025-01-16_Brazil_Indexs/index.html",
-      "/datavis/2025-10-18_labour_inspections/index.html",
-      "/datavis/2025-05-09_health_global_pesticides_risk/index.html"
+      "/news/2026-02-16_WorkshopBrasilia.html",
+      "/news/2025-11-11_COP30.html",
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
   {
