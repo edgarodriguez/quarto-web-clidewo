@@ -17,5 +17,3 @@ listing:
     - "title desc"
 page-layout: full    
 ---
-
-Estamos desenvolvendo nossos conjuntos de dados, **“Risco de saúde ocupacional em trabalhadores agrícolas no Brasil”** 🙂

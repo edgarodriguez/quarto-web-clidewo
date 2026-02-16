@@ -1,0 +1,78 @@
+---
+title: "Climate-Health Hot Spots in Brazil Agriculture"
+description: "Output data from manuscript: Mapping Climate-Health Hot Spots: Implications for Workers’ Health and Decent Work in Brazilian Agriculture"
+date: 2026-02-16
+date-modified: 2026-02-16
+draft: false
+draft-mode: visible 
+# image: img/excessive_heat_logo_02.png
+execute:
+  echo: false
+categories:
+  - Workers Health
+lang: en
+format: 
+  html:
+    page-layout: full
+#    code-tools: true
+embed-resources: true
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+
+Output data from manuscript: Mapping Climate-Health Hot Spots: Implications for Workers’ Health and Decent Work in Brazilian Agriculture.
+
+Access: [https://zenodo.org/uploads/18632647](https://zenodo.org/uploads/18632647)
+
+Data contains:
+
+**SINAN** crude incidence from 2009 to 2024, for four categories that had the highest incidence rates in the agriculture sector: (1) work-related accidents (ACGR), (2) Dengue (DENG), (3) external poisoning linked to agrochemicals (IEXO) and (4) cases of violence (VIOL). We only consider entries classified with the occupational classification “6; Trabalhadores Agropecuários”, Brazilian Classification of Occupations in occupational status (CBO). We derived the number of agricultural workers from the Agricultural Censuses (Tabelas 1113 and 6884 for 2006 and 2017, respectively).
+
+**SIHSUS** hospital admission rates filtered by working-age population (15–64 years), as a proxy measure for incidence as per the International Classification of Diseases 10th revision (ICD-10), at the municipality level between 2003 and 2024, using a selection of 900 ICD-10 climate-related diseases regarding morbidity related to five key occupational health risks outlined in "Health at Work in a Changing-Climate" (ILO, 2024), (excessive heat, air pollution, UV radiation, vector-borne diseases[1], and agrochemical exposure), plus waterborne diseases as lack of proper WASH facilities was detected as one of the main issues detected in labour inspection. Although ICDs cannot be entirely attributed to climate-related factors, we have included them in the analysis, considering a narrative literature review and official occupational health information from the Brazilian. Then adjusted incidence rates using age-adjusted rates, reflecting the Brazilian average population from 2003 to 2020 as the standard population.
+
+
+
+---
+
+
+
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

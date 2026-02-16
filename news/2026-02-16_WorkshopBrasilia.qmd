@@ -3,7 +3,7 @@ title: "National Workshop in Brasília Debates Climate Change, Health, and Labor
 lang: en
 date: 2026-02-16
 date-modified: 2026-02-16
-author: "Isabel Domingos Martinez Dos Santos"
+author: "Marília Dias e Isabel Domingos"
 image: "2026-02-16_PostSite.png"
 execute:
   echo: false

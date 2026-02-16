@@ -1,0 +1,77 @@
+---
+title: "Pontos críticos de clima e saúde na agricultura brasileira"
+description: "Dados de saída do manuscrito: Mapeamento de pontos críticos de clima e saúde: implicações para a saúde dos trabalhadores e trabalho decente na agricultura brasileira."
+date: 2026-02-16
+date-modified: 2026-02-16
+draft: false
+draft-mode: visible 
+# image: img/excessive_heat_logo_02.png
+execute:
+  echo: false
+categories:
+  - Workers Health
+lang: pt
+format: 
+  html:
+    page-layout: full
+#    code-tools: true
+embed-resources: true
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+Dados de saída do manuscrito: Mapeamento de Pontos Críticos de Clima e Saúde: Implicações para a Saúde dos Trabalhadores e Trabalho Decente na Agricultura Brasileira.
+
+Acesso: [https://zenodo.org/uploads/18632647](https://zenodo.org/uploads/18632647)
+
+Os dados contêm:
+
+Incidência bruta do SINAN de 2009 a 2024, para quatro categorias que apresentaram as maiores taxas de incidência no setor agrícola: (1) acidentes de trabalho (AT), (2) dengue (DENG), (3) intoxicação externa por agrotóxicos (IEAP) e (4) casos de violência (VIOL). Consideramos apenas os registros classificados com a classificação ocupacional “6; Trabalhadores Agropecuários”, Classificação Nacional de Ocupações (CBO). Obtivemos o número de trabalhadores agrícolas a partir dos Censos Agropecuários (Tabelas 1113 e 6884 para 2006 e 2017, respectivamente).
+
+As taxas de internação hospitalar do **SIHSUS**, filtradas pela população em idade ativa (15 a 64 anos), foram utilizadas como medida indireta de incidência, de acordo com a Classificação Internacional de Doenças, 10ª revisão (CID-10), em nível municipal, entre 2003 e 2024, utilizando uma seleção de 900 doenças relacionadas ao clima, segundo a CID-10, referentes à morbidade associada a cinco principais riscos ocupacionais à saúde, conforme descrito em "Saúde no Trabalho em um Clima em Mudança" (OIT, 2024): calor excessivo, poluição do ar, radiação UV, doenças transmitidas por vetores[1] e exposição a agrotóxicos. Além disso, foram utilizadas doenças transmitidas pela água, visto que a falta de instalações adequadas de água, saneamento e higiene (WASH) foi identificada como um dos principais problemas detectados na inspeção do trabalho. Embora as doenças crônicas não possam ser atribuídas inteiramente a fatores relacionados ao clima, incluímos essas doenças na análise, considerando uma revisão narrativa da literatura e informações oficiais de saúde ocupacional do Brasil. Em seguida, ajustamos as taxas de incidência utilizando taxas ajustadas por idade, refletindo a média da população brasileira de 2003 a 2020 como população padrão.
+
+
+
+---
+
+
+
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

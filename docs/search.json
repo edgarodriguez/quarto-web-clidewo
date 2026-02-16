@@ -308,466 +308,60 @@
     "text": "Acknowledgement\nThis project is funded by the British Academy’s ODA Challenge-Oriented Research Grants 2024 Programme (IOCRG100945), supported under the UK Government’s International Science Partnerships Fund.\n\nShare it on social media:"
   },
   {
-    "objectID": "publications/2024-07-20_theorical-framework/index.html",
-    "href": "publications/2024-07-20_theorical-framework/index.html",
-    "title": "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations",
+    "objectID": "resources/2026-02-16_climate-health/index.html",
+    "href": "resources/2026-02-16_climate-health/index.html",
+    "title": "Climate-Health Hot Spots in Brazil Agriculture",
     "section": "",
-    "text": "This essay explores the theoretical and conceptual nexus between climate change, workers’health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil, offering a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations.\n \n Check it out here 👉 https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12"
+    "text": "Output data from manuscript: Mapping Climate-Health Hot Spots: Implications for Workers’ Health and Decent Work in Brazilian Agriculture.\nAccess: https://zenodo.org/uploads/18632647\nData contains:\nSINAN crude incidence from 2009 to 2024, for four categories that had the highest incidence rates in the agriculture sector: (1) work-related accidents (ACGR), (2) Dengue (DENG), (3) external poisoning linked to agrochemicals (IEXO) and (4) cases of violence (VIOL). We only consider entries classified with the occupational classification “6; Trabalhadores Agropecuários”, Brazilian Classification of Occupations in occupational status (CBO). We derived the number of agricultural workers from the Agricultural Censuses (Tabelas 1113 and 6884 for 2006 and 2017, respectively).\nSIHSUS hospital admission rates filtered by working-age population (15–64 years), as a proxy measure for incidence as per the International Classification of Diseases 10th revision (ICD-10), at the municipality level between 2003 and 2024, using a selection of 900 ICD-10 climate-related diseases regarding morbidity related to five key occupational health risks outlined in “Health at Work in a Changing-Climate” (ILO, 2024), (excessive heat, air pollution, UV radiation, vector-borne diseases[1], and agrochemical exposure), plus waterborne diseases as lack of proper WASH facilities was detected as one of the main issues detected in labour inspection. Although ICDs cannot be entirely attributed to climate-related factors, we have included them in the analysis, considering a narrative literature review and official occupational health information from the Brazilian. Then adjusted incidence rates using age-adjusted rates, reflecting the Brazilian average population from 2003 to 2020 as the standard population.\n\n\nShare it on social media:"
   },
   {
-    "objectID": "publications/2024-07-20_theorical-framework/index.html#abstract",
-    "href": "publications/2024-07-20_theorical-framework/index.html#abstract",
-    "title": "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations",
-    "section": "",
-    "text": "This essay explores the theoretical and conceptual nexus between climate change, workers’health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil, offering a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations.\n \n Check it out here 👉 https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12"
-  },
-  {
-    "objectID": "datavis.html",
-    "href": "datavis.html",
-    "title": "Datavis",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Agrochemicals\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Vector-borne diseases\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Excessive Heat\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme weather events (Wildfires)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of dez infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme weather events (Floods)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of dez infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme events (Droughts)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [^1] [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Air pollution\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Water Sanitisation and Hygiene\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: UV Radiation\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstellation of inspections\n\n\n\ndatavis\n\ndecent work\n\nlabour inspection\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nAug 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nMay 9, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "my-venv/lib/python3.14/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
-    "href": "my-venv/lib/python3.14/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "objectID": "people.qmd.backup.html",
+    "href": "people.qmd.backup.html",
     "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
     "section": "",
-    "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "Home\n    People"
   },
   {
-    "objectID": "my-venv/lib/python3.14/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
-    "href": "my-venv/lib/python3.14/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "objectID": "people.qmd.backup.html#our-team",
+    "href": "people.qmd.backup.html#our-team",
+    "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
+    "section": "Our team",
+    "text": "Our team"
+  },
+  {
+    "objectID": "my-venv/lib/python3.14/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html",
+    "href": "my-venv/lib/python3.14/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html",
     "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
     "section": "",
-    "text": "Copyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "posts/2024-01-29_enslaved_ethanol/index.html",
-    "href": "posts/2024-01-29_enslaved_ethanol/index.html",
-    "title": "The Hidden Cost of Renewables: Modern Slavery in Ethanol supply chain",
+    "objectID": "my-venv/lib/python3.14/site-packages/soupsieve-2.8.dist-info/licenses/LICENSE.html",
+    "href": "my-venv/lib/python3.14/site-packages/soupsieve-2.8.dist-info/licenses/LICENSE.html",
+    "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
     "section": "",
-    "text": "Enslaved in Ethanol\nEthanol is widely recognized as a important solution to reducing greenhouse gas emissions in transport sector and combating climate change. As the second-largest ethanol producer, Brazil plays a significant role in the global biofuel industry. However, despite its environmental benefits, ethanol production raises serious concerns regarding labour rights, occupational health, and social justice. The recent report Enslaved in Ethanol by Reportér Brasil highlights the exploitation and unsafe working conditions faced by sugarcane workers.\n\n“The situations reported in sugarcane fields linked to their operations include workers killed in fires, forced to sleep on the ground, unable to leave their jobs because of illegal debts imposed by their employers, and even hit by pesticides dropped from airplanes.”\n\nMany workers are subjected to debt bondage and unpredictable wages due to unfair deductions, paying for their own travel, accommodation, and food. Additionally, extreme working hours and lack of formal contracts deny workers access to essential social security benefits. Some workers report sleeping only four hours a night, as long commutes and exhausting shifts make proper rest impossible. Moreover, sugarcane workers are frequently exposed to hazardous pesticides, experience severe physical effort, and high risks of heat-related illnesses.\n\n“Workers reported to inspectors that they had been sprayed on with pesticides. The plane that allegedly did the spraying can be seen in the photo taken by one of them on his cell phone.”\n\n\n\n\nSource: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides\n\n\nAddressing these challenges requires stronger enforcement of labour laws, greater corporate accountability, and improved oversight in supply chains. A just transition in the ethanol industry must prioritize not only environmental sustainability but also the protection of workers’ rights and well-being. Governments, companies, and financial institutions must take decisive action to eliminate modern slavery, ensure fair wages, and provide safe working conditions. Ethanol may be a cleaner fuel alternative, but it must not come at the cost of human lives, dignity and fundamental labour rights.\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
+    "text": "MIT License\nCopyright (c) 2018 - 2025 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
-    "objectID": "people.pt/staff/Andrade.html",
-    "href": "people.pt/staff/Andrade.html",
-    "title": "Gabriela de Andrade Nogueira Gonçalves",
+    "objectID": "my-venv/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.html",
+    "href": "my-venv/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.html",
+    "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Gabriela de Andrade Nogueira Gonçalves"
+    "text": "BSD 3-Clause License\nCopyright (c) 2013-2025, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "people.pt/staff/Andrade.html#biografia",
-    "href": "people.pt/staff/Andrade.html#biografia",
-    "title": "Gabriela de Andrade Nogueira Gonçalves",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nMestre em Direito Agroambiental pela Universidade Federal de Mato Grosso. Bacharel em Direito pela Universidade Federal de Mato Grosso. Membro do grupo de pesquisa “Meio ambiente do trabalho equilibrado como componente do trabalho decente” e do Grupo Interdisciplinar de Pesquisa Ambiental - GIPA (2019 - atual). Advogada. Assessora jurídica na Procuradoria Especializada em Defesa Ambiental e da Ordem Urbanística no Ministério Público do Estado de Mato Grosso (2018 - mar.2024 - nov. 2024 - atual). Assessoria Jurídica no Núcleo de Apoio aos Recursos aos Tribunais Superiores (NARE) no Ministério Público do Estado de Mato Grosso."
-  },
-  {
-    "objectID": "people.pt/staff/Abrahao.html",
-    "href": "people.pt/staff/Abrahao.html",
-    "title": "Ivi Tavares Abrahão Castillero",
+    "objectID": "posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
+    "href": "posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
+    "title": "What is a Climate Risk Vulnerability Assessment?",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Ivi Tavares Abrahão Castillero"
+    "text": "Working in process\nCRVA is part of the project’s working packages (WPs). In the blog we describe what it is, how it differs from the rest of the risk assessments and how it can be applied in better decision making.\n\n\n\n\n\nReuseCC BY 4.0"
   },
   {
-    "objectID": "people.pt/staff/Abrahao.html#biografia",
-    "href": "people.pt/staff/Abrahao.html#biografia",
-    "title": "Ivi Tavares Abrahão Castillero",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nGraduação em Medicina pela Universidade Federal Fluminense (2008). Especialista em Medicina de Família e Comunidade. Fez preceptoria do Programa PET - Saúde/ UFF. Mestra em Saúde Pública, fez Mestrado Profissional em Trabalho, Saúde, Ambiente e Movimentos Sociais na ENSP - FIOCRUZ. Foi supervisora do Programa Mais Médicos Grupo Especial Amazônia de 2015 a 2018. Atualmente supervisora Programa Mais Médicos Grupo Especial DSEI Leste. Formação em Medicina Tradicional Chinesa pela Escola Neijing. Coordenação de Cursos de Práticas Tradicionais e Complementares de saúde em áreas rurais em parceria com FIOCRUZ. Preceptora de estudantes de medicina do internato na ESF- RJ (UFF e UNIGRANRIO)."
-  },
-  {
-    "objectID": "people.pt/staff/Reita.html",
-    "href": "people.pt/staff/Reita.html",
-    "title": "Carla Reita Leal",
+    "objectID": "posts/25-05-15_storytelling_lego/index.html",
+    "href": "posts/25-05-15_storytelling_lego/index.html",
+    "title": "LEGO-tellying",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Carla Reita Leal"
-  },
-  {
-    "objectID": "people.pt/staff/Reita.html#biografia",
-    "href": "people.pt/staff/Reita.html#biografia",
-    "title": "Carla Reita Leal",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nDra. Carla Reita Faria Leal é Doutora e Mestre em Direito das Relações Sociais, subárea Direito do Trabalho, pela Pontifícia Universidade Católica de São Paulo (PUC/SP). Professora associada da Universidade Federal de Mato Grosso (UFMT), atua no ensino, pesquisa e extensão, integrando o saber acadêmico e o compromisso social.\nRealizou pós-doutorado e foi visiting fellow no Rights Lab, da University of Nottingham (Reino Unido).\nÉ palestrante em eventos acadêmicos, jurídicos e interinstitucionais, com foco em temas como trabalho decente, direitos humanos, políticas públicas e enfrentamento ao trabalho escravo.\nÉ Coordenadora Adjunta do Programa de Pós-Graduação em Direito da UFMT (2023–2025), lidera grupo de pesquisa e coordena o Projeto de Extensão PAI – voltado à qualificação e reinserção de trabalhadores resgatados de condições análogas à escravidão."
-  },
-  {
-    "objectID": "people.pt/staff/Siviero.html",
-    "href": "people.pt/staff/Siviero.html",
-    "title": "André Augusto Siviero",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    André Augusto Siviero"
-  },
-  {
-    "objectID": "people.pt/staff/Siviero.html#biografia",
-    "href": "people.pt/staff/Siviero.html#biografia",
-    "title": "André Augusto Siviero",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nBacharel em Direito (UFAC) e mestrando em Direito (UFRJ). Pesquisador dos grupos de pesquisa Direito do Trabalho no Século XXI (TRAB21) e Configurações Institucionais e Relações de Trabalho (CIRT). Áreas de interesse: Desenvolvimento sustentável na Amazônia, Direitos Humanos e Direito do Trabalho."
-  },
-  {
-    "objectID": "people.pt/staff/Rodriguez-Huerta.html",
-    "href": "people.pt/staff/Rodriguez-Huerta.html",
-    "title": "Edgar Rodriguez-Huerta",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Edgar Rodriguez-Huerta"
-  },
-  {
-    "objectID": "people.pt/staff/Rodriguez-Huerta.html#biografia",
-    "href": "people.pt/staff/Rodriguez-Huerta.html#biografia",
-    "title": "Edgar Rodriguez-Huerta",
-    "section": "Biografia",
-    "text": "Biografia\nEdgar Rodríguez-Huerta trabalha como parte do Measurement and Geography Programme para pesquisar as interações entre sistemas socioecológicos, mudanças climáticas e escravidão moderna. Ele conduz pesquisas quantitativas por meio de múltiplas abordagens de pensamento sistêmico, como Avaliação do Ciclo de Vida Social e análise de dados secundários, modelagem climática, metabolismo social e redes complexas para explorar as dimensões humanas de diferentes cadeias de suprimentos (por exemplo, suprimento de alimentos, painéis solares e fornos de tijolos). Ele concluiu um PhD em Ciência da Sustentabilidade e, com sua formação em ciência de dados e Business Intelligence, é um entusiasta da visualização de dados para comunicar e publicar os resultados técnicos entre as partes interessadas e facilitar a tomada de decisões."
-  },
-  {
-    "objectID": "people.pt/staff/Ribeiro.html",
-    "href": "people.pt/staff/Ribeiro.html",
-    "title": "Ludmila Ribeiro Paiva",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Ludmila Ribeiro Paiva"
-  },
-  {
-    "objectID": "people.pt/staff/Ribeiro.html#biografia",
-    "href": "people.pt/staff/Ribeiro.html#biografia",
-    "title": "Ludmila Ribeiro Paiva",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nBacharel em Direito pela Universidade Federal do Rio de Janeiro (UFRJ), mestre em Direito pela Universidade do Estado do Rio de Janeiro (UERJ), co-fundadora do Instituto Migração, Gênero e Raça (I-MiGRa). É pesquisadora associada ao Projeto de Pesquisa Mudanças Climáticas, saúde ocupacional e trabalho decente: vulnerabilidades e respostas dos trabalhadores na agricultura brasileira, pela Universidade Federal Fluminense (UFF)."
-  },
-  {
-    "objectID": "people.pt/staff/Rosa.html",
-    "href": "people.pt/staff/Rosa.html",
-    "title": "Mariana Rosa Soares",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Mariana Rosa Soares"
-  },
-  {
-    "objectID": "people.pt/staff/Rosa.html#biografia",
-    "href": "people.pt/staff/Rosa.html#biografia",
-    "title": "Mariana Rosa Soares",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nEnfermeira. Mestre em Saúde Coletiva pela UFMT. Doutoranda pelo Programa de Pós-Graduação em Saúde Coletiva da UFMT. Pesquisadora associada do Núcleo de Estudos Ambientais e Saúde do Trabalhador (NEAST). Professora do curso de medicina do UNIVAG."
-  },
-  {
-    "objectID": "people.pt/staff/Carthew.html",
-    "href": "people.pt/staff/Carthew.html",
-    "title": "Kelsey Carthew",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Kelsey Carthew"
-  },
-  {
-    "objectID": "people.pt/staff/Carthew.html#biografia",
-    "href": "people.pt/staff/Carthew.html#biografia",
-    "title": "Kelsey Carthew",
-    "section": "Biografia",
-    "text": "Biografia\nKelsey Carthew faz parte da equipe de operações de pesquisa do Rights Lab. Ela apoia os esforços de coordenação e implementação de diversos projetos de pesquisa do Rights Lab, além de fornecer suporte operacional. Ela se juntou à equipe após sucesso em outras funções na universidade. Atualmente, ela cursa seu mestrado em Direito Internacional Público na Universidade de Nottingham."
-  },
-  {
-    "objectID": "people.pt/staff/Trevizan.html",
-    "href": "people.pt/staff/Trevizan.html",
-    "title": "Ana Flávia Trevizan",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Ana Flávia Trevizan"
-  },
-  {
-    "objectID": "people.pt/staff/Trevizan.html#biografia",
-    "href": "people.pt/staff/Trevizan.html#biografia",
-    "title": "Ana Flávia Trevizan",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nAna Flávia Trevizan é doutora em Alterações Climáticas e mestre em Direito Agroambiental. Especialista em direito climático e florestal, bem como em questões socioambientais, governança, inclusão e diversidade. Sua pesquisa examina a interseção entre o direito florestal e as políticas públicas ambientais, além de analisar a transparência e as práticas de inclusão e diversidade nas instituições financeiras no contexto da governança climática no Brasil. Atualmente, contribui para o desenvolvimento de soluções jurídicas e sustentáveis para desafios socioambientais no Rights Lab (Universidade de Nottingham). É autora de diversas publicações internacionais e membro de importantes grupos de pesquisa, como o CENSE (UNL), o CEDAT (URV) e o GPMAT (UFMT)."
-  },
-  {
-    "objectID": "datavis/2025-12-31_climate-hazard-01-heat/index.html",
-    "href": "datavis/2025-12-31_climate-hazard-01-heat/index.html",
-    "title": "Workers’ health under climate change: Excessive Heat",
-    "section": "",
-    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nThe excessive heat score is estimated by integrating three indicators: the Wet Bulb Global Temperature (WBGT) 5-year period return1, maximum WBGT2, and accumulated heat waves, defined as periods of at least three consecutive days of excessive heat3. This composite metric captures the intensity, frequency, and persistence of heat exposure, aligning with international frameworks on occupational safety and health in the context of climate change4.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2025-12-31_climate-hazard-01-heat/index.html#effect-of-excessive-heat-on-workers-health",
-    "href": "datavis/2025-12-31_climate-hazard-01-heat/index.html#effect-of-excessive-heat-on-workers-health",
-    "title": "Workers’ health under climate change: Excessive Heat",
-    "section": "",
-    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nThe excessive heat score is estimated by integrating three indicators: the Wet Bulb Global Temperature (WBGT) 5-year period return1, maximum WBGT2, and accumulated heat waves, defined as periods of at least three consecutive days of excessive heat3. This composite metric captures the intensity, frequency, and persistence of heat exposure, aligning with international frameworks on occupational safety and health in the context of climate change4.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2025-12-31_climate-hazard-01-heat/index.html#footnotes",
-    "href": "datavis/2025-12-31_climate-hazard-01-heat/index.html#footnotes",
-    "title": "Workers’ health under climate change: Excessive Heat",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThinkHazard! Global Extreme Heat Hazard. World Bank Data Catalog. https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard↩︎\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎"
-  },
-  {
-    "objectID": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
-    "href": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
-    "title": "Workers’ health under climate change: Extreme weather events (Floods)",
-    "section": "",
-    "text": "Note\n\n\n\n\n\n\n\nPrimary health impact\nAcute and chronic respiratory illness, asthma exacerbations, cardiovascular events, heat stress, eye injuries, burns, and adverse mental health outcomes.\n\n\nFlood score estimation\n\n\n\n\n\nDownload\n\n Download the pdf \n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html",
-    "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html",
-    "title": "Workers’ health under climate change: Water Sanitisation and Hygiene",
-    "section": "",
-    "text": "Note\n\n\n\nDuring work inspections, inadequate water, sanitation, and hygiene (WASH) have been identified as major issues and contribute to degrading working conditions."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html#wash",
-    "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html#wash",
-    "title": "Workers’ health under climate change: Water Sanitisation and Hygiene",
-    "section": "WASH",
-    "text": "WASH\nShort-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\nWASH measure\nWASH score is estimated based on Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability 1 6 Diseases related to inadequate environmental sanitation (100k inhabitants) 2 4 Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability 3 6\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html#footnotes",
-    "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html#footnotes",
-    "title": "Workers’ health under climate change: Water Sanitisation and Hygiene",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThinkHazard! Global Extreme Heat Hazard. World Bank Data Catalog. https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard↩︎\nRao, N. et al. Global inequality in environmental conditions. Environmental Research Letters. https://doi.org/10.1088/2515-7620/ae0407↩︎\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎"
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
-    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
-    "title": "Workers’ health under climate change: Agrochemicals",
-    "section": "",
-    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nAgrochemicals score is estimated by integrating two indicators: Application of pesticides 1, and Pesticides Risk Score 2.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#effect-of-agrochemicals-workers-health",
-    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#effect-of-agrochemicals-workers-health",
-    "title": "Workers’ health under climate change: Agrochemicals",
-    "section": "",
-    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nAgrochemicals score is estimated by integrating two indicators: Application of pesticides 1, and Pesticides Risk Score 2.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#footnotes",
-    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#footnotes",
-    "title": "Workers’ health under climate change: Agrochemicals",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎\nTang, F.H.M., Lenzen, M., McBratney, A., Maggi, F., 2021. Risk of pesticide pollution at the global scale. Nat. Geosci. 14, 206–210. https://doi.org/10.1038/s41561-021-00712-5↩︎"
-  },
-  {
-    "objectID": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
-    "href": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
-    "title": "Brazil’s pesticide risk and degrating working conditions",
-    "section": "Download",
-    "text": "Download\n\n\n[Interactive version] (coming soon)\nDownload high resolution datavis\n[Download Tableau worksheet] (coming soon)\n[Look inside the code to collect data] (coming soon)\n\n\nShare it on social media:"
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
-    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
-    "title": "Workers’ health under climate change: Vector-borne diseases",
-    "section": "",
-    "text": "In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record [^2]\n\n\nVector-borne diseases score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030) 1, Incidence of dengue per 100,000 inhabitants 2 Í\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#dengue-in-brazil",
-    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#dengue-in-brazil",
-    "title": "Workers’ health under climate change: Vector-borne diseases",
-    "section": "",
-    "text": "In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record [^2]\n\n\nVector-borne diseases score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030) 1, Incidence of dengue per 100,000 inhabitants 2 Í\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#footnotes",
-    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#footnotes",
-    "title": "Workers’ health under climate change: Vector-borne diseases",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nDengue outbreak in Brazil: 2024 https://www.dengue.com/Dengue-outbreak-in-Brazil-2024↩︎\nIndice de Desenvolvimento Sustentável das Cidades – Brasil https://idsc.cidadessustentaveis.org.br/↩︎"
-  },
-  {
-    "objectID": "datavis/2025-10-18_labour_inspections/index.html",
-    "href": "datavis/2025-10-18_labour_inspections/index.html",
-    "title": "Constellation of inspections",
-    "section": "",
-    "text": "The DataViz focuses on the results of labour inspections and the relevance behind each fiscalização (inspection in the visualisation). Whether one or 1,064 rescues, each star symbolises justice for workers. At the same time, it serves as a reminder of the immense task ahead, the vast territory to be covered, the potential gaps or voids yet to be explored, and the need to strengthen the capacity of the inspectorate to continue its effort.\nMore inspectors mean a greater capacity to identify spots of vulnerability and eradicate degrading working conditions.\n\n\n  \n    \n      \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\n\n\n\n\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
-  },
-  {
-    "objectID": "datavis/2025-01-16_Brazil_Indexs/index.html#download",
-    "href": "datavis/2025-01-16_Brazil_Indexs/index.html#download",
-    "title": "Brazil’s pesticide risk and degrating working conditions",
-    "section": "Download",
-    "text": "Download\n\n\n[Interactive version] (coming soon)\nDownload high resolution datavis\n[Download Tableau worksheet] (coming soon)\n[Look inside the code to collect data] (coming soon)\n\n\nShare it on social media:"
-  },
-  {
-    "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
-    "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
-    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
-    "section": "",
-    "text": "“Wildfire spreads toxic smoke across South America, straining the healthcare system”1"
-  },
-  {
-    "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#footnotes",
-    "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#footnotes",
-    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nSobreira, E., Lázaro, W.L., Vitorino, B.D., Frota, A.V.B. da, Young, C.E.F., Campos, D.V. de S., Viana, C.R.S., de Oliveira, E., López-Ramirez, L., de Souza, A.R., Silva, D.J. da, Ignotti, E., Hacon, S., Ignácio, Á.R.A., Muniz, C.C., Filho, M. dos S., Bogoni, J.A., 2025. Wildfires and their toll on Brazil: Who’s counting the cost? Perspectives in Ecology and Conservation 23, 214–217. https://doi.org/10.1016/j.pecon.2025.06.003↩︎\nThinkHazard!: https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard↩︎\nÍndice de Desenvolvimento Sustentável das Cidades – Brasil. https://idsc.cidadessustentaveis.org.br/↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎"
-  },
-  {
-    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html",
-    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html",
-    "title": "Workers’ health under climate change: UV Radiation",
-    "section": "",
-    "text": "Agricultural workers are highly exposed to ultraviolet (UV) radiation due to prolonged outdoor work, often with limited access to protective measures, constituting a significant and frequently underestimated risk 1\nShort-term effects include sunburn (erythema), eye irritation, photokeratitis, and acute heat-UV interactions that intensify dehydration and fatigue. These effects can reduce work capacity and increase the likelihood of errors and injuries.\nLong-term exposure is strongly associated with non-melanoma and melanoma skin cancers, premature skin aging, immune system suppression, and chronic eye conditions such as cataracts and pterygium. Repeated UV exposure over a working lifetime disproportionately affects agricultural workers, contributing to long-term health burdens, loss of income, and reduced quality of life.\nAddressing UV radiation through access to protective clothing, shaded rest areas, adjusted work schedules, and occupational health policies is essential to safeguard workers’ health and uphold decent work standards in agriculture.\n\n\nUV-Radiation is based on normalisation of the number “High-UV” days = daily dose ≥ 5.5 kJ/m²/day (Equivalent to UVI ≥ 8) (average 2021 to 2024) 2\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#effect-of-excessive-uv-radiation-on-workers-health",
-    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#effect-of-excessive-uv-radiation-on-workers-health",
-    "title": "Workers’ health under climate change: UV Radiation",
-    "section": "",
-    "text": "Agricultural workers are highly exposed to ultraviolet (UV) radiation due to prolonged outdoor work, often with limited access to protective measures, constituting a significant and frequently underestimated risk 1\nShort-term effects include sunburn (erythema), eye irritation, photokeratitis, and acute heat-UV interactions that intensify dehydration and fatigue. These effects can reduce work capacity and increase the likelihood of errors and injuries.\nLong-term exposure is strongly associated with non-melanoma and melanoma skin cancers, premature skin aging, immune system suppression, and chronic eye conditions such as cataracts and pterygium. Repeated UV exposure over a working lifetime disproportionately affects agricultural workers, contributing to long-term health burdens, loss of income, and reduced quality of life.\nAddressing UV radiation through access to protective clothing, shaded rest areas, adjusted work schedules, and occupational health policies is essential to safeguard workers’ health and uphold decent work standards in agriculture.\n\n\nUV-Radiation is based on normalisation of the number “High-UV” days = daily dose ≥ 5.5 kJ/m²/day (Equivalent to UVI ≥ 8) (average 2021 to 2024) 2\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#footnotes",
-    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#footnotes",
-    "title": "Workers’ health under climate change: UV Radiation",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nTEMIS - Daily UV index and UV dose data from MSR- 2 ( uv dec ) https://www.temis.nl/uvradiation/UVarchive/uvncfiles_msr2.php↩︎"
-  },
-  {
-    "objectID": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
-    "href": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
-    "title": "Workers’ health under climate change: Air pollution",
-    "section": "",
-    "text": "Cancer (lung), respiratory disease, cardiovascular disease 1\n\n\nAir pollution hazard was estimated using the annual mean concentration of fine particulate matter (PM₂.₅) from Global inequality in environmental conditions2 . Air quality was normalised using a piecewise, risk-based scaling approach, in which the World Health Organization (WHO) guideline value of 5 µg/m³ for annual PM₂.₅ was assigned a hazard score of 50 (high risk), and maximum value in Brazil (38.78) as 100,\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#effect-of-air-pollution-workers-health",
-    "href": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#effect-of-air-pollution-workers-health",
-    "title": "Workers’ health under climate change: Air pollution",
-    "section": "",
-    "text": "Cancer (lung), respiratory disease, cardiovascular disease 1\n\n\nAir pollution hazard was estimated using the annual mean concentration of fine particulate matter (PM₂.₅) from Global inequality in environmental conditions2 . Air quality was normalised using a piecewise, risk-based scaling approach, in which the World Health Organization (WHO) guideline value of 5 µg/m³ for annual PM₂.₅ was assigned a hazard score of 50 (high risk), and maximum value in Brazil (38.78) as 100,\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#footnotes",
-    "href": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#footnotes",
-    "title": "Workers’ health under climate change: Air pollution",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎"
-  },
-  {
-    "objectID": "people.pt/staff/Fortes.html",
-    "href": "people.pt/staff/Fortes.html",
-    "title": "Mayara Pinheiro Fortes Brandão",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Mayara Pinheiro Fortes Brandão"
-  },
-  {
-    "objectID": "people.pt/staff/Fortes.html#biografia",
-    "href": "people.pt/staff/Fortes.html#biografia",
-    "title": "Mayara Pinheiro Fortes Brandão",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nDoutoranda pelo Programa de Pós-Graduação em Ciências Sociais da UFMA (PPGCSoc/UFMA). Mestra em Ciências Sociais pela PUC-São Paulo. Socióloga e membro do Grupo de Estudo e Pesquisa Trabalho e Sociedade (GEPTS/ UFMA). Pesquisa novas formas de organização do trabalho, precarização, trabalhadores em aplicativos digitais. Pesquisou movimento sindical no Brasil e sindicalismo docente no Maranhão."
-  },
-  {
-    "objectID": "people.pt/staff/Domingos.html",
-    "href": "people.pt/staff/Domingos.html",
-    "title": "Isabel Domingos Martinez dos Santos",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Isabel Domingos Martinez dos Santos"
-  },
-  {
-    "objectID": "people.pt/staff/Domingos.html#biografia",
-    "href": "people.pt/staff/Domingos.html#biografia",
-    "title": "Isabel Domingos Martinez dos Santos",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nProfessora Adjunta e Vice-diretor do Instituto de Saúde Colectiva (ISC) da Universidade Federal Fluminense (UFF). Doutora em Saúde Pública pela Escola Nacional de Saúde Pública Sergio Arouca (ENSP) da Fundação Oswaldo Cruz (Fiocruz). Mestre em Saúde Pública pela ENSP/Fiocruz na área de concentração em Planejamento e Gestão de Sistemas e Serviços de Saúde. Foi bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). Especialista em Psicologia do Trabalho pela Universidade Federal de Minas Gerais (UFMG), Saúde da Família e Gestão da Atenção Básica (Residência Multiprofissional na ENSP/ FIOCRUZ). Psicóloga, graduada pela Universidade Federal de Juiz de Fora (UFJF). Foi psicóloga organizacional na Coordenação de Educação Permanente da Fundação Hospitalar do Estado de Minas Gerais (FHEMIG). É integrante dos grupos de pesquisa: “Governança e respostas nacionais dos BRICS à Covid-19: caminhos, desafios e lições para os sistemas de saúde em contextos desiguais” e “Relações público-privadas nos sistemas de saúde da América Latina: dinâmicas, características e implicações para as desigualdades em saúde”. É membro da Associação Brasileira de Saúde Coletiva (ABRASCO) e da Latin American Studies Association (LASA)."
-  },
-  {
-    "objectID": "people.pt/staff/Leao.html",
-    "href": "people.pt/staff/Leao.html",
-    "title": "Luís Henrique da Costa Leão",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Luís Henrique da Costa Leão"
-  },
-  {
-    "objectID": "people.pt/staff/Leao.html#biografia",
-    "href": "people.pt/staff/Leao.html#biografia",
-    "title": "Luís Henrique da Costa Leão",
-    "section": "Biografia",
-    "text": "Biografia\nDoutor em Ciências na área de Saúde Coletiva pela Escola Nacional de Saúde Pública. Professor Associado II da Universidade Federal Fluminense, professor permanente do Programa de Pós-Graduação em Saúde Coletiva da Universidade Federal de Mato Grosso e do PPG Saúde Coletiva da UFF. Professor visitante da Universidade de Padova, Itália (2019) e da Universidade de Nottingham, Inglaterra (2019). Temos experiência na área de Saúde Coletiva, com ênfase em Saúde do Trabalhador, atuando principalmente nos seguintes temas: teorias críticas e relações de saúde, trabalho e ambiente, trabalho contemporâneo, vigilância em saúde do trabalhador, cadeias produtivas e saúde mental relacionada ao trabalho. Foi coordenador do PPGSC/ISC/UFMT (2016-2018), membro da Comissão de Avaliação de Programas de Pós-Graduação em Saúde Coletiva da CAPES - Qudriênio (2017-2020) e foi editor associado da área Saúde do Trabalho do jornal Ciência Saúde Coletiva (2015-2018), membro do Conselho Editorial da EdUFMT (2020-2022) e editor associado da Revista Brasileira de Saúde Ocupacional. Foi membro do Núcleo Gestor de Ciências Sociais e Humanas em Saúde (2020-2023) da Associação Brasileira de Saúde Coletiva (Abrasco)."
-  },
-  {
-    "objectID": "people.pt/staff/Garcia.html",
-    "href": "people.pt/staff/Garcia.html",
-    "title": "Manuella Garcia de Freitas Gallego",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Manuella Garcia de Freitas Gallego"
-  },
-  {
-    "objectID": "people.pt/staff/Garcia.html#biografia",
-    "href": "people.pt/staff/Garcia.html#biografia",
-    "title": "Manuella Garcia de Freitas Gallego",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nPsicóloga da Rede de Atenção Psicossocial no estado do Rio de Janeiro. Mestranda em Saúde Coletiva no Instituto de Saúde Coletiva (ISC) da Universidade Federal Fluminense (UFF) - RJ."
-  },
-  {
-    "objectID": "people.pt/staff/Galvao.html",
-    "href": "people.pt/staff/Galvao.html",
-    "title": "Pedro Igor Galvão",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Pedro Igor Galvão"
-  },
-  {
-    "objectID": "people.pt/staff/Galvao.html#biografia",
-    "href": "people.pt/staff/Galvao.html#biografia",
-    "title": "Pedro Igor Galvão",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nPedro Igor Galvão é bolsista Early Career Fellow do British Council e integrante do programa Measurement and Geographies do Rights Lab (Universidade de Nottingham). Sua pesquisa investiga como o trabalho análogo à escravidão e o desmatamento na Amazônia Legal brasileira se expressam espacialmente por meio de transformações desiguais da paisagem. Ele integra ferramentas de SIG, imagens de satélite e indicadores socioambientais para avaliar correlações entre uso do solo, exploração e injustiça territorial. É graduado em Arquitetura e Urbanismo e está concluindo o mestrado em Ciências do Ambiente pela Universidade Federal do Tocantins (UFT), onde pesquisa a paisagem como produto e instrumento da produção social do espaço. Seu trabalho evidencia como o legado colonial brasileiro se inscreve nos padrões espaciais de segregação, exploração e desigualdade socioambiental. Desde 2018, Pedro atua como pesquisador no Instituto de Atenção às Cidades (IAC/UFT), onde tem coordenado e colaborado em projetos de planejamento e gestão territorial em contextos urbanos e rurais. Sua experiência inclui a elaboração de Planos de Mobilidade Urbana Sustentável (PlanMobs), Planos Diretores Municipais, Relatórios de Licenciamento Ambiental e masterplans em escala regional. Essas iniciativas integram pesquisa acadêmica, consultoria técnica e métodos participativos para apoiar a governança territorial democrática e a justiça espacial."
-  },
-  {
-    "objectID": "people.pt/staff/Moura.html",
-    "href": "people.pt/staff/Moura.html",
-    "title": "Flavia Moura",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Flavia Moura"
-  },
-  {
-    "objectID": "people.pt/staff/Moura.html#biografia",
-    "href": "people.pt/staff/Moura.html#biografia",
-    "title": "Flavia Moura",
-    "section": "Biografia",
-    "text": "Biografia\nPós-Doutora em Sociologia e Antropologia (UFRJ) e Doutora em Comunicação Social (PUC-RS). Docente do Departamento de Comunicação Social e do Programas de Pós-Graduação de Comunicação/Mestrado Profissional da UFMA. Coordena atualmente dois projetos de pesquisa relacionando as temáticas Comunicação, Migração e Trabalho. Pesquisadora dos grupos de pesquisa ObEEC (UFMA/CNPq); GPECOM (UFMA/CNPq), GEPTS (UFMA/CNPq) e GPTEC (UFRJ/CNPq)."
-  },
-  {
-    "objectID": "people.pt/staff/Landman.html",
-    "href": "people.pt/staff/Landman.html",
-    "title": "Todd Landman",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Todd Landman"
-  },
-  {
-    "objectID": "people.pt/staff/Landman.html#biografia",
-    "href": "people.pt/staff/Landman.html#biografia",
-    "title": "Todd Landman",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nO Professor Todd Landman é Diretor de Pesquisa do Rights Lab e Professor de Ciência Política na Universidade de Nottingham. Ele trabalha na área de direitos humanos há 25 anos e atualmente pesquisa nas áreas de prevalência da escravidão moderna, antiescravagismo como movimento social e teoria social da escravidão moderna, entre outros tópicos. Atualmente, ele lidera um grande projeto com financiamento externo que avalia riscos aos direitos humanos, incluindo trabalho forçado, no contexto de empresas e cadeias de suprimentos, e trabalha como parte de um grande projeto do governo dos EUA que pesquisa a extensão e as causas da mendicância forçada de crianças no Níger. Seu livro mais recente é “The Rights Track: Sound Evidence on Human Rights and Modern Slavery” (2022)."
-  },
-  {
-    "objectID": "people.pt/staff/Bezerra.html",
-    "href": "people.pt/staff/Bezerra.html",
-    "title": "Késley Gabriel Bezerra Coutinho",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Késley Gabriel Bezerra Coutinho"
-  },
-  {
-    "objectID": "people.pt/staff/Bezerra.html#biografia",
-    "href": "people.pt/staff/Bezerra.html#biografia",
-    "title": "Késley Gabriel Bezerra Coutinho",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nPsicólogo. Mestre em Antropologia pela Universidade Federal de Mato Grosso (UFMT). Atualmente é doutorando em Saúde Coletiva pela mesma instituição. Integra o Núcleo de Antropologia e Saberes Plurais (NAPLUS/UFMT), o Conselho Editorial Júnior da Revista Aceno, o Laboratório Esquizoanalista de Produção de Subjetividades e(m) Interseccionalidades (LEPSI) e o Núcleo de Estudos Ambientais e Saúde do Trabalhador (NEAST)."
-  },
-  {
-    "objectID": "people.pt/staff/Moraes.html",
-    "href": "people.pt/staff/Moraes.html",
-    "title": "Laert Moraes",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Laert Moraes"
-  },
-  {
-    "objectID": "people.pt/staff/Moraes.html#biografia",
-    "href": "people.pt/staff/Moraes.html#biografia",
-    "title": "Laert Moraes",
-    "section": "Biografia",
-    "text": "Biografia\n\n\n\n\nGraduado em Ciências Sociais pela Universidade Federal do Maranhão - UFMA"
+    "text": "As part of the Research Communication program, Mastering the Art of Research Communication: Develop your Skills! by the University of Nottingham’s Research Academy, we had the opportunity to disseminate our projects using non-conventional resources to change mindsets and encourage creativity. It was enjoyable to revisit LEGO — now to continue exploring new ways to share research.\nWe are working to produce a worker-informed, data-driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil. Each coloured LEGO layer represents a vital piece of the puzzle: climate data, socioeconomic conditions, and workers’ voices. By applying a multi-layer risk assessment, the project will provide insights into the relationship between climate change, workers’ health, and decent work.\nA big thank you to Andrew Rowe for introducing such a great initiative.\nSorry for the terrible map, but I ran out of time and green blocks 😅\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
   },
   {
     "objectID": "literature-tools.html",
@@ -805,60 +399,473 @@
     "text": "Code for Climate Risk Vulnerability Assessment (CRVA) integration will be included to facilitate reproducibility of the project.\nWe are grateful for the previous work that facilitates the replicability of research. Analysis is conducted with the following R packages:"
   },
   {
-    "objectID": "posts/25-05-15_storytelling_lego/index.html",
-    "href": "posts/25-05-15_storytelling_lego/index.html",
-    "title": "LEGO-tellying",
+    "objectID": "people.pt/staff/Moraes.html",
+    "href": "people.pt/staff/Moraes.html",
+    "title": "Laert Moraes",
     "section": "",
-    "text": "As part of the Research Communication program, Mastering the Art of Research Communication: Develop your Skills! by the University of Nottingham’s Research Academy, we had the opportunity to disseminate our projects using non-conventional resources to change mindsets and encourage creativity. It was enjoyable to revisit LEGO — now to continue exploring new ways to share research.\nWe are working to produce a worker-informed, data-driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil. Each coloured LEGO layer represents a vital piece of the puzzle: climate data, socioeconomic conditions, and workers’ voices. By applying a multi-layer risk assessment, the project will provide insights into the relationship between climate change, workers’ health, and decent work.\nA big thank you to Andrew Rowe for introducing such a great initiative.\nSorry for the terrible map, but I ran out of time and green blocks 😅\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
+    "text": "Home\n    People\n    Research Staff\n    Laert Moraes"
   },
   {
-    "objectID": "posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
-    "href": "posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
-    "title": "What is a Climate Risk Vulnerability Assessment?",
-    "section": "",
-    "text": "Working in process\nCRVA is part of the project’s working packages (WPs). In the blog we describe what it is, how it differs from the rest of the risk assessments and how it can be applied in better decision making.\n\n\n\n\n\nReuseCC BY 4.0"
+    "objectID": "people.pt/staff/Moraes.html#biografia",
+    "href": "people.pt/staff/Moraes.html#biografia",
+    "title": "Laert Moraes",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nGraduado em Ciências Sociais pela Universidade Federal do Maranhão - UFMA"
   },
   {
-    "objectID": "my-venv/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.html",
-    "href": "my-venv/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.html",
+    "objectID": "people.pt/staff/Bezerra.html",
+    "href": "people.pt/staff/Bezerra.html",
+    "title": "Késley Gabriel Bezerra Coutinho",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Késley Gabriel Bezerra Coutinho"
+  },
+  {
+    "objectID": "people.pt/staff/Bezerra.html#biografia",
+    "href": "people.pt/staff/Bezerra.html#biografia",
+    "title": "Késley Gabriel Bezerra Coutinho",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nPsicólogo. Mestre em Antropologia pela Universidade Federal de Mato Grosso (UFMT). Atualmente é doutorando em Saúde Coletiva pela mesma instituição. Integra o Núcleo de Antropologia e Saberes Plurais (NAPLUS/UFMT), o Conselho Editorial Júnior da Revista Aceno, o Laboratório Esquizoanalista de Produção de Subjetividades e(m) Interseccionalidades (LEPSI) e o Núcleo de Estudos Ambientais e Saúde do Trabalhador (NEAST)."
+  },
+  {
+    "objectID": "people.pt/staff/Landman.html",
+    "href": "people.pt/staff/Landman.html",
+    "title": "Todd Landman",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Todd Landman"
+  },
+  {
+    "objectID": "people.pt/staff/Landman.html#biografia",
+    "href": "people.pt/staff/Landman.html#biografia",
+    "title": "Todd Landman",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nO Professor Todd Landman é Diretor de Pesquisa do Rights Lab e Professor de Ciência Política na Universidade de Nottingham. Ele trabalha na área de direitos humanos há 25 anos e atualmente pesquisa nas áreas de prevalência da escravidão moderna, antiescravagismo como movimento social e teoria social da escravidão moderna, entre outros tópicos. Atualmente, ele lidera um grande projeto com financiamento externo que avalia riscos aos direitos humanos, incluindo trabalho forçado, no contexto de empresas e cadeias de suprimentos, e trabalha como parte de um grande projeto do governo dos EUA que pesquisa a extensão e as causas da mendicância forçada de crianças no Níger. Seu livro mais recente é “The Rights Track: Sound Evidence on Human Rights and Modern Slavery” (2022)."
+  },
+  {
+    "objectID": "people.pt/staff/Moura.html",
+    "href": "people.pt/staff/Moura.html",
+    "title": "Flavia Moura",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Flavia Moura"
+  },
+  {
+    "objectID": "people.pt/staff/Moura.html#biografia",
+    "href": "people.pt/staff/Moura.html#biografia",
+    "title": "Flavia Moura",
+    "section": "Biografia",
+    "text": "Biografia\nPós-Doutora em Sociologia e Antropologia (UFRJ) e Doutora em Comunicação Social (PUC-RS). Docente do Departamento de Comunicação Social e do Programas de Pós-Graduação de Comunicação/Mestrado Profissional da UFMA. Coordena atualmente dois projetos de pesquisa relacionando as temáticas Comunicação, Migração e Trabalho. Pesquisadora dos grupos de pesquisa ObEEC (UFMA/CNPq); GPECOM (UFMA/CNPq), GEPTS (UFMA/CNPq) e GPTEC (UFRJ/CNPq)."
+  },
+  {
+    "objectID": "people.pt/staff/Galvao.html",
+    "href": "people.pt/staff/Galvao.html",
+    "title": "Pedro Igor Galvão",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Pedro Igor Galvão"
+  },
+  {
+    "objectID": "people.pt/staff/Galvao.html#biografia",
+    "href": "people.pt/staff/Galvao.html#biografia",
+    "title": "Pedro Igor Galvão",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nPedro Igor Galvão é bolsista Early Career Fellow do British Council e integrante do programa Measurement and Geographies do Rights Lab (Universidade de Nottingham). Sua pesquisa investiga como o trabalho análogo à escravidão e o desmatamento na Amazônia Legal brasileira se expressam espacialmente por meio de transformações desiguais da paisagem. Ele integra ferramentas de SIG, imagens de satélite e indicadores socioambientais para avaliar correlações entre uso do solo, exploração e injustiça territorial. É graduado em Arquitetura e Urbanismo e está concluindo o mestrado em Ciências do Ambiente pela Universidade Federal do Tocantins (UFT), onde pesquisa a paisagem como produto e instrumento da produção social do espaço. Seu trabalho evidencia como o legado colonial brasileiro se inscreve nos padrões espaciais de segregação, exploração e desigualdade socioambiental. Desde 2018, Pedro atua como pesquisador no Instituto de Atenção às Cidades (IAC/UFT), onde tem coordenado e colaborado em projetos de planejamento e gestão territorial em contextos urbanos e rurais. Sua experiência inclui a elaboração de Planos de Mobilidade Urbana Sustentável (PlanMobs), Planos Diretores Municipais, Relatórios de Licenciamento Ambiental e masterplans em escala regional. Essas iniciativas integram pesquisa acadêmica, consultoria técnica e métodos participativos para apoiar a governança territorial democrática e a justiça espacial."
+  },
+  {
+    "objectID": "people.pt/staff/Garcia.html",
+    "href": "people.pt/staff/Garcia.html",
+    "title": "Manuella Garcia de Freitas Gallego",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Manuella Garcia de Freitas Gallego"
+  },
+  {
+    "objectID": "people.pt/staff/Garcia.html#biografia",
+    "href": "people.pt/staff/Garcia.html#biografia",
+    "title": "Manuella Garcia de Freitas Gallego",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nPsicóloga da Rede de Atenção Psicossocial no estado do Rio de Janeiro. Mestranda em Saúde Coletiva no Instituto de Saúde Coletiva (ISC) da Universidade Federal Fluminense (UFF) - RJ."
+  },
+  {
+    "objectID": "people.pt/staff/Leao.html",
+    "href": "people.pt/staff/Leao.html",
+    "title": "Luís Henrique da Costa Leão",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Luís Henrique da Costa Leão"
+  },
+  {
+    "objectID": "people.pt/staff/Leao.html#biografia",
+    "href": "people.pt/staff/Leao.html#biografia",
+    "title": "Luís Henrique da Costa Leão",
+    "section": "Biografia",
+    "text": "Biografia\nDoutor em Ciências na área de Saúde Coletiva pela Escola Nacional de Saúde Pública. Professor Associado II da Universidade Federal Fluminense, professor permanente do Programa de Pós-Graduação em Saúde Coletiva da Universidade Federal de Mato Grosso e do PPG Saúde Coletiva da UFF. Professor visitante da Universidade de Padova, Itália (2019) e da Universidade de Nottingham, Inglaterra (2019). Temos experiência na área de Saúde Coletiva, com ênfase em Saúde do Trabalhador, atuando principalmente nos seguintes temas: teorias críticas e relações de saúde, trabalho e ambiente, trabalho contemporâneo, vigilância em saúde do trabalhador, cadeias produtivas e saúde mental relacionada ao trabalho. Foi coordenador do PPGSC/ISC/UFMT (2016-2018), membro da Comissão de Avaliação de Programas de Pós-Graduação em Saúde Coletiva da CAPES - Qudriênio (2017-2020) e foi editor associado da área Saúde do Trabalho do jornal Ciência Saúde Coletiva (2015-2018), membro do Conselho Editorial da EdUFMT (2020-2022) e editor associado da Revista Brasileira de Saúde Ocupacional. Foi membro do Núcleo Gestor de Ciências Sociais e Humanas em Saúde (2020-2023) da Associação Brasileira de Saúde Coletiva (Abrasco)."
+  },
+  {
+    "objectID": "people.pt/staff/Domingos.html",
+    "href": "people.pt/staff/Domingos.html",
+    "title": "Isabel Domingos Martinez dos Santos",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Isabel Domingos Martinez dos Santos"
+  },
+  {
+    "objectID": "people.pt/staff/Domingos.html#biografia",
+    "href": "people.pt/staff/Domingos.html#biografia",
+    "title": "Isabel Domingos Martinez dos Santos",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nProfessora Adjunta e Vice-diretor do Instituto de Saúde Colectiva (ISC) da Universidade Federal Fluminense (UFF). Doutora em Saúde Pública pela Escola Nacional de Saúde Pública Sergio Arouca (ENSP) da Fundação Oswaldo Cruz (Fiocruz). Mestre em Saúde Pública pela ENSP/Fiocruz na área de concentração em Planejamento e Gestão de Sistemas e Serviços de Saúde. Foi bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). Especialista em Psicologia do Trabalho pela Universidade Federal de Minas Gerais (UFMG), Saúde da Família e Gestão da Atenção Básica (Residência Multiprofissional na ENSP/ FIOCRUZ). Psicóloga, graduada pela Universidade Federal de Juiz de Fora (UFJF). Foi psicóloga organizacional na Coordenação de Educação Permanente da Fundação Hospitalar do Estado de Minas Gerais (FHEMIG). É integrante dos grupos de pesquisa: “Governança e respostas nacionais dos BRICS à Covid-19: caminhos, desafios e lições para os sistemas de saúde em contextos desiguais” e “Relações público-privadas nos sistemas de saúde da América Latina: dinâmicas, características e implicações para as desigualdades em saúde”. É membro da Associação Brasileira de Saúde Coletiva (ABRASCO) e da Latin American Studies Association (LASA)."
+  },
+  {
+    "objectID": "people.pt/staff/Fortes.html",
+    "href": "people.pt/staff/Fortes.html",
+    "title": "Mayara Pinheiro Fortes Brandão",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Mayara Pinheiro Fortes Brandão"
+  },
+  {
+    "objectID": "people.pt/staff/Fortes.html#biografia",
+    "href": "people.pt/staff/Fortes.html#biografia",
+    "title": "Mayara Pinheiro Fortes Brandão",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nDoutoranda pelo Programa de Pós-Graduação em Ciências Sociais da UFMA (PPGCSoc/UFMA). Mestra em Ciências Sociais pela PUC-São Paulo. Socióloga e membro do Grupo de Estudo e Pesquisa Trabalho e Sociedade (GEPTS/ UFMA). Pesquisa novas formas de organização do trabalho, precarização, trabalhadores em aplicativos digitais. Pesquisou movimento sindical no Brasil e sindicalismo docente no Maranhão."
+  },
+  {
+    "objectID": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
+    "href": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
+    "title": "Workers’ health under climate change: Air pollution",
+    "section": "",
+    "text": "Cancer (lung), respiratory disease, cardiovascular disease 1\n\n\nAir pollution hazard was estimated using the annual mean concentration of fine particulate matter (PM₂.₅) from Global inequality in environmental conditions2 . Air quality was normalised using a piecewise, risk-based scaling approach, in which the World Health Organization (WHO) guideline value of 5 µg/m³ for annual PM₂.₅ was assigned a hazard score of 50 (high risk), and maximum value in Brazil (38.78) as 100,\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#effect-of-air-pollution-workers-health",
+    "href": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#effect-of-air-pollution-workers-health",
+    "title": "Workers’ health under climate change: Air pollution",
+    "section": "",
+    "text": "Cancer (lung), respiratory disease, cardiovascular disease 1\n\n\nAir pollution hazard was estimated using the annual mean concentration of fine particulate matter (PM₂.₅) from Global inequality in environmental conditions2 . Air quality was normalised using a piecewise, risk-based scaling approach, in which the World Health Organization (WHO) guideline value of 5 µg/m³ for annual PM₂.₅ was assigned a hazard score of 50 (high risk), and maximum value in Brazil (38.78) as 100,\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#footnotes",
+    "href": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#footnotes",
+    "title": "Workers’ health under climate change: Air pollution",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎"
+  },
+  {
+    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html",
+    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html",
+    "title": "Workers’ health under climate change: UV Radiation",
+    "section": "",
+    "text": "Agricultural workers are highly exposed to ultraviolet (UV) radiation due to prolonged outdoor work, often with limited access to protective measures, constituting a significant and frequently underestimated risk 1\nShort-term effects include sunburn (erythema), eye irritation, photokeratitis, and acute heat-UV interactions that intensify dehydration and fatigue. These effects can reduce work capacity and increase the likelihood of errors and injuries.\nLong-term exposure is strongly associated with non-melanoma and melanoma skin cancers, premature skin aging, immune system suppression, and chronic eye conditions such as cataracts and pterygium. Repeated UV exposure over a working lifetime disproportionately affects agricultural workers, contributing to long-term health burdens, loss of income, and reduced quality of life.\nAddressing UV radiation through access to protective clothing, shaded rest areas, adjusted work schedules, and occupational health policies is essential to safeguard workers’ health and uphold decent work standards in agriculture.\n\n\nUV-Radiation is based on normalisation of the number “High-UV” days = daily dose ≥ 5.5 kJ/m²/day (Equivalent to UVI ≥ 8) (average 2021 to 2024) 2\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#effect-of-excessive-uv-radiation-on-workers-health",
+    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#effect-of-excessive-uv-radiation-on-workers-health",
+    "title": "Workers’ health under climate change: UV Radiation",
+    "section": "",
+    "text": "Agricultural workers are highly exposed to ultraviolet (UV) radiation due to prolonged outdoor work, often with limited access to protective measures, constituting a significant and frequently underestimated risk 1\nShort-term effects include sunburn (erythema), eye irritation, photokeratitis, and acute heat-UV interactions that intensify dehydration and fatigue. These effects can reduce work capacity and increase the likelihood of errors and injuries.\nLong-term exposure is strongly associated with non-melanoma and melanoma skin cancers, premature skin aging, immune system suppression, and chronic eye conditions such as cataracts and pterygium. Repeated UV exposure over a working lifetime disproportionately affects agricultural workers, contributing to long-term health burdens, loss of income, and reduced quality of life.\nAddressing UV radiation through access to protective clothing, shaded rest areas, adjusted work schedules, and occupational health policies is essential to safeguard workers’ health and uphold decent work standards in agriculture.\n\n\nUV-Radiation is based on normalisation of the number “High-UV” days = daily dose ≥ 5.5 kJ/m²/day (Equivalent to UVI ≥ 8) (average 2021 to 2024) 2\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#footnotes",
+    "href": "datavis/2026-02-04_climate-hazard-02-radiation/index.html#footnotes",
+    "title": "Workers’ health under climate change: UV Radiation",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nTEMIS - Daily UV index and UV dose data from MSR- 2 ( uv dec ) https://www.temis.nl/uvradiation/UVarchive/uvncfiles_msr2.php↩︎"
+  },
+  {
+    "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
+    "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
+    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
+    "section": "",
+    "text": "“Wildfire spreads toxic smoke across South America, straining the healthcare system”1"
+  },
+  {
+    "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#footnotes",
+    "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#footnotes",
+    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSobreira, E., Lázaro, W.L., Vitorino, B.D., Frota, A.V.B. da, Young, C.E.F., Campos, D.V. de S., Viana, C.R.S., de Oliveira, E., López-Ramirez, L., de Souza, A.R., Silva, D.J. da, Ignotti, E., Hacon, S., Ignácio, Á.R.A., Muniz, C.C., Filho, M. dos S., Bogoni, J.A., 2025. Wildfires and their toll on Brazil: Who’s counting the cost? Perspectives in Ecology and Conservation 23, 214–217. https://doi.org/10.1016/j.pecon.2025.06.003↩︎\nThinkHazard!: https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard↩︎\nÍndice de Desenvolvimento Sustentável das Cidades – Brasil. https://idsc.cidadessustentaveis.org.br/↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎"
+  },
+  {
+    "objectID": "datavis/2025-01-16_Brazil_Indexs/index.html#download",
+    "href": "datavis/2025-01-16_Brazil_Indexs/index.html#download",
+    "title": "Brazil’s pesticide risk and degrating working conditions",
+    "section": "Download",
+    "text": "Download\n\n\n[Interactive version] (coming soon)\nDownload high resolution datavis\n[Download Tableau worksheet] (coming soon)\n[Look inside the code to collect data] (coming soon)\n\n\nShare it on social media:"
+  },
+  {
+    "objectID": "datavis/2025-10-18_labour_inspections/index.html",
+    "href": "datavis/2025-10-18_labour_inspections/index.html",
+    "title": "Constellation of inspections",
+    "section": "",
+    "text": "The DataViz focuses on the results of labour inspections and the relevance behind each fiscalização (inspection in the visualisation). Whether one or 1,064 rescues, each star symbolises justice for workers. At the same time, it serves as a reminder of the immense task ahead, the vast territory to be covered, the potential gaps or voids yet to be explored, and the need to strengthen the capacity of the inspectorate to continue its effort.\nMore inspectors mean a greater capacity to identify spots of vulnerability and eradicate degrading working conditions.\n\n\n  \n    \n      \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\n\n\n\n\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
+    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
+    "title": "Workers’ health under climate change: Vector-borne diseases",
+    "section": "",
+    "text": "In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record [^2]\n\n\nVector-borne diseases score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030) 1, Incidence of dengue per 100,000 inhabitants 2 Í\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#dengue-in-brazil",
+    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#dengue-in-brazil",
+    "title": "Workers’ health under climate change: Vector-borne diseases",
+    "section": "",
+    "text": "In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record [^2]\n\n\nVector-borne diseases score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030) 1, Incidence of dengue per 100,000 inhabitants 2 Í\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#footnotes",
+    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#footnotes",
+    "title": "Workers’ health under climate change: Vector-borne diseases",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDengue outbreak in Brazil: 2024 https://www.dengue.com/Dengue-outbreak-in-Brazil-2024↩︎\nIndice de Desenvolvimento Sustentável das Cidades – Brasil https://idsc.cidadessustentaveis.org.br/↩︎"
+  },
+  {
+    "objectID": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
+    "href": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
+    "title": "Brazil’s pesticide risk and degrating working conditions",
+    "section": "Download",
+    "text": "Download\n\n\n[Interactive version] (coming soon)\nDownload high resolution datavis\n[Download Tableau worksheet] (coming soon)\n[Look inside the code to collect data] (coming soon)\n\n\nShare it on social media:"
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
+    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
+    "title": "Workers’ health under climate change: Agrochemicals",
+    "section": "",
+    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nAgrochemicals score is estimated by integrating two indicators: Application of pesticides 1, and Pesticides Risk Score 2.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#effect-of-agrochemicals-workers-health",
+    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#effect-of-agrochemicals-workers-health",
+    "title": "Workers’ health under climate change: Agrochemicals",
+    "section": "",
+    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nAgrochemicals score is estimated by integrating two indicators: Application of pesticides 1, and Pesticides Risk Score 2.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#footnotes",
+    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#footnotes",
+    "title": "Workers’ health under climate change: Agrochemicals",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎\nTang, F.H.M., Lenzen, M., McBratney, A., Maggi, F., 2021. Risk of pesticide pollution at the global scale. Nat. Geosci. 14, 206–210. https://doi.org/10.1038/s41561-021-00712-5↩︎"
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html",
+    "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html",
+    "title": "Workers’ health under climate change: Water Sanitisation and Hygiene",
+    "section": "",
+    "text": "Note\n\n\n\nDuring work inspections, inadequate water, sanitation, and hygiene (WASH) have been identified as major issues and contribute to degrading working conditions."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html#wash",
+    "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html#wash",
+    "title": "Workers’ health under climate change: Water Sanitisation and Hygiene",
+    "section": "WASH",
+    "text": "WASH\nShort-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\nWASH measure\nWASH score is estimated based on Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability 1 6 Diseases related to inadequate environmental sanitation (100k inhabitants) 2 4 Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability 3 6\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html#footnotes",
+    "href": "datavis/2026-02-06_climate-hazard-06-wash/index.html#footnotes",
+    "title": "Workers’ health under climate change: Water Sanitisation and Hygiene",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThinkHazard! Global Extreme Heat Hazard. World Bank Data Catalog. https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard↩︎\nRao, N. et al. Global inequality in environmental conditions. Environmental Research Letters. https://doi.org/10.1088/2515-7620/ae0407↩︎\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎"
+  },
+  {
+    "objectID": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
+    "href": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
+    "title": "Workers’ health under climate change: Extreme weather events (Floods)",
+    "section": "",
+    "text": "Note\n\n\n\n\n\n\n\nPrimary health impact\nAcute and chronic respiratory illness, asthma exacerbations, cardiovascular events, heat stress, eye injuries, burns, and adverse mental health outcomes.\n\n\nFlood score estimation\n\n\n\n\n\nDownload\n\n Download the pdf \n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
+  },
+  {
+    "objectID": "datavis/2025-12-31_climate-hazard-01-heat/index.html",
+    "href": "datavis/2025-12-31_climate-hazard-01-heat/index.html",
+    "title": "Workers’ health under climate change: Excessive Heat",
+    "section": "",
+    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nThe excessive heat score is estimated by integrating three indicators: the Wet Bulb Global Temperature (WBGT) 5-year period return1, maximum WBGT2, and accumulated heat waves, defined as periods of at least three consecutive days of excessive heat3. This composite metric captures the intensity, frequency, and persistence of heat exposure, aligning with international frameworks on occupational safety and health in the context of climate change4.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2025-12-31_climate-hazard-01-heat/index.html#effect-of-excessive-heat-on-workers-health",
+    "href": "datavis/2025-12-31_climate-hazard-01-heat/index.html#effect-of-excessive-heat-on-workers-health",
+    "title": "Workers’ health under climate change: Excessive Heat",
+    "section": "",
+    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nThe excessive heat score is estimated by integrating three indicators: the Wet Bulb Global Temperature (WBGT) 5-year period return1, maximum WBGT2, and accumulated heat waves, defined as periods of at least three consecutive days of excessive heat3. This composite metric captures the intensity, frequency, and persistence of heat exposure, aligning with international frameworks on occupational safety and health in the context of climate change4.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2025-12-31_climate-hazard-01-heat/index.html#footnotes",
+    "href": "datavis/2025-12-31_climate-hazard-01-heat/index.html#footnotes",
+    "title": "Workers’ health under climate change: Excessive Heat",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThinkHazard! Global Extreme Heat Hazard. World Bank Data Catalog. https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard↩︎\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎"
+  },
+  {
+    "objectID": "people.pt/staff/Trevizan.html",
+    "href": "people.pt/staff/Trevizan.html",
+    "title": "Ana Flávia Trevizan",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Ana Flávia Trevizan"
+  },
+  {
+    "objectID": "people.pt/staff/Trevizan.html#biografia",
+    "href": "people.pt/staff/Trevizan.html#biografia",
+    "title": "Ana Flávia Trevizan",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nAna Flávia Trevizan é doutora em Alterações Climáticas e mestre em Direito Agroambiental. Especialista em direito climático e florestal, bem como em questões socioambientais, governança, inclusão e diversidade. Sua pesquisa examina a interseção entre o direito florestal e as políticas públicas ambientais, além de analisar a transparência e as práticas de inclusão e diversidade nas instituições financeiras no contexto da governança climática no Brasil. Atualmente, contribui para o desenvolvimento de soluções jurídicas e sustentáveis para desafios socioambientais no Rights Lab (Universidade de Nottingham). É autora de diversas publicações internacionais e membro de importantes grupos de pesquisa, como o CENSE (UNL), o CEDAT (URV) e o GPMAT (UFMT)."
+  },
+  {
+    "objectID": "people.pt/staff/Carthew.html",
+    "href": "people.pt/staff/Carthew.html",
+    "title": "Kelsey Carthew",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Kelsey Carthew"
+  },
+  {
+    "objectID": "people.pt/staff/Carthew.html#biografia",
+    "href": "people.pt/staff/Carthew.html#biografia",
+    "title": "Kelsey Carthew",
+    "section": "Biografia",
+    "text": "Biografia\nKelsey Carthew faz parte da equipe de operações de pesquisa do Rights Lab. Ela apoia os esforços de coordenação e implementação de diversos projetos de pesquisa do Rights Lab, além de fornecer suporte operacional. Ela se juntou à equipe após sucesso em outras funções na universidade. Atualmente, ela cursa seu mestrado em Direito Internacional Público na Universidade de Nottingham."
+  },
+  {
+    "objectID": "people.pt/staff/Rosa.html",
+    "href": "people.pt/staff/Rosa.html",
+    "title": "Mariana Rosa Soares",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Mariana Rosa Soares"
+  },
+  {
+    "objectID": "people.pt/staff/Rosa.html#biografia",
+    "href": "people.pt/staff/Rosa.html#biografia",
+    "title": "Mariana Rosa Soares",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nEnfermeira. Mestre em Saúde Coletiva pela UFMT. Doutoranda pelo Programa de Pós-Graduação em Saúde Coletiva da UFMT. Pesquisadora associada do Núcleo de Estudos Ambientais e Saúde do Trabalhador (NEAST). Professora do curso de medicina do UNIVAG."
+  },
+  {
+    "objectID": "people.pt/staff/Ribeiro.html",
+    "href": "people.pt/staff/Ribeiro.html",
+    "title": "Ludmila Ribeiro Paiva",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Ludmila Ribeiro Paiva"
+  },
+  {
+    "objectID": "people.pt/staff/Ribeiro.html#biografia",
+    "href": "people.pt/staff/Ribeiro.html#biografia",
+    "title": "Ludmila Ribeiro Paiva",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nBacharel em Direito pela Universidade Federal do Rio de Janeiro (UFRJ), mestre em Direito pela Universidade do Estado do Rio de Janeiro (UERJ), co-fundadora do Instituto Migração, Gênero e Raça (I-MiGRa). É pesquisadora associada ao Projeto de Pesquisa Mudanças Climáticas, saúde ocupacional e trabalho decente: vulnerabilidades e respostas dos trabalhadores na agricultura brasileira, pela Universidade Federal Fluminense (UFF)."
+  },
+  {
+    "objectID": "people.pt/staff/Rodriguez-Huerta.html",
+    "href": "people.pt/staff/Rodriguez-Huerta.html",
+    "title": "Edgar Rodriguez-Huerta",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Edgar Rodriguez-Huerta"
+  },
+  {
+    "objectID": "people.pt/staff/Rodriguez-Huerta.html#biografia",
+    "href": "people.pt/staff/Rodriguez-Huerta.html#biografia",
+    "title": "Edgar Rodriguez-Huerta",
+    "section": "Biografia",
+    "text": "Biografia\nEdgar Rodríguez-Huerta trabalha como parte do Measurement and Geography Programme para pesquisar as interações entre sistemas socioecológicos, mudanças climáticas e escravidão moderna. Ele conduz pesquisas quantitativas por meio de múltiplas abordagens de pensamento sistêmico, como Avaliação do Ciclo de Vida Social e análise de dados secundários, modelagem climática, metabolismo social e redes complexas para explorar as dimensões humanas de diferentes cadeias de suprimentos (por exemplo, suprimento de alimentos, painéis solares e fornos de tijolos). Ele concluiu um PhD em Ciência da Sustentabilidade e, com sua formação em ciência de dados e Business Intelligence, é um entusiasta da visualização de dados para comunicar e publicar os resultados técnicos entre as partes interessadas e facilitar a tomada de decisões."
+  },
+  {
+    "objectID": "people.pt/staff/Siviero.html",
+    "href": "people.pt/staff/Siviero.html",
+    "title": "André Augusto Siviero",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    André Augusto Siviero"
+  },
+  {
+    "objectID": "people.pt/staff/Siviero.html#biografia",
+    "href": "people.pt/staff/Siviero.html#biografia",
+    "title": "André Augusto Siviero",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nBacharel em Direito (UFAC) e mestrando em Direito (UFRJ). Pesquisador dos grupos de pesquisa Direito do Trabalho no Século XXI (TRAB21) e Configurações Institucionais e Relações de Trabalho (CIRT). Áreas de interesse: Desenvolvimento sustentável na Amazônia, Direitos Humanos e Direito do Trabalho."
+  },
+  {
+    "objectID": "people.pt/staff/Reita.html",
+    "href": "people.pt/staff/Reita.html",
+    "title": "Carla Reita Leal",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Carla Reita Leal"
+  },
+  {
+    "objectID": "people.pt/staff/Reita.html#biografia",
+    "href": "people.pt/staff/Reita.html#biografia",
+    "title": "Carla Reita Leal",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nDra. Carla Reita Faria Leal é Doutora e Mestre em Direito das Relações Sociais, subárea Direito do Trabalho, pela Pontifícia Universidade Católica de São Paulo (PUC/SP). Professora associada da Universidade Federal de Mato Grosso (UFMT), atua no ensino, pesquisa e extensão, integrando o saber acadêmico e o compromisso social.\nRealizou pós-doutorado e foi visiting fellow no Rights Lab, da University of Nottingham (Reino Unido).\nÉ palestrante em eventos acadêmicos, jurídicos e interinstitucionais, com foco em temas como trabalho decente, direitos humanos, políticas públicas e enfrentamento ao trabalho escravo.\nÉ Coordenadora Adjunta do Programa de Pós-Graduação em Direito da UFMT (2023–2025), lidera grupo de pesquisa e coordena o Projeto de Extensão PAI – voltado à qualificação e reinserção de trabalhadores resgatados de condições análogas à escravidão."
+  },
+  {
+    "objectID": "people.pt/staff/Abrahao.html",
+    "href": "people.pt/staff/Abrahao.html",
+    "title": "Ivi Tavares Abrahão Castillero",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Ivi Tavares Abrahão Castillero"
+  },
+  {
+    "objectID": "people.pt/staff/Abrahao.html#biografia",
+    "href": "people.pt/staff/Abrahao.html#biografia",
+    "title": "Ivi Tavares Abrahão Castillero",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nGraduação em Medicina pela Universidade Federal Fluminense (2008). Especialista em Medicina de Família e Comunidade. Fez preceptoria do Programa PET - Saúde/ UFF. Mestra em Saúde Pública, fez Mestrado Profissional em Trabalho, Saúde, Ambiente e Movimentos Sociais na ENSP - FIOCRUZ. Foi supervisora do Programa Mais Médicos Grupo Especial Amazônia de 2015 a 2018. Atualmente supervisora Programa Mais Médicos Grupo Especial DSEI Leste. Formação em Medicina Tradicional Chinesa pela Escola Neijing. Coordenação de Cursos de Práticas Tradicionais e Complementares de saúde em áreas rurais em parceria com FIOCRUZ. Preceptora de estudantes de medicina do internato na ESF- RJ (UFF e UNIGRANRIO)."
+  },
+  {
+    "objectID": "people.pt/staff/Andrade.html",
+    "href": "people.pt/staff/Andrade.html",
+    "title": "Gabriela de Andrade Nogueira Gonçalves",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Gabriela de Andrade Nogueira Gonçalves"
+  },
+  {
+    "objectID": "people.pt/staff/Andrade.html#biografia",
+    "href": "people.pt/staff/Andrade.html#biografia",
+    "title": "Gabriela de Andrade Nogueira Gonçalves",
+    "section": "Biografia",
+    "text": "Biografia\n\n\n\n\nMestre em Direito Agroambiental pela Universidade Federal de Mato Grosso. Bacharel em Direito pela Universidade Federal de Mato Grosso. Membro do grupo de pesquisa “Meio ambiente do trabalho equilibrado como componente do trabalho decente” e do Grupo Interdisciplinar de Pesquisa Ambiental - GIPA (2019 - atual). Advogada. Assessora jurídica na Procuradoria Especializada em Defesa Ambiental e da Ordem Urbanística no Ministério Público do Estado de Mato Grosso (2018 - mar.2024 - nov. 2024 - atual). Assessoria Jurídica no Núcleo de Apoio aos Recursos aos Tribunais Superiores (NARE) no Ministério Público do Estado de Mato Grosso."
+  },
+  {
+    "objectID": "posts/2024-01-29_enslaved_ethanol/index.html",
+    "href": "posts/2024-01-29_enslaved_ethanol/index.html",
+    "title": "The Hidden Cost of Renewables: Modern Slavery in Ethanol supply chain",
+    "section": "",
+    "text": "Enslaved in Ethanol\nEthanol is widely recognized as a important solution to reducing greenhouse gas emissions in transport sector and combating climate change. As the second-largest ethanol producer, Brazil plays a significant role in the global biofuel industry. However, despite its environmental benefits, ethanol production raises serious concerns regarding labour rights, occupational health, and social justice. The recent report Enslaved in Ethanol by Reportér Brasil highlights the exploitation and unsafe working conditions faced by sugarcane workers.\n\n“The situations reported in sugarcane fields linked to their operations include workers killed in fires, forced to sleep on the ground, unable to leave their jobs because of illegal debts imposed by their employers, and even hit by pesticides dropped from airplanes.”\n\nMany workers are subjected to debt bondage and unpredictable wages due to unfair deductions, paying for their own travel, accommodation, and food. Additionally, extreme working hours and lack of formal contracts deny workers access to essential social security benefits. Some workers report sleeping only four hours a night, as long commutes and exhausting shifts make proper rest impossible. Moreover, sugarcane workers are frequently exposed to hazardous pesticides, experience severe physical effort, and high risks of heat-related illnesses.\n\n“Workers reported to inspectors that they had been sprayed on with pesticides. The plane that allegedly did the spraying can be seen in the photo taken by one of them on his cell phone.”\n\n\n\n\nSource: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides\n\n\nAddressing these challenges requires stronger enforcement of labour laws, greater corporate accountability, and improved oversight in supply chains. A just transition in the ethanol industry must prioritize not only environmental sustainability but also the protection of workers’ rights and well-being. Governments, companies, and financial institutions must take decisive action to eliminate modern slavery, ensure fair wages, and provide safe working conditions. Ethanol may be a cleaner fuel alternative, but it must not come at the cost of human lives, dignity and fundamental labour rights.\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY 4.0"
+  },
+  {
+    "objectID": "my-venv/lib/python3.14/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "href": "my-venv/lib/python3.14/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
     "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
     "section": "",
-    "text": "BSD 3-Clause License\nCopyright (c) 2013-2025, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "Copyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "my-venv/lib/python3.14/site-packages/soupsieve-2.8.dist-info/licenses/LICENSE.html",
-    "href": "my-venv/lib/python3.14/site-packages/soupsieve-2.8.dist-info/licenses/LICENSE.html",
+    "objectID": "my-venv/lib/python3.14/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "href": "my-venv/lib/python3.14/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
     "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
     "section": "",
-    "text": "MIT License\nCopyright (c) 2018 - 2025 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "my-venv/lib/python3.14/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html",
-    "href": "my-venv/lib/python3.14/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html",
-    "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
+    "objectID": "datavis.html",
+    "href": "datavis.html",
+    "title": "Datavis",
     "section": "",
-    "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Agrochemicals\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Vector-borne diseases\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Excessive Heat\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme weather events (Wildfires)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of dez infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme weather events (Floods)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of dez infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme events (Droughts)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [^1] [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Air pollution\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Water Sanitisation and Hygiene\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: UV Radiation\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstellation of inspections\n\n\n\ndatavis\n\ndecent work\n\nlabour inspection\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nAug 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nMay 9, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people.qmd.backup.html",
-    "href": "people.qmd.backup.html",
-    "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
+    "objectID": "publications/2024-07-20_theorical-framework/index.html",
+    "href": "publications/2024-07-20_theorical-framework/index.html",
+    "title": "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations",
     "section": "",
-    "text": "Home\n    People"
+    "text": "This essay explores the theoretical and conceptual nexus between climate change, workers’health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil, offering a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations.\n \n Check it out here 👉 https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12"
   },
   {
-    "objectID": "people.qmd.backup.html#our-team",
-    "href": "people.qmd.backup.html#our-team",
-    "title": "Clidewo - Climate Change, Decent Work and Workers Health: Vulnerabilities and Response in Brazilian Agriculture",
-    "section": "Our team",
-    "text": "Our team"
+    "objectID": "publications/2024-07-20_theorical-framework/index.html#abstract",
+    "href": "publications/2024-07-20_theorical-framework/index.html#abstract",
+    "title": "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations",
+    "section": "",
+    "text": "This essay explores the theoretical and conceptual nexus between climate change, workers’health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil, offering a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations.\n \n Check it out here 👉 https://doi.org/10.1590/2317-6369/16224en2025v50eddsst12"
   },
   {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News/Events",
     "section": "",
-    "text": "National Workshop in Brasília Debates Climate Change, Health, and Labor in Brazilian Agriculture\n\n\n\n\n\n\n\n\nFeb 16, 2026\n\n\nIsabel Domingos Martinez Dos Santos\n\n3 min\n\n\n\n\n\n\n\n\n\n\n\nCOP30: Health, Jobs, Justice, and Human Rights\n\n\n\n\n\n\n\n\nNov 11, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nXVIII Scientific Meeting: Trabalho Escravo Contemporâneo e Questões Correlatas\n\n\n\n\n\n\n\n\nOct 13, 2025\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\n2nd International Congress of Ecological Humanities\n\n\n\n\n\n\n\n\nApr 16, 2025\n\n\nEdgar Rodríguez-Huerta\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nClimate and Occupational Health and Decent Work Nexus: Worker’s Vulnerabilities\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\nEdgar Rodríguez-Huerta\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "National Workshop in Brasília Debates Climate Change, Health, and Labor in Brazilian Agriculture\n\n\n\n\n\n\n\n\nFeb 16, 2026\n\n\nMarília Dias e Isabel Domingos\n\n3 min\n\n\n\n\n\n\n\n\n\n\n\nCOP30: Health, Jobs, Justice, and Human Rights\n\n\n\n\n\n\n\n\nNov 11, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nXVIII Scientific Meeting: Trabalho Escravo Contemporâneo e Questões Correlatas\n\n\n\n\n\n\n\n\nOct 13, 2025\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\n2nd International Congress of Ecological Humanities\n\n\n\n\n\n\n\n\nApr 16, 2025\n\n\nEdgar Rodríguez-Huerta\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nClimate and Occupational Health and Decent Work Nexus: Worker’s Vulnerabilities\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\nEdgar Rodríguez-Huerta\n\n1 min\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts_draft/2025-11-10_decent-work-nexus/index_example_maps.html#wash",
@@ -1152,6 +1159,6 @@
     "href": "resources.html",
     "title": "Datasets",
     "section": "",
-    "text": "We are developing our datasets, “Occupational health risk in agricultural workers in Brazil” 🙂\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nDescription\nCategories\nDate\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nCategories\n\n\n\nDate\n\n\n\n\n\n\n\n\nClimate-Health Hot Spots in Brazil Agriculture\n\n\nOutput data from manuscript: Mapping Climate-Health Hot Spots: Implications for Workers’ Health and Decent Work in Brazilian Agriculture\n\n\nWorkers Health\n\n\nFeb 16, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]

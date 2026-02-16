@@ -16,4 +16,3 @@ listing:
 page-layout: full
 ---
 
-We are developing our datasets, **“Occupational health risk in agricultural workers in Brazil”** 🙂

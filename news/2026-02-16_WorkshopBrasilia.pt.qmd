@@ -3,7 +3,7 @@ title: "Oficina nacional em Brasília debate mudanças climáticas, saúde e tra
 lang: pt
 date: 2026-02-16
 date-modified: 2026-02-16
-author: "Isabel Domingos Martinez Dos Santos"
+author: "Marília Dias e Isabel Domingos"
 image: "2026-02-16_PostSite.png"
 execute:
   echo: false

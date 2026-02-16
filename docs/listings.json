@@ -24,23 +24,6 @@
     ]
   },
   {
-    "listing": "/datavis.html",
-    "items": [
-      "/datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
-      "/datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
-      "/datavis/2025-12-31_climate-hazard-01-heat/index.html",
-      "/datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
-      "/datavis/2026-02-09_climate-hazard-09-floods/index.html",
-      "/datavis/2026-02-09_climate-hazard-08-droughts/index.html",
-      "/datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
-      "/datavis/2026-02-06_climate-hazard-06-wash/index.html",
-      "/datavis/2026-02-04_climate-hazard-02-radiation/index.html",
-      "/datavis/2025-01-16_Brazil_Indexs/index.html",
-      "/datavis/2025-10-18_labour_inspections/index.html",
-      "/datavis/2025-05-09_health_global_pesticides_risk/index.html"
-    ]
-  },
-  {
     "listing": "/people.qmd.backup.html",
     "items": [
       "/people/staff/Rodriguez-Huerta.html",
@@ -62,6 +45,23 @@
       "/people/staff/Abrahao.html",
       "/people/staff/Ribeiro.html",
       "/people/staff/Moraes.html"
+    ]
+  },
+  {
+    "listing": "/datavis.html",
+    "items": [
+      "/datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
+      "/datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
+      "/datavis/2025-12-31_climate-hazard-01-heat/index.html",
+      "/datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
+      "/datavis/2026-02-09_climate-hazard-09-floods/index.html",
+      "/datavis/2026-02-09_climate-hazard-08-droughts/index.html",
+      "/datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
+      "/datavis/2026-02-06_climate-hazard-06-wash/index.html",
+      "/datavis/2026-02-04_climate-hazard-02-radiation/index.html",
+      "/datavis/2025-01-16_Brazil_Indexs/index.html",
+      "/datavis/2025-10-18_labour_inspections/index.html",
+      "/datavis/2025-05-09_health_global_pesticides_risk/index.html"
     ]
   },
   {
@@ -114,6 +114,8 @@
   },
   {
     "listing": "/resources.html",
-    "items": []
+    "items": [
+      "/resources/2026-02-16_climate-health/index.html"
+    ]
   }
 ]
