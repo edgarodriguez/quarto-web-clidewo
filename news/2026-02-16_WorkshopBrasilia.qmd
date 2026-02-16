@@ -4,7 +4,7 @@ lang: en
 date: 2026-02-16
 date-modified: 2026-02-16
 author: "Isabel Domingos Martinez Dos Santos"
-image: "2016-02-16_PostSite.png"
+image: "2026-02-16_PostSite.png"
 execute:
   echo: false
 comments: false

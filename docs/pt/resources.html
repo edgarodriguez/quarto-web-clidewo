@@ -65,9 +65,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -209,8 +209,16 @@ window.Quarto = {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
     <h5 class="quarto-listing-category-title">Categorias</h5>
-<div class="quarto-listing-category category-default"><div class="category" data-category="">Tudo <span class="quarto-category-count">(0)</span>
-</div></div>
+<div class="quarto-listing-category category-default">
+<div class="category" data-category="">Tudo <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="Q2xpbWF0ZSUyMGNoYW5nZQ==">Climate change <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="VGFibGVhdQ==">Tableau <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="V29ya2VycyUyMEhlYWx0aA==">Workers Health <span class="quarto-category-count">(1)</span>
+</div>
+</div>
 </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
@@ -246,18 +254,46 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-table" id="listing-listing">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})"><option value="" disabled selected hidden="">Ordenar por</option>
+<option value="index" data-direction="asc">Pré-selecionado</option>
+<option value="listing-title-sort" data-direction="asc">
+        Título
+      </option></select>
+</div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filtro">
 </div>
 </div>
-<table class="quarto-listing-table table caption-top" data-quarto-postprocess="true">
-<thead><tr class="header">
-<th data-quarto-table-cell-role="th">Título</th>
-<th data-quarto-table-cell-role="th">Descrição</th>
-<th data-quarto-table-cell-role="th">Categorias</th>
+<table class="quarto-listing-table table">
+<thead><tr>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Título</a>
+</th>
+
+<th>
+Descrição
+</th>
+
+<th>
+Categorias
+</th>
+
 </tr></thead>
-<tbody class="list"></tbody>
+<tbody class="list"><tr data-index="0" data-categories="Q2xpbWF0ZSUyMGNoYW5nZSUyQ1dvcmtlcnMlMjBIZWFsdGglMkNUYWJsZWF1" data-listing-date-sort="1767139200000" data-listing-file-modified-sort="1771255356539" data-listing-date-modified-sort="1770854400000" data-listing-reading-time-sort="3" data-listing-word-count-sort="406" data-listing-title-sort="Saúde dos trabalhadores em um contexto de mudanças climáticas: calor excessivo" data-listing-filename-sort="index.qmd">
+<td>
+<a href="./resources/Untitled/index.html" class="title listing-title">Saúde dos trabalhadores em um contexto de mudanças climáticas: calor excessivo</a>
+</td>
+<td>
+<span class="listing-description">Série de dez infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente. <a href="https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate">International Labour Organization (ILO) 2024</a></span>
+</td>
+<td>
+<span class="listing-categories">Climate change, Workers Health, Tableau</span>
+</td>
+
+</tr></tbody>
 </table>
 <div class="listing-no-matching d-none">Nenhum item correspondente</div>
 </div></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
