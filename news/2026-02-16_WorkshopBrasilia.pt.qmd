@@ -2,9 +2,9 @@
 title: "Oficina nacional em Brasília debate mudanças climáticas, saúde e trabalho na agricultura brasileira"
 lang: pt
 date: 2026-02-16
-date-modified: 2026-02-16
+date-modified: 2026-02-17
 author: "Marília Dias e Isabel Domingos"
-image: "2026-02-16_PostSite.png"
+image: "2026-02-16_PostSite_pt.png"
 execute:
   echo: false
 comments: false
@@ -24,17 +24,21 @@ categories:
 
 ```
 
-![](2026-02-16_PostSite.png "Oficina nacional em Brasília debate mudanças climáticas, saúde e trabalho na agricultura brasileira")
+![](2026-02-16_PostSite_pt.png "Oficina nacional em Brasília debate mudanças climáticas, saúde e trabalho na agricultura brasileira")
 
 <br/><br/>
 
 ## Oficina nacional em Brasília debate mudanças climáticas, saúde e trabalho na agricultura brasileira
 
-Nos dias 5 e 6 de fevereiro, foi realizada em Brasília, a Oficina Nacional Mudanças Climáticas e Trabalho na Agricultura Brasileira: Saúde do Trabalhador, Direitos Humanos e Respostas Institucionais, reunindo pesquisadoras(es), gestoras(es) públicos, representantes do sistema de justiça e integrantes de movimentos sociais e sindicais. O evento integra as atividades de projeto de pesquisa desenvolvido em colaboração entre a Universidade Federal Fluminense (UFF), a Universidade Federal do Maranhão (UFMA), a Universidade Federal do Mato Grosso (UFMT) e a Universidade de Nottingham, contando com apoio financeiro da The British Academy. 
+Nos dias 5 e 6 de fevereiro, foi realizada em Brasília, a Oficina Nacional Mudanças Climáticas e Trabalho na Agricultura Brasileira: Saúde do Trabalhador, Direitos Humanos e Respostas Institucionais, reunindo pesquisadoras(es), gestoras(es) públicos, representantes do sistema de justiça e integrantes de movimentos sociais e sindicais. O evento integra as atividades de projeto de pesquisa desenvolvido em colaboração entre a Universidade Federal Fluminense (UFF), a Universidade Federal do Maranhão (UFMA), a Universidade Federal do Mato Grosso (UFMT) e a Universidade de Nottingham, Rights Lab, e contando com apoio financeiro da The British Academy. 
 
 A oficina teve como objetivo promover o diálogo entre diferentes setores sobre os impactos das mudanças climáticas nas condições de trabalho e na saúde de trabalhadoras e trabalhadores da agricultura, contribuindo para a formulação de políticas públicas orientadas pelos princípios da justiça climática, dos direitos humanos e do trabalho decente.
 
-A programação contou com a apresentação de resultados de pesquisa por Edgar Huerta (Universidade de Nottingham), além de dois painéis temáticos sobre os desafios contemporâneos da crise climática e do trabalho na agricultura. O primeiro abordou a COP30 como catalisadora de respostas institucionais à crise climática. Já o segundo painel concentrou-se nas condições de vida e trabalho na agricultura, discutindo temas como o Plano Clima, os impactos do calor extremo, os riscos do uso de agrotóxicos e os efeitos das mudanças climáticas sobre a saúde dos(as) trabalhadores(as) rurais. A organização agradece às(aos) mediadoras(es), painelistas e participantes pelas valiosas contribuições. 
+A programação contou com a apresentação de resultados de pesquisa por Edgar Huerta (Universidade de Nottingham), além de dois painéis temáticos sobre os desafios contemporâneos da crise climática e do trabalho na agricultura. O primeiro abordou a COP30 como catalisadora de respostas institucionais à crise climática. Já o segundo painel concentrou-se nas condições de vida e trabalho na agricultura, discutindo temas como o Plano Clima, os impactos do calor extremo, os riscos do uso de agrotóxicos e os efeitos das mudanças climáticas sobre a saúde dos(as) trabalhadores(as) rurais. A organização agradece às(aos) mediadoras(es), painelistas e participantes pelas valiosas contribuições.  
+
+Ao longo dos dois dias, os participantes se organizaram em grupos de trabalho compostos por representantes da sociedade civil, pesquisadoras(es) e gestoras(es) públicos, promovendo diálogos sobre as realidades vividas nos territórios, os impactos das mudanças climáticas e os desafios para a proteção da saúde e dos direitos das trabalhadoras e trabalhadores rurais. As discussões irão subsidiar a elaboração de um relatório com recomendações voltadas ao fortalecimento das políticas públicas.
+
+A Oficina fortalece as redes de cooperação entre universidades, Estado e sociedade civil diante dos desafios impostos pela crise climática. Parabenizamos a equipe de pesquisa que atuou na organização, debates e atividades: Isabel Domingos, Flávia Moura, Carla Reita, Ludmila Paiva, Laert Moraes, Manuella Gallego, Mayara Fortes, Saulo da Costa, Ivi Castillero, Mariana Soares e Kesley Coutinho. Um agradecimento especial ao suporte de Priscila Gomes, Olga Rios e Claudia Fidelis (staff) e Marília Dias (design).
 
 ![](2026-02-16_presentation.jpg "National Workshop in Brasília Debates Climate Change, Health, and Labor in Brazilian Agriculture")
 

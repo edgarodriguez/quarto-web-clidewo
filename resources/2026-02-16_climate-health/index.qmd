@@ -40,7 +40,7 @@ library(fontawesome)
 
 Output data from manuscript: Mapping Climate-Health Hot Spots: Implications for Workers’ Health and Decent Work in Brazilian Agriculture.
 
-Access: [https://zenodo.org/uploads/18632647](https://zenodo.org/uploads/18632647)
+Access: [https://zenodo.org/18632647](https://zenodo.org/records/18632647?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImRlMjc3ZTY0LWQ2NWQtNDQ1Yi04NDUyLWY1MDQ3NjA2Zjk1ZSIsImRhdGEiOnt9LCJyYW5kb20iOiI5YzY4NWUwY2Q2NGE0MjM4OWRiZjIzYTEwMjA1MjRiYyJ9.e5rQdhHrizdSsBNjBm26x_WRMQOWrLz-LPLAs6mtdJUVAkByVc5zTtkGW1hYjchYuw5tN6mCy3b8oxO_Ioilnw)
 
 Data contains:
 

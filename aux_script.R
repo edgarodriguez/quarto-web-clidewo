@@ -21,7 +21,8 @@ library(quarto)
 ### Aux code
 quarto_version()
 babelquarto::render_website()
-
+# View locally
+servr::httw("docs")
 
 ### Install extension used
 quarto add quarto-ext/fontawesome
