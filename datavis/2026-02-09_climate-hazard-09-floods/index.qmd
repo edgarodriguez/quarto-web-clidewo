@@ -1,6 +1,6 @@
 ---
 title: "Workers' health under climate change: Extreme weather events (Floods)"
-description: Series of dez infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+description: Series of ten infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
 
 date: 2026-02-09
 date-modified: 2026-02-09
@@ -10,7 +10,6 @@ image: img/floods_logo_02.png
 execute:
   echo: false
 categories:
-  - datavis
   - Climate change
   - Workers Health
   - Tableau
@@ -46,14 +45,10 @@ library(fontawesome)
 
 :::
 
-### Primary health impact
-
-Acute and chronic respiratory illness, asthma exacerbations, cardiovascular events, heat stress, eye injuries, burns, and adverse mental health outcomes.
-
 
 ### Flood score estimation
 
-
+Floods assessed through heavy precipitation, accumulated exposure to floods, and flood/inundation hazard index [^1], [^2]
 
 ---
 
@@ -72,15 +67,10 @@ Acute and chronic respiratory illness, asthma exacerbations, cardiovascular even
 
 ---
 
-[^1]: International Labour Organization (ILO). *Ensuring safety and health at work in a changing climate*. [https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm](https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm)
 
-[^2]:  Sobreira, E., Lázaro, W.L., Vitorino, B.D., Frota, A.V.B. da, Young, C.E.F., Campos, D.V. de S., Viana, C.R.S., de Oliveira, E., López-Ramirez, L., de Souza, A.R., Silva, D.J. da, Ignotti, E., Hacon, S., Ignácio, Á.R.A., Muniz, C.C., Filho, M. dos S., Bogoni, J.A., 2025. Wildfires and their toll on Brazil: Who’s counting the cost? Perspectives in Ecology and Conservation 23, 214–217. [https://doi.org/10.1016/j.pecon.2025.06.003](https://doi.org/10.1016/j.pecon.2025.06.003)
+[^1]: AdapraBrasil [https://sistema.adaptabrasil.mcti.gov.br](https://sistema.adaptabrasil.mcti.gov.br) 
 
-[^3]: ThinkHazard!: [https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard](https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard)
-
-[^4]: Índice de Desenvolvimento Sustentável das Cidades – Brasil. [https://idsc.cidadessustentaveis.org.br/](https://idsc.cidadessustentaveis.org.br/) 
-
-[^5]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
+[^2]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
 
 
 #### Share it on social media:

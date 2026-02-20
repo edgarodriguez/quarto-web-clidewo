@@ -1,6 +1,6 @@
 ---
 title: "Workers' health under climate change: Water Sanitisation and Hygiene"
-description: Series of ten infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+description: Series of nine infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
 
 date: 2026-02-06
 date-modified: 2026-02-06
@@ -10,7 +10,6 @@ image: img/wash_logo_02.png
 execute:
   echo: false
 categories:
-  - datavis
   - Climate change
   - Workers Health
   - Tableau
@@ -59,9 +58,9 @@ Addressing heat stress through regulation, social protection, and workplace adap
 ### WASH measure
 
 
-WASH score is estimated based on Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability [^2] 6
-Diseases related to inadequate environmental sanitation (100k inhabitants) [^3] 4
-Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability [^1] 6
+WASH score is estimated based on Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability [^2]
+Diseases related to inadequate environmental sanitation (100k inhabitants) [^3]
+Variations in water availability as a function of water scarcity, from the interaction between the hydrological system and climate variability [^1]
 
 
 Data visualization summarizes the analysis of excessive heat in **Brazil**, disaggregated by **municipality, population, and crops**, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture.

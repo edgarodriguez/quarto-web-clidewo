@@ -1,21 +1,25 @@
 ---
-title: "Mudanças climáticas e riscos ambientais: Agroquímicos"
-date: 2024-10-30
-date-modified: 2024-10-30
-draft: true
+title: "Saúde dos trabalhadores sob as mudanças climáticas: Eventos extremos (secas)"
+description: Série de nove infográficos que descrevem os principais riscos para a saúde dos trabalhadores relacionados com as alterações climáticas e o ambiente [Organização Internacional do Trabalho (OIT) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+
+date: 2026-02-09
+date-modified: 2026-02-09
+draft: false
 draft-mode: gone
-image: img/em-breve.png
+image: img/droughts_logo_02.png
+preview: false             
 execute:
   echo: false
 categories:
-  - datavis
   - Climate change
   - Workers Health
-  - R tools
+  - Tableau
 lang: pt
 format: 
   html:
     page-layout: full
+#    code-tools: true
+embed-resources: true
 lightbox: true
 toc: false
 author:
@@ -38,19 +42,35 @@ library(fontawesome)
 ```
 
 
+### Estimativa de Secas
+
+• Secas medidas pelo Índice Padronizado de Precipitação-Evapotranspiração (SPEI) de 12 meses [^1]
+
+A visualização de dados resume a análise do calor excessivo no **Brasil**, desagregada por **município, população e culturas**, para identificar diferenças espaciais e pontos críticos de estresse térmico em todas as dimensões. Ao traduzir dados climáticos e socioambientais complexos em formatos visuais acessíveis, a visualização de dados apoia uma melhor tomada de decisão, permitindo intervenções direcionadas, priorização de riscos e políticas que promovam trabalho decente na agricultura.
+
+---
 
 
-Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
 
-## Em breve
+<img
+  src="img/01_viz_excessive_heat.png"
+  style="width:100%; height:auto;"
+  loading="lazy"
+/>
 
 
-![](img/agrochemicals-breve.png "Infográfico sobre agroquímicos e problemas de saúde")
 
-## Download {.appendix}
+### Download {.appendix}
 
-- [Baixe em alta resolução]
-- [Olhe dentro do código]
+
+{{< downloadthis img/01_viz_excessive_heat.pdf dname=clidewo_climate_hazard_excessive_heat label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+
+
+---
+
+
+
+[^1]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
 
 #### Compartilhe em redes sociais:
 

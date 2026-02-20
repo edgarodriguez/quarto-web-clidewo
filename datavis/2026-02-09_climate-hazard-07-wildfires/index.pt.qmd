@@ -1,0 +1,105 @@
+---
+title: "Saúde dos trabalhadores em um contexto de mudanças climáticas: Eventos climáticos extremos (Incêndios florestais)"
+description: Série de nove infográficos descrevendo os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do Trabalho (OIT) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+
+date: 2026-02-09
+date-modified: 2026-02-09
+draft: false
+draft-mode: unlinked
+image: img/wildfires_logo_02.png
+execute:
+  echo: false
+categories:
+  - Climate change
+  - Workers Health
+  - Tableau
+lang: pt
+format: 
+  html:
+    page-layout: full
+#    code-tools: true
+embed-resources: true
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+::: {.callout-note}
+
+***"Incêndios florestais espalham fumaça tóxica pela América do Sul, sobrecarregando o sistema de saúde."[^2]***
+:::
+
+### Impacto primário na saúde
+
+Doenças respiratórias agudas e crônicas, exacerbações da asma, eventos cardiovasculares, estresse térmico, lesões oculares, queimaduras e consequências adversas para a saúde mental.
+
+### Estimativa de incêndios florestais
+
+A pontuação de incêndios florestais é estimada pela integração do Índice de Clima de Incêndio (FWI) com período de retorno de 2 anos [^3], Concentração de focos de incêndio [^4] e Eventos acumulados de incêndios florestais (nos últimos 7 anos) [^5].
+
+
+
+---
+
+
+
+![](img/10_viz_wildfires.png){width=100% height=100%}
+
+
+
+
+### Download {.appendix}
+
+
+{{< downloadthis img/viz_wildfires.pdf dname=clidewo_climate_hazard_wildfires label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+
+
+---
+
+[^1]: International Labour Organization (ILO). *Ensuring safety and health at work in a changing climate*. [https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm](https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm)
+
+[^2]:  Sobreira, E., Lázaro, W.L., Vitorino, B.D., Frota, A.V.B. da, Young, C.E.F., Campos, D.V. de S., Viana, C.R.S., de Oliveira, E., López-Ramirez, L., de Souza, A.R., Silva, D.J. da, Ignotti, E., Hacon, S., Ignácio, Á.R.A., Muniz, C.C., Filho, M. dos S., Bogoni, J.A., 2025. Wildfires and their toll on Brazil: Who’s counting the cost? Perspectives in Ecology and Conservation 23, 214–217. [https://doi.org/10.1016/j.pecon.2025.06.003](https://doi.org/10.1016/j.pecon.2025.06.003)
+
+[^3]: ThinkHazard!: [https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard](https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard)
+
+[^4]: Índice de Desenvolvimento Sustentável das Cidades – Brasil. [https://idsc.cidadessustentaveis.org.br/](https://idsc.cidadessustentaveis.org.br/) 
+
+[^5]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
+
+
+#### Compartilhe nas redes sociais:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

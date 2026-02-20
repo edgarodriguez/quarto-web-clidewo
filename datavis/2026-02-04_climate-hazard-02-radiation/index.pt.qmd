@@ -1,16 +1,15 @@
 ---
 title: "Saúde dos trabalhadores em um contexto de mudanças climáticas: Radiação UV"
-description: SSérie de dez infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do Trabalho (OIT)](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+description: SSérie de nove infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do Trabalho (OIT)](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
 
 date: 2024-10-30
 date-modified: 2026-02-04
-draft: true
+draft: false
 draft-mode: visible 
 image: img/uv_radiation_logo.png
 execute:
   echo: false
 categories:
-  - datavis
   - Climate change
   - Workers Health
   - Tableau

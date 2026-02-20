@@ -1,21 +1,24 @@
 ---
-title: "Mudanças climáticas e riscos ambientais: Agroquímicos"
-date: 2024-10-30
-date-modified: 2024-10-30
-draft: true
+title: "Saúde dos trabalhadores em um contexto de mudanças climáticas: Água, saneamento e higiene."
+description: Série de nove infográficos que descrevem os principais riscos para a saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do Trabalho (OIT) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+
+date: 2026-02-06
+date-modified: 2026-02-06
+draft: false
 draft-mode: visible 
-image: img/em-breve.png
+image: img/wash_logo_02.png
 execute:
   echo: false
 categories:
-  - datavis
   - Climate change
   - Workers Health
-  - R tools
+  - Tableau
 lang: pt
 format: 
   html:
     page-layout: full
+#    code-tools: true
+embed-resources: true
 lightbox: true
 toc: false
 author:
@@ -37,20 +40,52 @@ author:
 library(fontawesome)
 ```
 
+::: {.callout-note}
+
+Durante inspeções de trabalho, a falta de água, saneamento e higiene adequados (WASH) foi identificada como um problema grave que contribui para a degradação das condições de trabalho.
+
+:::
+
+## WASH
+
+**Efeitos na saúde a curto prazo** incluem desidratação, exaustão pelo calor, cãibras de calor, redução da função cognitiva e aumento do risco de lesões ocupacionais devido à fadiga e à dificuldade de concentração. Esses impactos imediatos podem diminuir a produtividade e aumentar as taxas de acidentes, muitas vezes sem acesso adequado a descanso, sombra ou água potável.
+
+**A exposição prolongada** ao calor excessivo está associada a doenças renais crônicas, sobrecarga cardiovascular, agravamento de problemas respiratórios e impactos duradouros na saúde mental. O estresse térmico repetido também pode acelerar o desgaste físico, reduzir a vida laboral e aumentar a insegurança econômica entre trabalhadores já vulneráveis.
+
+Combater o estresse térmico por meio de regulamentação, proteção social e adaptação no local de trabalho é essencial para garantir trabalho decente, proteger a saúde e sustentar os meios de subsistência agrícola em um clima em aquecimento.
+
+### Medida WASH
+
+A pontuação WASH é estimada com base nas variações na disponibilidade de água em função da escassez hídrica, a partir da interação entre o sistema hidrológico e a variabilidade climática [^2]
+Doenças relacionadas ao saneamento ambiental inadequado (100 mil habitantes) [^3]
+Variações na disponibilidade de água em função da escassez hídrica, a partir da interação entre o sistema hidrológico e a variabilidade climática [^1]
+
+A visualização de dados resume a análise do calor excessivo no **Brasil**, desagregada por **município, população e culturas**, para identificar diferenças espaciais e pontos críticos de estresse térmico em todas as dimensões. Ao traduzir dados climáticos e socioambientais complexos em formatos visuais acessíveis, a visualização de dados apoia uma melhor tomada de decisão, permitindo intervenções direcionadas, priorização de riscos e políticas que promovam o trabalho decente na agricultura.
+
+---
 
 
 
-Série de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
-
-## Em breve
+![](img/05_viz_wash.png){width=100% height=100%}
 
 
-![](img/agrochemicals-breve.png "Infográfico sobre agroquímicos e problemas de saúde")
 
-## Download {.appendix}
 
-- [Baixe em alta resolução]
-- [Olhe dentro do código]
+### Download {.appendix}
+
+
+{{< downloadthis img/viz_wash.pdf dname=clidewo_climate_hazard_wash label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+
+
+---
+
+[^1]: International Labour Organization (ILO). *Ensuring safety and health at work in a changing climate*. [https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm](https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm)
+
+[^2]: ThinkHazard! *Global Extreme Heat Hazard*. World Bank Data Catalog. [https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard](https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard)
+
+[^3]: Rao, N. et al. *Global inequality in environmental conditions*. *Environmental Research Letters*. [https://doi.org/10.1088/2515-7620/ae0407](https://doi.org/10.1088/2515-7620/ae0407)
+
+[^4]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
 
 #### Compartilhe em redes sociais:
 

@@ -1,17 +1,16 @@
 ---
 title: "Workers' health under climate change: Extreme events (Droughts)"
-description: Series of ten infographics describing the main risks to workers' health related to climate change and the environment [^1] [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+description: Series of nine infographics describing the main risks to workers' health related to climate change and the environment [^1] [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
 
 date: 2026-02-09
 date-modified: 2026-02-09
-draft: true
+draft: false
 draft-mode: gone
 image: img/droughts_logo_02.png
 preview: false             
 execute:
   echo: false
 categories:
-  - datavis
   - Climate change
   - Workers Health
   - Tableau
@@ -47,7 +46,7 @@ library(fontawesome)
 ### Estimation Droughts
 
 
-
+•	Droughts measured by 12-month Standardized Precipitation-Evapotranspiration Index (SPEI) [^1]
 
 
 Data visualization summarizes the analysis of excessive heat in **Brazil**, disaggregated by **municipality, population, and crops**, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture.
@@ -73,13 +72,9 @@ Data visualization summarizes the analysis of excessive heat in **Brazil**, disa
 
 ---
 
-[^1]: International Labour Organization (ILO). *Ensuring safety and health at work in a changing climate*. [https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm](https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang--en/index.htm)
 
-[^2]: ThinkHazard! *Global Extreme Heat Hazard*. World Bank Data Catalog. [https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard](https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard)
 
-[^3]: Ormaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. [https://doi.org/10.1088/2515-7620/ae0407](https://doi.org/10.1088/2515-7620/ae0407)
-
-[^4]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
+[^1]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
 
 
 #### Share it on social media:

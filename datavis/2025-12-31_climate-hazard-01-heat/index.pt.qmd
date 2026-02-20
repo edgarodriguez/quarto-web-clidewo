@@ -1,6 +1,6 @@
 ---
 title: "Saúde dos trabalhadores em um contexto de mudanças climáticas: calor excessivo"
-description: Série de dez infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente. [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+description: Série de nove infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente. [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
 
 date: 2025-12-31
 date-modified: 2026-02-12

@@ -525,25 +525,18 @@
     "text": "Biografia\n\n\n\n\nDoutoranda pelo Programa de Pós-Graduação em Ciências Sociais da UFMA (PPGCSoc/UFMA). Mestra em Ciências Sociais pela PUC-São Paulo. Socióloga e membro do Grupo de Estudo e Pesquisa Trabalho e Sociedade (GEPTS/ UFMA). Pesquisa novas formas de organização do trabalho, precarização, trabalhadores em aplicativos digitais. Pesquisou movimento sindical no Brasil e sindicalismo docente no Maranhão."
   },
   {
-    "objectID": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
-    "href": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html",
-    "title": "Workers’ health under climate change: Air pollution",
+    "objectID": "datavis/2026-02-09_climate-hazard-08-droughts/index.html",
+    "href": "datavis/2026-02-09_climate-hazard-08-droughts/index.html",
+    "title": "Workers’ health under climate change: Extreme events (Droughts)",
     "section": "",
-    "text": "Cancer (lung), respiratory disease, cardiovascular disease 1\n\n\nAir pollution hazard was estimated using the annual mean concentration of fine particulate matter (PM₂.₅) from Global inequality in environmental conditions2 . Air quality was normalised using a piecewise, risk-based scaling approach, in which the World Health Organization (WHO) guideline value of 5 µg/m³ for annual PM₂.₅ was assigned a hazard score of 50 (high risk), and maximum value in Brazil (38.78) as 100,\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+    "text": "• Droughts measured by 12-month Standardized Precipitation-Evapotranspiration Index (SPEI) 1\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
   },
   {
-    "objectID": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#effect-of-air-pollution-workers-health",
-    "href": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#effect-of-air-pollution-workers-health",
-    "title": "Workers’ health under climate change: Air pollution",
-    "section": "",
-    "text": "Cancer (lung), respiratory disease, cardiovascular disease 1\n\n\nAir pollution hazard was estimated using the annual mean concentration of fine particulate matter (PM₂.₅) from Global inequality in environmental conditions2 . Air quality was normalised using a piecewise, risk-based scaling approach, in which the World Health Organization (WHO) guideline value of 5 µg/m³ for annual PM₂.₅ was assigned a hazard score of 50 (high risk), and maximum value in Brazil (38.78) as 100,\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#footnotes",
-    "href": "datavis/2024-02-07_climate-hazard-03-air-pollution/index.html#footnotes",
-    "title": "Workers’ health under climate change: Air pollution",
+    "objectID": "datavis/2026-02-09_climate-hazard-08-droughts/index.html#footnotes",
+    "href": "datavis/2026-02-09_climate-hazard-08-droughts/index.html#footnotes",
+    "title": "Workers’ health under climate change: Extreme events (Droughts)",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎"
+    "text": "Footnotes\n\n\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎"
   },
   {
     "objectID": "datavis/2026-02-04_climate-hazard-02-radiation/index.html",
@@ -567,81 +560,11 @@
     "text": "Footnotes\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nTEMIS - Daily UV index and UV dose data from MSR- 2 ( uv dec ) https://www.temis.nl/uvradiation/UVarchive/uvncfiles_msr2.php↩︎"
   },
   {
-    "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
-    "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html",
-    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
+    "objectID": "datavis/2026-02-20_climatehazard_decentwork/index.html",
+    "href": "datavis/2026-02-20_climatehazard_decentwork/index.html",
+    "title": "Climate Decent Work Risk Assessment",
     "section": "",
-    "text": "“Wildfire spreads toxic smoke across South America, straining the healthcare system”1"
-  },
-  {
-    "objectID": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#footnotes",
-    "href": "datavis/2026-02-09_climate-hazard-10-wildfires/index.html#footnotes",
-    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nSobreira, E., Lázaro, W.L., Vitorino, B.D., Frota, A.V.B. da, Young, C.E.F., Campos, D.V. de S., Viana, C.R.S., de Oliveira, E., López-Ramirez, L., de Souza, A.R., Silva, D.J. da, Ignotti, E., Hacon, S., Ignácio, Á.R.A., Muniz, C.C., Filho, M. dos S., Bogoni, J.A., 2025. Wildfires and their toll on Brazil: Who’s counting the cost? Perspectives in Ecology and Conservation 23, 214–217. https://doi.org/10.1016/j.pecon.2025.06.003↩︎\nThinkHazard!: https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard↩︎\nÍndice de Desenvolvimento Sustentável das Cidades – Brasil. https://idsc.cidadessustentaveis.org.br/↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎"
-  },
-  {
-    "objectID": "datavis/2025-01-16_Brazil_Indexs/index.html#download",
-    "href": "datavis/2025-01-16_Brazil_Indexs/index.html#download",
-    "title": "Brazil’s pesticide risk and degrating working conditions",
-    "section": "Download",
-    "text": "Download\n\n\n[Interactive version] (coming soon)\nDownload high resolution datavis\n[Download Tableau worksheet] (coming soon)\n[Look inside the code to collect data] (coming soon)\n\n\nShare it on social media:"
-  },
-  {
-    "objectID": "datavis/2025-10-18_labour_inspections/index.html",
-    "href": "datavis/2025-10-18_labour_inspections/index.html",
-    "title": "Constellation of inspections",
-    "section": "",
-    "text": "The DataViz focuses on the results of labour inspections and the relevance behind each fiscalização (inspection in the visualisation). Whether one or 1,064 rescues, each star symbolises justice for workers. At the same time, it serves as a reminder of the immense task ahead, the vast territory to be covered, the potential gaps or voids yet to be explored, and the need to strengthen the capacity of the inspectorate to continue its effort.\nMore inspectors mean a greater capacity to identify spots of vulnerability and eradicate degrading working conditions.\n\n\n  \n    \n      \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\n\n\n\n\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
-    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
-    "title": "Workers’ health under climate change: Vector-borne diseases",
-    "section": "",
-    "text": "In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record [^2]\n\n\nVector-borne diseases score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030) 1, Incidence of dengue per 100,000 inhabitants 2 Í\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#dengue-in-brazil",
-    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#dengue-in-brazil",
-    "title": "Workers’ health under climate change: Vector-borne diseases",
-    "section": "",
-    "text": "In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record [^2]\n\n\nVector-borne diseases score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030) 1, Incidence of dengue per 100,000 inhabitants 2 Í\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#footnotes",
-    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#footnotes",
-    "title": "Workers’ health under climate change: Vector-borne diseases",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nDengue outbreak in Brazil: 2024 https://www.dengue.com/Dengue-outbreak-in-Brazil-2024↩︎\nIndice de Desenvolvimento Sustentável das Cidades – Brasil https://idsc.cidadessustentaveis.org.br/↩︎"
-  },
-  {
-    "objectID": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
-    "href": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
-    "title": "Brazil’s pesticide risk and degrating working conditions",
-    "section": "Download",
-    "text": "Download\n\n\n[Interactive version] (coming soon)\nDownload high resolution datavis\n[Download Tableau worksheet] (coming soon)\n[Look inside the code to collect data] (coming soon)\n\n\nShare it on social media:"
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
-    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
-    "title": "Workers’ health under climate change: Agrochemicals",
-    "section": "",
-    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nAgrochemicals score is estimated by integrating two indicators: Application of pesticides 1, and Pesticides Risk Score 2.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#effect-of-agrochemicals-workers-health",
-    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#effect-of-agrochemicals-workers-health",
-    "title": "Workers’ health under climate change: Agrochemicals",
-    "section": "",
-    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nAgrochemicals score is estimated by integrating two indicators: Application of pesticides 1, and Pesticides Risk Score 2.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
-  },
-  {
-    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#footnotes",
-    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#footnotes",
-    "title": "Workers’ health under climate change: Agrochemicals",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎\nTang, F.H.M., Lenzen, M., McBratney, A., Maggi, F., 2021. Risk of pesticide pollution at the global scale. Nat. Geosci. 14, 206–210. https://doi.org/10.1038/s41561-021-00712-5↩︎"
+    "text": "Which regions experience excessive heat and excessive working hours?   Which subpopulations have the worst decent working conditions?   Which crops are at the greatest risk due to unsafe environmental measures and have the greatest exposure to agrochemicals? \n\nThe visualisation allows you to combine each element of decent work as well as climate hazards to answer your own questions.\nOur assessment builds on the framework developed by the Intergovernmental Panel on Climate Change (IPCC), which defines climate risk as the product of three interacting factors: hazards (the climate threats), exposure (who and what is in harm’s way), and vulnerability (how susceptible people are to those threats). We adapted this framework specifically to examine climate risks through a decent work lens, understating as a multi-faceted concept comprised of 10 core elements linked to the five strategic pillars of the ILO’s decent work agenda, intended to improve working conditions.\n\n\n\n                   \n\n\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
   },
   {
     "objectID": "datavis/2026-02-06_climate-hazard-06-wash/index.html",
@@ -665,11 +588,109 @@
     "text": "Footnotes\n\n\nThinkHazard! Global Extreme Heat Hazard. World Bank Data Catalog. https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard↩︎\nRao, N. et al. Global inequality in environmental conditions. Environmental Research Letters. https://doi.org/10.1088/2515-7620/ae0407↩︎\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎"
   },
   {
+    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
+    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
+    "title": "Workers’ health under climate change: Agrochemicals",
+    "section": "",
+    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nAgrochemicals score is estimated by integrating two indicators: Application of pesticides 1, and Pesticides Risk Score 2.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#effect-of-agrochemicals-workers-health",
+    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#effect-of-agrochemicals-workers-health",
+    "title": "Workers’ health under climate change: Agrochemicals",
+    "section": "",
+    "text": "Short-term health effects include dehydration, heat exhaustion, heat cramps, reduced cognitive function, and increased risk of occupational injuries due to fatigue and impaired concentration. These immediate impacts can lower productivity and raise accident rates, often without adequate access to rest, shade, or potable water.\nLong-term exposure to excessive heat is associated with chronic kidney disease, cardiovascular strain, worsening respiratory conditions, and long-lasting impacts on mental health. Repeated heat stress can also accelerate physical wear, shorten working lives, and increase economic insecurity among already vulnerable workers.\nAddressing heat stress through regulation, social protection, and workplace adaptation is essential to ensure decent work, protect health, and sustain agricultural livelihoods in a warming climate.\n\n\nAgrochemicals score is estimated by integrating two indicators: Application of pesticides 1, and Pesticides Risk Score 2.\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#footnotes",
+    "href": "datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html#footnotes",
+    "title": "Workers’ health under climate change: Agrochemicals",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎\nTang, F.H.M., Lenzen, M., McBratney, A., Maggi, F., 2021. Risk of pesticide pollution at the global scale. Nat. Geosci. 14, 206–210. https://doi.org/10.1038/s41561-021-00712-5↩︎"
+  },
+  {
+    "objectID": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
+    "href": "datavis/2025-05-09_health_global_pesticides_risk/index.html#download",
+    "title": "Brazil’s pesticide risk and degrating working conditions",
+    "section": "Download",
+    "text": "Download\n\n\n[Interactive version] (coming soon)\nDownload high resolution datavis\n[Download Tableau worksheet] (coming soon)\n[Look inside the code to collect data] (coming soon)\n\n\nShare it on social media:"
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
+    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
+    "title": "Workers’ health under climate change: Vector-borne diseases",
+    "section": "",
+    "text": "In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record [^2]\n\n\nVector-borne diseases score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030) 1, Incidence of dengue per 100,000 inhabitants 2 Í\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#dengue-in-brazil",
+    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#dengue-in-brazil",
+    "title": "Workers’ health under climate change: Vector-borne diseases",
+    "section": "",
+    "text": "In 2024, Brazil exceeded its worst-case projection for dengue cases in June 2024, with a record 5.5 million infections reported, representing a 240 per cent increase from the 1.6 million cases recorded in 2023, which was already among the highest on record [^2]\n\n\nVector-borne diseases score is estimated by integrating Climate Hazard Index (Health) related to the occurrence of dengue, zika and chikungunya arboviruses (mean sceanrio for 2030) 1, Incidence of dengue per 100,000 inhabitants 2 Í\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#footnotes",
+    "href": "datavis/2026-02-06_climate-hazard-04-vector-disease/index.html#footnotes",
+    "title": "Workers’ health under climate change: Vector-borne diseases",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDengue outbreak in Brazil: 2024 https://www.dengue.com/Dengue-outbreak-in-Brazil-2024↩︎\nIndice de Desenvolvimento Sustentável das Cidades – Brasil https://idsc.cidadessustentaveis.org.br/↩︎"
+  },
+  {
+    "objectID": "datavis/2025-10-18_labour_inspections/index.html",
+    "href": "datavis/2025-10-18_labour_inspections/index.html",
+    "title": "Constellation of inspections",
+    "section": "",
+    "text": "The DataViz focuses on the results of labour inspections and the relevance behind each fiscalização (inspection in the visualisation). Whether one or 1,064 rescues, each star symbolises justice for workers. At the same time, it serves as a reminder of the immense task ahead, the vast territory to be covered, the potential gaps or voids yet to be explored, and the need to strengthen the capacity of the inspectorate to continue its effort.\nMore inspectors mean a greater capacity to identify spots of vulnerability and eradicate degrading working conditions.\n\n\n  \n    \n      \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\n\n\n\n\n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
+  },
+  {
     "objectID": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
     "href": "datavis/2026-02-09_climate-hazard-09-floods/index.html",
     "title": "Workers’ health under climate change: Extreme weather events (Floods)",
     "section": "",
-    "text": "Note\n\n\n\n\n\n\n\nPrimary health impact\nAcute and chronic respiratory illness, asthma exacerbations, cardiovascular events, heat stress, eye injuries, burns, and adverse mental health outcomes.\n\n\nFlood score estimation\n\n\n\n\n\nDownload\n\n Download the pdf \n\n\nShare it on social media:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReuseCC BY NC"
+    "text": "Note"
+  },
+  {
+    "objectID": "datavis/2026-02-09_climate-hazard-09-floods/index.html#footnotes",
+    "href": "datavis/2026-02-09_climate-hazard-09-floods/index.html#footnotes",
+    "title": "Workers’ health under climate change: Extreme weather events (Floods)",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAdapraBrasil https://sistema.adaptabrasil.mcti.gov.br↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎"
+  },
+  {
+    "objectID": "datavis/2026-02-09_climate-hazard-07-wildfires/index.html",
+    "href": "datavis/2026-02-09_climate-hazard-07-wildfires/index.html",
+    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
+    "section": "",
+    "text": "“Wildfire spreads toxic smoke across South America, straining the healthcare system”1"
+  },
+  {
+    "objectID": "datavis/2026-02-09_climate-hazard-07-wildfires/index.html#footnotes",
+    "href": "datavis/2026-02-09_climate-hazard-07-wildfires/index.html#footnotes",
+    "title": "Workers’ health under climate change: Extreme weather events (Wildfires)",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSobreira, E., Lázaro, W.L., Vitorino, B.D., Frota, A.V.B. da, Young, C.E.F., Campos, D.V. de S., Viana, C.R.S., de Oliveira, E., López-Ramirez, L., de Souza, A.R., Silva, D.J. da, Ignotti, E., Hacon, S., Ignácio, Á.R.A., Muniz, C.C., Filho, M. dos S., Bogoni, J.A., 2025. Wildfires and their toll on Brazil: Who’s counting the cost? Perspectives in Ecology and Conservation 23, 214–217. https://doi.org/10.1016/j.pecon.2025.06.003↩︎\nThinkHazard!: https://datacatalog.worldbank.org/search/dataset/0066912/Global-wildfire-hazard↩︎\nÍndice de Desenvolvimento Sustentável das Cidades – Brasil. https://idsc.cidadessustentaveis.org.br/↩︎\nClimate–Conflict–Vulnerability Index (CCVI). Climate data (2024-Q4). https://climatevulnerabilityindex.org↩︎"
+  },
+  {
+    "objectID": "datavis/2026-02-07_climate-hazard-03-air-pollution/index.html",
+    "href": "datavis/2026-02-07_climate-hazard-03-air-pollution/index.html",
+    "title": "Workers’ health under climate change: Air pollution",
+    "section": "",
+    "text": "Cancer (lung), respiratory disease, cardiovascular disease 1\n\n\nAir pollution hazard was estimated using the annual mean concentration of fine particulate matter (PM₂.₅) from Global inequality in environmental conditions2 . Air quality was normalised using a piecewise, risk-based scaling approach, in which the World Health Organization (WHO) guideline value of 5 µg/m³ for annual PM₂.₅ was assigned a hazard score of 50 (high risk), and maximum value in Brazil (38.78) as 100,\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-07_climate-hazard-03-air-pollution/index.html#effect-of-air-pollution-workers-health",
+    "href": "datavis/2026-02-07_climate-hazard-03-air-pollution/index.html#effect-of-air-pollution-workers-health",
+    "title": "Workers’ health under climate change: Air pollution",
+    "section": "",
+    "text": "Cancer (lung), respiratory disease, cardiovascular disease 1\n\n\nAir pollution hazard was estimated using the annual mean concentration of fine particulate matter (PM₂.₅) from Global inequality in environmental conditions2 . Air quality was normalised using a piecewise, risk-based scaling approach, in which the World Health Organization (WHO) guideline value of 5 µg/m³ for annual PM₂.₅ was assigned a hazard score of 50 (high risk), and maximum value in Brazil (38.78) as 100,\nData visualization summarizes the analysis of excessive heat in Brazil, disaggregated by municipality, population, and crops, to identify spatial differences and heat stress hotspots across dimensions. By translating complex climate and socio-environmental data into accessible visual formats, data visualization supports better decision-making, enabling targeted interventions, risk prioritization, and policies that advance decent work in agriculture."
+  },
+  {
+    "objectID": "datavis/2026-02-07_climate-hazard-03-air-pollution/index.html#footnotes",
+    "href": "datavis/2026-02-07_climate-hazard-03-air-pollution/index.html#footnotes",
+    "title": "Workers’ health under climate change: Air pollution",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nInternational Labour Organization (ILO). Ensuring safety and health at work in a changing climate. https://www.ilo.org/global/topics/safety-and-health-at-work/resources-library/publications/WCMS_893111/lang–en/index.htm↩︎\nOrmaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. https://doi.org/10.1088/2515-7620/ae0407↩︎"
   },
   {
     "objectID": "datavis/2025-12-31_climate-hazard-01-heat/index.html",
@@ -844,7 +865,7 @@
     "href": "datavis.html",
     "title": "Datavis",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Agrochemicals\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Vector-borne diseases\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Excessive Heat\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme weather events (Wildfires)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of dez infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme weather events (Floods)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of dez infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme events (Droughts)\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [^1] [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Air pollution\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Water Sanitisation and Hygiene\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: UV Radiation\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstellation of inspections\n\n\n\ndatavis\n\ndecent work\n\nlabour inspection\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nAug 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nMay 9, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nClimate Decent Work Risk Assessment\n\n\n\nClimate change\n\nDecent Work\n\nCRVA\n\nTableau\n\nInteractive\n\n\n\nInteractive visualisation with our Climate-Decent Work Risk Assessment in agriculture in Brazil\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Agrochemicals\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of nine infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Vector-borne diseases\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Excessive Heat\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of nine infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme weather events (Floods)\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of ten infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme weather events (Wildfires)\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of nine infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Extreme events (Droughts)\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of nine infographics describing the main risks to workers’ health related to climate change and the environment [^1] [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Air pollution\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of nine infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: Water Sanitisation and Hygiene\n\n\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of nine infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkers’ health under climate change: UV Radiation\n\n\n\ndatavis\n\nClimate change\n\nWorkers Health\n\nTableau\n\n\n\nSeries of nine infographics describing the main risks to workers’ health related to climate change and the environment [International Labour Organization (ILO)…\n\n\n\nEdgar Rodriguez-Huerta\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstellation of inspections\n\n\n\ndatavis\n\ndecent work\n\nlabour inspection\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nAug 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrazil’s pesticide risk and degrating working conditions\n\n\n\ndatavis\n\nAgrochemicals\n\nWorkers Health\n\n\n\n\n\n\n\nEdgar Rodriguez-Huerta\n\n\nMay 9, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/2024-07-20_theorical-framework/index.html",
