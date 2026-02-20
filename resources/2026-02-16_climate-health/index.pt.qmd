@@ -39,7 +39,7 @@ library(fontawesome)
 
 Dados de saída do manuscrito: Mapeamento de Pontos Críticos de Clima e Saúde: Implicações para a Saúde dos Trabalhadores e Trabalho Decente na Agricultura Brasileira.
 
-Acesso: [https://zenodo.org/uploads/18632647](https://zenodo.org/uploads/18632647)
+Acesso: [https://zenodo.org/uploads/18632647](https://zenodo.org/records/18632647?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImYxNjllMDUyLTAxYzMtNGUwZC05N2E0LTE3ZTBlNTExMTM3YiIsImRhdGEiOnt9LCJyYW5kb20iOiI3NDc5MWYwYzQ4Y2QxNjUzMTI2Y2M0NTA2YzdlNDZhNCJ9.20SVeA660y1T2CC_wD_ekWOeab12iHfut219KuATaH9UDFdIlXBHvFfqEMMlAldfWA-PxUXUgrbP1A0qcrMeTg)
 
 Os dados contêm:
 

@@ -43,13 +43,13 @@ library(fontawesome)
 ```
 
 ::: {.centered}
-**Quais regiões sofrem com calor excessivo e jornadas de trabalho excessivas?** <br />
+
+**Quais regiões apresentam os níveis mais elevados de exposição ao calor extremo combinados com jornadas de trabalho excessivas?** <br />
 <br />
-**Quais subpopulações têm as piores condições de trabalho decente?** <br />
+**Quais grupos populacionais enfrentam os déficits mais graves em condições de trabalho decentes, com base em indicadores mensuráveis como salários, segurança no emprego, segurança ocupacional e acesso à proteção social?** <br />
 <br />
-**Quais culturas correm maior risco devido a práticas ambientais inseguras e têm maior exposição a agrotóxicos?**
+**Quais culturas estão mais em risco devido a salvaguardas ambientais inadequadas e aos níveis mais elevados de exposição a agrotóxicos, e como esses riscos se distribuem pelos sistemas agrícolas?**
 <br />
-:::
 
 A visualização permite combinar cada elemento do trabalho decente com os riscos climáticos para responder às suas próprias perguntas.
 
