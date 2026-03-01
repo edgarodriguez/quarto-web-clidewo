@@ -1,79 +1,27 @@
 ---
-title: "Relatório Abordagens participativas: Experiências no Maranhão, Mato Grosso e Rio de Janeiro"
-subtitle: ""
-draft: false
+title: "Mudanças climáticas, trabalho decente e saúde dos trabalhadores: Vulnerabilidades e respostas dos trabalhadores na agricultura brasileira."
+subtitle: "Relatório do projeto de pesquisa consolidado, incluindo os principais resultados e a recomendação final"
+draft: true
 draft-mode: visible
-date: "2026-02-27"
-date-modified: "2026-02-27"
+date: "2026-02-28"
+date-modified: "2026-02-28"
 image: img/cover-pt.png
 execute:
   echo: false
-#citation:
-#  url: in progress
-lang: pt  
+citation:
+  url: in progress
+lang: en  
 categories:
   - Workers Health
   - Climate change
   - Human Rights
   - Decent Work
   
-author:
-  - name: Isabel Domingos Martinez dos Santos
-    url: https://www.clidewo.com/people/staff/Domingos.html
-    affiliation: Universidade Federal Fluminense
-    affiliation-url: https://www.uff.br
-    orcid:  
-  - name: Flávia de Almeida Moura
-    url: https://www.clidewo.com/people/staff/Moura.html
-    affiliation: Universidade Federal de Maranhão
-    affiliation-url: https://portalpadrao.ufma.br
-    orcid: 
-
-  - name: Carla Reita Faria Leal 
-    url: https://www.clidewo.com/people/staff/Reita.html
-    affiliation: Universidade Federal Mato Grosso
-    affiliation-url: https://www.uff.br
-    orcid: 	
-  - name: Ivi Tavares Abrahão Castillero
-    url: https://www.clidewo.com/people/staff/Abrahao.html
-    affiliation: Universidade Federal Fluminense
-    affiliation-url: https://www.uff.br
-  - name: Késley Gabriel Bezerra Coutinho
-    url: https://www.clidewo.com/people/staff/Bezerra.html
-    affiliation: Universidade Federal Mato Grosso
-    affiliation-url: https://www.ufmt.br 
-  - name: Laert Moraes
-    url: https://www.clidewo.com/people/staff/Moraes.html
-    affiliation: Universidade Federal de Maranhão
-    affiliation-url: https://portalpadrao.ufma.br          
-  - name: Ludmila Ribeiro Paiva
-    url: https://www.clidewo.com/people/staff/Ribeiro.html
-    affiliation: Universidade Federal Fluminense
-    affiliation-url: https://www.uff.br
-#    orcid: 0000-0003-0166-5066
-  - name: Mariana Rosa Soares
-    url: https://www.clidewo.com/people/staff/Rosa.html
-    affiliation: Universidade Federal Mato Grosso
-    affiliation-url: https://www.ufmt.br
-  - name: Manuella Garcia de Freitas Gallego
-    url: https://www.clidewo.com/people/staff/Garcia.html
-    affiliation: Universidade Federal Fluminense
-    affiliation-url: https://www.uff.br
-  - name: Mayara Pinheiro Fortes Brandão
-    url: https://www.clidewo.com/people/staff/Fortes.html
-    affiliation: Universidade Federal de Maranhão
-    affiliation-url: https://portalpadrao.ufma.br
-  - name: Saulo Barros da Costa
-    url: https://www.clidewo.com/people/staff/Barros.html
-    affiliation: Universidade Federal de Maranhão
-    affiliation-url: https://portalpadrao.ufma.br  
-
-
-     
 ---
 
-Informações detalhadas provenientes da pesquisa de campo, incluindo análises aprofundadas de variáveis socioeconômicas, produtivas e ambientais em nível municipal. Em conjunto, essas informações oferecem uma compreensão mais clara da dinâmica regional e apoiam a tomada de decisões baseada em evidências para o desenvolvimento de políticas e o planejamento estratégico.
+[add a brief explaination]
 
+Este relatório é o resultado final de um projeto de pesquisa conjunto realizado pelo Rights Lab da Universidade de Nottingham (Reino Unido), pela Universidade Federal Fluminense (UFF), pela Universidade Federal do Maranhão (UFMA) e pela Universidade Federal do Mato Grosso (UFMT). A pesquisa foi financiada pelo Programa de Bolsas de Pesquisa Orientadas para Desafios da ODA 2024 da Academia Britânica (IOCRG:100945), com apoio do Fundo de Parcerias Científicas Internacionais do Governo do Reino Unido.
 
 <img
   src="img/cover-pt.png"
@@ -84,7 +32,7 @@ Informações detalhadas provenientes da pesquisa de campo, incluindo análises 
 
 ### Download {.appendix}
 
-{{< downloadthis img/final_report_participatory_approach.pdf dname=report_participatory_approach label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+{{< downloadthis img/clidewo_report.pdf dname=CLIDEWO-Climate-DecentWork-Health label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
 
 
 #### Share it on social media:
