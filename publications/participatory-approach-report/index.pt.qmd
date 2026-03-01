@@ -1,0 +1,109 @@
+---
+title: "Relatório Abordagens participativas: Experiências no Maranhão, Mato Grosso e Rio de Janeiro"
+subtitle: ""
+draft: false
+draft-mode: visible
+date: "2026-02-27"
+date-modified: "2026-02-27"
+image: img/cover-pt.png
+execute:
+  echo: false
+#citation:
+#  url: in progress
+lang: pt  
+categories:
+  - Workers Health
+  - Climate change
+  - Human Rights
+  - Decent Work
+  
+author:
+  - name: Isabel Domingos Martinez dos Santos
+    url: https://www.clidewo.com/people/staff/Domingos.html
+    affiliation: Universidade Federal Fluminense
+    affiliation-url: https://www.uff.br
+    orcid:  
+  - name: Flávia de Almeida Moura
+    url: https://www.clidewo.com/people/staff/Moura.html
+    affiliation: Universidade Federal de Maranhão
+    affiliation-url: https://portalpadrao.ufma.br
+    orcid: 
+
+  - name: Carla Reita Faria Leal 
+    url: https://www.clidewo.com/people/staff/Reita.html
+    affiliation: Universidade Federal Mato Grosso
+    affiliation-url: https://www.uff.br
+    orcid: 	
+  - name: Ivi Tavares Abrahão Castillero
+    url: https://www.clidewo.com/people/staff/Abrahao.html
+    affiliation: Universidade Federal Fluminense
+    affiliation-url: https://www.uff.br
+  - name: Késley Gabriel Bezerra Coutinho
+    url: https://www.clidewo.com/people/staff/Bezerra.html
+    affiliation: Universidade Federal Mato Grosso
+    affiliation-url: https://www.ufmt.br 
+  - name: Laert Moraes
+    url: https://www.clidewo.com/people/staff/Moraes.html
+    affiliation: Universidade Federal de Maranhão
+    affiliation-url: https://portalpadrao.ufma.br          
+  - name: Ludmila Ribeiro Paiva
+    url: https://www.clidewo.com/people/staff/Ribeiro.html
+    affiliation: Universidade Federal Fluminense
+    affiliation-url: https://www.uff.br
+#    orcid: 0000-0003-0166-5066
+  - name: Mariana Rosa Soares
+    url: https://www.clidewo.com/people/staff/Rosa.html
+    affiliation: Universidade Federal Mato Grosso
+    affiliation-url: https://www.ufmt.br
+  - name: Manuella Garcia de Freitas Gallego
+    url: https://www.clidewo.com/people/staff/Garcia.html
+    affiliation: Universidade Federal Fluminense
+    affiliation-url: https://www.uff.br
+  - name: Mayara Pinheiro Fortes Brandão
+    url: https://www.clidewo.com/people/staff/Fortes.html
+    affiliation: Universidade Federal de Maranhão
+    affiliation-url: https://portalpadrao.ufma.br
+  - name: Saulo Barros da Costa
+    url: https://www.clidewo.com/people/staff/Barros.html
+    affiliation: Universidade Federal de Maranhão
+    affiliation-url: https://portalpadrao.ufma.br  
+
+
+     
+---
+
+Informações detalhadas provenientes da pesquisa de campo, incluindo análises aprofundadas de variáveis socioeconômicas, produtivas e ambientais em nível municipal. Em conjunto, essas informações oferecem uma compreensão mais clara da dinâmica regional e apoiam a tomada de decisões baseada em evidências para o desenvolvimento de políticas e o planejamento estratégico.
+
+
+<img
+  src="img/cover-pt.png"
+  style="width:100%; height:auto;"
+  loading="lazy"
+/>
+
+
+### Download {.appendix}
+
+{{< downloadthis img/final_report_participatory_approach_pt.pdf dname="Report participatory approach (PT)" label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

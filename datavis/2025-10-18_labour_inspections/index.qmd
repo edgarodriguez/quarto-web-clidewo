@@ -8,10 +8,10 @@ image: img/CLIDEWO-constallations.svg
 execute:
   echo: false
 categories:
-  - interactive
-  - decent work
-  - labour inspection
-  - tableau
+  - Interactive
+  - Decent work
+  - Labour inspection
+  - Tableau
 
 lang: en
 format: 

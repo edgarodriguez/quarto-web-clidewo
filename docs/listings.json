@@ -77,9 +77,10 @@
   {
     "listing": "/publications.html",
     "items": [
-      "/publications/2026-02-27_participatory_approach/index.html",
-      "/publications/2026-02-26_national_workshop_policy_brief/index.html",
-      "/publications/2025-09-22_trabalho_escravo_mudanzas_climaticas/index.html",
+      "/publications/clidewo-report/index.html",
+      "/publications/participatory-approach-report/index.html",
+      "/publications/national-workshop-policy-brief/index.html",
+      "/publications/trabalho-escravo-mudanzas-climaticas/index.html",
       "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
@@ -118,6 +119,7 @@
   {
     "listing": "/resources.html",
     "items": [
+      "/resources/2026-03-01_climate-decent-work/index.html",
       "/resources/2026-02-16_climate-health/index.html"
     ]
   }
