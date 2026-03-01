@@ -1,10 +1,10 @@
 ---
-title: "Participatory approaches: Experiences in Maranhão, Mato Grosso and Rio de Janeiro"
-subtitle: "Detailed report of activities"
+title: "Climate Change, decent work, and workers health Worker vulnerabilities and response in Brazilian agriculture"
+subtitle: "Report for consolidated research project, including main results and final recommendation"
 draft: true
 draft-mode: visible
-date: "2026-02-27"
-date-modified: "2026-02-27"
+date: "2026-02-28"
+date-modified: "2026-02-28"
 image: img/cover-en.png
 execute:
   echo: false
@@ -19,6 +19,8 @@ categories:
   
 ---
 
+[add a brief explaination]
+
 This report is the concluding output of a joint research project carried out by the Rights Lab at the University of Nottingham (UK), Universidade Federal Fluminense (UFF), Universidade Federal do Maranhão (UFMA), and Universidade Federal do Mato Grosso (UFMT). The research was funded by the British Academy’s ODA Challenge-Oriented Research Grants 2024 Programme (IOCRG:100945), supported under the UK Government’s International Science Partnerships Fund.
 
 
@@ -31,7 +33,7 @@ This report is the concluding output of a joint research project carried out by 
 
 ### Download {.appendix}
 
-{{< downloadthis img/final_report_participatory_approach.pdf dname=report_participatory_approach label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+{{< downloadthis img/clidewo_report.pdf dname=CLIDEWO-Climate-DecentWork-Health label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
 
 
 #### Share it on social media:
