@@ -84,7 +84,7 @@ Detailed information from the field research, including in-depth analyses of soc
 
 ### Download {.appendix}
 
-{{< downloadthis img/final_report_participatory_approach.pdf dname=report_participatory_approach label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+{{< downloadthis img/tbd.pdf dname=report_participatory_approach label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
 
 
 #### Share it on social media:
