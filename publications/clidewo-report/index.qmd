@@ -9,7 +9,7 @@ image: img/cover-en.png
 execute:
   echo: false
 citation:
-  url: in progress
+  url: https://zenodo.org/records/18839272
 lang: en  
 categories:
   - Workers Health
@@ -19,9 +19,10 @@ categories:
   
 ---
 
-[add a brief explaination]
+The project employs a mixed-methods approach that combines secondary data analysis (health surveillance records, labour statistics, and climate indicators) with primary data from 79 field interviews and a national multi-stakeholder workshop. This integrated methodology provides an extensive assessment of climate hazards and their effects on workers, examined through a decent work lens. Three complementary workstreams – participatory approaches, secondary data analysis, and stakeholder engagement – converge to produce a Climate-Decent Work Risk Assessment at municipal level across Brazil and a set of recommendations to promote intersectoral responses to climate change integrating health, labour, environment, and agriculture policies.
 
-This report is the concluding output of a joint research project carried out by the Rights Lab at the University of Nottingham (UK), Universidade Federal Fluminense (UFF), Universidade Federal do Maranhão (UFMA), and Universidade Federal do Mato Grosso (UFMT). The research was funded by the British Academy’s ODA Challenge-Oriented Research Grants 2024 Programme (IOCRG:100945), supported under the UK Government’s International Science Partnerships Fund.
+This document is part of the project Climate Change, Workers’ Health, and Decent Work: vulnerabilities and responses of workers in Brazilian agriculture, which aims to analyse the impacts of climate change within the context of agricultural work. The activities were carried out through inter-institutional cooperation between the University of Nottingham (UK), Fluminense Federal University (UFF), Maranhão Federal University (UFMA) and Mato Grosso Federal University (UFMT), and were funded by The British Academy under the ODA Challenge-Oriented Research Grants 2024 Programme.
+
 
 
 <img
@@ -31,9 +32,14 @@ This report is the concluding output of a joint research project carried out by 
 />
 
 
-### Download {.appendix}
+### Download  {.appendix}
 
-{{< downloadthis img/clidewo_report.pdf dname=CLIDEWO-Climate-DecentWork-Health label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+[https://zenodo.org/records/18839272](https://zenodo.org/records/18839272)
+
+
+### Citation
+
+Rodríguez-Huerta, E., Domingos Martinez dos Santos, I., de Almeida Moura, F., Faria Leal, C. R., Landman, T., Castillero, I. T. A., Coutinho, K. G., Moraes, L., Pavia, L. R., Manuella Gallego, Soares, M. R., Brandão, M. P. F., Barros Costa, S., Siviero, A. A., Trevizan, A. F., & Galvão Gomes, P. I. (2026). Climate Change, Decent Work, and Workers' Health: Vulnerabilities and Responses of Workers in Brazilian Agriculture (1.0). Zenodo. https://doi.org/10.5281/zenodo.18839272
 
 
 #### Share it on social media:

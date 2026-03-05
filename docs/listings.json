@@ -41,30 +41,6 @@
     ]
   },
   {
-    "listing": "/people.qmd.backup.html",
-    "items": [
-      "/people/staff/Rodriguez-Huerta.html",
-      "/people/staff/Domingos.html",
-      "/people/staff/Landman.html",
-      "/people/staff/Leao.html",
-      "/people/staff/Reita.html",
-      "/people/staff/Moura.html",
-      "/people/staff/Carthew.html",
-      "/people/staff/Siviero.html",
-      "/people/staff/Trevizan.html",
-      "/people/staff/Galvao.html",
-      "/people/staff/Andrade.html",
-      "/people/staff/Barros.html",
-      "/people/staff/Fortes.html",
-      "/people/staff/Rosa.html",
-      "/people/staff/Garcia.html",
-      "/people/staff/Bezerra.html",
-      "/people/staff/Abrahao.html",
-      "/people/staff/Ribeiro.html",
-      "/people/staff/Moraes.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/news/2026-02-16_WorkshopBrasilia.html",
@@ -119,8 +95,9 @@
   {
     "listing": "/resources.html",
     "items": [
-      "/resources/2026-03-01_climate-decent-work/index.html",
-      "/resources/2026-02-16_climate-health/index.html"
+      "/resources/climate-health-references/index.html",
+      "/resources/climate-health/index.html",
+      "/resources/climate-decent-work/index.html"
     ]
   }
 ]

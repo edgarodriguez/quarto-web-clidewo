@@ -9,8 +9,8 @@ image: img/cover-pt.png
 execute:
   echo: false
 citation:
-  url: in progress
-lang: en  
+  url: https://zenodo.org/records/18839272
+lang: pt  
 categories:
   - Workers Health
   - Climate change
@@ -19,9 +19,9 @@ categories:
   
 ---
 
-[add a brief explaination]
+O projeto emprega uma abordagem de métodos mistos que combina a análise de dados secundários (registros de vigilância sanitária, estatísticas trabalhistas e indicadores climáticos) com dados primários provenientes de 79 entrevistas de campo e uma oficina nacional multissetorial. Essa metodologia integrada proporciona uma avaliação abrangente dos riscos climáticos e seus efeitos sobre os trabalhadores, examinados sob a perspectiva do trabalho decente. Três linhas de trabalho complementares – abordagens participativas, análise de dados secundários e engajamento das partes interessadas – convergem para produzir uma Avaliação de Riscos Climáticos e Trabalho Decente em nível municipal em todo o Brasil e um conjunto de recomendações para promover respostas intersetoriais às mudanças climáticas, integrando políticas de saúde, trabalho, meio ambiente e agricultura.
 
-Este relatório é o resultado final de um projeto de pesquisa conjunto realizado pelo Rights Lab da Universidade de Nottingham (Reino Unido), pela Universidade Federal Fluminense (UFF), pela Universidade Federal do Maranhão (UFMA) e pela Universidade Federal do Mato Grosso (UFMT). A pesquisa foi financiada pelo Programa de Bolsas de Pesquisa Orientadas para Desafios da ODA 2024 da Academia Britânica (IOCRG:100945), com apoio do Fundo de Parcerias Científicas Internacionais do Governo do Reino Unido.
+Este documento faz parte do projeto Mudanças Climáticas, Saúde dos Trabalhadores e Trabalho Decente: vulnerabilidades e respostas dos trabalhadores na agricultura brasileira, que visa analisar os impactos das mudanças climáticas no contexto do trabalho agrícola. As atividades foram realizadas por meio da cooperação interinstitucional entre a Universidade de Nottingham (Reino Unido), a Universidade Federal Fluminense (UFF), a Universidade Federal do Maranhão (UFMA) e a Universidade Federal do Mato Grosso (UFMT), e foram financiadas pela Academia Britânica no âmbito do Programa de Bolsas de Pesquisa Orientadas a Desafios da AOD 2024.
 
 <img
   src="img/cover-pt.png"
@@ -30,9 +30,16 @@ Este relatório é o resultado final de um projeto de pesquisa conjunto realizad
 />
 
 
-### Download {.appendix}
+### Download  {.appendix}
 
-{{< downloadthis img/clidewo_report.pdf dname=CLIDEWO-Climate-DecentWork-Health label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
+[https://zenodo.org/records/18839272](https://zenodo.org/records/18839272) *(English version)*
+*(Portuguese version soon)*
+
+### Citation
+
+Rodríguez-Huerta, E., Domingos Martinez dos Santos, I., de Almeida Moura, F., Faria Leal, C. R., Landman, T., Castillero, I. T. A., Coutinho, K. G., Moraes, L., Pavia, L. R., Manuella Gallego, Soares, M. R., Brandão, M. P. F., Barros Costa, S., Siviero, A. A., Trevizan, A. F., & Galvão Gomes, P. I. (2026). Climate Change, Decent Work, and Workers' Health: Vulnerabilities and Responses of Workers in Brazilian Agriculture (1.0). Zenodo. https://doi.org/10.5281/zenodo.18839272
+
+
 
 
 #### Share it on social media:

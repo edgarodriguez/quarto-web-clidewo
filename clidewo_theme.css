@@ -15,7 +15,7 @@
 :root {
   --primary-yellow: #FEDD00;
   --secondary-orange: #B8573E;
-  --main-font: 'Monserrat', sans-serif;
+  --main-font: 'Lora', sans-serif;
   --subheader-font: 'Lora', sans-serif;
   --mono-font: 'Fira Mono', monospace;
   --header-font: 'Bebas Neue' sans-serif;
@@ -50,7 +50,7 @@ a {
 }
 
 .table a {
-  font-family:'Oswald', sans-serif;
+  font-family:'Lora', sans-serif;
   font-size: 1.5rem;
   text-align: justify;
   color: #1098ad;

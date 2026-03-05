@@ -1,0 +1,330 @@
+---
+title: "Climate-Health Hot Spots in Brazil Agriculture"
+description: "List of references used to map ICD-10 to workers health risk"
+date: 2026-02-16
+date-modified: 2026-02-16
+draft: false
+draft-mode: visible 
+# image: img/excessive_heat_logo_02.png
+execute:
+  echo: false
+citation:
+  url: in progress
+categories:
+  - Workers Health
+lang: en
+format: 
+  html:
+    page-layout: full
+#    code-tools: true
+embed-resources: true
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+  - name: Ana Trevizan
+    url: 
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0003-4365-6053  
+  
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Climate-Health Decent Work Categories and References
+
+List od references used to International Classification of Diseases 10th revision (ICD-10) with key occupational health risks outlined in "Health at Work in a Changing-Climate" (ILO, 2024), (excessive heat, air pollution, UV radiation, vector-borne diseases , and agrochemical exposure) plus waterborne diseases as lack of proper WASH facilities was detected as one of the main issues detected in labour inspection.
+
+
+| Climate-health categories | References                                                                  |
+|:--------------------------------------|:----------------------------------------------------------------|
+| Agrochemicals | (Alengebawy et al., 2021; Assis et al., 2022; Buralli et al., 2020; Chrisman, 2012; de Araujo et al., 2023; Dutra et al., 2020; Igual et al., 2020; Instituto Nacional de Câncer (INCA), 2022; Juntarawijit and Juntarawijit, 2018; Lopes and Albuquerque, 2018; Lopes, 2023; Machado et al., 2024; Ministério da Saúde and Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA), 2021; Carolina Panis et al., 2022; C. Panis et al., 2022; Panis et al., 2024; Paz De Lima and Nery, 2022; Pedroso et al., 2022; Pluth et al., 2020; Polanco Rodríguez et al., 2017; Ruths et al., 2019; Soares et al., 2024; Tang et al., 2021; Trevisan et al., 2009; Uyemura et al., 2017; Wei et al., 2023; Zeraatkar and Khajoei Nasab, 2024) |
+| Waterborne diseases and WASH related | (Bartram et al., 2002; Brito et al., 2023; Coly et al., 2017; Crimmins et al., 2016; Fontoura et al., 2018; Greco et al., 2020; Halder and Islam, 2015; Khan et al., 2007; Kraay et al., 2018; Ortiz-Prado et al., 2022; Carolina Panis et al., 2022; Parker et al., 2024; Reis et al., 2019; Rieger et al., 2021; Semenza, 2021; Semenza et al., 2012; Sommer et al., 2015) |
+| Excessive heat | (Andrews et al., 2018; Baassiri et al., 2024; Bitencourt et al., 2021; CDC, 2016; Chang and Yang, 2023; Chu et al., 2023; Commission for Environmental Cooperation, 2015; Crowe et al., 2010; El Khayat et al., 2022; Ferrari et al., 2023; Flouris et al., 2018; Gibb et al., 2024; Grigorieva and Lukyanets, 2021; Harduar Morano and Watkins, 2017; Kjellstrom et al., 2009; Masuda et al., 2019; Pires Bitencourt et al., 2020; Pradhan et al., 2019; Wu and Basu, 2021; Xiang et al., 2014; Xu et al., 2020; Yoon et al., 2021) |
+| Air pollution | (Cheng et al., 2022; Dong et al., 2024; Grigorieva and Lukyanets, 2021; Horne et al., 2024; Knowlton and Limaye, 2021; Landrigan et al., 2018; Raza and Ali, 2021; Smith et al., 2023; Smith and Pillarisetti, 2017; Von Schneidemesser et al., 2020; Wen et al., 2024; Xu et al., 2021; Ye et al., 2021; Zhang et al., 2018) |
+| UV radiation | (Buse et al., 2022; Chinem and Miot, 2011; Dally and Newman, 2021; Delic et al., 2017; Gholamnia et al., 2021; McGinty and Truscott, 2006; Narayanan et al., 2010; Nogueira et al., 2025; Schalka et al., 2014; Schulte and Chun, 2009; Slavinsky et al., 2024; Taylor et al., 1988; World Health Organization et al., 2010) |
+| Vector-borne disease | (Buchwald et al., 2021; de Sousa et al., 2025; Franklinos et al., 2019; Fujita et al., 2023; Junior et al., 2022; Kaup, 2021; Leal Filho et al., 2018; Londe et al., 2018; Nava et al., 2017; Thomson and Stanberry, 2022; World Health Organization (WHO) and UNICEF, 2024) |
+| Multiples climate-health decent work categories | (Adam-Poupart et al., 2013; Ansah et al., 2021; Applebaum et al., 2016; Ebi and Hess, 2020; Ferrari et al., 2023; Haines and Ebi, 2019; ILO, 2024; Levy and Patz, 2015; Li et al., 2023; Mousavi et al., 2020; Rocque et al., 2021; Schulte and Chun, 2009; Watts et al., 2021; Wuersch et al., 2023) |
+
+## References
+
+Adam-Poupart, A., Labrèche, F., Smargiassi, A., Duguay, P., Busque, M.-A., Gagné, C., Rintamäki, H., Kjellstrom, T., Zayed, J., 2013. Climate Change and Occupational Health and Safety in a Temperate Climate: Potential Impacts and Research Priorities in Quebec, Canada. Industrial Health 51, 68–78. https://doi.org/10.2486/indhealth.2012-0100
+
+Alengebawy, A., Abdelkhalek, S.T., Qureshi, S.R., Wang, M.-Q., 2021. Heavy Metals and Pesticides Toxicity in Agricultural Soil and Plants: Ecological Risks and Human Health Implications. Toxics 9, 42. https://doi.org/10.3390/toxics9030042
+
+Andrews, O., Le Quéré, C., Kjellstrom, T., Lemke, B., Haines, A., 2018. Implications for workability and survivability in populations exposed to extreme heat under climate change: a modelling study. The Lancet Planetary Health 2, e540–e547. https://doi.org/10.1016/S2542-5196(18)30240-7
+
+Ansah, E.W., Ankomah-Appiah, E., Amoadu, M., Sarfo, J.O., 2021b. Climate change, health and safety of workers in developing economies: A scoping review. The Journal of Climate Change and Health 3, 100034. https://doi.org/10.1016/j.joclim.2021.100034
+
+Applebaum, K.M., Graham, J., Gray, G.M., LaPuma, P., McCormick, S.A., Northcross, A., Perry, M.J., 2016. An Overview of Occupational Risks From Climate Change. Curr Envir Health Rpt 3, 13–22. https://doi.org/10.1007/s40572-016-0081-4
+
+Assis, M.P.D., Nepomuceno, P., Silva, T.F.D., Lange, M., Mocelin, G., Pohl, H.H., Krug, S.B.F., 2022. Farmers Affected by Hematological Neoplasms and Exposed to Pesticides: A study in southern Brazil. IJAERS 9, 341–357. https://doi.org/10.22161/ijaers.97.35
+
+Baassiri, H., Varghese, T., Clemens, K.K., Ouédraogo, A.M., Van Aarsen, K., Vujčić, B., Yan, J.W., 2024. Validity of an ICD-10 Coding Algorithm for Acute Heat Illness in the Emergency Department: A Retrospective Cohort Study. Int J Environ Res Public Health 21, 1132. https://doi.org/10.3390/ijerph21091132
+
+Bartram, J., Thyssen, N., Gowers, A., Pond, K., Lack, T., Danzon, M., Jiménez-Beltrán, D., 2002. Water and health in Europe: A joint report from the European Environment Agency and the WHO Regional Office for Europe. World Health Organization Regional Publications - European Series 7.
+
+Bitencourt, D.P., Muniz Alves, L., Shibuya, E.K., de Ângelo da Cunha, I., Estevam de Souza, J.P., 2021. Climate change impacts on heat stress in Brazil–-Past, present, and future implications for occupational heat exposure. International Journal of Climatology 41, E2741–E2756. https://doi.org/10.1002/joc.6877
+
+Brito, M.I.B.D.S., Oliveira, E.C.A.D., Barbosa, C.S., Gomes, E.C.D.S., 2023. Factors associated with severe forms and deaths from schistosomiasis and application of probabilistic linkage in databases, state of Pernambuco, Brazil, 2007–2017. Rev. bras. epidemiol. 26, e230003. https://doi.org/10.1590/1980-549720230003
+
+Buchwald, A.G., Garofalo, J.F., Gage, K.L., Beard, C.B., 2021. Chapter 8: Climate and its impacts on vector-borne diseases, in: Global Climate Change and Human Health : From Science to Practice. John Wiley & Sons, pp. 270–300.
+
+Buralli, R.J., Ribeiro, H., Iglesias, V., Muñoz-Quezada, M.T., Leão, R.S., Marques, R.C., Almeida, M.M.C. de, Guimarães, J.R.D., 2020. Occupational exposure to pesticides and health symptoms among family farmers in Brazil. Rev. Saúde Pública 54, 133. https://doi.org/10.11606/s1518-8787.2020054002263
+
+Buse, C.G., Brubacher, J., Lapp, H., Jackson, E., Wilson, R., Bevis, B., Komorowski, C., Zentner, S., Folkema, A., Trotz-Williams, L., 2022. Climate Change and Health Vulnerability Assessment for Waterloo Region. Public Health and Wellington-Dufferin-Guelph Public Health Unit., Wellington County, Dufferin County, and the City of Guelph. Waterloo and Guelph, ON: Region of Waterloo.
+
+CDC, 2016. Technical Documentation: Heat-Related Deaths.
+
+Chang, C.-J., Yang, H.-Y., 2023. Chronic Kidney Disease Among Agricultural Workers in Taiwan: A Nationwide Population-Based Study. Kidney International Reports 8, 2677–2689. https://doi.org/10.1016/j.ekir.2023.09.004
+
+Cheng, J., Su, H., Song, J., Wang, X., 2022. Short-term effect of air pollution on childhood epilepsy in eastern China: A space–time-stratified case-crossover and pooled analysis. Environment International 170, 107591. https://doi.org/10.1016/j.envint.2022.107591
+
+Chinem, V.P., Miot, H.A., 2011. Epidemiologia do carcinoma basocelular. An. Bras. Dermatol. 86, 292–305. https://doi.org/10.1590/S0365-05962011000200013
+
+Chrisman, J. de R., 2012. Mortalidade em agricultores residentes em microrregiões produtoras de soja no Brasil xi,89-xi,89.
+
+Chu, L., Chen, K., Crowley, S., Dubrow, R., 2023. Associations between short-term temperature exposure and kidney-related conditions in New York State: The influence of temperature metrics across four dimensions. Environment International 173, 107783. https://doi.org/10.1016/j.envint.2023.107783
+
+Coly, S., Vincent, N., Vaissiere, E., Charras-Garrido, M., Gallay, A., Ducrot, C., Mouly, D., 2017. Waterborne disease outbreak detection: an integrated approach using health administrative databases. Journal of Water and Health 15, 475–489. https://doi.org/10.2166/wh.2017.273
+
+Commission for Environmental Cooperation, 2015. CASE STUDY: Hermosillo, Mexico, Captures Heat-Related Illnesses at Medical Facilities Using New Database.
+
+Crimmins, A., Balbus, J., Gamble, J.L., Beard, C.B., Bell, J.E., Dodgen, D., Eisen, R.J., Fann, N., Hawkins, M.D., Herring, S.C., Jantarasami, L., Mills, D.M., Saha, S., Sarofim, M.C., Trtanj, J., Ziska, L., 2016. The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment. U.S. Global Change Research Program, Washington, DC. https://doi.org/10.7930/J0R49NQX
+
+Crowe, J., Manuel Moya-Bonilla, J., Román-Solano, B., Robles-Ramírez, A., 2010. Heat exposure in sugarcane workers in Costa Rica during the non-harvest season. Global Health Action 3, 5619. https://doi.org/10.3402/gha.v3i0.5619
+
+Dally, M., Newman, L.S., 2021. Chapter 11: Worker Health, in: Global Climate Change and Human Health : From Science to Practice. John Wiley & Sons, pp. 350–384.
+
+de Araujo, L.G., Zordan, D.F., Celzard, A., Fierro, V., 2023. Glyphosate uses, adverse effects and alternatives: focus on the current scenario in Brazil. Environmental Geochemistry and Health. https://doi.org/10.1007/s10653-023-01763-w
+
+de Sousa, T.C.M., Barcellos, C., Barreto, M.L., 2025. The global burden of climate-sensitive diseases in Brazil: the national and subnational estimates and analysis, 1990–2017. Population Health Metrics 23, 29. https://doi.org/10.1186/s12963-025-00385-x
+
+Delic, N.C., Lyons, J.G., Di Girolamo, N., Halliday, G.M., 2017. Damaging Effects of Ultraviolet Radiation on the Cornea. Photochem & Photobiology 93, 920–929. https://doi.org/10.1111/php.12686
+
+Dong, H.-J., Ran, P., Liao, D.-Q., Chen, X.-B., Chen, G., Ou, Y.-Q., Li, Z.-H., 2024. Long-term exposure to air pollutants and new-onset migraine: A large prospective cohort study. Ecotoxicology and Environmental Safety 273, 116163. https://doi.org/10.1016/j.ecoenv.2024.116163
+
+Dutra, L.S., Ferreira, A.P., Horta, M.A.P., Palhares, P.R., 2020. Uso de agrotóxicos e mortalidade por câncer em regiões de monoculturas. Saúde debate 44, 1018–1035. https://doi.org/10.1590/0103-1104202012706
+
+Ebi, K.L., Hess, J.J., 2020. Health Risks Due To Climate Change: Inequity In Causes And Consequences: Study examines health risks due to climate change. Health Affairs 39, 2056–2062. https://doi.org/10.1377/hlthaff.2020.01125
+
+El Khayat, M., Halwani, D.A., Hneiny, L., Alameddine, I., Haidar, M.A., Habib, R.R., 2022. Impacts of Climate Change and Heat Stress on Farmworkers' Health: A Scoping Review. Front. Public Health 10, 782811. https://doi.org/10.3389/fpubh.2022.782811
+
+Ferrari, G.N., Leal, G.C.L., Thom De Souza, R.C., Galdamez, E.V.C., 2023. Impact of climate change on occupational health and safety: A review of methodological approaches. WOR 74, 485–499. https://doi.org/10.3233/WOR-211303
+
+Flouris, A.D., Dinas, P.C., Ioannou, L.G., Nybo, L., Havenith, G., Kenny, G.P., Kjellstrom, T., 2018. Workers' health and productivity under occupational heat strain: a systematic review and meta-analysis. Lancet Planet Health 2, e521–e531. https://doi.org/10.1016/S2542-5196(18)30237-7
+
+Fontoura, V.M., Graepp-Fontoura, I., Santos, F.S., Santos Neto, M., Tavares, H.S. de A., Bezerra, M.O.L., Feitosa, M. de O., Neves, A.F., de Morais, J.C.M., Nascimento, L.F.C., 2018. Socio-environmental factors and diarrheal diseases in under five-year old children in the state of Tocantins, Brazil. PLoS One 13, e0196702. https://doi.org/10.1371/journal.pone.0196702
+
+Franklinos, L.H.V., Jones, K.E., Redding, D.W., Abubakar, I., 2019. The effect of global change on mosquito-borne disease. The Lancet Infectious Diseases 19, e302–e312. https://doi.org/10.1016/S1473-3099(19)30161-6
+
+Fujita, D.M., Salvador, F.S., Nali, L.H.D.S., Andrade Júnior, H.F.D., 2023. Dengue and climate changes: Increase of DENV-1 in São Paulo/Brazil – 2023. Travel Medicine and Infectious Disease 56, 102668. https://doi.org/10.1016/j.tmaid.2023.102668
+
+Gholamnia, R., Abtahi, M., Dobaradaran, S., Koolivand, A., Jorfi, S., Khaloo, S.S., Bagheri, A., Vaziri, M.H., Atabaki, Y., Alhouei, F., Saeedi, R., 2021. Spatiotemporal analysis of solar ultraviolet radiation based on Ozone Monitoring Instrument dataset in Iran, 2005–2019. Environmental Pollution 287, 117643. https://doi.org/10.1016/j.envpol.2021.117643
+
+Gibb, K., Beckman, S., Vergara, X.P., Heinzerling, A., Harrison, R., 2024. Extreme Heat and Occupational Health Risks. Annual Review of Public Health 45, 315–335. https://doi.org/10.1146/annurev-publhealth-060222-034715
+
+Greco, S.L., Drudge, C., Fernandes, R., Kim, J., Copes, R., 2020. Estimates of healthcare utilisation and deaths from waterborne pathogen exposure in Ontario, Canada. Epidemiol Infect 148, e70. https://doi.org/10.1017/S0950268820000631
+
+Grigorieva, E., Lukyanets, A., 2021. Combined effect of hot weather and outdoor air pollution on respiratory health: Literature review. Atmosphere 12. https://doi.org/10.3390/atmos12060790
+
+Haines, A., Ebi, K., 2019. The Imperative for Climate Action to Protect Health. N Engl J Med 380, 263–273. https://doi.org/10.1056/NEJMra1807873
+
+Halder, J., Islam, N., 2015. Water Pollution and its Impact on the Human Health. Journal of Environment and Human 2, 36–46. https://doi.org/10.15764/eh.2015.01005
+
+Harduar Morano, L., Watkins, S., 2017. Evaluation of Diagnostic Codes in Morbidity and Mortality Data Sources for Heat-Related Illness Surveillance. Public Health Rep 132, 326–335. https://doi.org/10.1177/0033354917699826
+
+Horne, B., Haddad, F., Anderson, J., Maecker, H., Bair, T., Johnson, M., Bride, D., Muhlestein, J., Kim, J., Knight, S., Nadeau, K., Knowlton, K., 2024. Association of PM2.5 Air Pollution with Inflammatory Biomarkers in Patients with Heart Failure. Circulation 150, A4144036–A4144036. https://doi.org/10.1161/circ.150.suppl_1.4144036
+
+Igual, S.D., Hartwig, S.V., Ignotti, E., 2020. Tendência das taxas de mortalidade por câncer e o do consumo de glifosato no Brasil. RSD 9, e84891110263. https://doi.org/10.33448/rsd-v9i11.10263
+
+ILO, 2024. Ensuring safety and health at work in a changing climate | International Labour Organization (Global report). International Labour Organization.
+
+Instituto Nacional de Câncer (INCA), 2022. Exposicao no trabalho e no -ambiente - Agrotóxico [WWW Document]. Agrotóxico. URL https://www.gov.br/inca/pt-br/assuntos/causas-e-prevencao-do-cancer/exposicao-no-trabalho-e-no-ambiente/agrotoxico (accessed 9.23.25).
+
+Junior, J.B.S., Massad, E., Lobao-Neto, A., Kastner, R., Oliver, L., Gallagher, E., 2022. Epidemiology and costs of dengue in Brazil: a systematic literature review. International Journal of Infectious Diseases 122, 521–528. https://doi.org/10.1016/j.ijid.2022.06.050
+
+Juntarawijit, C., Juntarawijit, Y., 2018. Association between diabetes and pesticides: a case-control study among Thai farmers. Environ Health Prev Med 23, 3. https://doi.org/10.1186/s12199-018-0692-5
+
+Kaup, B.Z., 2021. Pathogenic Metabolisms: A Rift and the Zika Virus in Mato Grosso, Brazil. Antipode 53, 567–586. https://doi.org/10.1111/anti.12694
+
+Khan, R., Phillips, D., Fernando, D., Fowles, J., Lea, R., 2007. Environmental health indicators in New Zealand: Drinking water - A case study. EcoHealth 4, 63–71. https://doi.org/10.1007/s10393-007-0089-1
+
+Kjellstrom, T., Holmer, I., Lemke, B., 2009. Workplace heat stress, health and productivity – an increasing challenge for low and middle-income countries during climate change. Global Health Action 2, 2047. https://doi.org/10.3402/gha.v2i0.2047
+
+Knowlton, K., Limaye, V.S., 2021. Chapter 5: Degraded Air Quality, in: Global Climate Change and Human Health : From Science to Practice. John Wiley & Sons, pp. 177–212.
+
+Kraay, A.N.M., Brouwer, A.F., Lin, N., Collender, P.A., Remais, J.V., Eisenberg, J.N.S., 2018. Modeling environmentally mediated rotavirus transmission: The role of temperature and hydrologic factors. Proceedings of the National Academy of Sciences 115, E2782–E2790. https://doi.org/10.1073/pnas.1719579115
+
+Landrigan, P.J., Fuller, R., Acosta, N.J.R., Adeyi, O., Arnold, R., Basu, N. (Nil), Baldé, A.B., Bertollini, R., Bose-O'Reilly, S., Boufford, J.I., Breysse, P.N., Chiles, T., Mahidol, C., Coll-Seck, A.M., Cropper, M.L., Fobil, J., Fuster, V., Greenstone, M., Haines, A., Hanrahan, D., Hunter, D., Khare, M., Krupnick, A., Lanphear, B., Lohani, B., Martin, K., Mathiasen, K.V., McTeer, M.A., Murray, C.J.L., Ndahimananjara, J.D., Perera, F., Potočnik, J., Preker, A.S., Ramesh, J., Rockström, J., Salinas, C., Samson, L.D., Sandilya, K., Sly, P.D., Smith, K.R., Steiner, A., Stewart, R.B., Suk, W.A., van Schayck, O.C.P., Yadama, G.N., Yumkella, K., Zhong, M., 2018. The Lancet Commission on pollution and health. The Lancet 391, 462–512. https://doi.org/10.1016/S0140-6736(17)32345-0
+
+Leal Filho, W., Bönecke, J., Spielmann, H., Azeiteiro, U.M., Alves, F., Lopes de Carvalho, M., Nagy, G.J., 2018. Climate change and health: An analysis of causal relations on the spread of vector-borne diseases in Brazil. Journal of Cleaner Production 177, 589–596. https://doi.org/10.1016/j.jclepro.2017.12.144
+
+Levy, B.S., Patz, J.A., 2015. Climate Change, Human Rights, and Social Justice. Annals of Global Health, Climate Change, Global Health and Human Rights 81, 310–322. https://doi.org/10.1016/j.aogh.2015.08.008
+
+Li, A., Toll, M., Bentley, R., 2023. Mapping social vulnerability indicators to understand the health impacts of climate change: a scoping review. The Lancet Planetary Health 7, e925–e937. https://doi.org/10.1016/S2542-5196(23)00216-4
+
+Londe, L.D.R., Moura, L.G., Coutinho, M.P., Marchezini, V., Soriano, E., 2018. Vulnerability, health and disasters in São Paulo coast (Brazil): challenges for a sustainable development. Ambient. soc. 21, e01022. https://doi.org/10.1590/1809-4422asoc0102r2vu18L1AO
+
+Lopes, C.V.A., Albuquerque, G.S.C.D., 2018. Agrotóxicos e seus impactos na saúde humana e ambiental: uma revisão sistemática. Saúde debate 42, 518–534. https://doi.org/10.1590/0103-1104201811714
+
+Lopes, H.R., 2023. Vivendo em territórios contaminados: um dossiê sobre agrotóxicos nas águas do Cerrado. Alternativas para pequena agricultura no Tocantins – APATO63, Palmas, TO.
+
+Lucas, R.M., McMichael, A.J., Armstrong, B.K., Smith, W.T., 2008. Estimating the global disease burden due to ultraviolet radiation exposure. International Journal of Epidemiology 37, 654–667. https://doi.org/10.1093/ije/dyn017
+
+Machado, M.G., Orrutéa, J.F.G., Panis, C., 2024. Pesticides, Drinking Water and Cancer Risk: A Portrait of Paraná Southwest, Brazil. Pollutants 4, 302–315. https://doi.org/10.3390/pollutants4030020
+
+Masuda, Y.J., Castro, B., Aggraeni, I., Wolff, N.H., Ebi, K., Garg, T., Game, E.T., Krenz, J., Spector, J., 2019. How are healthy, working populations affected by increasing temperatures in the tropics? Implications for climate change adaptation policies. Global Environmental Change 56, 29–40. https://doi.org/10.1016/j.gloenvcha.2019.03.005
+
+McGinty, S.J., Truscott, R.J.W., 2006. Presbyopia: The First Stage of Nuclear Cataract? Ophthalmic Res 38, 137–148. https://doi.org/10.1159/000090645
+
+Ministério da Saúde, Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA), 2021. Ambiente, trabalho e câncer: aspectos epidemiológicos, toxicológicos e regulatórios. INCA, Instituto Nacional de Cancer, Rio de Janeiro, RJ.
+
+Mousavi, A., Ardalan, A., Takian, A., Ostadtaghizadeh, A., Naddafi, K., Bavani, A.M., 2020. Climate change and health in Iran: a narrative review. J Environ Health Sci Engineer 18, 367–378. https://doi.org/10.1007/s40201-020-00462-3
+
+Narayanan, D.L., Saladi, R.N., Fox, J.L., 2010. Review: Ultraviolet radiation and skin cancer. Int J Dermatology 49, 978–986. https://doi.org/10.1111/j.1365-4632.2010.04474.x
+
+Nava, A., Shimabukuro, J.S., Chmura, A.A., Luz, S.L.B., 2017. The Impact of Global Environmental Changes on Infectious Disease Emergence with a Focus on Risks for Brazil. ILAR Journal 58, 393–400. https://doi.org/10.1093/ilar/ilx034
+
+Nogueira, F. de A.M., Damacena, G.N., Otero, U.B., Szwarcwald, C.L., 2025. Prevalência da Exposição à Radiação Solar em Trabalhadores no Brasil: Subsídios para Ações de Prevenção do Câncer de Pele Relacionado ao Trabalho. Revista Brasileira de Cancerologia 71, e-054880. https://doi.org/10.32635/2176-9745.RBC.2025v71n1.4880
+
+Ortiz-Prado, E., Simbaña-Rivera, K., Cevallos, G., Gómez-Barreno, L., Cevallos, D., Lister, A., Fernandez-Naranjo, R., Ríos-Touma, B., Vásconez-González, J., Izquierdo-Condoy, J.S., 2022. Waterborne diseases and ethnic-related disparities: A 10 years nationwide mortality and burden of disease analysis from Ecuador. Front Public Health 10, 1029375. https://doi.org/10.3389/fpubh.2022.1029375
+
+Panis, Carolina, Candiotto, L.Z.P., Gaboardi, S.C., Gurzenda, S., Cruz, J., Castro, M., Lemos, B., 2022. Widespread pesticide contamination of drinking water and impact on cancer risk in Brazil. Environ Int 165, 107321. https://doi.org/10.1016/j.envint.2022.107321
+
+Panis, C., Candiotto, L.Z.P., Gaboardi, S.C., Teixeira, G.T., Alves, F.M., Da Silva, J.C., Scandolara, T.B., Rech, D., Gurzenda, S., Ponmattam, J., Ohm, J., Castro, M.C., Lemos, B., 2024. Exposure to Pesticides and Breast Cancer in an Agricultural Region in Brazil. Environ. Sci. Technol. 58, 10470–10481. https://doi.org/10.1021/acs.est.3c08695
+
+Panis, C., Kawassaki, A.C.B., Crestani, A.P., Pascotto, C., Bortoloti, D.S., Vicentini, G., Lucio, L.C., Ferreira, M.O., Prates, R.T.C., Vieira, V.K., Gaboardi, S.C., Candiotto, L.Z.P., 2022. Evidence on Human Exposure to Pesticides and the Occurrence of Health Hazards in the Brazilian Population: A Systematic Review. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2021.787438
+
+Parker, M., Ybarra-Vega, M.J., Postma, J., 2024. Agricultural Worker Perspectives on Climate Hazards and Risk Reduction Strategies. Journal of Agromedicine 29, 333–343. https://doi.org/10.1080/1059924X.2023.2299378
+
+Paz De Lima, P.J., Nery, T.D.C.D.S., 2022. Diseases and deaths from pesticides in Brazil. ISEE Conference Abstracts 2022, isee.2022.O-SY-013. https://doi.org/10.1289/isee.2022.O-SY-013
+
+Pedroso, T.M.A., Benvindo-Souza, M., Nascimento, F. de A., Woch, J., Reis, F.G.D., Silva, D. de M. e, 2022. Cancer and occupational exposure to pesticides: a bibliometric study of the past 10 years. Environmental science and pollution research international. https://doi.org/10.1007/s11356-021-17031-2
+
+Pires Bitencourt, D., Alves Maia, P., Cauduro Roscani, R., 2020. The heat exposure risk to outdoor workers in Brazil. Archives of Environmental & Occupational Health 75, 281–288. https://doi.org/10.1080/19338244.2019.1633991
+
+Pluth, T.B., Zanini, L.A.G., Battisti, I.D.E., Kaszubowski, E., 2020. Epidemiological profile of cancer patients from an area with high pesticide use. Saúde debate 44, 1005–1017. https://doi.org/10.1590/0103-1104202012705
+
+Polanco Rodríguez, Á.G., Inmaculada Riba López, M., Angel DelValls Casillas, T., León, J.A.A., Anjan Kumar Prusty, B., Álvarez Cervera, F.J., 2017. Levels of persistent organic pollutants in breast milk of Maya women in Yucatan, Mexico. Environ Monit Assess 189, 59. https://doi.org/10.1007/s10661-017-5768-y
+
+Pradhan, B., Kjellstrom, T., Atar, D., Sharma, P., Kayastha, B., Bhandari, G., Pradhan, P.K., 2019. Heat Stress Impacts on Cardiac Mortality in Nepali Migrant Workers in Qatar. Cardiology 143, 37–48. https://doi.org/10.1159/000500853
+
+Raza, A., Ali, Z., 2021. Impact of Air Pollution Generated by Brick Kilns on the Pulmonary Health of Workers. Journal of Health and Pollution 11, 210906. https://doi.org/10.5696/2156-9614-11.31.210906
+
+Reis, L.L.D., Balieiro, A.A.D.S., Fonseca, F.R., Gonçalves, M.J.F., 2019. Leishmaniose visceral e sua relação com fatores climáticos e ambientais no Estado do Tocantins, Brasil, 2007 a 2014. Cad. Saúde Pública 35, e00047018. https://doi.org/10.1590/0102-311x00047018
+
+Rieger, R.A., Penha, D.D.L.B., Teixeira, E.C., 2021. Waterborne Diseases, Basic Sanitation, and Health: Perspectives for Brazil's Legal Amazon. Review of Regional Studies 51. https://doi.org/10.52324/001c.23477
+
+Rocque, R.J., Beaudoin, C., Ndjaboue, R., Cameron, L., Poirier-Bergeron, L., Poulin-Rheault, R.-A., Fallon, C., Tricco, A.C., Witteman, H.O., 2021. Health effects of climate change: an overview of systematic reviews. BMJ Open 11, e046333. https://doi.org/10.1136/bmjopen-2020-046333
+
+Ruths, J.C., Rizzoto, M.L.F., Machineski, G.G., 2019. Exposição a agrotóxicos e ocorrência de câncer em trabalhadores de dois municípios do Oeste do Paraná/ Exposure to pesticides and cancer occurrence in workers of two municipalities of West Paraná. Cienc. Cuid. Saúde 18. https://doi.org/10.4025/cienccuidsaude.v18i3.44570
+
+Schalka, S., Steiner, D., Ravelli, F.N., Steiner, T., Terena, A.C., Marçon, C.R., Ayres, E.L., Addor, F.A.S., Miot, H.A., Ponzio, H., Duarte, I., Neffá, J., da Cunha, J.A.J., Boza, J.C., Samorano, L. de P., Corrêa, M. de P., Maia, M., Nasser, N., Leite, O.M.R.R., Lopes, O.S., Oliveira, P.D., Meyer, R.L.B., Cestari, T., dos Reis, V.M.S., Rego, V.R.P. de A., 2014. Brazilian Consensus on Photoprotection. An Bras Dermatol 89, 1–74. https://doi.org/10.1590/abd1806-4841.20143971
+
+Schulte, P.A., Chun, H., 2009. Climate Change and Occupational Safety and Health: Establishing a Preliminary Framework. Journal of Occupational and Environmental Hygiene 6, 542–554. https://doi.org/10.1080/15459620903066008
+
+Semenza, J.C., 2021. Chapter 4: Climate change impacts on the hydrologic cycle and waterborne diseases, in: Global Climate Change and Human Health : From Science to Practice. Jonh Wiley & Sons, pp. 140–176.
+
+Semenza, J.C., Herbst, S., Rechenburg, A., Suk, J.E., Höser, C., Schreiber, C., Kistemann, T., 2012. Climate Change Impact Assessment of Food- and Waterborne Diseases. Critical Reviews in Environmental Science and Technology 42, 857–890. https://doi.org/10.1080/10643389.2010.534706
+
+Slavinsky, V., Helmy, J., Vroman, J., Valdebran, M., 2024. Solar ultraviolet radiation exposure in workers with outdoor occupations: a systematic review and call to action. International Journal of Dermatology 63, 288–297. https://doi.org/10.1111/ijd.16877
+
+Smith, D.J., Mizelle, E., Leslie, S.L., Li, G.X., Stone, S., Stauffer, P., Smith, A., Lewis, G., Rodden, E.L., McDermott-Levy, R., Thompson, L.M., 2023. Intervention studies to reduce the impact of climate change on health in rural communities in the United States: a systematic review. Environ. Res.: Health 1, 032001. https://doi.org/10.1088/2752-5309/acbbe6
+
+Smith, K.R., Pillarisetti, A., 2017. Household Air Pollution from Solid Cookfuels and Its Effects on Health. Disease Control Priorities, Third Edition (Volume 7): Injury Prevention and Environmental Health 133–152. https://doi.org/10.1596/978-1-4648-0522-6_ch7
+
+Soares, M.R., Corrêa, M.L.M., Andrade, A.C.D.S., Neves, M.S., Bel, H.D., Galvão, N.D., Rocon, P.C., 2024. Environmental and occupational exposure to pesticides according to sociodemographic factors that affect cancer patients in Mato Grosso, Brazil. Saúde debate 48, e8514. https://doi.org/10.1590/2358-289820241418514pi
+
+Sommer, M., Ferron, S., Cavill, S., House, S., 2015. Violence, gender and WASH: spurring action on a complex, under-documented and sensitive topic. Environment and Urbanization 27, 105–116. https://doi.org/10.1177/0956247814564528
+
+Tang, F.H.M., Lenzen, M., McBratney, A., Maggi, F., 2021. Risk of pesticide pollution at the global scale. Nat. Geosci. 14, 206–210. https://doi.org/10.1038/s41561-021-00712-5
+
+Taylor, H.R., West, S.K., Rosenthal, F.S., Muñoz, B., Newland, H.S., Abbey, H., Emmett, E.A., 1988. Effect of Ultraviolet Radiation on Cataract Formation. N Engl J Med 319, 1429–1433. https://doi.org/10.1056/NEJM198812013192201
+
+Thomson, M.C., Stanberry, L.R., 2022. Climate Change and Vectorborne Diseases. New England Journal of Medicine 387, 1969–1978. https://doi.org/10.1056/NEJMra2200092
+
+Trevisan, M., Di Guardo, A., Balderacchi, M., 2009. An environmental indicator to drive sustainable pest management practices. Environmental Modelling & Software 24, 994–1002. https://doi.org/10.1016/j.envsoft.2008.12.008
+
+Uyemura, S.A., Stopper, H., Martin, F., Kannen, V., 2017. A Perspective Discussion on Rising Pesticide Levels and Colon Cancer Burden in Brazil. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2017.00273
+
+Von Schneidemesser, E., Driscoll, C., Rieder, H.E., Schiferl, L.D., 2020. How will air quality effects on human health, crops and ecosystems change in the future? Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 378. https://doi.org/10.1098/rsta.2019.0330
+
+Watts, N., Amann, M., Arnell, N., Ayeb-Karlsson, S., Beagley, J., Belesova, K., Boykoff, M., Byass, P., Cai, W., Campbell-Lendrum, D., Capstick, S., Chambers, J., Coleman, S., Dalin, C., Daly, M., Dasandi, N., Dasgupta, S., Davies, M., Di Napoli, C., Dominguez-Salas, P., Drummond, P., Dubrow, R., Ebi, K.L., Eckelman, M., Ekins, P., Escobar, L.E., Georgeson, L., Golder, S., Grace, D., Graham, H., Haggar, P., Hamilton, I., Hartinger, S., Hess, J., Hsu, S.-C., Hughes, N., Jankin Mikhaylov, S., Jimenez, M.P., Kelman, I., Kennard, H., Kiesewetter, G., Kinney, P.L., Kjellstrom, T., Kniveton, D., Lampard, P., Lemke, B., Liu, Y., Liu, Z., Lott, M., Lowe, R., Martinez-Urtaza, J., Maslin, M., McAllister, L., McGushin, A., McMichael, C., Milner, J., Moradi-Lakeh, M., Morrissey, K., Munzert, S., Murray, K.A., Neville, T., Nilsson, M., Sewe, M.O., Oreszczyn, T., Otto, M., Owfi, F., Pearman, O., Pencheon, D., Quinn, R., Rabbaniha, M., Robinson, E., Rocklöv, J., Romanello, M., Semenza, J.C., Sherman, J., Shi, L., Springmann, M., Tabatabaei, M., Taylor, J., Triñanes, J., Shumake-Guillemot, J., Vu, B., Wilkinson, P., Winning, M., Gong, P., Montgomery, H., Costello, A., 2021. The 2020 report of The Lancet Countdown on health and climate change: responding to converging crises. The Lancet 397, 129–170. https://doi.org/10.1016/S0140-6736(20)32290-X
+
+Wei, Y., Wang, L., Liu, J., 2023. The diabetogenic effects of pesticides: Evidence based on epidemiological and toxicological studies. Environmental Pollution 331, 121927. https://doi.org/10.1016/j.envpol.2023.121927
+
+Wen, B., Ademi, Z., Wu, Y., Xu, R., Yu, P., Ye, T., Coêlho, M.D.S.Z.S., Saldiva, P.H.N., Guo, Y., Li, S., 2024. Ambient PM2.5 and productivity-adjusted life years lost in Brazil: a national population-based study. Journal of Hazardous Materials 467, 133676. https://doi.org/10.1016/j.jhazmat.2024.133676
+
+World Health Organization, Lucas, R., Prüss-Üstün, A., Perkins van Deventer, E., 2010. Solar ultraviolet radiation: assessing the environmental burden of disease at national and local levels, Environmental burden of disease series;17. World Health Organization, Geneva.
+
+World Health Organization (WHO), 2024. Mortality and burden of disease attributable to UV radiation [WWW Document]. URL https://www.who.int/data/gho/indicator-metadata-registry/imr-details/2394 (accessed 9.23.25).
+
+World Health Organization (WHO), UNICEF, 2024. Water and sanitation interventions to prevent and control mosquito-borne diseases: focus on emergencies.
+
+Wu, X. (May), Basu, R., 2021. Chapter 3: Health impacts of extreme heat, in: Global Climate Change and Human Health : From Science to Practice. John Wiley & Sons, pp. 113–139.
+
+Wuersch, L., Neher, A., Marino, F.E., Bamberry, L., Pope, R., 2023. Impacts of Climate Change on Work Health and Safety in Australia: A Scoping Literature Review. International Journal of Environmental Research and Public Health 20, 7004. https://doi.org/10.3390/ijerph20217004
+
+Xiang, J., Bi, P., Pisaniello, D., Hansen, A., 2014. Health Impacts of Workplace Heat Exposure: An Epidemiological Review. Ind Health 52, 91–101. https://doi.org/10.2486/indhealth.2012-0145
+
+Xu, R., Zhao, Q., Coelho, M.S.Z.S., Saldiva, P.H.N., Abramson, M.J., Li, S., Guo, Y., 2020. Socioeconomic inequality in vulnerability to all-cause and cause-specific hospitalisation associated with temperature variability: a time-series study in 1814 Brazilian cities. The Lancet Planetary Health 4, e566–e576. https://doi.org/10.1016/S2542-5196(20)30251-5
+
+Xu, W., Liu, X., Huang, Z., Du, Y., Zhang, B., Wang, Q., Xiang, J., Zou, Y., Ma, L., 2021. Acute Effects of Air Pollution on Ischemic Heart Disease Hospitalizations: A Population-Based Time-Series Study in Wuhan, China, 2017–2018. IJERPH 18, 12527. https://doi.org/10.3390/ijerph182312527
+
+Ye, T., Guo, Y., Chen, G., Yue, X., Xu, R., Coêlho, M.D.S.Z.S., Saldiva, P.H.N., Zhao, Q., Li, S., 2021. Risk and burden of hospital admissions associated with wildfire-related PM2·5 in Brazil, 2000–15: a nationwide time-series study. The Lancet Planetary Health 5, e599–e607. https://doi.org/10.1016/S2542-5196(21)00173-X
+
+Yoon, J.-H., Lee, W.-T., Yoon, M.J., Lee, W., 2021. Risk of Heat-Related Mortality, Disease, Accident, and Injury Among Korean Workers: A National Representative Study From 2002 to 2015. GeoHealth 5, e2021GH000516. https://doi.org/10.1029/2021GH000516
+
+Zeraatkar, A., Khajoei Nasab, F., 2024. Mapping the habitat suitability of endemic and sub-endemic almond species in Iran under current and future climate conditions. Environ Dev Sustain 26, 14859–14876. https://doi.org/10.1007/s10668-023-03223-y
+
+Zhang, W., Lin, S., Hopke, P.K., Thurston, S.W., van Wijngaarden, E., Croft, D., Squizzato, S., Masiol, M., Rich, D.Q., 2018. Triggering of cardiovascular hospital admissions by fine particle concentrations in New York state: Before, during, and after implementation of multiple environmental policies and a recession. Environ Pollut 242, 1404–1416. https://doi.org/10.1016/j.envpol.2018.08.030
+
+
+
+---
+
+
+
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
