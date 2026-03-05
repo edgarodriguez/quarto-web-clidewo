@@ -1,7 +1,7 @@
 ---
 title: "Manuella Garcia de Freitas Gallego"
 sortby: 14
-subtitle: ""
+subtitle: "Master's student in Public Health at the Institute of Public Health (ISC)"
 image: "./content/img/Garcia.png"
 started:
 toc: false

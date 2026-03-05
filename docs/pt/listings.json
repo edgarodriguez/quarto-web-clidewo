@@ -1,0 +1,100 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/25-05-15_storytelling_lego/index.html",
+      "/posts/2024-01-29_enslaved_ethanol/index.html"
+    ]
+  },
+  {
+    "listing": "/other-resources.html",
+    "items": [
+      "/other-resources/adaptabrasil.html",
+      "/other-resources/climate-conflict.html",
+      "/other-resources/globalhotspotexplorer.html",
+      "/other-resources/mapbiomas.html",
+      "/other-resources/povoado.html",
+      "/other-resources/SmartLab.html",
+      "/other-resources/firjan.html",
+      "/other-resources/social-progress-index.html",
+      "/other-resources/ivcm.html",
+      "/other-resources/inpacto.html"
+    ]
+  },
+  {
+    "listing": "/datavis.html",
+    "items": [
+      "/datavis/2026-02-20_climatehazard_decentwork/index.html",
+      "/datavis/2026-02-09_climate-hazard-09-floods/index.html",
+      "/datavis/2026-02-09_climate-hazard-07-wildfires/index.html",
+      "/datavis/2026-02-09_climate-hazard-08-droughts/index.html",
+      "/datavis/2026-02-07_climate-hazard-03-air-pollution/index.html",
+      "/datavis/2026-02-06_climate-hazard-04-vector-disease/index.html",
+      "/datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html",
+      "/datavis/2026-02-06_climate-hazard-06-wash/index.html",
+      "/datavis/2025-12-31_climate-hazard-01-heat/index.html",
+      "/datavis/2025-10-18_labour_inspections/index.html",
+      "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
+      "/datavis/2026-02-04_climate-hazard-02-radiation/index.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2026-02-16_WorkshopBrasilia.html",
+      "/news/2025-11-11_COP30.html",
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/clidewo-report/index.html",
+      "/publications/participatory-approach-report/index.html",
+      "/publications/national-workshop-policy-brief/index.html",
+      "/publications/trabalho-escravo-mudanzas-climaticas/index.html",
+      "/publications/2024-07-20_theorical-framework/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/staff/Rodriguez-Huerta.html",
+      "/people/staff/Domingos.html",
+      "/people/staff/Landman.html",
+      "/people/staff/Leao.html",
+      "/people/staff/Reita.html",
+      "/people/staff/Moura.html",
+      "/people/staff/Carthew.html",
+      "/people/staff/Siviero.html",
+      "/people/staff/Trevizan.html",
+      "/people/staff/Galvao.html",
+      "/people/staff/Andrade.html",
+      "/people/staff/Fortes.html",
+      "/people/staff/Barros.html",
+      "/people/staff/Rosa.html",
+      "/people/staff/Garcia.html",
+      "/people/staff/Bezerra.html",
+      "/people/staff/Abrahao.html",
+      "/people/staff/Ribeiro.html",
+      "/people/staff/Moraes.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/25-05-15_storytelling_lego/index.html",
+      "/posts/2024-01-29_enslaved_ethanol/index.html"
+    ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/climate-health-references/index.html",
+      "/resources/climate-health/index.html",
+      "/resources/climate-decent-work/index.html"
+    ]
+  }
+]

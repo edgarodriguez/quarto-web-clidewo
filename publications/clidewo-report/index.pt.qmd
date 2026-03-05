@@ -8,8 +8,8 @@ date-modified: "2026-02-28"
 image: img/cover-pt.png
 execute:
   echo: false
-citation:
-  url: https://zenodo.org/records/18839272
+#citation:
+#  url: 
 lang: pt  
 categories:
   - Workers Health
@@ -29,15 +29,24 @@ Este documento faz parte do projeto Mudanças Climáticas, Saúde dos Trabalhado
   loading="lazy"
 />
 
+O relatório completo está disponível para quem desejar explorar a análise em detalhes, juntamente com um breve resumo que destaca os principais resultados e recomendações.
+
+<img
+  src="img/summary-en.png"
+  style="width:100%; height:auto;"
+  loading="lazy"
+/>
+
 
 ### Download  {.appendix}
 
-[https://zenodo.org/records/18839272](https://zenodo.org/records/18839272) *(English version)*
+Acesso às versões completa e resumida (*English*): [https://zenodo.org/uploads/18839272](https://zenodo.org/uploads/18839272)
+
 *(Portuguese version soon)*
 
 ### Citation
 
-Rodríguez-Huerta, E., Domingos Martinez dos Santos, I., de Almeida Moura, F., Faria Leal, C. R., Landman, T., Castillero, I. T. A., Coutinho, K. G., Moraes, L., Pavia, L. R., Manuella Gallego, Soares, M. R., Brandão, M. P. F., Barros Costa, S., Siviero, A. A., Trevizan, A. F., & Galvão Gomes, P. I. (2026). Climate Change, Decent Work, and Workers' Health: Vulnerabilities and Responses of Workers in Brazilian Agriculture (1.0). Zenodo. https://doi.org/10.5281/zenodo.18839272
+Rodríguez-Huerta, E., Domingos Martinez dos Santos, I., de Almeida Moura, F., Faria Leal, C. R., Landman, T., Castillero, I. T. A., Coutinho, K. G., Moraes, L., Pavia, L. R., Manuella Gallego, Soares, M. R., Brandão, M. P. F., Barros Costa, S., Siviero, A. A., Trevizan, A. F., & Galvão Gomes, P. I. (2026). Climate Change, Decent Work, and Workers' Health: Vulnerabilities and Responses of Workers in Brazilian Agriculture (1.0). 
 
 
 

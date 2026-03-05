@@ -3,8 +3,7 @@
     "listing": "/blog.html",
     "items": [
       "/posts/25-05-15_storytelling_lego/index.html",
-      "/posts/2024-01-29_enslaved_ethanol/index.html",
-      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html"
+      "/posts/2024-01-29_enslaved_ethanol/index.html"
     ]
   },
   {
@@ -24,6 +23,16 @@
     ]
   },
   {
+    "listing": "/news.html",
+    "items": [
+      "/news/2026-02-16_WorkshopBrasilia.html",
+      "/news/2025-11-11_COP30.html",
+      "/news/2025-10-13_GPTEC.html",
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
+  },
+  {
     "listing": "/datavis.html",
     "items": [
       "/datavis/2026-02-20_climatehazard_decentwork/index.html",
@@ -38,16 +47,6 @@
       "/datavis/2026-02-04_climate-hazard-02-radiation/index.html",
       "/datavis/2025-10-18_labour_inspections/index.html",
       "/datavis/2025-05-09_health_global_pesticides_risk/index.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2026-02-16_WorkshopBrasilia.html",
-      "/news/2025-11-11_COP30.html",
-      "/news/2025-10-13_GPTEC.html",
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
     ]
   },
   {
@@ -88,8 +87,7 @@
     "listing": "/posts.html",
     "items": [
       "/posts/25-05-15_storytelling_lego/index.html",
-      "/posts/2024-01-29_enslaved_ethanol/index.html",
-      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html"
+      "/posts/2024-01-29_enslaved_ethanol/index.html"
     ]
   },
   {

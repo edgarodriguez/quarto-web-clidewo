@@ -40,11 +40,9 @@ author:
 library(fontawesome)
 ```
 
-::: {.callout-note}
 
-During work inspections, inadequate water, sanitation, and hygiene (WASH) have been identified as major issues and contribute to degrading working conditions.
 
-:::
+***During work inspections, inadequate water, sanitation, and hygiene (WASH) have been identified as major issues and contribute to degrading working conditions.***
 
 
 ## WASH
@@ -87,9 +85,9 @@ Data visualization summarizes the analysis of excessive heat in **Brazil**, disa
 
 [^2]: ThinkHazard! *Global Extreme Heat Hazard*. World Bank Data Catalog. [https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard](https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard)
 
-[^3]: Rao, N. et al. *Global inequality in environmental conditions*. *Environmental Research Letters*. [https://doi.org/10.1088/2515-7620/ae0407](https://doi.org/10.1088/2515-7620/ae0407)
+[^3]: Ormaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. [https://doi.org/10.1088/2515-7620/ae0407](https://doi.org/10.1088/2515-7620/ae0407)
 
-[^4]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
+
 
 
 #### Share it on social media:

@@ -83,9 +83,7 @@ A visualização de dados resume a análise do calor excessivo no **Brasil**, de
 
 [^2]: ThinkHazard! *Global Extreme Heat Hazard*. World Bank Data Catalog. [https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard](https://datacatalog.worldbank.org/search/dataset/0040194/Global-extreme-heat-hazard)
 
-[^3]: Rao, N. et al. *Global inequality in environmental conditions*. *Environmental Research Letters*. [https://doi.org/10.1088/2515-7620/ae0407](https://doi.org/10.1088/2515-7620/ae0407)
-
-[^4]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
+[^3]: Ormaza-Zulueta, N., Mehrabi, Z., 2025. Global inequality in environmental conditions underpinning human rights. Environ. Res. Commun. 7, 095017. [https://doi.org/10.1088/2515-7620/ae0407](https://doi.org/10.1088/2515-7620/ae0407)
 
 #### Compartilhe em redes sociais:
 

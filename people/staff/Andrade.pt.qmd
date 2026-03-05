@@ -1,7 +1,7 @@
 ---
 title: "Gabriela de Andrade Nogueira Gonçalves "
 sortby: 12
-subtitle: ""
+subtitle: "Pesquisador Associado"
 image: "./content/img/Nogueira.png"
 started:
 toc: false

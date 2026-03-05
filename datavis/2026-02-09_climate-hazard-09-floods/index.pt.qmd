@@ -1,6 +1,6 @@
 ---
 title: "Saúde dos trabalhadores em um contexto de mudanças climáticas: Eventos climáticos extremos (Inundações)"
-description: Série de dez infográficos que descrevem os principais riscos para a saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do Trabalho (OIT) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+description: Série de nove infográficos que descrevem os principais riscos para a saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [Organização Internacional do Trabalho (OIT) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
 
 date: 2026-02-09
 date-modified: 2026-02-09
@@ -66,7 +66,7 @@ Inundações avaliadas por meio de precipitação intensa, exposição acumulada
 ---
 
 
-[^1]: AdapraBrasil [https://sistema.adaptabrasil.mcti.gov.br](https://sistema.adaptabrasil.mcti.gov.br) 
+[^1]: AdaptaBrasil [https://sistema.adaptabrasil.mcti.gov.br](https://sistema.adaptabrasil.mcti.gov.br) 
 
 [^2]: Climate–Conflict–Vulnerability Index (CCVI). *Climate data (2024-Q4)*. [https://climatevulnerabilityindex.org](https://climatevulnerabilityindex.org)
 

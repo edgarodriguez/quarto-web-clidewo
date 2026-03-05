@@ -1,15 +1,15 @@
 ---
 title: "Climate Change, decent work, and workers health Worker vulnerabilities and response in Brazilian agriculture"
 subtitle: "Report for consolidated research project, including main results and final recommendation"
-draft: true
+draft: false
 draft-mode: visible
 date: "2026-02-28"
 date-modified: "2026-02-28"
 image: img/cover-en.png
 execute:
   echo: false
-citation:
-  url: https://zenodo.org/records/18839272
+# citation:
+#  url:
 lang: en  
 categories:
   - Workers Health
@@ -31,10 +31,20 @@ This document is part of the project Climate Change, Workers’ Health, and Dece
   loading="lazy"
 />
 
+The report is available in full for those who would like to explore the analysis in detail, along with a short summary outlining the key results and recommendations.
+
+
+<img
+  src="img/summary-en.png"
+  style="width:100%; height:auto;"
+  loading="lazy"
+/>
+
+
 
 ### Download  {.appendix}
 
-[https://zenodo.org/records/18839272](https://zenodo.org/records/18839272)
+Access to full and sumary versions: [https://zenodo.org/uploads/18839272](https://zenodo.org/uploads/18839272)
 
 
 ### Citation

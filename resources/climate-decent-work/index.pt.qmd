@@ -1,6 +1,6 @@
 ---
-title: "Pontos críticos de clima e saúde na agricultura brasileira"
-description: "Dados de saída do manuscrito: Mapeamento de pontos críticos de clima e saúde: implicações para a saúde dos trabalhadores e trabalho decente na agricultura brasileira."
+title: "Avaliação de Riscos Climáticos e Trabalho Decente - Agricultura Brasileira"
+description: "Dados de saída do relatório: Mudanças Climáticas, Trabalho Decente e Saúde dos Trabalhadores (Seção IV)"
 date: 2026-02-16
 date-modified: 2026-02-16
 draft: false
@@ -10,6 +10,8 @@ execute:
   echo: false
 categories:
   - Workers Health
+  - Climate Change
+  - Decent Work
 lang: pt
 format: 
   html:
@@ -18,12 +20,12 @@ format:
 embed-resources: true
 lightbox: true
 toc: false
-author:
-  - name: Edgar Rodriguez-Huerta
-    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
-    affiliation: University of Nottingham, Rights Lab
-    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
-    orcid: 0000-0002-6887-0040
+#author:
+#  - name: Edgar Rodriguez-Huerta
+#    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+#    affiliation: University of Nottingham, Rights Lab
+#    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+#    orcid: 0000-0002-6887-0040
 
 ---
 
@@ -37,16 +39,26 @@ author:
 library(fontawesome)
 ```
 
-Dados de saída do manuscrito: Mapeamento de Pontos Críticos de Clima e Saúde: Implicações para a Saúde dos Trabalhadores e Trabalho Decente na Agricultura Brasileira.
 
-Acesso: [https://zenodo.org/uploads/18632647](https://zenodo.org/records/18632647?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImYxNjllMDUyLTAxYzMtNGUwZC05N2E0LTE3ZTBlNTExMTM3YiIsImRhdGEiOnt9LCJyYW5kb20iOiI3NDc5MWYwYzQ4Y2QxNjUzMTI2Y2M0NTA2YzdlNDZhNCJ9.20SVeA660y1T2CC_wD_ekWOeab12iHfut219KuATaH9UDFdIlXBHvFfqEMMlAldfWA-PxUXUgrbP1A0qcrMeTg)
+Dados de saída do relatório: Mudanças Climáticas, Trabalho Decente e Saúde dos Trabalhadores (Seção IV).
 
-Os dados contêm:
+O conjunto de dados contém:
 
-Incidência bruta do SINAN de 2009 a 2024, para quatro categorias que apresentaram as maiores taxas de incidência no setor agrícola: (1) acidentes de trabalho (AT), (2) dengue (DENG), (3) intoxicação externa por agrotóxicos (IEAP) e (4) casos de violência (VIOL). Consideramos apenas os registros classificados com a classificação ocupacional “6; Trabalhadores Agropecuários”, Classificação Nacional de Ocupações (CBO). Obtivemos o número de trabalhadores agrícolas a partir dos Censos Agropecuários (Tabelas 1113 e 6884 para 2006 e 2017, respectivamente).
+Este conjunto de dados fornece indicadores integrados para uma Avaliação de Risco Climático-Trabalho Decente para trabalhadores rurais agrícolas no Brasil. Abrange todos os 5.570 municípios brasileiros e uma grade espacial harmonizada com resolução de 0,05 graus (~5,5 km).
 
-As taxas de internação hospitalar do **SIHSUS**, filtradas pela população em idade ativa (15 a 64 anos), foram utilizadas como medida indireta de incidência, de acordo com a Classificação Internacional de Doenças, 10ª revisão (CID-10), em nível municipal, entre 2003 e 2024, utilizando uma seleção de 900 doenças relacionadas ao clima, segundo a CID-10, referentes à morbidade associada a cinco principais riscos ocupacionais à saúde, conforme descrito em "Saúde no Trabalho em um Clima em Mudança" (OIT, 2024): calor excessivo, poluição do ar, radiação UV, doenças transmitidas por vetores[1] e exposição a agrotóxicos. Além disso, foram utilizadas doenças transmitidas pela água, visto que a falta de instalações adequadas de água, saneamento e higiene (WASH) foi identificada como um dos principais problemas detectados na inspeção do trabalho. Embora as doenças crônicas não possam ser atribuídas inteiramente a fatores relacionados ao clima, incluímos essas doenças na análise, considerando uma revisão narrativa da literatura e informações oficiais de saúde ocupacional do Brasil. Em seguida, ajustamos as taxas de incidência utilizando taxas ajustadas por idade, refletindo a média da população brasileira de 2003 a 2020 como população padrão.
+O conjunto de dados integra três pilares analíticos seguindo a estrutura do IPCC (Risco = Perigo × Exposição × Vulnerabilidade):
 
+(1) **ÍNDICE DE PERIGO CLIMÁTICO** — Um índice composto que combina 23 indicadores de 7 conjuntos de dados internacionais em 9 grupos de perigo: Calor Excessivo, Radiação UV, Secas, Inundações, Incêndios Florestais, Poluição do Ar, Doenças Transmitidas por Vetores, Agrotóxicos e Água, Saneamento e Higiene (WASH). Os indicadores são normalizados para uma escala de 0 a 100 e ponderados usando previsões de especialistas ajustadas por pontuações de Avaliação da Qualidade dos Dados (DQA).
+
+Fontes primárias: CCVI v2.0, Desigualdades Globais nas Condições Ambientais, TEMIS UV, ThinkHazard! (Banco Mundial), AdaptaBrasil (MCTI), IDSC-BR 2025, Tang et al. risco de pesticidas.
+
+(2) **EXPOSIÇÃO AGRÍCOLA** — Área colhida e área cultivada por município × tipo de cultura (~113 culturas) do CROPGRIDSv1.08 (não incluído no conjunto de dados). Total de trabalhadores por dados demográficos das classes de atividade do censo agrícola do IBGE.
+
+(3) **ÍNDICE DE TRABALHO DECENTE** — Um índice composto de 35 indicadores organizados em 10 elementos do Trabalho Decente da OIT, incluindo oportunidades de emprego, rendimentos adequados, tempo de trabalho, igualdade de oportunidades, trabalho forçado, segurança ocupacional e segurança social. Derivado de dados do PNADC (2021–2024), IDSC-BR 2025, IPS Brasil, SINAN e resgate de trabalho forçado do CPT. Os estimadores de contração Bayesiana estabilizam as estimativas do PNADC em nível estadual.
+
+Todos os conjuntos de dados podem ser vinculados por meio do código de município de 7 dígitos do IBGE (CD_MUN). Os arquivos principais são fornecidos em formato Excel.
+
+Access: [https://zenodo.org/records/18828568](https://zenodo.org/records/18828568)
 
 
 ---

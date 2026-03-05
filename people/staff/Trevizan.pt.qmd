@@ -16,7 +16,7 @@ about:
       text: Linkedin
       href: https://www.linkedin.com/in/ana-flávia-trevizan/
     - text: "{{< fa brands orcid >}} Orcid"
-      href:  https://orcid.org/my-orcid?orcid=0000-0003-4365-6053    
+      href:  https://orcid.org/0000-0003-4365-6053 
 
      
 ---

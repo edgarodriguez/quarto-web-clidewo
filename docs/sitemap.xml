@@ -1,403 +1,711 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/pt/blog.html</loc>
+    <lastmod>2026-03-05T16:13:02.437Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources.html</loc>
+    <lastmod>2026-03-05T16:13:06.941Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Andrade.html</loc>
+    <lastmod>2026-03-05T16:13:06.943Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Abrahao.html</loc>
+    <lastmod>2026-03-05T16:13:06.943Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Reita.html</loc>
+    <lastmod>2026-03-05T16:13:06.949Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Siviero.html</loc>
+    <lastmod>2026-03-05T16:13:06.951Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Rodriguez-Huerta.html</loc>
+    <lastmod>2026-03-05T16:13:06.950Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Ribeiro.html</loc>
+    <lastmod>2026-03-05T16:13:06.949Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Rosa.html</loc>
+    <lastmod>2026-03-05T16:13:06.950Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Barros.html</loc>
+    <lastmod>2026-03-05T16:13:06.943Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Domingos.html</loc>
+    <lastmod>2026-03-05T16:13:06.945Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Fortes.html</loc>
+    <lastmod>2026-03-05T16:13:06.946Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/news/2025-05-16_ICEH.html</loc>
+    <lastmod>2026-03-05T16:13:06.918Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/news/2026-02-16_WorkshopBrasilia.html</loc>
+    <lastmod>2026-03-05T16:13:06.924Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/news/2025-10-13_GPTEC.html</loc>
+    <lastmod>2026-03-05T16:13:06.921Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/about.html</loc>
+    <lastmod>2026-03-05T16:13:02.436Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/organisations.pt/GPMAT.html</loc>
+    <lastmod>2026-03-05T16:13:06.929Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/globalhotspotexplorer.html</loc>
+    <lastmod>2026-03-05T16:13:06.933Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/ivcm.html</loc>
+    <lastmod>2026-03-05T16:13:06.935Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/SmartLab.html</loc>
+    <lastmod>2026-03-05T16:13:06.930Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/adaptabrasil.html</loc>
+    <lastmod>2026-03-05T16:13:06.931Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/climate-conflict.html</loc>
+    <lastmod>2026-03-05T16:13:06.932Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/index.html</loc>
+    <lastmod>2026-03-05T16:13:03.225Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/resources/climate-health/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.109Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/resources/climate-health-references/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.110Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/publications/national-workshop-policy-brief/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.098Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/publications/2024-07-20_theorical-framework/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.084Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis.html</loc>
+    <lastmod>2026-03-05T16:13:02.672Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/my-venv/lib/python3.14/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:13:04.118Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/my-venv/lib/python3.14/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:13:04.101Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/my-venv/lib/python3.14/site-packages/cffi/recompiler.html</loc>
+    <lastmod>2026-03-05T16:13:03.852Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/posts/25-05-15_storytelling_lego/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.065Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/literature-tools.html</loc>
+    <lastmod>2026-03-05T16:13:03.225Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people.pt/organisations/GPMAT.html</loc>
+    <lastmod>2026-03-05T16:13:06.988Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2026-02-09_climate-hazard-08-droughts/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.628Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2026-02-04_climate-hazard-02-radiation/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.514Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2026-02-20_climatehazard_decentwork/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.666Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2026-02-06_climate-hazard-06-wash/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.567Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2025-10-18_labour_inspections/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.486Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2026-02-06_climate-hazard-04-vector-disease/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.530Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2025-05-09_health_global_pesticides_risk/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.480Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.547Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2026-02-09_climate-hazard-09-floods/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.646Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2026-02-09_climate-hazard-07-wildfires/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.602Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2026-02-07_climate-hazard-03-air-pollution/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.580Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/datavis/2025-12-31_climate-hazard-01-heat/index.html</loc>
+    <lastmod>2026-03-05T16:13:02.502Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people.pt/staff/Barros.html</loc>
+    <lastmod>2026-03-05T16:13:06.991Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/contact.html</loc>
+    <lastmod>2026-03-05T16:13:02.438Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/posts/2024-01-29_enslaved_ethanol/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.043Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/my-venv/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:13:04.124Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/my-venv/lib/python3.14/site-packages/soupsieve-2.8.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:13:06.369Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/my-venv/lib/python3.14/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:13:06.089Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/publications/clidewo-report/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.088Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/publications/trabalho-escravo-mudanzas-climaticas/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.104Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/publications/participatory-approach-report/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.100Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/resources/climate-decent-work/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.107Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/news.html</loc>
+    <lastmod>2026-03-05T16:13:06.926Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/posts_draft/2024-02-04_data-cleaning/index.html</loc>
+    <lastmod>2026-03-05T16:13:07.069Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/mapbiomas.html</loc>
+    <lastmod>2026-03-05T16:13:06.937Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/firjan.html</loc>
+    <lastmod>2026-03-05T16:13:06.933Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/inpacto.html</loc>
+    <lastmod>2026-03-05T16:13:06.934Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/social-progress-index.html</loc>
+    <lastmod>2026-03-05T16:13:06.941Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/other-resources/povoado.html</loc>
+    <lastmod>2026-03-05T16:13:06.938Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/publications.html</loc>
+    <lastmod>2026-03-05T16:13:07.104Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/organisations/GPMAT.html</loc>
+    <lastmod>2026-03-05T16:13:06.927Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/news/2024-09-01_Awarding-ODA.html</loc>
+    <lastmod>2026-03-05T16:13:06.916Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/news/2025-11-11_COP30.html</loc>
+    <lastmod>2026-03-05T16:13:06.922Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people.html</loc>
+    <lastmod>2026-03-05T16:13:07.023Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Trevizan.html</loc>
+    <lastmod>2026-03-05T16:13:06.951Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Carthew.html</loc>
+    <lastmod>2026-03-05T16:13:06.944Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Leao.html</loc>
+    <lastmod>2026-03-05T16:13:06.947Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Garcia.html</loc>
+    <lastmod>2026-03-05T16:13:06.946Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Galvao.html</loc>
+    <lastmod>2026-03-05T16:13:06.946Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Moura.html</loc>
+    <lastmod>2026-03-05T16:13:06.948Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Landman.html</loc>
+    <lastmod>2026-03-05T16:13:06.947Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Bezerra.html</loc>
+    <lastmod>2026-03-05T16:13:06.944Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/people/staff/Moraes.html</loc>
+    <lastmod>2026-03-05T16:13:06.948Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/posts.html</loc>
+    <lastmod>2026-03-05T16:13:07.067Z</lastmod>
+  </url>
+  <url>
+    <loc>/pt/resources.html</loc>
+    <lastmod>2026-03-05T16:13:07.111Z</lastmod>
+  </url>
+  <url>
     <loc>https://clidewo.com/blog.html</loc>
-    <lastmod>2026-03-05T12:33:51.365Z</lastmod>
+    <lastmod>2026-03-05T16:08:37.118Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources.html</loc>
-    <lastmod>2026-03-05T12:33:54.932Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.066Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Andrade.html</loc>
-    <lastmod>2026-03-05T12:33:54.933Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Abrahao.html</loc>
-    <lastmod>2026-03-05T12:33:54.933Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Reita.html</loc>
-    <lastmod>2026-03-05T12:33:54.938Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.073Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Siviero.html</loc>
-    <lastmod>2026-03-05T12:33:54.940Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.074Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Rodriguez-Huerta.html</loc>
-    <lastmod>2026-03-05T12:33:54.939Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.074Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Ribeiro.html</loc>
-    <lastmod>2026-03-05T12:33:54.939Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.073Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Rosa.html</loc>
-    <lastmod>2026-03-05T12:33:54.940Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.074Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Barros.html</loc>
-    <lastmod>2026-03-05T12:33:54.933Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.068Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Domingos.html</loc>
-    <lastmod>2026-03-05T12:33:54.935Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.069Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Fortes.html</loc>
-    <lastmod>2026-03-05T12:33:54.935Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.070Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/news/2025-05-16_ICEH.html</loc>
-    <lastmod>2026-03-05T12:33:54.908Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.041Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/news/2026-02-16_WorkshopBrasilia.html</loc>
-    <lastmod>2026-03-05T12:33:54.913Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.047Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/news/2025-10-13_GPTEC.html</loc>
-    <lastmod>2026-03-05T12:33:54.910Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.043Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/about.html</loc>
-    <lastmod>2026-03-05T12:33:51.364Z</lastmod>
+    <lastmod>2026-03-05T16:08:37.117Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/organisations.pt/GPMAT.html</loc>
-    <lastmod>2026-03-05T12:33:54.918Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.054Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/globalhotspotexplorer.html</loc>
-    <lastmod>2026-03-05T12:33:54.922Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.058Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/ivcm.html</loc>
-    <lastmod>2026-03-05T12:33:54.923Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.060Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/SmartLab.html</loc>
-    <lastmod>2026-03-05T12:33:54.919Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.055Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/adaptabrasil.html</loc>
-    <lastmod>2026-03-05T12:33:54.920Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.056Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/climate-conflict.html</loc>
-    <lastmod>2026-03-05T12:33:54.920Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.057Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/posts_draft/2024-02-04_data-cleaning/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.045Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/posts_draft/2025-11-10_decent-work-nexus/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/resources/climate-health/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/resources/climate-health-references/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.149Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/publications/national-workshop-policy-brief/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.076Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/publications/2024-07-20_theorical-framework/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.066Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis.html</loc>
-    <lastmod>2026-03-05T12:33:51.573Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html</loc>
-    <lastmod>2026-03-05T12:33:52.338Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html</loc>
-    <lastmod>2026-03-05T12:33:52.325Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/cffi/recompiler.html</loc>
-    <lastmod>2026-03-05T12:33:52.075Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/posts/2024-01-29_enslaved_ethanol/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/contact.html</loc>
-    <lastmod>2026-03-05T12:33:51.366Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Andrade.html</loc>
-    <lastmod>2026-03-05T12:33:54.972Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Abrahao.html</loc>
-    <lastmod>2026-03-05T12:33:54.972Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Reita.html</loc>
-    <lastmod>2026-03-05T12:33:54.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Siviero.html</loc>
-    <lastmod>2026-03-05T12:33:54.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Rodriguez-Huerta.html</loc>
-    <lastmod>2026-03-05T12:33:54.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Ribeiro.html</loc>
-    <lastmod>2026-03-05T12:33:54.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Rosa.html</loc>
-    <lastmod>2026-03-05T12:33:54.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Carthew.html</loc>
-    <lastmod>2026-03-05T12:33:54.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Trevizan.html</loc>
-    <lastmod>2026-03-05T12:33:54.976Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2025-12-31_climate-hazard-01-heat/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.430Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2026-02-07_climate-hazard-03-air-pollution/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.511Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2026-02-09_climate-hazard-07-wildfires/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.526Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2026-02-09_climate-hazard-09-floods/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.480Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2025-05-09_health_global_pesticides_risk/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.407Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2026-02-06_climate-hazard-04-vector-disease/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.462Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2025-10-18_labour_inspections/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.415Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2026-02-06_climate-hazard-06-wash/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.496Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2026-02-20_climatehazard_decentwork/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.572Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2026-02-04_climate-hazard-02-radiation/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.446Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/datavis/2026-02-09_climate-hazard-08-droughts/index.html</loc>
-    <lastmod>2026-03-05T12:33:51.553Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Fortes.html</loc>
-    <lastmod>2026-03-05T12:33:54.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Domingos.html</loc>
-    <lastmod>2026-03-05T12:33:54.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Leao.html</loc>
-    <lastmod>2026-03-05T12:33:54.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Garcia.html</loc>
-    <lastmod>2026-03-05T12:33:54.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Galvao.html</loc>
-    <lastmod>2026-03-05T12:33:54.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Moura.html</loc>
-    <lastmod>2026-03-05T12:33:54.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Landman.html</loc>
-    <lastmod>2026-03-05T12:33:54.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Bezerra.html</loc>
-    <lastmod>2026-03-05T12:33:54.972Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/people.pt/staff/Moraes.html</loc>
-    <lastmod>2026-03-05T12:33:54.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/literature-tools.html</loc>
-    <lastmod>2026-03-05T12:33:51.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/posts/25-05-15_storytelling_lego/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.041Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.022Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.html</loc>
-    <lastmod>2026-03-05T12:33:52.343Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/soupsieve-2.8.dist-info/licenses/LICENSE.html</loc>
-    <lastmod>2026-03-05T12:33:54.403Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html</loc>
-    <lastmod>2026-03-05T12:33:54.157Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/publications/clidewo-report/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.069Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/publications/trabalho-escravo-mudanzas-climaticas/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.081Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/publications/participatory-approach-report/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.077Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/resources/climate-decent-work/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.107Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clidewo.com/news.html</loc>
-    <lastmod>2026-03-05T12:33:54.915Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.182Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/posts_draft/2025-11-10_decent-work-nexus/index_example_maps.html</loc>
-    <lastmod>2026-03-05T12:33:55.056Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.191Z</lastmod>
   </url>
   <url>
-    <loc>https://clidewo.com/posts_draft/2024-99-99_scrollytelling_policies/index.html</loc>
-    <lastmod>2026-03-05T12:33:55.047Z</lastmod>
+    <loc>https://clidewo.com/news.html</loc>
+    <lastmod>2026-03-05T16:08:41.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/resources/climate-decent-work/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/publications/participatory-approach-report/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.212Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/publications/trabalho-escravo-mudanzas-climaticas/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.220Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/publications/clidewo-report/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.204Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:08:40.182Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/soupsieve-2.8.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:08:40.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:08:38.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/posts/2024-01-29_enslaved_ethanol/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.159Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/contact.html</loc>
+    <lastmod>2026-03-05T16:08:37.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Andrade.html</loc>
+    <lastmod>2026-03-05T16:08:41.109Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Abrahao.html</loc>
+    <lastmod>2026-03-05T16:08:41.108Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Reita.html</loc>
+    <lastmod>2026-03-05T16:08:41.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Siviero.html</loc>
+    <lastmod>2026-03-05T16:08:41.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Rodriguez-Huerta.html</loc>
+    <lastmod>2026-03-05T16:08:41.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Ribeiro.html</loc>
+    <lastmod>2026-03-05T16:08:41.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Rosa.html</loc>
+    <lastmod>2026-03-05T16:08:41.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Carthew.html</loc>
+    <lastmod>2026-03-05T16:08:41.109Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Trevizan.html</loc>
+    <lastmod>2026-03-05T16:08:41.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2025-12-31_climate-hazard-01-heat/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2026-02-07_climate-hazard-03-air-pollution/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2026-02-09_climate-hazard-07-wildfires/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2026-02-09_climate-hazard-09-floods/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.320Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2026-02-06_climate-hazard-05-agrochemicals/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2025-05-09_health_global_pesticides_risk/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2026-02-06_climate-hazard-04-vector-disease/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.218Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2025-10-18_labour_inspections/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.168Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2026-02-06_climate-hazard-06-wash/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.248Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2026-02-20_climatehazard_decentwork/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.336Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2026-02-04_climate-hazard-02-radiation/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis/2026-02-09_climate-hazard-08-droughts/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.305Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Fortes.html</loc>
+    <lastmod>2026-03-05T16:08:41.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Domingos.html</loc>
+    <lastmod>2026-03-05T16:08:41.109Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Leao.html</loc>
+    <lastmod>2026-03-05T16:08:41.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Garcia.html</loc>
+    <lastmod>2026-03-05T16:08:41.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Galvao.html</loc>
+    <lastmod>2026-03-05T16:08:41.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Moura.html</loc>
+    <lastmod>2026-03-05T16:08:41.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Landman.html</loc>
+    <lastmod>2026-03-05T16:08:41.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Bezerra.html</loc>
+    <lastmod>2026-03-05T16:08:41.109Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/people.pt/staff/Moraes.html</loc>
+    <lastmod>2026-03-05T16:08:41.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/literature-tools.html</loc>
+    <lastmod>2026-03-05T16:08:37.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/posts/25-05-15_storytelling_lego/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/cffi/recompiler.html</loc>
+    <lastmod>2026-03-05T16:08:37.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:08:38.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/my-venv/lib/python3.14/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html</loc>
+    <lastmod>2026-03-05T16:08:38.225Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/datavis.html</loc>
+    <lastmod>2026-03-05T16:08:37.342Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/publications/2024-07-20_theorical-framework/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/publications/national-workshop-policy-brief/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/resources/climate-health-references/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.226Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/resources/climate-health/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/index.html</loc>
+    <lastmod>2026-03-05T16:08:37.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clidewo.com/posts_draft/2025-11-10_decent-work-nexus/index.html</loc>
+    <lastmod>2026-03-05T16:08:41.189Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/mosaiks.html</loc>
-    <lastmod>2026-03-05T12:33:54.925Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.062Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/mapbiomas.html</loc>
-    <lastmod>2026-03-05T12:33:54.924Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.062Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/firjan.html</loc>
-    <lastmod>2026-03-05T12:33:54.921Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.058Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/inpacto.html</loc>
-    <lastmod>2026-03-05T12:33:54.922Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.059Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/social-progress-index.html</loc>
-    <lastmod>2026-03-05T12:33:54.929Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.065Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/other-resources/povoado.html</loc>
-    <lastmod>2026-03-05T12:33:54.925Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.063Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/publications.html</loc>
-    <lastmod>2026-03-05T12:33:55.081Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.220Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/organisations/GPMAT.html</loc>
-    <lastmod>2026-03-05T12:33:54.916Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.052Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/news/2024-09-01_Awarding-ODA.html</loc>
-    <lastmod>2026-03-05T12:33:54.907Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.039Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/news/2025-11-11_COP30.html</loc>
-    <lastmod>2026-03-05T12:33:54.911Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.045Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people.html</loc>
-    <lastmod>2026-03-05T12:33:55.002Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.140Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Trevizan.html</loc>
-    <lastmod>2026-03-05T12:33:54.940Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.075Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Carthew.html</loc>
-    <lastmod>2026-03-05T12:33:54.934Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.069Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Leao.html</loc>
-    <lastmod>2026-03-05T12:33:54.937Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.071Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Garcia.html</loc>
-    <lastmod>2026-03-05T12:33:54.936Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.071Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Galvao.html</loc>
-    <lastmod>2026-03-05T12:33:54.936Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.070Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Moura.html</loc>
-    <lastmod>2026-03-05T12:33:54.938Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.072Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Landman.html</loc>
-    <lastmod>2026-03-05T12:33:54.937Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.071Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Bezerra.html</loc>
-    <lastmod>2026-03-05T12:33:54.934Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.068Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/people/staff/Moraes.html</loc>
-    <lastmod>2026-03-05T12:33:54.938Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.072Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/posts.html</loc>
-    <lastmod>2026-03-05T12:33:55.043Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.180Z</lastmod>
   </url>
   <url>
     <loc>https://clidewo.com/resources.html</loc>
-    <lastmod>2026-03-05T12:33:55.149Z</lastmod>
+    <lastmod>2026-03-05T16:08:41.227Z</lastmod>
   </url>
 </urlset>

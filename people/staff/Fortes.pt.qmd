@@ -1,7 +1,7 @@
 ---
 title: "Mayara Pinheiro Fortes Brandão"
 sortby: 13
-subtitle: ""
+subtitle: "Doutoranda Ciências Sociais da UFMA"
 image: "./content/img/Fortes.png"
 started:
 toc: false

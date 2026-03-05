@@ -1,7 +1,7 @@
 ---
 title: "Ivi Tavares Abrahão Castillero"
 sortby: 17
-subtitle: ""
+subtitle: "Associated Researcher"
 image: "./content/img/Abrahao.png"
 started:
 toc: false

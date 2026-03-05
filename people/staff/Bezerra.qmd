@@ -1,7 +1,7 @@
 ---
 title: "Késley Gabriel Bezerra Coutinho"
 sortby: 16
-subtitle: ""
+subtitle: "Doctoral candidate in Public Health (UFMT)"
 image: "./content/img/Bezerra.png"
 started:
 toc: false

@@ -1,7 +1,7 @@
 ---
 title: "Mariana Rosa Soares"
 sortby: 14
-subtitle: ""
+subtitle: "PhD candidate in the Postgraduate Program in Public Health (UFMT)"
 image: "./content/img/Rosa.png"
 started:
 toc: false

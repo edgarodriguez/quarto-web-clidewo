@@ -1,7 +1,7 @@
 ---
 title: "Ludmila Ribeiro Paiva"
 sortby: 17
-subtitle: ""
+subtitle: "Pesquisador Associado"
 image: "./content/img/Ribeiro.png"
 started:
 toc: false

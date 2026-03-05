@@ -1,7 +1,7 @@
 ---
 title: "Gabriela de Andrade Nogueira Gonçalves "
 sortby: 12
-subtitle: ""
+subtitle: "Master's degree in Agro-environmental Law from the Federal University of Mato Grosso"
 image: "./content/img/Nogueira.png"
 started:
 toc: false

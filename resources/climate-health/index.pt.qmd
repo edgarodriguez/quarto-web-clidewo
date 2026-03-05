@@ -18,12 +18,12 @@ format:
 embed-resources: true
 lightbox: true
 toc: false
-author:
-  - name: Edgar Rodriguez-Huerta
-    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
-    affiliation: University of Nottingham, Rights Lab
-    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
-    orcid: 0000-0002-6887-0040
+#author:
+#  - name: Edgar Rodriguez-Huerta
+#    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+#    affiliation: University of Nottingham, Rights Lab
+#    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+#    orcid: 0000-0002-6887-0040
 
 ---
 
@@ -39,7 +39,6 @@ library(fontawesome)
 
 Dados de saída do manuscrito: Mapeamento de Pontos Críticos de Clima e Saúde: Implicações para a Saúde dos Trabalhadores e Trabalho Decente na Agricultura Brasileira.
 
-Acesso: [https://zenodo.org/uploads/18632647](https://zenodo.org/records/18632647?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImJkNmEyZjQwLTg2NzctNGI4Yy1iMmNhLTNiZjUxYWU2ZTQxZSIsImRhdGEiOnt9LCJyYW5kb20iOiJjYjdmYWViNWFlMzIzNGIyMjI4OTc4MjZiYmRjZTA1NSJ9.ZBAu9gX6g4sVn_c3uIYJ6-2GIBctzZNVue-BdnZ7Gwz_l0F3nPvNEIYMTapsyH540gJLAki2jXMW1ESauFe67A)
 
 Os dados contêm:
 
@@ -47,6 +46,7 @@ Incidência bruta do SINAN de 2009 a 2024, para quatro categorias que apresentar
 
 As taxas de internação hospitalar do **SIHSUS**, filtradas pela população em idade ativa (15 a 64 anos), foram utilizadas como medida indireta de incidência, de acordo com a Classificação Internacional de Doenças, 10ª revisão (CID-10), em nível municipal, entre 2003 e 2024, utilizando uma seleção de 900 doenças relacionadas ao clima, segundo a CID-10, referentes à morbidade associada a cinco principais riscos ocupacionais à saúde, conforme descrito em "Saúde no Trabalho em um Clima em Mudança" (OIT, 2024): calor excessivo, poluição do ar, radiação UV, doenças transmitidas por vetores[1] e exposição a agrotóxicos. Além disso, foram utilizadas doenças transmitidas pela água, visto que a falta de instalações adequadas de água, saneamento e higiene (WASH) foi identificada como um dos principais problemas detectados na inspeção do trabalho. Embora as doenças crônicas não possam ser atribuídas inteiramente a fatores relacionados ao clima, incluímos essas doenças na análise, considerando uma revisão narrativa da literatura e informações oficiais de saúde ocupacional do Brasil. Em seguida, ajustamos as taxas de incidência utilizando taxas ajustadas por idade, refletindo a média da população brasileira de 2003 a 2020 como população padrão.
 
+Acesso: [https://zenodo.org/records/18632647](https://zenodo.org/records/18632647)
 
 
 ---

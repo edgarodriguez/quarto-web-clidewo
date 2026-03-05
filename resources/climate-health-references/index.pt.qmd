@@ -5,11 +5,11 @@ date: 2026-02-16
 date-modified: 2026-02-16
 draft: false
 draft-mode: visible 
-# image: img/excessive_heat_logo_02.png
+# image: img/.png
 execute:
   echo: false
-citation:
-  url: in progress
+#citation:
+#  url: in progress
 categories:
   - Workers Health
 lang: pt

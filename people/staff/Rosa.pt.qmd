@@ -1,7 +1,7 @@
 ---
 title: "Mariana Rosa Soares"
 sortby: 14
-subtitle: ""
+subtitle: "Pesquisadora associada do Núcleo de Estudos Ambientais e Saúde do Trabalhador (NEAST)"
 image: "./content/img/Rosa.png"
 started:
 toc: false

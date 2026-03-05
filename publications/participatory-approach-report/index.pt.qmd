@@ -82,7 +82,12 @@ Informações detalhadas provenientes da pesquisa de campo, incluindo análises 
 />
 
 
+
+
+
 ### Download {.appendix}
+
+O relatório não está disponível publicamente. O acesso aos dados poderá ser concedido mediante solicitação razoável e com justificativa apropriada, sujeita à aprovação dos autores.
 
 {{< downloadthis img/tbd.pdf dname="Report participatory approach (PT)" label="Download the pdf" icon=file-earmark-pdf type=Warning >}}
 
