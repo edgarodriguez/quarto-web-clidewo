@@ -50,14 +50,16 @@ Primary sources: CCVI v2.0, Global Inequalities in Environmental Conditions, TEM
 (3) **DECENT WORK SCORE** — A composite index of 35 indicators organised
 into 10 ILO Decent Work elements, including employment opportunities, adequate earnings, working time, equality of opportunity, forced labour, occupational safety, and social security. Derived from PNADC (2021–2024), IDSC-BR 2025, IPS Brasil, SINAN, and CPT forced-labour rescue data. Bayesian shrinkage estimators stabilise state-level PNADC estimates.
 
+
+![](img/clide_map.png "Climate Decent Work Risk Assessment - Results Brazil level")
+
+
 All datasets are linkable via the IBGE 7-digit municipality code (CD_MUN). The primary files are provided in Excel formats.
 
 
----
-
 Access: [https://zenodo.org/records/18828568](https://zenodo.org/records/18828568)
 
-
+---
 
 #### Share it on social media:
 

@@ -47,9 +47,11 @@ Data contains:
 
 **SIHSUS** hospital admission rates filtered by working-age population (15–64 years), as a proxy measure for incidence as per the International Classification of Diseases 10th revision (ICD-10), at the municipality level between 2003 and 2024, using a selection of 900 ICD-10 climate-related diseases regarding morbidity related to five key occupational health risks outlined in "Health at Work in a Changing-Climate" (ILO, 2024), (excessive heat, air pollution, UV radiation, vector-borne diseases[1], and agrochemical exposure), plus waterborne diseases as lack of proper WASH facilities was detected as one of the main issues detected in labour inspection. Although ICDs cannot be entirely attributed to climate-related factors, we have included them in the analysis, considering a narrative literature review and official occupational health information from the Brazilian. Then adjusted incidence rates using age-adjusted rates, reflecting the Brazilian average population from 2003 to 2020 as the standard population.
 
+---
+
 
 Access: [https://zenodo.org/records/18632647](https://zenodo.org/records/18632647)
----
+
 
 
 

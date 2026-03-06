@@ -40,7 +40,7 @@ O relatório completo está disponível para quem desejar explorar a análise em
 
 ### Download  {.appendix}
 
-Acesso às versões completa e resumida (*English*): [https://zenodo.org/uploads/18839272](https://zenodo.org/uploads/18839272)
+Acesso às versões completa e resumida (*English*): [https://zenodo.org/records/18839272](https://zenodo.org/records/18839272)
 
 *(Portuguese version soon)*
 
