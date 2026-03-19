@@ -44,7 +44,7 @@ The report is available in full for those who would like to explore the analysis
 
 ### Download  {.appendix}
 
-Access to full and sumary versions: [https://zenodo.org/records/18839272](https://zenodo.org/records/18839272
+Access to full and sumary versions: [https://zenodo.org/records/18839272](https://zenodo.org/records/18839272)
 
 
 ### Citation
