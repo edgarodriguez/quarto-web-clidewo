@@ -1,0 +1,106 @@
+---
+title: "High-granular Climate Decent Work Risk Assessment"
+description: Interactive visualisation with our Climate-Decent Work Risk Assessment in agriculture in Brazil at higher resolution
+
+date: 2026-08-11
+date-modified: 2026-08-14
+draft: false
+draft-mode: visible 
+image: img/tool_clidewo.png
+execute:
+  echo: false
+categories:
+  - Climate change
+  - Decent Work
+  - CRVA
+  - R
+  - Interactive
+lang: en
+format: 
+  html:
+    page-layout: full
+#    code-tools: true
+embed-resources: true
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+::: {.centered}
+
+
+
+
+
+:::
+
+We launched the new Climate–Decent Work Risk Assessment visualisation last week, at the International Seminar on Human Trafficking: empirical evidence, measurement, and new theoretical debates.
+
+What it does: climate hazard and working conditions on the same map of Brazil, at 5 km. Every cell carries a climate hazard score, a decent work score, and crop exposure for 117 crops from CROPGRIDS, combined following the IPCC's Risk = Hazard × Exposure × Vulnerability framing across all 5,570 municipalities. You zoom in and the hexagons get finer. You drag the lens and it tells you what is underneath it.
+
+The project, the method and the data are all in the report: [https://zenodo.org/records/18839272](https://zenodo.org/records/18839272)
+
+Every 5 km cell carries a climate hazard score (23 indicators in 9 groups — heat, UV, drought, flood, wildfire, air pollution, vector-borne disease, agrochemicals, WASH), a decent work score (35 indicators across the ILO's 10 decent work elements), and crop exposure for 117 crops from [CROPGRIDS](https://www.nature.com/articles/s41597-024-03247-7). The three combine following the IPCC's Risk = Hazard × Exposure × Vulnerability framework, covering all 5,570 municipalities. From the Clidewo project: Climate Change, Decent Work and Workers' Health in Brazilian Agriculture.
+
+![Tool](img/tool_clidewo.png){.lightbox  fig-align="center"}
+</br>
+### Link:
+</br>
+[https://tool.clidewo.com](https://tool.clidewo.com)
+
+::: {.column-page}
+
+
+
+
+
+
+```{=html}
+
+
+```
+:::
+
+
+
+---
+
+
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
